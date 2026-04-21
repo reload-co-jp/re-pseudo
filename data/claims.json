@@ -27,13 +27,33 @@
         "type": "government"
       },
       {
-        "title": "ICNIRP Guidelines for Limiting Exposure to Electromagnetic Fields",
+        "title": "ICNIRP Guidelines for Limiting Exposure to Electromagnetic Fields (2020)",
         "url": "https://www.icnirp.org/en/activities/news/news-article/rf-guidelines-2020-published.html",
         "type": "paper"
+      },
+      {
+        "title": "総務省 電波と健康に関するQ&A",
+        "url": "https://www.tele.soumu.go.jp/j/sys/ele/medical/qa/",
+        "type": "government"
+      },
+      {
+        "title": "Ofcom (UK): 5G: understanding the safety of 5G technologies",
+        "url": "https://www.ofcom.org.uk/research-and-data/telecoms-research/5g/5g-safety",
+        "type": "government"
+      },
+      {
+        "title": "Morens & Fauci (2020) Emerging Pandemic Diseases: How We Got to COVID-19, Cell",
+        "url": "https://www.cell.com/cell/fulltext/S0092-8674(20)31012-6",
+        "type": "paper"
+      },
+      {
+        "title": "Full Fact (UK): 5G and coronavirus – the facts",
+        "url": "https://fullfact.org/online/5g-and-coronavirus/",
+        "type": "article"
       }
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-04-01",
+    "updated_at": "2026-04-22",
     "tags": ["5G", "電磁波", "ウイルス", "感染症"]
   },
   {
@@ -63,13 +83,33 @@
         "type": "government"
       },
       {
+        "title": "EMA: COVID-19 vaccines: authorised",
+        "url": "https://www.ema.europa.eu/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/treatments-vaccines/vaccines-covid-19/covid-19-vaccines-authorised",
+        "type": "government"
+      },
+      {
+        "title": "FDA: Myths and Facts about COVID-19 Vaccines",
+        "url": "https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines",
+        "type": "government"
+      },
+      {
         "title": "Reuters Fact Check: No microchip in COVID-19 vaccines",
         "url": "https://www.reuters.com/article/uk-factcheck-microchip-vaccine/",
         "type": "article"
+      },
+      {
+        "title": "AP Fact Check: COVID-19 vaccines don't contain microchips",
+        "url": "https://apnews.com/article/fact-checking-999119367829",
+        "type": "article"
+      },
+      {
+        "title": "Larson et al. (2020) Vaccine hesitancy: a generation of anti-vaccination sentiment, Nature Reviews Immunology",
+        "url": "https://www.nature.com/articles/s41577-020-0033-4",
+        "type": "paper"
       }
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-04-03",
+    "updated_at": "2026-04-22",
     "tags": ["ワクチン", "マイクロチップ", "COVID-19", "監視"]
   },
   {
@@ -95,7 +135,7 @@
     ],
     "sources": [
       {
-        "title": "Australian National Health and Medical Research Council: Homeopathy review",
+        "title": "Australian NHMRC: Homeopathy review (2015)",
         "url": "https://www.nhmrc.gov.au/health-advice/complementary-medicines/homeopathy",
         "type": "government"
       },
@@ -103,10 +143,30 @@
         "title": "Shang et al. (2005) Are the clinical effects of homoeopathy placebo effects? Lancet",
         "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)67177-2/fulltext",
         "type": "paper"
+      },
+      {
+        "title": "NHS (UK): Homeopathy",
+        "url": "https://www.nhs.uk/conditions/homeopathy/",
+        "type": "government"
+      },
+      {
+        "title": "Ernst E. (2010) Homeopathy: what does the best evidence tell us? Medical Journal of Australia",
+        "url": "https://www.mja.com.au/journal/2010/192/8/homeopathy-what-does-best-evidence-tell-us",
+        "type": "paper"
+      },
+      {
+        "title": "Mathie et al. (2017) Randomised, double-blind, placebo-controlled trials of non-individualised homeopathic treatment, Systematic Reviews",
+        "url": "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0445-3",
+        "type": "paper"
+      },
+      {
+        "title": "厚生労働省 「統合医療」に係る情報発信等推進事業 ホメオパシー",
+        "url": "https://www.ejim.ncgg.go.jp/pro/overseas/c04/10.html",
+        "type": "government"
       }
     ],
     "created_at": "2026-04-05",
-    "updated_at": "2026-04-10",
+    "updated_at": "2026-04-22",
     "tags": ["ホメオパシー", "代替医療", "プラセボ", "希釈"]
   },
   {
@@ -137,13 +197,33 @@
         "type": "government"
       },
       {
-        "title": "National Academies of Sciences: Genetically Engineered Crops",
+        "title": "National Academies of Sciences: Genetically Engineered Crops (2016)",
         "url": "https://www.nationalacademies.org/our-work/genetically-engineered-crops",
+        "type": "paper"
+      },
+      {
+        "title": "European Commission: A decade of EU-funded GMO research (2010)",
+        "url": "https://cordis.europa.eu/pub/gmo-research/docs/10-years-gmo-research.pdf",
+        "type": "government"
+      },
+      {
+        "title": "FAO: The State of Food and Agriculture 2003–2004: Agricultural Biotechnology",
+        "url": "https://www.fao.org/publications/sofa/2003-04/en/",
+        "type": "government"
+      },
+      {
+        "title": "内閣府食品安全委員会 遺伝子組換え食品の安全性評価",
+        "url": "https://www.fsc.go.jp/senmon/idensi/",
+        "type": "government"
+      },
+      {
+        "title": "Nicolia et al. (2014) An overview of the last 10 years of genetically engineered crop safety research, Critical Reviews in Biotechnology",
+        "url": "https://www.tandfonline.com/doi/full/10.3109/07388551.2013.823595",
         "type": "paper"
       }
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-04-08",
+    "updated_at": "2026-04-22",
     "tags": ["GMO", "遺伝子組み換え", "食品安全", "農業"]
   },
   {
@@ -169,18 +249,33 @@
     ],
     "sources": [
       {
-        "title": "Shearer et al. (2016) Quantifying expert consensus against the existence of a secret, large-scale atmospheric spraying program",
+        "title": "Shearer et al. (2016) Quantifying expert consensus against the existence of a secret, large-scale atmospheric spraying program, Environmental Research Letters",
         "url": "https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084011",
         "type": "paper"
       },
       {
-        "title": "国土交通省 航空局 航跡雲（コントレイル）について",
-        "url": "https://www.mlit.go.jp/",
+        "title": "NASA: Contrails: What are They and Why are They There?",
+        "url": "https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-are-contrails-58.html",
         "type": "government"
+      },
+      {
+        "title": "NOAA: Contrail Education",
+        "url": "https://www.noaa.gov/education/resource-collections/weather-atmosphere/contrails",
+        "type": "government"
+      },
+      {
+        "title": "UK Met Office: What are contrails?",
+        "url": "https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/clouds/contrails",
+        "type": "government"
+      },
+      {
+        "title": "Minnis et al. (2004) Contrails, cirrus trends, and climate, Journal of Climate",
+        "url": "https://journals.ametsoc.org/view/journals/clim/17/8/1520-0442_2004_017_1671_cctac_2.0.co_2.xml",
+        "type": "paper"
       }
     ],
     "created_at": "2026-04-12",
-    "updated_at": "2026-04-12",
+    "updated_at": "2026-04-22",
     "tags": ["ケムトレイル", "コントレイル", "飛行機雲", "地球工学"]
   },
   {
@@ -206,18 +301,38 @@
     ],
     "sources": [
       {
-        "title": "WHO: Electromagnetic hypersensitivity",
+        "title": "WHO: Electromagnetic hypersensitivity (Fact Sheet No. 296)",
         "url": "https://www.who.int/peh-emf/publications/facts/fs296/en/",
         "type": "government"
       },
       {
-        "title": "Rubin et al. (2010) Are some people sensitive to mobile phone signals? BMJ",
+        "title": "Rubin et al. (2010) Are some people sensitive to mobile phone signals? Within-participants double blind randomised provocation study, BMJ",
         "url": "https://www.bmj.com/content/340/bmj.c3012",
+        "type": "paper"
+      },
+      {
+        "title": "Röösli et al. (2010) Systematic review on the health effects of exposure to radiofrequency electromagnetic fields, European Journal of Cancer Prevention",
+        "url": "https://journals.lww.com/euro-cancerprev/Abstract/2010/07000/Systematic_review_on_the_health_effects_of.6.aspx",
+        "type": "paper"
+      },
+      {
+        "title": "ANSES (仏国立食品・環境・労働衛生安全庁): Hypersensibilité électromagnétique (2018)",
+        "url": "https://www.anses.fr/fr/content/hypersensibilit%C3%A9-%C3%A9lectromagn%C3%A9tique",
+        "type": "government"
+      },
+      {
+        "title": "Australian ARPANSA: Electromagnetic hypersensitivity",
+        "url": "https://www.arpansa.gov.au/research-and-expertise/research/electromagnetic-energy-research/electromagnetic-hypersensitivity",
+        "type": "government"
+      },
+      {
+        "title": "Genuis & Lipp (2011) Electromagnetic hypersensitivity: fact or fiction? Science of the Total Environment",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0048969711012940",
         "type": "paper"
       }
     ],
     "created_at": "2026-04-15",
-    "updated_at": "2026-04-15",
+    "updated_at": "2026-04-22",
     "tags": ["電磁波過敏症", "Wi-Fi", "電磁波", "ノセボ"]
   }
 ]
