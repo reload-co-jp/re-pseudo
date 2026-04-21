@@ -500,5 +500,286 @@
     "created_at": "2026-04-22",
     "updated_at": "2026-04-22",
     "tags": ["電磁波過敏症", "Wi-Fi", "電磁波", "ノセボ"]
+  },
+  {
+    "id": "jewish-world-control-conspiracy",
+    "title": "ユダヤ人が世界の金融・政治・メディアを支配している",
+    "category": "conspiracy",
+    "claim": "ユダヤ人、または「シオニスト」「グローバリスト」と呼ばれる集団が、世界の金融・政府・メディアを裏で支配し、戦争や社会変動を操っている。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "この主張は『シオン賢者の議定書』などの偽造文書と長年の反ユダヤ主義的ステレオタイプに基づく陰謀論であり、事実として支持する証拠はない。特定集団への憎悪や暴力を正当化しうる危険な誤情報。",
+    "explanation": "「ユダヤ人が世界を支配している」という主張は、政治・経済・メディアの複雑な権力関係を単一の民族・宗教集団の陰謀に還元するスケープゴート化である。代表的根拠として引用されてきた『シオン賢者の議定書』は、1903年にロシア帝国で公表された反ユダヤ主義文書で、1921年のロンドン・タイムズ報道などにより盗用・偽造であることが示され、その後も研究者・裁判所・政府機関により繰り返し否定されている。現代では「グローバリスト」「金融エリート」「ロスチャイルド」「ソロス」などの符号に置き換えられ、金融不安、戦争、移民、パンデミック、社会運動などの説明として再利用されるが、具体的な政策・市場・報道機関の意思決定は多様な制度・利害・公開された手続きに基づいており、ユダヤ人という集団による一枚岩の支配を示す証拠はない。",
+    "why_it_spreads": [
+      "複雑な社会問題に単純な犯人像を与えるため理解しやすく見える",
+      "金融・メディア・政治への既存の不信感に結びつきやすい",
+      "歴史的な反ユダヤ主義の語彙が「グローバリスト」などの隠語に置き換えられて再流通する",
+      "危機や戦争、経済不安の時期にスケープゴートとして利用されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "複数の無関係な出来事を、証拠なしに単一集団の秘密計画として結びつける",
+          "反証や否定を「隠蔽の証拠」とみなす"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["制度や個別人物への批判を、ユダヤ人全体への集団的非難にすり替える"]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["特定の著名人や企業名だけを抜き出し、集団全体の支配の証拠として扱う"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["歴史研究・裁判記録・公的調査による偽造認定を無視する"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "近代的な世界支配陰謀論としては、1903年にロシア帝国の新聞『Znamia』に掲載された『シオン賢者の議定書』が代表的な起点とされる。ただし、反ユダヤ的な陰謀観やスケープゴート化はそれ以前から存在した。",
+      "spread_period": "1917年のロシア革命後に欧米へ広がり、1920年代には各国語版が出版された。ナチス・ドイツの宣伝にも利用され、戦後も中東、欧米の極右、陰謀論コミュニティ、インターネット上で再流通している。",
+      "spread_scope": "欧州、米国、中東、ロシア語圏、インターネット上の国際的な陰謀論コミュニティで長期的に流布している。",
+      "note": "現代では露骨な「ユダヤ人支配」という表現だけでなく、「グローバリスト」「金融エリート」「ソロス」「ロスチャイルド」などの語を使って同じ構図が暗示される場合がある。個別の政府・企業・人物への批判と、民族・宗教集団全体を陰謀主体とする主張は区別する必要がある。",
+      "spreaders": [
+        "ロシア帝政期の反ユダヤ主義出版物・政治宣伝",
+        "Henry Fordの『Dearborn Independent』など1920年代の反ユダヤ主義メディア",
+        "ナチス・ドイツの宣伝機関",
+        "現代の極右・反ユダヤ主義・陰謀論系ウェブサイトやSNSコミュニティ"
+      ],
+      "beneficiaries": [
+        "社会不安を特定集団への憎悪に転化して支持を得る政治運動・過激派",
+        "反ユダヤ陰謀論コンテンツで注目・広告収益・寄付を得る発信者",
+        "複雑な政策・経済問題への責任追及をそらしたい扇動者"
+      ],
+      "source": {
+        "title": "United States Holocaust Memorial Museum: An Antisemitic Conspiracy: The Protocols of the Elders of Zion",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/protocols-of-the-elders-of-zion"
+      }
+    },
+    "sources": [
+      {
+        "title": "United States Holocaust Memorial Museum: An Antisemitic Conspiracy: The Protocols of the Elders of Zion",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/protocols-of-the-elders-of-zion",
+        "type": "government"
+      },
+      {
+        "title": "ADL: A Hoax of Hate: The Protocols of the Learned Elders of Zion",
+        "url": "https://www.adl.org/resources/backgrounder/hoax-hate-protocols-learned-elders-zion",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Protocols of the Elders of Zion",
+        "url": "https://www.britannica.com/topic/Protocols-of-the-Elders-of-Zion",
+        "type": "article"
+      },
+      {
+        "title": "AJC Translate Hate: Control",
+        "url": "https://www.ajc.org/index.php/translatehate/control",
+        "type": "article"
+      },
+      {
+        "title": "ADL: Jewish \"Control\" of the Federal Reserve: A Classic Antisemitic Myth",
+        "url": "https://www.adl.org/resources/backgrounder/jewish-control-federal-reserve-classic-antisemitic-myth",
+        "type": "article"
+      },
+      {
+        "title": "AJC Translate Hate: Globalist",
+        "url": "https://www.ajc.org/translatehate/globalist",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["ユダヤ陰謀論", "反ユダヤ主義", "シオン賢者の議定書", "グローバリスト", "金融陰謀論"]
+  },
+  {
+    "id": "rothschild-central-bank-control",
+    "title": "ロスチャイルド家が中央銀行と世界金融を支配している",
+    "category": "conspiracy",
+    "claim": "ロスチャイルド家は米連邦準備制度（FRB）や各国中央銀行、主要メディアを所有・支配しており、戦争や金融危機を裏で操って利益を得ている。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "ロスチャイルド家がFRBや世界の中央銀行を所有・支配しているという主張は、中央銀行の制度上の所有・統治構造と一致せず、複数のファクトチェックで否定されている。反ユダヤ主義的な金融支配ステレオタイプを現代化した陰謀論。",
+    "explanation": "ロスチャイルド家は18〜19世紀の欧州金融史で大きな影響力を持った銀行家一族だが、現代の中央銀行や世界金融を一族が一体的に支配しているという証拠はない。米連邦準備制度は誰か一者に所有される私企業ではなく、議会により設立された制度で、理事会は連邦政府機関として大統領任命・上院承認を受ける。欧州中央銀行はEU加盟国の各国中央銀行が資本を保有し、民間所有者はいない。イングランド銀行も1946年に国有化され、公的機関として議会に説明責任を負う。SNSで繰り返される「世界の中央銀行はロスチャイルド所有」「ReutersやAPも所有」といった主張は、AFPやPolitiFactなどにより、公式資料・年次報告・所有構造に照らして否定されている。",
+    "why_it_spreads": [
+      "中央銀行や国際金融の仕組みが複雑で、外部から見えにくい印象を与える",
+      "歴史上の有名な銀行家一族という事実が、現在の全能的支配という誇張に転用されやすい",
+      "経済危機や戦争の責任を単一の家系・民族的イメージに押し付ける説明として機能する",
+      "ロスチャイルドという名前が、反ユダヤ主義的な「金融を操るユダヤ人」ステレオタイプの符号として使われる"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "中央銀行・戦争・メディア所有を、証拠なしに一族の秘密計画へ結びつける",
+          "公式の所有構造や制度説明を、支配を隠すための建前として退ける"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": ["歴史上の金融業での影響力と、現代の制度的支配を同一視する"]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["中央銀行の一部の私的要素や金融家の名前だけを抜き出し、全体支配の証拠として扱う"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["金融制度への正当な批判を、特定家系やユダヤ人への集団的非難に置き換える"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "ロスチャイルド家への陰謀論的非難は19世紀から見られ、1840年代のパンフレットやウォータールーの戦いをめぐる虚偽逸話などで反ユダヤ的な金融ステレオタイプと結びついた。",
+      "spread_period": "20世紀には『シオン賢者の議定書』型の世界支配陰謀論と合流し、インターネット以降は中央銀行、FRB、メディア所有、戦争ビジネスをめぐる画像・動画・投稿として再流通している。2024年のJacob Rothschild死去後にも同種の投稿が再燃した。",
+      "spread_scope": "欧米、日本語圏を含むSNS、動画サイト、反中央銀行・反グローバリズム系コミュニティ、反ユダヤ主義的な陰謀論サイトで流布している。",
+      "note": "ロスチャイルド家や同家関連企業への通常の歴史研究・企業分析と、中央銀行や世界政治を一族が一体的に操るという主張は区別する必要がある。後者は反ユダヤ主義的な金融支配トロープと結びつくことが多い。",
+      "spreaders": [
+        "反中央銀行・反FRB系の陰謀論発信者",
+        "反ユダヤ主義・極右系のウェブサイトやSNSアカウント",
+        "金融危機や著名人の死去に合わせて古い画像・動画を再投稿するアカウント"
+      ],
+      "beneficiaries": [
+        "陰謀論コンテンツで注目・広告収益・寄付を得る発信者",
+        "経済不安を特定家系・民族的イメージへの敵意に変換して支持を得る運動",
+        "複雑な金融制度への不満を単純な敵像に集約したい扇動者"
+      ],
+      "source": {
+        "title": "AFP Fact Check: Jacob Rothschild death sparks resurgence of misinformation on family dynasty",
+        "url": "https://factcheck.afp.com/doc.afp.com.34KC8Z2"
+      }
+    },
+    "sources": [
+      {
+        "title": "AFP Fact Check: Jacob Rothschild death sparks resurgence of misinformation on family dynasty",
+        "url": "https://factcheck.afp.com/doc.afp.com.34KC8Z2",
+        "type": "article"
+      },
+      {
+        "title": "AFP Fact Check: False claims the Rothschild family owns central banks resurface online",
+        "url": "https://factcheck.afp.com/doc.afp.com.36RR8D7",
+        "type": "article"
+      },
+      {
+        "title": "PolitiFact: Rothschild conspiracy theory resurfaces, but family doesn’t control global financial system",
+        "url": "https://www.politifact.com/factchecks/2024/mar/01/facebook-posts/rothschild-conspiracy-theory-resurfaces-but-family/",
+        "type": "article"
+      },
+      {
+        "title": "Federal Reserve Board: Who owns the Federal Reserve?",
+        "url": "https://www.federalreserve.gov/faqs/about_14986.htm",
+        "type": "government"
+      },
+      {
+        "title": "European Central Bank: Who owns the ECB?",
+        "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/who-owns-the-ecb.sr.html",
+        "type": "government"
+      },
+      {
+        "title": "Bank of England: Governance and funding",
+        "url": "https://www.bankofengland.co.uk/about/governance-and-funding",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["ロスチャイルド", "金融陰謀論", "中央銀行", "FRB", "反ユダヤ主義"]
+  },
+  {
+    "id": "new-world-order-one-world-government",
+    "title": "新世界秩序（NWO）は世界統一政府を作る秘密計画である",
+    "category": "conspiracy",
+    "claim": "国連、世界経済フォーラム、国際金融機関、各国政府のエリートが連携し、国家主権・私有財産・個人の自由を廃止して、全人類を支配する世界統一政府を作ろうとしている。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "国際協力やSDGs、WEFのGreat Resetを、秘密の世界統一政府計画とみなす主張に信頼できる証拠はない。公開された政策提言や国際協定を意図的に読み替え、反政府・反国際機関・反ユダヤ主義的な陰謀論と結びつきやすい。",
+    "explanation": "「新世界秩序」という語は、20世紀の国際政治で戦後秩序や冷戦後の国際協力を指す表現として使われてきた。一方、陰謀論では、国連、世界経済フォーラム、CFR、Bilderberg Group、金融機関、政治家などが一体となり、国家主権を廃止して全体主義的な世界政府を作る計画だとされる。しかし、国連の2030アジェンダは貧困、保健、教育、環境などの17目標を掲げる公開文書であり、国連自身も各国の主権や国際法上の義務に沿って実施されるものとしている。SNSで流通する「Agenda 21/2030は一世界政府、私有財産廃止、家族解体、人口削減を目指す」というリストは、SnopesやFull Factなどにより公式文書ではないと確認されている。WEFのGreat Resetも、COVID-19後の経済・社会制度をより持続可能にするという公開の政策提言であり、総体的支配や財産没収の計画を示す証拠はない。",
+    "why_it_spreads": [
+      "国際機関や首脳会議の意思決定が遠く見え、一般市民には不透明に感じられる",
+      "パンデミック、気候政策、金融危機など大きな変化への不安を一つの物語にまとめられる",
+      "公開文書の専門的な言葉やスローガンが、秘密計画の暗号のように解釈されやすい",
+      "反政府運動、反グローバリズム、反ワクチン、反ユダヤ主義的な言説と接続しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "公開された国際協力の議論を、秘密の世界支配計画として読み替える",
+          "国際機関同士の協調を、単一の司令塔による一体的支配とみなす"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["Agenda 2030やGreat Resetの一部の語句だけを切り取り、公式文書にない主張と結びつける"]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": ["将来の政策変化への不安を、既に決定された秘密計画の証拠として扱う"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["国際機関への正当な批判を、全世界支配の陰謀へ拡大する"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "「新世界秩序」という語自体は20世紀を通じて国際政治の文脈で使われたが、陰謀論としては冷戦期の反共・反国連言説、1960年代以降のJohn Birch Society系の反グローバリズム、1990年のGeorge H. W. Bush演説後の米国右派・民兵運動で大きく広まった。",
+      "spread_period": "1990年代には米国の民兵運動や反政府運動で拡大し、2000年代以降はインターネット、9.11陰謀論、金融危機、Agenda 21/2030、COVID-19、Great Resetをめぐる投稿で再燃した。",
+      "spread_scope": "米国の反政府・民兵運動を起点に、欧米、日本語圏を含むSNS、動画サイト、反ワクチン・反グローバリズム系コミュニティへ広がっている。",
+      "note": "国際機関や世界経済フォーラムへの政策批判そのものは正当な議論になりうるが、公開資料にない『世界統一政府』『財産没収』『人口削減』などを一体的な秘密計画として断定する主張とは区別する必要がある。",
+      "spreaders": [
+        "米国の反政府・民兵運動および関連メディア",
+        "反国連・反グローバリズム系の陰謀論発信者",
+        "Agenda 21/2030やGreat Resetを扱うSNSアカウント・動画チャンネル",
+        "反ワクチン、反気候政策、反中央銀行系のコミュニティ"
+      ],
+      "beneficiaries": [
+        "政府・国際機関への不信を動員して支持を集める政治運動・過激派",
+        "恐怖を煽る動画・ニュースレター・講演・商品で収益を得る発信者",
+        "複雑な国際政策への不満を単純な敵像に集約したい扇動者"
+      ],
+      "source": {
+        "title": "ADL: The Militia Movement (2020)",
+        "url": "https://www.adl.org/resources/backgrounder/militia-movement-2020"
+      }
+    },
+    "sources": [
+      {
+        "title": "ADL: The Militia Movement (2020)",
+        "url": "https://www.adl.org/resources/backgrounder/militia-movement-2020",
+        "type": "article"
+      },
+      {
+        "title": "SPLC: Antigovernment General",
+        "url": "https://www.splcenter.org/resources/extremist-files/antigovernment-general/",
+        "type": "article"
+      },
+      {
+        "title": "United Nations: Transforming our world: the 2030 Agenda for Sustainable Development",
+        "url": "https://sdgs.un.org/2030agenda",
+        "type": "government"
+      },
+      {
+        "title": "Snopes: Is 'UN Agenda 21/2030' Proposing 'End of Family Unit' and 'Government Raised Children' Real?",
+        "url": "https://www.snopes.com/fact-check/un-agenda-21-2030/",
+        "type": "article"
+      },
+      {
+        "title": "PolitiFact: The Great Reset is not a conspiracy to force changes in economic systems",
+        "url": "https://www.politifact.com/factchecks/2022/oct/11/liz-wheeler/great-reset-not-conspiracy-force-changes-economic-/",
+        "type": "article"
+      },
+      {
+        "title": "World Economic Forum: The Great Reset: A Unique Twin Summit to Begin 2021",
+        "url": "https://www.weforum.org/press/2020/06/the-great-reset-a-unique-twin-summit-to-begin-2021",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["新世界秩序", "NWO", "世界統一政府", "Agenda 2030", "Great Reset", "反グローバリズム"]
   }
 ]
