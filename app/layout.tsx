@@ -1,5 +1,4 @@
 import Link from "next/link"
-import { Title } from "components/elements/layout"
 import "./reset.css"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
@@ -52,8 +51,22 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               maxWidth: "900px",
             }}
           >
-            <Link href="/" style={{ color: "inherit", textDecoration: "none" }}>
-              <Title>Re pseudo</Title>
+            <Link
+              href="/"
+              style={{
+                alignItems: "center",
+                display: "flex",
+                flexShrink: 0,
+                textDecoration: "none",
+              }}
+            >
+              <img
+                alt="Re pseudo"
+                height={52}
+                src="/logo.svg"
+                style={{ display: "block", height: "52px", width: "204px" }}
+                width={204}
+              />
             </Link>
             <nav style={{ display: "flex", gap: "1.25rem" }}>
               <Link
