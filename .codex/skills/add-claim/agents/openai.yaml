@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Claim"
+  short_description: "Add a structured Re pseudo claim entry."
+  default_prompt: "Add a new claim to this Re pseudo dataset using the existing schema and validation workflow."
