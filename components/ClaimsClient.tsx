@@ -33,6 +33,7 @@ const ClaimsClient = ({ claims }: Props) => {
   const categoryParam = searchParams.get("category")
   const tagParam = searchParams.get("tag")
   const fallacyParam = searchParams.get("fallacy")
+  const queryParam = searchParams.get("q")
   const fallacyGroups = useMemo(
     () =>
       Array.from(
@@ -46,7 +47,7 @@ const ClaimsClient = ({ claims }: Props) => {
   )
   const isFallacyGroup = (value: string | null) =>
     Boolean(value && fallacyGroups.includes(value))
-  const [query, setQuery] = useState("")
+  const [query, setQuery] = useState(queryParam ?? "")
   const [category, setCategory] = useState<Claim["category"] | "">(
     isCategory(categoryParam) ? categoryParam : "",
   )
@@ -62,6 +63,7 @@ const ClaimsClient = ({ claims }: Props) => {
 
     setCategory(isCategory(categoryParam) ? categoryParam : "")
     setTag(searchParams.get("tag") ?? "")
+    setQuery(searchParams.get("q") ?? "")
     const fallacyParam = searchParams.get("fallacy")
     setFallacyGroup(isFallacyGroup(fallacyParam) ? fallacyParam : "")
   }, [searchParams, fallacyGroups])

@@ -38,6 +38,13 @@ export const generateMetadata = async ({ params }: Props) => {
   return {
     title: claim.title,
     description: claim.summary,
+    keywords: [
+      claim.title,
+      claim.category,
+      claim.verdict,
+      ...claim.tags,
+      ...claim.common_fallacies.map((group) => group.group),
+    ],
     alternates: { canonical: url },
     openGraph: {
       type: "article",
@@ -46,6 +53,14 @@ export const generateMetadata = async ({ params }: Props) => {
       description: claim.summary,
       publishedTime: claim.created_at,
       modifiedTime: claim.updated_at,
+      tags: claim.tags,
+      images: [{ url: "/logo.svg", width: 220, height: 56, alt: "Re pseudo" }],
+    },
+    twitter: {
+      card: "summary",
+      title: claim.title,
+      description: claim.summary,
+      images: ["/logo.svg"],
     },
   }
 }
@@ -98,6 +113,13 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       "@type": "Claim",
       author: { "@type": "Thing", name: "不明" },
     },
+    publisher: {
+      "@type": "Organization",
+      name: "Re pseudo",
+      url: BASE_URL,
+      logo: `${BASE_URL}/logo.svg`,
+    },
+    keywords: claim.tags.join(", "),
   }
 
   return (

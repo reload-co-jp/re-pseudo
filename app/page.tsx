@@ -11,13 +11,53 @@ import {
   VERDICT_LABEL,
 } from "lib/labels"
 
+const BASE_URL = "https://re-pseudo.reload.co.jp"
+const DESCRIPTION =
+  "似非科学・陰謀論・誤情報の主張を、根拠・出典・流布状況・よく使われる論法とともに整理する検証カタログ。"
+
+export const metadata = {
+  alternates: {
+    canonical: BASE_URL,
+  },
+  openGraph: {
+    type: "website",
+    url: BASE_URL,
+    title: "Re pseudo — 似非科学・陰謀論の主張検証",
+    description: DESCRIPTION,
+    images: [{ url: "/logo.svg", width: 220, height: 56, alt: "Re pseudo" }],
+  },
+  twitter: {
+    card: "summary",
+    title: "Re pseudo — 似非科学・陰謀論の主張検証",
+    description: DESCRIPTION,
+    images: ["/logo.svg"],
+  },
+}
+
 const Page: FC = () => {
   const featured = getFeaturedClaims()
   const latest = getLatestClaims()
   const categoryCount = getCategoryCount()
+  const websiteJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Re pseudo",
+    url: BASE_URL,
+    description: DESCRIPTION,
+    inLanguage: "ja",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${BASE_URL}/claims/?q={search_term_string}`,
+      "query-input": "required name=search_term_string",
+    },
+  }
 
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: "3rem" }}>
+      <script
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        type="application/ld+json"
+      />
       <section>
         <p style={{ color: "#a0aec0", fontSize: ".9375rem", lineHeight: 1.9, marginBottom: ".75rem" }}>
           陰謀論や疑似科学的な情報を、科学的な再現性・検証可能性の観点から見直し、事実に基づいた理解を広めることを目的としたサイトです。

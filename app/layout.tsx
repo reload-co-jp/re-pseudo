@@ -2,29 +2,64 @@ import Link from "next/link"
 import "./reset.css"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
+const SITE_TITLE = "Re pseudo — 似非科学・陰謀論の主張検証"
+const SITE_DESCRIPTION =
+  "似非科学・陰謀論・誤情報の主張を、根拠・出典・流布状況・よく使われる論法とともに整理する検証カタログ。"
 
 export const metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
-    default: "Re pseudo — 似非科学・陰謀論の主張検証",
+    default: SITE_TITLE,
     template: "%s — Re pseudo",
   },
-  description:
-    "世の中で流通している似非科学・陰謀論・誤情報について、主張・根拠・検証結果を構造化して提示するカタログ型Webサイト。",
+  description: SITE_DESCRIPTION,
+  applicationName: "Re pseudo",
+  authors: [{ name: "Re pseudo" }],
+  creator: "Re pseudo",
+  publisher: "Re pseudo",
+  keywords: [
+    "似非科学",
+    "疑似科学",
+    "陰謀論",
+    "誤情報",
+    "ファクトチェック",
+    "ClaimReview",
+    "反証",
+    "検証",
+  ],
+  category: "fact-checking",
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
   openGraph: {
     type: "website",
     locale: "ja_JP",
     url: BASE_URL,
     siteName: "Re pseudo",
-    title: "Re pseudo — 似非科学・陰謀論の主張検証",
-    description:
-      "世の中で流通している似非科学・陰謀論・誤情報について、主張・根拠・検証結果を構造化して提示するカタログ型Webサイト。",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    images: [
+      {
+        url: "/logo.svg",
+        width: 220,
+        height: 56,
+        alt: "Re pseudo",
+      },
+    ],
   },
   twitter: {
     card: "summary",
-    title: "Re pseudo — 似非科学・陰謀論の主張検証",
-    description:
-      "世の中で流通している似非科学・陰謀論・誤情報について、主張・根拠・検証結果を構造化して提示するカタログ型Webサイト。",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    images: ["/logo.svg"],
   },
   alternates: {
     canonical: BASE_URL,
