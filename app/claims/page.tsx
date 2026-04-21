@@ -1,4 +1,4 @@
-import { FC } from "react"
+import { FC, Suspense } from "react"
 import ClaimsClient from "components/ClaimsClient"
 import { getClaims } from "lib/claims"
 
@@ -21,7 +21,9 @@ const ClaimsPage: FC = () => {
       >
         主張一覧
       </h1>
-      <ClaimsClient claims={claims} />
+      <Suspense>
+        <ClaimsClient claims={claims} />
+      </Suspense>
     </div>
   )
 }

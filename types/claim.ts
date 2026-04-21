@@ -9,7 +9,22 @@ export type Claim = {
   summary: string
   explanation: string
   why_it_spreads: string[]
-  common_fallacies: string[]
+  common_fallacies: {
+    group: string
+    items: string[]
+  }[]
+  circulation: {
+    first_seen: string
+    spread_period: string
+    spread_scope: string
+    note: string
+    spreaders?: string[]
+    beneficiaries?: string[]
+    source: {
+      title: string
+      url: string
+    }
+  }
   sources: {
     title: string
     url: string

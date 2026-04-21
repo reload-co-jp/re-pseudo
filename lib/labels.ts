@@ -36,6 +36,14 @@ export const CATEGORY_LABEL: Record<Claim["category"], string> = {
   finance: "金融・経済",
 }
 
+export const CATEGORY_DESCRIPTION: Record<Claim["category"], string> = {
+  health: "医療・食品・代替療法など、健康判断に関わる主張",
+  environment: "気象・環境汚染・自然現象に関する誤解や陰謀論",
+  conspiracy: "組織的な隠蔽や支配を前提に広がる主張",
+  technology: "通信・機器・新技術をめぐる不安や誤情報",
+  finance: "投資・経済制度・通貨に関する根拠の薄い主張",
+}
+
 export const CONFIDENCE_LABEL: Record<Claim["confidence"], string> = {
   high: "確実性：高",
   medium: "確実性：中",

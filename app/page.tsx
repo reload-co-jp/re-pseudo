@@ -2,7 +2,14 @@ import Link from "next/link"
 import { FC } from "react"
 import { Badge, Card } from "components/elements/layout"
 import { getCategoryCount, getFeaturedClaims, getLatestClaims } from "lib/claims"
-import { CATEGORY_LABEL, RISK_COLOR, RISK_LABEL, VERDICT_COLOR, VERDICT_LABEL } from "lib/labels"
+import {
+  CATEGORY_DESCRIPTION,
+  CATEGORY_LABEL,
+  RISK_COLOR,
+  RISK_LABEL,
+  VERDICT_COLOR,
+  VERDICT_LABEL,
+} from "lib/labels"
 
 const Page: FC = () => {
   const featured = getFeaturedClaims()
@@ -135,13 +142,17 @@ const Page: FC = () => {
           {(Object.entries(categoryCount) as [keyof typeof CATEGORY_LABEL, number][]).map(
             ([cat, count]) => (
               <Link
-                href="/claims/"
+                href={`/claims/?category=${cat}`}
                 key={cat}
                 style={{
                   backgroundColor: "#372630",
                   border: "1px solid #5a3d48",
                   borderRadius: "8px",
                   color: "#e2e8f0",
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: ".4rem",
+                  maxWidth: "260px",
                   padding: ".75rem 1rem",
                   textDecoration: "none",
                 }}
@@ -149,46 +160,16 @@ const Page: FC = () => {
                 <div style={{ fontSize: ".875rem", fontWeight: 600 }}>
                   {CATEGORY_LABEL[cat]}
                 </div>
-                <div style={{ color: "#718096", fontSize: ".75rem", marginTop: ".25rem" }}>
+                <p style={{ color: "#a0aec0", fontSize: ".75rem", lineHeight: 1.6 }}>
+                  {CATEGORY_DESCRIPTION[cat]}
+                </p>
+                <div style={{ color: "#718096", fontSize: ".75rem" }}>
                   {count}件
                 </div>
               </Link>
             ),
           )}
         </div>
-      </section>
-
-      <section>
-        <h2
-          style={{
-            borderBottom: "1px solid #5a3d48",
-            fontSize: "1rem",
-            fontWeight: 600,
-            marginBottom: "1rem",
-            paddingBottom: ".5rem",
-          }}
-        >
-          検索
-        </h2>
-        <p style={{ color: "#a0aec0", fontSize: ".875rem", marginBottom: "1rem" }}>
-          キーワード・カテゴリ・判定・危険度でフィルタリングできます。
-        </p>
-        <Link
-          href="/claims/"
-          style={{
-            backgroundColor: "#513743",
-            border: "none",
-            borderRadius: "6px",
-            color: "#fff",
-            display: "inline-block",
-            fontSize: ".875rem",
-            fontWeight: 600,
-            padding: ".625rem 1.25rem",
-            textDecoration: "none",
-          }}
-        >
-          一覧・検索ページへ →
-        </Link>
       </section>
     </div>
   )

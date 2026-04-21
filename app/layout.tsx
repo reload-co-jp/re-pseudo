@@ -57,12 +57,6 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             </Link>
             <nav style={{ display: "flex", gap: "1.25rem" }}>
               <Link
-                href="/"
-                style={{ color: "#a0aec0", fontSize: ".875rem", textDecoration: "none" }}
-              >
-                トップ
-              </Link>
-              <Link
                 href="/claims/"
                 style={{ color: "#a0aec0", fontSize: ".875rem", textDecoration: "none" }}
               >

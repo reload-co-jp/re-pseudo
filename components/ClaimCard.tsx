@@ -34,6 +34,19 @@ const ClaimCard = ({ claim }: Props) => (
     <p style={{ color: "#a0aec0", fontSize: ".875rem", lineHeight: 1.6 }}>
       {claim.summary}
     </p>
+    {claim.tags.length > 0 && (
+      <div style={{ display: "flex", flexWrap: "wrap", gap: ".375rem" }}>
+        {claim.tags.map((tag) => (
+          <Link
+            href={`/claims/?tag=${encodeURIComponent(tag)}`}
+            key={tag}
+            style={{ textDecoration: "none" }}
+          >
+            <Badge color="#718096" label={`#${tag}`} />
+          </Link>
+        ))}
+      </div>
+    )}
     <p style={{ color: "#718096", fontSize: ".75rem" }}>{claim.created_at}</p>
   </Card>
 )

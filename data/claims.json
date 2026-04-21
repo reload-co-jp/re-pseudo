@@ -16,10 +16,38 @@
       "SNSでの拡散速度が検証速度を上回った"
     ],
     "common_fallacies": [
-      "相関関係と因果関係の混同（5G展開地域で感染拡大した→5Gが原因）",
-      "権威への訴え（「隠蔽されている真実」という枠組み）",
-      "確証バイアス（都合のよいデータのみを選択して引用）"
+      {
+        "group": "因果の誤認",
+        "items": ["相関関係と因果関係の混同（5G展開地域で感染拡大した→5Gが原因）"]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": ["権威への訴え（「隠蔽されている真実」という枠組み）"]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["確証バイアス（都合のよいデータのみを選択して引用）"]
+      }
     ],
+    "circulation": {
+      "first_seen": "2020年1月ごろ、ベルギーの医師が武漢の5G基地局とCOVID-19を結びつけて語った新聞記事が初期の拡散点とされる。",
+      "spread_period": "2020年3〜4月にSNS・動画サイトで急拡散し、英国では通信設備への破壊行為にもつながった。",
+      "spread_scope": "欧米圏を中心に国際的に流布。著名人やインフルエンサーの投稿で一般層にも到達した。",
+      "note": "COVID-19以前からあった5G健康不安が、パンデミック初期の不確実性と結びついて拡大した。",
+      "spreaders": [
+        "SNS・動画サイト上の陰謀論コミュニティ",
+        "一部の著名人・インフルエンサー",
+        "5G健康被害を訴える活動家・代替メディア"
+      ],
+      "beneficiaries": [
+        "反5G運動や陰謀論コンテンツの発信者",
+        "不安を集客に使う代替メディア・広告収益型サイト"
+      ],
+      "source": {
+        "title": "TIME: How Coronavirus Fears Have Amplified a Baseless But Dangerous 5G Conspiracy Theory",
+        "url": "https://time.com/5818574/5g-coronavirus-conspiracy-theory-inaccurate/"
+      }
+    },
     "sources": [
       {
         "title": "WHO: 5G mobile networks and health",
@@ -52,7 +80,7 @@
         "type": "article"
       }
     ],
-    "created_at": "2026-04-01",
+    "created_at": "2026-04-22",
     "updated_at": "2026-04-22",
     "tags": ["5G", "電磁波", "ウイルス", "感染症"]
   },
@@ -72,10 +100,37 @@
       "「監視社会」という現実的な懸念に乗じたストーリーとして説得力を持つ"
     ],
     "common_fallacies": [
-      "陰謀論的思考（証拠がないことが隠蔽の証拠とされる）",
-      "技術的知識の欠如を利用（マイクロチップの実際のサイズを知らないと信じやすい）",
-      "権威への不信（専門機関の否定を「御用学者」として無効化）"
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "陰謀論的思考（証拠がないことが隠蔽の証拠とされる）",
+          "権威への不信（専門機関の否定を「御用学者」として無効化）"
+        ]
+      },
+      {
+        "group": "技術理解の隙",
+        "items": ["技術的知識の欠如を利用（マイクロチップの実際のサイズを知らないと信じやすい）"]
+      }
     ],
+    "circulation": {
+      "first_seen": "2020年3月18日のBill GatesのReddit AMAにおける「digital certificates」発言が、翌日の誤読記事で「埋め込み型マイクロチップ」と結びつけられた。",
+      "spread_period": "2020年4月以降、Facebookグループ、YouTube、保守系メディアの言及で急速に拡散した。",
+      "spread_scope": "米国を起点に英語圏で広がり、日本語圏を含む各国の反ワクチン・監視社会系の文脈にも取り込まれた。",
+      "note": "デジタル証明書、量子ドット研究、ID2020を混同することで、注射による追跡装置という物語に再構成された。",
+      "spreaders": [
+        "反ワクチン系のSNSグループ",
+        "Bill GatesやID2020を扱う陰謀論サイト・動画チャンネル",
+        "監視社会への不安を扱う代替メディア"
+      ],
+      "beneficiaries": [
+        "反ワクチン運動の発信者・寄付獲得団体",
+        "陰謀論コンテンツで広告・購読収益を得る媒体"
+      ],
+      "source": {
+        "title": "FactCheck.org: Conspiracy Theory Misinterprets Goals of Gates Foundation",
+        "url": "https://www.factcheck.org/2020/04/conspiracy-theory-misinterprets-goals-of-gates-foundation/"
+      }
+    },
     "sources": [
       {
         "title": "厚生労働省 新型コロナワクチンQ&A",
@@ -108,7 +163,7 @@
         "type": "paper"
       }
     ],
-    "created_at": "2026-04-03",
+    "created_at": "2026-04-22",
     "updated_at": "2026-04-22",
     "tags": ["ワクチン", "マイクロチップ", "COVID-19", "監視"]
   },
@@ -129,10 +184,37 @@
       "「極端に薄めた水」という説明の不思議さが興味を引く"
     ],
     "common_fallacies": [
-      "自然の誤謬（自然由来＝安全・有効という前提）",
-      "逸話的証拠への過信（「私は治った」という体験談を根拠とする）",
-      "希釈の逆説（薄めるほど強くなるという直感に反するが魅力的な主張）"
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "自然の誤謬（自然由来＝安全・有効という前提）",
+          "希釈の逆説（薄めるほど強くなるという直感に反するが魅力的な主張）"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": ["逸話的証拠への過信（「私は治った」という体験談を根拠とする）"]
+      }
     ],
+    "circulation": {
+      "first_seen": "1796年、Samuel Hahnemannが薬効判断に関する論文で基礎概念を示し、1810年の『Organon』で体系化した。",
+      "spread_period": "19世紀に欧米へ広がり、20世紀後半以降は補完・代替医療の一分野として再び利用者を得た。",
+      "spread_scope": "欧州、北米、インド、日本などで実践者・利用者が存在し、健康食品や自然療法の文脈でも流通している。",
+      "note": "「類似の法則」や「希釈するほど効く」という考えが、現代の科学的検証とは別に歴史的療法として継承されてきた。",
+      "spreaders": [
+        "ホメオパシー実践者・教育団体",
+        "補完・代替医療のクリニック",
+        "自然療法・ウェルネス系メディア"
+      ],
+      "beneficiaries": [
+        "ホメオパシー製品メーカー・販売店",
+        "ホメオパシー施術者・講座運営者"
+      ],
+      "source": {
+        "title": "Journal of the Royal Society of Medicine: A brief history of homeopathy",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676328/"
+      }
+    },
     "sources": [
       {
         "title": "Australian NHMRC: Homeopathy review (2015)",
@@ -165,7 +247,7 @@
         "type": "government"
       }
     ],
-    "created_at": "2026-04-05",
+    "created_at": "2026-04-22",
     "updated_at": "2026-04-22",
     "tags": ["ホメオパシー", "代替医療", "プラセボ", "希釈"]
   },
@@ -186,10 +268,38 @@
       "有機食品産業との利害関係が情報流通に影響する場合がある"
     ],
     "common_fallacies": [
-      "自然の誤謬",
-      "不確実性の誤用（「長期研究が不十分」を「危険の証拠」として扱う）",
-      "企業への一般化（特定企業の倫理問題を技術全体の問題にすり替える）"
+      {
+        "group": "自然・直感への訴え",
+        "items": ["自然の誤謬"]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": ["不確実性の誤用（「長期研究が不十分」を「危険の証拠」として扱う）"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["企業への一般化（特定企業の倫理問題を技術全体の問題にすり替える）"]
+      }
     ],
+    "circulation": {
+      "first_seen": "1994年に遺伝子組換えトマトFlavr Savrが販売され、1990年代に主要なGMO食品が市場化する過程で安全性への懸念が顕在化した。",
+      "spread_period": "1990年代後半から2000年代にかけて、欧州を中心に表示・規制・企業支配への反発とともに拡大した。",
+      "spread_scope": "欧州、北米、日本などの消費者運動・環境運動・食品安全論争で広く流布した。",
+      "note": "健康リスク、環境影響、農業企業への不信が一体化し、「GMO食品は人体に有害」という単純化された形で語られやすい。",
+      "spreaders": [
+        "一部の環境団体・消費者運動",
+        "反GMOキャンペーンを行う活動家・メディア",
+        "自然食品・有機食品の訴求と結びついた情報発信"
+      ],
+      "beneficiaries": [
+        "非GMO・有機食品を差別化して販売する事業者",
+        "反GMOキャンペーンを通じて支持や寄付を集める団体"
+      ],
+      "source": {
+        "title": "FDA: Science and History of GMOs and Other Food Modification Processes",
+        "url": "https://www.fda.gov/food/agricultural-biotechnology/science-and-history-gmos-and-other-food-modification-processes"
+      }
+    },
     "sources": [
       {
         "title": "WHO: Frequently asked questions on genetically modified foods",
@@ -222,7 +332,7 @@
         "type": "paper"
       }
     ],
-    "created_at": "2026-04-08",
+    "created_at": "2026-04-22",
     "updated_at": "2026-04-22",
     "tags": ["GMO", "遺伝子組み換え", "食品安全", "農業"]
   },
@@ -243,10 +353,38 @@
       "環境問題への正当な懸念を陰謀論に誘導しやすい"
     ],
     "common_fallacies": [
-      "確証バイアス（特徴的なコントレイルのみを記録・共有）",
-      "「知らない＝隠蔽」の論理",
-      "科学的説明の複雑さを「言い訳」と見なす反知性主義"
+      {
+        "group": "情報の選択",
+        "items": ["確証バイアス（特徴的なコントレイルのみを記録・共有）"]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": ["「知らない＝隠蔽」の論理"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["科学的説明の複雑さを「言い訳」と見なす反知性主義"]
+      }
     ],
+    "circulation": {
+      "first_seen": "1990年代後半、William Thomasらが飛行機雲を化学散布と解釈する記事や投稿を広めたことが初期の拡散点とされる。",
+      "spread_period": "1999年ごろから深夜ラジオ番組やウェブサイトで広まり、2000年代以降もSNSで断続的に再燃した。",
+      "spread_scope": "米国を中心に英語圏で広がり、写真投稿や動画を通じて世界各地の陰謀論コミュニティに拡散した。",
+      "note": "通常の飛行機雲、気象改変技術、地球工学の議論が混同され、視覚的に確認しやすい空の線が物語の材料になった。",
+      "spreaders": [
+        "William Thomasなど初期のケムトレイル論者",
+        "深夜ラジオ番組・陰謀論系ウェブサイト",
+        "写真・動画を共有するSNSコミュニティ"
+      ],
+      "beneficiaries": [
+        "陰謀論コンテンツの発信者・動画チャンネル",
+        "ケムトレイル対策商品や関連書籍・講演を販売する事業者"
+      ],
+      "source": {
+        "title": "Skeptical Inquirer: The Chemtrail Conspiracy",
+        "url": "https://skepticalinquirer.org/newsletter/chemtrail-conspiracy/"
+      }
+    },
     "sources": [
       {
         "title": "Shearer et al. (2016) Quantifying expert consensus against the existence of a secret, large-scale atmospheric spraying program, Environmental Research Letters",
@@ -274,7 +412,7 @@
         "type": "paper"
       }
     ],
-    "created_at": "2026-04-12",
+    "created_at": "2026-04-22",
     "updated_at": "2026-04-22",
     "tags": ["ケムトレイル", "コントレイル", "飛行機雲", "地球工学"]
   },
@@ -295,10 +433,38 @@
       "「信じてもらえない」という被害感が運動を強化する"
     ],
     "common_fallacies": [
-      "相関関係と因果関係の混同",
-      "逸話的証拠（個人の体験を集団の証拠として扱う）",
-      "ノセボ効果の過小評価（信念が症状を引き起こすメカニズムの無視）"
+      {
+        "group": "因果の誤認",
+        "items": ["相関関係と因果関係の混同"]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": ["逸話的証拠（個人の体験を集団の証拠として扱う）"]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": ["ノセボ効果の過小評価（信念が症状を引き起こすメカニズムの無視）"]
+      }
     ],
+    "circulation": {
+      "first_seen": "1990年代からVDU、携帯電話、基地局などの普及に伴い、電磁場への曝露と体調不良を結びつける報告が増えた。",
+      "spread_period": "1997年の欧州委員会報告、1998年の国際会議、2004年のWHOワークショップなどで公衆衛生上の論点として整理された。",
+      "spread_scope": "欧州、北米、日本など、携帯電話・Wi-Fi・基地局への不安が強い地域で継続的に流布している。",
+      "note": "症状そのものは実在する一方、電磁波が直接原因であるという主張は盲検試験や系統的レビューで支持されていない。",
+      "spreaders": [
+        "電磁波過敏症の患者団体・支援団体",
+        "電磁波リスクを訴える活動家・代替医療系メディア",
+        "基地局・スマートメーター反対運動"
+      ],
+      "beneficiaries": [
+        "電磁波遮蔽グッズや測定サービスの販売業者",
+        "電磁波対策を掲げる代替医療・コンサルティング事業者"
+      ],
+      "source": {
+        "title": "WHO: Electromagnetic hypersensitivity",
+        "url": "https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/hypersensitivity"
+      }
+    },
     "sources": [
       {
         "title": "WHO: Electromagnetic hypersensitivity (Fact Sheet No. 296)",
@@ -331,7 +497,7 @@
         "type": "paper"
       }
     ],
-    "created_at": "2026-04-15",
+    "created_at": "2026-04-22",
     "updated_at": "2026-04-22",
     "tags": ["電磁波過敏症", "Wi-Fi", "電磁波", "ノセボ"]
   }

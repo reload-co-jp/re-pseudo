@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation"
+import Link from "next/link"
 import { FC } from "react"
 import { Badge, Card } from "components/elements/layout"
 import { getClaims, getClaimById } from "lib/claims"
@@ -69,6 +70,12 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
   }
 
   const rating = VERDICT_RATING[claim.verdict]
+  const circulationItems = [
+    { label: "初出・起点", value: claim.circulation.first_seen },
+    { label: "流布時期", value: claim.circulation.spread_period },
+    { label: "流行範囲", value: claim.circulation.spread_scope },
+    { label: "補足", value: claim.circulation.note },
+  ]
   const claimReviewJsonLd = {
     "@context": "https://schema.org",
     "@type": "ClaimReview",
@@ -121,9 +128,169 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         </p>
       </header>
 
+      <Card
+        style={{
+          ...sectionStyle,
+          backgroundColor: "#3b2a24",
+          borderLeft: "4px solid #f6ad55",
+          padding: "1.25rem",
+        }}
+      >
+        <p style={{ ...sectionTitleStyle, color: "#f6ad55" }}>検証する主張</p>
+        <p
+          style={{
+            color: "#f7fafc",
+            fontSize: "clamp(1.125rem, 2.4vw, 1.5rem)",
+            fontWeight: 700,
+            lineHeight: 1.55,
+          }}
+        >
+          {claim.claim}
+        </p>
+      </Card>
+
       <Card style={sectionStyle}>
-        <p style={sectionTitleStyle}>主張</p>
-        <p style={{ fontSize: ".9375rem", lineHeight: 1.7 }}>{claim.claim}</p>
+        <p style={sectionTitleStyle}>初出・流布状況</p>
+        <dl
+          style={{
+            display: "grid",
+            gap: ".75rem",
+            margin: 0,
+          }}
+        >
+          {circulationItems.map((item) => (
+            <div
+              key={item.label}
+              style={{
+                display: "grid",
+                gap: ".25rem",
+              }}
+            >
+              <dt
+                style={{
+                  color: "#f6ad55",
+                  fontSize: ".75rem",
+                  fontWeight: 700,
+                }}
+              >
+                {item.label}
+              </dt>
+              <dd
+                style={{
+                  color: "#cbd5e0",
+                  fontSize: ".875rem",
+                  lineHeight: 1.7,
+                  margin: 0,
+                }}
+              >
+                {item.value}
+              </dd>
+            </div>
+          ))}
+        </dl>
+        {Boolean(
+          claim.circulation.spreaders?.length ||
+            claim.circulation.beneficiaries?.length,
+        ) && (
+          <div
+            style={{
+              display: "grid",
+              gap: ".75rem",
+            }}
+          >
+            {claim.circulation.spreaders?.length ? (
+              <div>
+                <h3
+                  style={{
+                    color: "#f6ad55",
+                    fontSize: ".75rem",
+                    fontWeight: 700,
+                    marginBottom: ".4rem",
+                  }}
+                >
+                  流布させた主体
+                </h3>
+                <ul
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    gap: ".35rem",
+                    listStyle: "none",
+                    padding: 0,
+                  }}
+                >
+                  {claim.circulation.spreaders.map((spreader) => (
+                    <li
+                      key={spreader}
+                      style={{
+                        color: "#cbd5e0",
+                        display: "flex",
+                        fontSize: ".875rem",
+                        gap: ".5rem",
+                        lineHeight: 1.7,
+                      }}
+                    >
+                      <span style={{ color: "#718096" }}>•</span>
+                      {spreader}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
+            {claim.circulation.beneficiaries?.length ? (
+              <div>
+                <h3
+                  style={{
+                    color: "#f6ad55",
+                    fontSize: ".75rem",
+                    fontWeight: 700,
+                    marginBottom: ".4rem",
+                  }}
+                >
+                  受益しうる主体
+                </h3>
+                <ul
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    gap: ".35rem",
+                    listStyle: "none",
+                    padding: 0,
+                  }}
+                >
+                  {claim.circulation.beneficiaries.map((beneficiary) => (
+                    <li
+                      key={beneficiary}
+                      style={{
+                        color: "#cbd5e0",
+                        display: "flex",
+                        fontSize: ".875rem",
+                        gap: ".5rem",
+                        lineHeight: 1.7,
+                      }}
+                    >
+                      <span style={{ color: "#718096" }}>•</span>
+                      {beneficiary}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
+          </div>
+        )}
+        <a
+          href={claim.circulation.source.url}
+          rel="noopener noreferrer"
+          style={{
+            color: "#63b3ed",
+            fontSize: ".75rem",
+            overflowWrap: "anywhere",
+            textDecoration: "none",
+          }}
+          target="_blank"
+        >
+          参照: {claim.circulation.source.title}
+        </a>
       </Card>
 
       <Card
@@ -200,32 +367,65 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
 
       <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>よく使われる論法・誤謬</h2>
-        <ul
+        <div
           style={{
             display: "flex",
             flexDirection: "column",
-            gap: ".5rem",
-            listStyle: "none",
-            padding: 0,
+            gap: ".75rem",
           }}
         >
-          {claim.common_fallacies.map((fallacy, i) => (
-            <li
-              key={i}
+          {claim.common_fallacies.map((fallacyGroup) => (
+            <div
+              key={fallacyGroup.group}
               style={{
-                alignItems: "flex-start",
-                color: "#a0aec0",
-                display: "flex",
-                fontSize: ".9375rem",
-                gap: ".5rem",
-                lineHeight: 1.6,
+                backgroundColor: "#372630",
+                border: "1px solid #5a3d48",
+                borderRadius: "8px",
+                padding: ".875rem 1rem",
               }}
             >
-              <span style={{ color: "#d69e2e", flexShrink: 0 }}>!</span>
-              {fallacy}
-            </li>
+              <Link
+                href={`/claims/?fallacy=${encodeURIComponent(fallacyGroup.group)}`}
+                style={{
+                  color: "#f6ad55",
+                  display: "inline-block",
+                  fontSize: ".875rem",
+                  fontWeight: 700,
+                  marginBottom: ".5rem",
+                  textDecoration: "none",
+                }}
+              >
+                {fallacyGroup.group}
+              </Link>
+              <ul
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: ".5rem",
+                  listStyle: "none",
+                  padding: 0,
+                }}
+              >
+                {fallacyGroup.items.map((fallacy) => (
+                  <li
+                    key={fallacy}
+                    style={{
+                      alignItems: "flex-start",
+                      color: "#a0aec0",
+                      display: "flex",
+                      fontSize: ".9375rem",
+                      gap: ".5rem",
+                      lineHeight: 1.6,
+                    }}
+                  >
+                    <span style={{ color: "#d69e2e", flexShrink: 0 }}>!</span>
+                    {fallacy}
+                  </li>
+                ))}
+              </ul>
+            </div>
           ))}
-        </ul>
+        </div>
       </section>
 
       <section style={sectionStyle}>
@@ -265,7 +465,13 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           <h2 style={sectionTitleStyle}>タグ</h2>
           <div style={{ display: "flex", flexWrap: "wrap", gap: ".375rem" }}>
             {claim.tags.map((tag) => (
-              <Badge color="#718096" key={tag} label={`#${tag}`} />
+              <Link
+                href={`/claims/?tag=${encodeURIComponent(tag)}`}
+                key={tag}
+                style={{ textDecoration: "none" }}
+              >
+                <Badge color="#718096" label={`#${tag}`} />
+              </Link>
             ))}
           </div>
         </section>

@@ -1,6 +1,8 @@
 "use client"
 
-import { useState } from "react"
+import { useEffect, useMemo, useState } from "react"
+import Link from "next/link"
+import { useSearchParams } from "next/navigation"
 import ClaimCard from "components/ClaimCard"
 import { CATEGORY_LABEL, RISK_LABEL, VERDICT_LABEL } from "lib/labels"
 import type { Claim } from "types/claim"
@@ -23,11 +25,46 @@ const selectStyle: React.CSSProperties = {
   cursor: "pointer",
 }
 
+const isCategory = (value: string | null): value is Claim["category"] =>
+  Boolean(value && value in CATEGORY_LABEL)
+
 const ClaimsClient = ({ claims }: Props) => {
+  const searchParams = useSearchParams()
+  const categoryParam = searchParams.get("category")
+  const tagParam = searchParams.get("tag")
+  const fallacyParam = searchParams.get("fallacy")
+  const fallacyGroups = useMemo(
+    () =>
+      Array.from(
+        new Set(
+          claims.flatMap((claim) =>
+            claim.common_fallacies.map((group) => group.group),
+          ),
+        ),
+      ).sort((a, b) => a.localeCompare(b, "ja")),
+    [claims],
+  )
+  const isFallacyGroup = (value: string | null) =>
+    Boolean(value && fallacyGroups.includes(value))
   const [query, setQuery] = useState("")
-  const [category, setCategory] = useState<Claim["category"] | "">("")
+  const [category, setCategory] = useState<Claim["category"] | "">(
+    isCategory(categoryParam) ? categoryParam : "",
+  )
+  const [tag, setTag] = useState(tagParam ?? "")
+  const [fallacyGroup, setFallacyGroup] = useState(
+    isFallacyGroup(fallacyParam) ? fallacyParam ?? "" : "",
+  )
   const [verdict, setVerdict] = useState<Claim["verdict"] | "">("")
   const [riskLevel, setRiskLevel] = useState<Claim["risk_level"] | "">("")
+
+  useEffect(() => {
+    const categoryParam = searchParams.get("category")
+
+    setCategory(isCategory(categoryParam) ? categoryParam : "")
+    setTag(searchParams.get("tag") ?? "")
+    const fallacyParam = searchParams.get("fallacy")
+    setFallacyGroup(isFallacyGroup(fallacyParam) ? fallacyParam : "")
+  }, [searchParams, fallacyGroups])
 
   const filtered = claims.filter((c) => {
     const q = query.toLowerCase()
@@ -36,11 +73,35 @@ const ClaimsClient = ({ claims }: Props) => {
       c.title.toLowerCase().includes(q) ||
       c.claim.toLowerCase().includes(q) ||
       c.summary.toLowerCase().includes(q) ||
+      c.common_fallacies.some(
+        (group) =>
+          group.group.toLowerCase().includes(q) ||
+          group.items.some((item) => item.toLowerCase().includes(q)),
+      ) ||
+      (c.circulation.spreaders?.some((spreader) =>
+        spreader.toLowerCase().includes(q),
+      ) ??
+        false) ||
+      (c.circulation.beneficiaries?.some((beneficiary) =>
+        beneficiary.toLowerCase().includes(q),
+      ) ??
+        false) ||
       c.tags.some((t) => t.toLowerCase().includes(q))
     const matchCategory = !category || c.category === category
+    const matchTag = !tag || c.tags.includes(tag)
+    const matchFallacy =
+      !fallacyGroup ||
+      c.common_fallacies.some((group) => group.group === fallacyGroup)
     const matchVerdict = !verdict || c.verdict === verdict
     const matchRisk = !riskLevel || c.risk_level === riskLevel
-    return matchQuery && matchCategory && matchVerdict && matchRisk
+    return (
+      matchQuery &&
+      matchCategory &&
+      matchTag &&
+      matchFallacy &&
+      matchVerdict &&
+      matchRisk
+    )
   })
 
   return (
@@ -104,9 +165,45 @@ const ClaimsClient = ({ claims }: Props) => {
             ),
           )}
         </select>
+        <select
+          onChange={(e) => setFallacyGroup(e.target.value)}
+          style={selectStyle}
+          value={fallacyGroup}
+        >
+          <option value="">論法・誤謬：すべて</option>
+          {fallacyGroups.map((group) => (
+            <option key={group} value={group}>
+              {group}
+            </option>
+          ))}
+        </select>
       </div>
 
       <p style={{ color: "#718096", fontSize: ".875rem", marginBottom: "1rem" }}>
+        {tag && (
+          <>
+            タグ: #{tag}　
+            <Link
+              href="/claims/"
+              style={{ color: "#63b3ed", textDecoration: "none" }}
+            >
+              解除
+            </Link>
+            ｜
+          </>
+        )}
+        {fallacyGroup && (
+          <>
+            論法・誤謬: {fallacyGroup}　
+            <Link
+              href="/claims/"
+              style={{ color: "#63b3ed", textDecoration: "none" }}
+            >
+              解除
+            </Link>
+            ｜
+          </>
+        )}
         {filtered.length}件
       </p>
 
