@@ -1,94 +1,96 @@
-# Next.js Static Site Template
+# Re pseudo
 
-Next.js 16 + React 19 + TypeScript を使用した静的サイト生成のテンプレートリポジトリです。GitHub Pages へのデプロイが自動化されています。
+似非科学・陰謀論の主張検証プラットフォーム
 
-## 技術スタック
+---
 
-- **Next.js** 16 - App Router / Static Export
-- **React** 19
-- **TypeScript** 5
-- **ESLint** 9 - Flat Config
-- **Prettier** 3
+## 1. 概要
 
-## このテンプレートの使い方
+本サービスは、世の中で流通している似非科学・陰謀論・誤情報について、
+「主張」「根拠」「検証結果」を構造化して提示するカタログ型Webサイトである。
 
-1. **「Use this template」ボタン**をクリックして新しいリポジトリを作成
-2. リポジトリをクローン
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-3. 依存関係をインストール
-   ```bash
-   pnpm install
-   ```
-4. 開発サーバーを起動
-   ```bash
-   pnpm dev
-   ```
+単なる否定や批判ではなく、以下を目的とする：
 
-## セットアップ後にやること
+- 情報の信頼性を判断するための材料提供
+- 読者のリテラシー向上
+- 誤情報による被害の予防（prebunking）
 
-### 1. `next.config.js` の修正
+---
 
-`basePath` をリポジトリ名に変更してください：
+## 2. 技術構成
 
-```js
-basePath: process.env.NODE_ENV === "production" ? "/YOUR_REPO_NAME" : "",
-```
+### フロントエンド
 
-### 2. `app/layout.tsx` の修正
+- Next.js（App Router）
+- TypeScript
 
-メタデータとサイト情報を更新してください：
+### データ管理
 
-```tsx
-export const metadata: Metadata = {
-  title: "Your Site Title",
-  description: "Your site description",
+- JSON or Markdown（ローカルファイル）
+- 将来的にCMS化可能
+
+### 配信
+
+- 静的エクスポート（output: export）
+- GitHub Pages
+
+---
+
+## 3. データスキーマ
+
+type Claim = {
+id: string
+title: string
+category: "health" | "environment" | "conspiracy" | "technology" | "finance"
+claim: string
+verdict: "false" | "misleading" | "insufficient_evidence" | "partially_true" | "unverified"
+confidence: "high" | "medium" | "low"
+risk_level: "high" | "medium" | "low"
+summary: string
+explanation: string
+why_it_spreads: string[]
+common_fallacies: string[]
+sources: {
+title: string
+url: string
+type: "paper" | "government" | "article" | "other"
+}[]
+created_at: string
+updated_at: string
+tags: string[]
 }
-```
 
-### 3. GitHub Pages の設定
+---
 
-1. リポジトリの **Settings** → **Pages** へ移動
-2. **Source** を「GitHub Actions」に設定
+## 4. ページ構成
 
-## ディレクトリ構成
+### トップ
 
-```
-.
-├── app/
-│   ├── layout.tsx      # ルートレイアウト
-│   ├── page.tsx        # ホームページ
-│   └── reset.css       # CSSリセット
-├── .github/
-│   └── workflows/
-│       ├── lint.yml    # リント自動実行
-│       └── deploy.yml  # GitHub Pages 自動デプロイ
-├── next.config.js      # Next.js 設定
-├── tsconfig.json       # TypeScript 設定
-├── eslint.config.mjs   # ESLint 設定
-└── .prettierrc.json    # Prettier 設定
-```
+- 注目記事
+- 新着
+- カテゴリ
+- 検索
 
-## スクリプト
+### 一覧
 
-| コマンド | 説明 |
-|---------|------|
-| `pnpm dev` | 開発サーバーを起動 |
-| `pnpm build` | 静的サイトをビルド（`/out` に出力） |
-| `pnpm lint` | ESLint を実行 |
-| `pnpm format` | Prettier でコードをフォーマット |
-| `pnpm typecheck` | TypeScript の型チェック |
+- フィルター（カテゴリ / 判定 / 危険度）
+- カード表示
 
-## 機能
+### 詳細
 
-- **静的サイト生成** - `next build` で `/out` に HTML を出力
-- **自動デプロイ** - main ブランチへの push で GitHub Pages に自動デプロイ
-- **自動リント** - push 時に ESLint / Prettier チェックを実行
-- **依存関係の自動更新** - Dependabot による週次チェック
-- **エディタ設定** - VS Code での自動フォーマット設定済み
+1. 主張
+2. 判定
+3. サマリー
+4. 解説
+5. 拡散理由
+6. 論法
+7. 出典
 
-## ライセンス
+---
 
-ISC
+## 5. 編集ポリシー
+
+- 人物ではなく主張を対象にする
+- 出典必須
+- 体験談は根拠にしない
+- 扇動的表現禁止
