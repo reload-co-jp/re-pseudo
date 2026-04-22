@@ -781,5 +781,593 @@
     "created_at": "2026-04-22",
     "updated_at": "2026-04-22",
     "tags": ["新世界秩序", "NWO", "世界統一政府", "Agenda 2030", "Great Reset", "反グローバリズム"]
+  },
+  {
+    "id": "climate-change-hoax-conspiracy",
+    "title": "地球温暖化は政府や科学者による捏造である",
+    "category": "conspiracy",
+    "claim": "地球温暖化や人為的気候変動は、政府・国連・科学者・環境団体が研究費、税金、規制、世界支配のために作り上げた詐欺であり、実際には起きていない、または自然変動にすぎない。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "観測データ、物理学、気候モデル、複数の国際評価は、人間活動、とくに化石燃料の燃焼が近年の温暖化の主因であることを示している。温暖化捏造説は科学的根拠に反し、気候対策を遅らせる危険な誤情報。",
+    "explanation": "地球の気候が自然に変動してきたことは事実だが、現在の急速な温暖化は、産業革命以降の温室効果ガス増加と整合しており、太陽活動や火山活動などの自然要因だけでは説明できない。NASAは、現在の温暖化は過去数千年の自然変動よりも速く、近年の気温上昇、海洋熱含量の増加、氷床・氷河の減少、海面上昇など多数の独立した観測が一致していると説明している。IPCC第6次評価報告書も、人間の影響が大気・海洋・陸域を温暖化させたことは疑う余地がないと結論づけている。一方で、化石燃料企業や関連団体が気候科学への疑念を広めた歴史も文書研究で示されているが、それは『温暖化は捏造』という主張の根拠ではなく、むしろ科学的知見をめぐる公共理解が意図的に混乱させられた可能性を示す材料である。",
+    "why_it_spreads": [
+      "気候システムが複雑で、短期的な寒波や地域差を全体傾向と混同しやすい",
+      "炭素税、再生可能エネルギー、規制などへの政治的・経済的反発と結びつきやすい",
+      "科学者や国際機関への不信感が、研究費目的・世界支配目的という物語に変換されやすい",
+      "気候対策が生活・産業構造の変化を伴うため、受け入れに心理的抵抗が生じやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "世界中の観測機関・研究者・衛星データを、秘密裏に協調した捏造として扱う",
+          "反証や査読研究を、利権や政治支配の一部として退ける"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["一時的な寒波や特定地域の気温だけを抜き出し、長期的な全球平均の温暖化を否定する"]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": ["気候予測の幅やモデルの不確実性を、温暖化そのものが存在しない証拠として扱う"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["気候政策への批判を、気候科学そのものの捏造という主張に拡大する"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "温暖化への懐疑や否定は、1980年代後半に気候変動が公的政策課題になった後、化石燃料業界団体、保守系シンクタンク、一部の政治運動を通じて組織的に広がった。1990年代にはGlobal Climate Coalitionなどが規制への反対運動を展開した。",
+      "spread_period": "1990年代から2000年代にかけて米国を中心に広がり、2009年のClimategate、2015年以降のExxon関連報道、2019年以降の気候運動への反発、COVID-19以降の反グローバリズム言説と結びついて再燃している。",
+      "spread_scope": "米国、欧州、豪州、日本語圏を含むSNS、動画サイト、保守系メディア、反環境規制・反グローバリズム系コミュニティで流布している。",
+      "note": "気候政策の費用、設計、公平性を批判すること自体は正当な議論だが、観測事実や人為的温暖化の科学的根拠を『捏造』と断定する主張とは区別する必要がある。",
+      "spreaders": [
+        "化石燃料業界団体と関連する広報・ロビー活動",
+        "気候変動対策に反対する保守系シンクタンク・政策団体",
+        "反環境規制・反国際機関・反グローバリズム系のメディアやSNSアカウント",
+        "Climategateや寒波などを温暖化否定の材料として再投稿する発信者"
+      ],
+      "beneficiaries": [
+        "化石燃料の採掘・販売・利用を継続したい産業主体",
+        "気候規制への反対を支持拡大に使う政治運動・ロビー団体",
+        "温暖化否定コンテンツで注目・広告収益・寄付を得る発信者"
+      ],
+      "source": {
+        "title": "Union of Concerned Scientists: The Climate Deception Dossiers",
+        "url": "https://www.ucs.org/resources/climate-deception-dossiers-0"
+      }
+    },
+    "sources": [
+      {
+        "title": "NASA: Evidence",
+        "url": "https://science.nasa.gov/climate-change/evidence/",
+        "type": "government"
+      },
+      {
+        "title": "NASA: Scientific Consensus",
+        "url": "https://science.nasa.gov/climate-change/scientific-consensus/",
+        "type": "government"
+      },
+      {
+        "title": "IPCC Sixth Assessment Report: Working Group I",
+        "url": "https://www.ipcc.ch/report/ar6/wg1/",
+        "type": "government"
+      },
+      {
+        "title": "Union of Concerned Scientists: The Climate Deception Dossiers",
+        "url": "https://www.ucs.org/resources/climate-deception-dossiers-0",
+        "type": "article"
+      },
+      {
+        "title": "Brulle (2014) Institutionalizing delay: foundation funding and the creation of U.S. climate change counter-movement organizations",
+        "url": "https://doi.org/10.1007/s10584-013-1018-7",
+        "type": "paper"
+      },
+      {
+        "title": "Harvard Gazette: Exxon disputed climate findings for years. Its scientists knew better.",
+        "url": "https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["地球温暖化", "気候変動", "気候陰謀論", "化石燃料", "温暖化否定"]
+  },
+  {
+    "id": "deep-state-conspiracy",
+    "title": "ディープステート（DS）が政府を裏で支配している",
+    "category": "conspiracy",
+    "claim": "選挙で選ばれていない官僚、情報機関、軍、金融界、メディアなどからなる『ディープステート』が、表向きの政府を操り、選挙結果や政策、戦争、司法捜査を裏で支配している。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "国家機密、官僚制、情報機関の影響力、政治的な制度抵抗は実在するが、それらを一枚岩の秘密組織が政府全体を支配しているという物語にまとめる主張には証拠がない。QAnonや選挙陰謀論と結びつき、民主制度への不信や暴力を促しうる。",
+    "explanation": "『ディープステート』という語は、もともとトルコなどで軍・情報機関・犯罪組織・政治勢力の非公式な結びつきを指す分析用語として使われた。一方、米国や日本語圏で流通する陰謀論では、FBI、CIA、司法省、官僚、民主党政治家、金融界、メディアなどが密かに連携し、選挙で選ばれた指導者を妨害し、国民を支配しているとされる。実際には、官僚機構や情報機関には制度上の権限、利害、秘密性があり、過去にはCIAの秘密工作、ウォーターゲート、政府監視など、正当に批判・調査されるべき事例も存在する。しかし、個別の不正・制度的問題・政策対立を、単一の秘密組織による全体支配として説明する証拠はない。FactCheck.orgは、イラン関連事件をめぐるDeep State投稿など具体的な主張について証拠がないと確認しており、ADLはQAnonを『Deep State』と戦うという根拠なき陰謀論を中心にした運動として整理している。",
+    "why_it_spreads": [
+      "政府機関や情報機関の活動には秘密性があり、不透明さが疑念を生みやすい",
+      "政治的敗北や不都合な捜査を、外部の隠れた敵のせいにできる",
+      "過去の実際の政府不正や監視活動が、より大きな全体支配の物語に拡大されやすい",
+      "QAnon、選挙不正説、反ワクチン、反グローバリズムなど他の陰謀論を束ねる便利な敵像として機能する"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "複数の官庁・捜査・報道・政策対立を、単一の秘密組織の計画として扱う",
+          "証拠が出ないことを、ディープステートが隠蔽している証拠とみなす"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["官僚制や情報機関への正当な監視要求を、政府全体を支配する秘密組織の存在証明にすり替える"]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["不都合な捜査・内部告発・報道だけを抜き出し、政治的敵対勢力の陰謀として解釈する"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["裁判記録、監査、議会調査、報道検証をすべて体制側の隠蔽として退ける"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "『deep state』という語は1990年代以降、トルコ政治の文脈で高官・軍・情報機関などの非公式ネットワークを指す言葉として広まった。米国では冷戦期のCIA秘密工作、ウォーターゲート、監視活動への不信を背景に類似の発想が育ち、2016年以降のTrump支持層やQAnonを通じて大衆的な陰謀論として拡大した。",
+      "spread_period": "2017年以降、Trump政権期のロシア疑惑捜査、内部告発、弾劾、2020年大統領選、COVID-19、2021年1月6日議会襲撃をめぐる投稿で急速に拡散した。",
+      "spread_scope": "米国を中心に、英語圏、日本語圏を含むSNS、動画サイト、右派ポピュリズム、反政府、QAnon系コミュニティで流布している。",
+      "note": "政府機関の秘密性や不正を調査することは民主社会に必要だが、個別の制度問題を根拠なく『全体を支配する隠れた政府』へ拡大する主張とは区別する必要がある。",
+      "spreaders": [
+        "QAnon系のSNSアカウント・動画チャンネル",
+        "反政府・反官僚制を掲げる陰謀論系メディア",
+        "選挙不正説や反グローバリズムを扱う政治インフルエンサー",
+        "政府機密や情報機関への不信を政治動員に使う発信者"
+      ],
+      "beneficiaries": [
+        "政治的失敗や法的追及を隠れた敵のせいにしたい政治運動・候補者",
+        "陰謀論コンテンツで注目・広告収益・寄付を得る発信者",
+        "制度不信を動員して支持を集める反政府・過激派コミュニティ"
+      ],
+      "source": {
+        "title": "Scientific American: State Secrecy Explains the Origins of the 'Deep State' Conspiracy Theory",
+        "url": "https://www.scientificamerican.com/article/state-secrecy-explains-the-origins-of-the-deep-state-conspiracy-theory/"
+      }
+    },
+    "sources": [
+      {
+        "title": "Scientific American: State Secrecy Explains the Origins of the 'Deep State' Conspiracy Theory",
+        "url": "https://www.scientificamerican.com/article/state-secrecy-explains-the-origins-of-the-deep-state-conspiracy-theory/",
+        "type": "article"
+      },
+      {
+        "title": "ADL: QAnon",
+        "url": "https://www.adl.org/resources/backgrounder/qanon",
+        "type": "article"
+      },
+      {
+        "title": "FactCheck.org: Viral Posts Spread Iran-'Deep State' Conspiracy Theory",
+        "url": "https://www.factcheck.org/2020/02/viral-posts-spread-iran-deep-state-conspiracy-theory/",
+        "type": "article"
+      },
+      {
+        "title": "Monmouth University Polling Institute: Public Troubled by 'Deep State'",
+        "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_031918/",
+        "type": "article"
+      },
+      {
+        "title": "ADL: Sovereign Citizen Ideology Increasingly Seeping into QAnon",
+        "url": "https://www.adl.org/resources/article/sovereign-citizen-ideology-increasingly-seeping-qanon",
+        "type": "article"
+      },
+      {
+        "title": "Britannica: Conspiracy theory",
+        "url": "https://www.britannica.com/topic/conspiracy-theory",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["ディープステート", "DS", "DES", "QAnon", "反政府陰謀論", "選挙陰謀論"]
+  },
+  {
+    "id": "flat-earth-conspiracy",
+    "title": "地球は平面で、球体説は隠蔽されている",
+    "category": "conspiracy",
+    "claim": "地球は球体ではなく平らな円盤であり、南極は外周を囲む氷の壁である。NASAや政府、科学者、航空・衛星産業はこの事実を隠している。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "地球は完全な球ではなく赤道方向にわずかにふくらんだ回転楕円体に近く、測地・衛星観測・航法・天文学の多数の独立した証拠と整合する。平面説は観測の一部を切り出し、世界規模の隠蔽を仮定して説明するため、科学教育や制度不信への影響が大きい。",
+    "explanation": "NASAの地球ファクトシートでは、地球の赤道半径は6378.137km、極半径は6356.752kmで、扁平率も測定されている。NOAAの測地解説も、地球は極でやや平たく赤道でふくらむ形であり、実務上は楕円体やジオイドを用いて測量・GPS・標高を扱うと説明している。これは地球が平面であるという主張とは両立しない。さらに、船舶・航空・衛星測位、月食時の地球影、南北半球で異なる星空、世界一周航路などは、地球がほぼ球状であるモデルで一貫して説明できる。一方、地球平面説は『水平に見える』『地平線が曲がって見えない』といった局所的な体験を、地球全体の形状へ過度に一般化し、反証される観測をNASAや科学界の捏造として処理する。",
+    "why_it_spreads": [
+      "日常感覚では地表が平らに見えるため、直感と結びつきやすい",
+      "NASA、政府、科学者への不信をまとめる象徴的な物語として機能する",
+      "『自分で調べた』という探索体験が、共同体への参加感と自己効力感を与える",
+      "動画や図解で単純な反論に見える素材が作りやすく、SNSで拡散されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "地面が平らに見えるという局所的な体験を、地球全体の形状の証拠として扱う",
+          "曲率が肉眼で目立たないことを、曲率が存在しないこととみなす"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "衛星写真、測地、航法、天文学の一致を、世界規模の捏造として説明する",
+          "反証が出るたびに、NASAや政府による隠蔽の証拠へ読み替える"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["地平線や遠方船舶の見え方など、都合のよい観察だけを切り出して使う"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["測地学、天文学、航空航法、衛星測位を専門家共同体の権威主義として退ける"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "近代の地球平面運動は、Samuel Birley Rowbothamが1849年に小冊子『Zetetic Astronomy』を出し、1865年以降『Earth Not a Globe』として拡張した流れが初期の起点とされる。",
+      "spread_period": "19世紀後半からZetetic SocietyやUniversal Zetetic Society周辺で流布し、1956年のInternational Flat Earth Society設立で再組織化された。2014年以降はYouTubeの動画・推薦経路、2017〜2018年の国際会議報道、SNS投稿を通じて再流行した。",
+      "spread_scope": "英語圏を中心に、宗教的文字通り解釈、反科学・反政府、宇宙開発不信、QAnon周辺などのコミュニティで国際的に広がり、日本語圏にも翻訳・切り抜き動画やSNS投稿として流入した。",
+      "note": "古代から全員が地球平面を信じていたという説明は不正確で、古代ギリシャ以降の球体地球観や近代測地学の蓄積とは区別する必要がある。現代の平面説は、形状の主張だけでなく『球体説を世界的に隠蔽している』という陰謀論的枠組みと結びつくことが多い。",
+      "spreaders": [
+        "Flat Earth Society系の団体・フォーラム",
+        "YouTube上の地球平面説チャンネルやインフルエンサー",
+        "反NASA・反宇宙開発系の陰謀論コミュニティ",
+        "宗教的文字通り解釈を掲げる一部の発信者"
+      ],
+      "beneficiaries": [
+        "地球平面説コンテンツで広告収益・投げ銭・購読料を得る発信者",
+        "会議、グッズ、書籍、オンラインコミュニティで集客する運営者",
+        "科学・政府不信を他の陰謀論へ誘導する代替メディア"
+      ],
+      "source": {
+        "title": "Internet Sacred Text Archive: Zetetic Astronomy, Earth Not A Globe",
+        "url": "https://sacred-texts.com/earth/za/index.htm"
+      }
+    },
+    "sources": [
+      {
+        "title": "NASA NSSDC: Earth Fact Sheet",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html?level=1",
+        "type": "government"
+      },
+      {
+        "title": "NOAA National Geodetic Survey: What is the geoid?",
+        "url": "https://geodesy.noaa.gov/INFO/facts/geoid.shtml",
+        "type": "government"
+      },
+      {
+        "title": "NOAA National Ocean Service: The Geoid - Global Positioning Tutorial",
+        "url": "https://oceanservice.noaa.gov/education/tutorial_geodesy/geo03_figure.html",
+        "type": "government"
+      },
+      {
+        "title": "Landrum, Olshansky & Richards (2019) Differential susceptibility to misleading flat earth arguments on YouTube",
+        "url": "https://doi.org/10.1080/15213269.2019.1669461",
+        "type": "paper"
+      },
+      {
+        "title": "Matthias, Benn & Harkin (2025) Social media's role in ex-conspiracy theorists entering and exiting anti-scientific communities",
+        "url": "https://doi.org/10.1371/journal.pone.0323436",
+        "type": "paper"
+      },
+      {
+        "title": "YouGov: Most flat earthers consider themselves very religious",
+        "url": "https://today.yougov.com/society/articles/20510-most-flat-earthers-consider-themselves-religious",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["地球平面説", "フラットアース", "Flat Earth", "NASA陰謀論", "測地学", "宇宙開発"]
+  },
+  {
+    "id": "artificial-earthquake-weapon",
+    "title": "大地震は人工地震兵器で起こされている",
+    "category": "conspiracy",
+    "claim": "東日本大震災、能登半島地震、トルコ・シリア地震などの大規模地震は自然の断層運動ではなく、HAARP、核爆発、秘密の地震兵器、地下施設などによって意図的に起こされた人工地震である。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "人間活動が地震を誘発する事例は実在するが、SNSで流布する『震災級の大地震を秘密兵器で狙って起こした』という主張を裏づける証拠はない。災害時の避難・支援・公的情報への信頼を損ないうるためリスクが高い。",
+    "explanation": "USGSは、地震は断層の急なすべりで起こり、プレート境界や活断層で応力が蓄積・解放される現象だと説明している。一方で、廃水の地下圧入、石油・ガス生産、貯水池の湛水、採掘、核実験などが地震を誘発することは科学的に確認されている。したがって『人工的に地震が起こることは絶対にない』という理解も不正確である。ただし、それらは地質条件、既存断層、圧力変化などに依存する誘発地震であり、特定の大災害を遠隔地から狙って発生させる『地震兵器』とは別問題である。HAARPは電離圏研究施設で、公式FAQは気象を操作できないと説明し、専門家も電波で地殻内の断層破壊を引き起こす既知の物理機構はないとしている。大地震後に出回る発光映像、爆発音、日時の一致、余震の多さなどは、断層破壊・送電設備の閃光・地震光・偶然の一致・災害時の混乱で説明できる場合が多く、人工地震の証拠にはならない。",
+    "why_it_spreads": [
+      "大災害の被害が大きいほど、偶然や自然現象だけでは納得しにくい心理が働く",
+      "地震探査や誘発地震という実在の技術・現象が、地震兵器説と混同されやすい",
+      "災害直後は情報が断片的で、動画や音、発光現象を陰謀の証拠として結びつけやすい",
+      "政府、米国、軍事技術、原発、復興利権への不信と結びつくと拡散しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "地震前後の発光、爆発音、軍事演習、政治日程などの時間的近接を原因の証拠とみなす",
+          "人工的に小規模な揺れを起こせることから、震災級の地震も自在に起こせると飛躍する"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "証拠がないことを、政府・研究機関・メディアが隠蔽している証拠として扱う",
+          "地震波解析、余震分布、断層モデルなど複数の独立した観測を一括して捏造とみなす"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["誘発地震や制御震源の説明だけを取り出し、大規模災害の兵器説へ拡大する"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["地震学、測地学、気象庁・USGSなどの観測網による解析を体制側の説明として退ける"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["災害対応、耐震、避難、支援の論点を、隠れた攻撃者探しへ移してしまう"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "人工的に揺れを起こす技術としての制御震源・爆破探査は古くから地質調査で使われてきた。一方、日本の大地震を外国の攻撃や地震兵器とみなす陰謀論は、関東大震災以降の流言、戦後の軍事技術不安、1995年阪神・淡路大震災後のオウム真理教関係者の発言、2011年東日本大震災後のSNS投稿などを通じて繰り返し現れてきた。",
+      "spread_period": "大地震の直後や震災の節目に再燃する。2011年東日本大震災、2023年トルコ・シリア地震、2024年能登半島地震、2025年青森県東方沖の地震をめぐって、HAARP、核爆発、地震兵器、土地収奪などと結びつける投稿が拡散した。",
+      "spread_scope": "日本語圏のSNS、動画サイト、陰謀論ブログを中心に、英語圏や各国語圏のHAARP陰謀論とも接続して国際的に流布している。",
+      "note": "『人工地震』という語は、地下構造調査で使う制御震源や、流体注入などで起きる誘発地震を指す場合がある。デマ検証では、この実在する意味と、災害級地震を秘密兵器で起こしたという主張を区別する必要がある。",
+      "spreaders": [
+        "災害時に陰謀論を投稿するSNSアカウント・動画チャンネル",
+        "HAARPや地震兵器を扱う代替メディア・ブログ",
+        "反政府、反米、反軍事、反原発などの不信を動員する発信者",
+        "災害映像を切り抜いて別文脈で再投稿するアカウント"
+      ],
+      "beneficiaries": [
+        "陰謀論コンテンツで注目・広告収益・寄付を得る発信者",
+        "有料コミュニティ、書籍、講演、グッズへ誘導する運営者",
+        "災害不安を政治的動員や制度不信の拡大に利用する主体"
+      ],
+      "source": {
+        "title": "日本ファクトチェックセンター: 地震は人工的な兵器？専門家が人工地震説を解説",
+        "url": "https://www.factcheckcenter.jp/fact-check/disasters/artificial-earthquake-theory-debunked-experts-explain/"
+      }
+    },
+    "sources": [
+      {
+        "title": "USGS: The Science of Earthquakes",
+        "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+        "type": "government"
+      },
+      {
+        "title": "USGS: Earthquake Facts & Earthquake Fantasy",
+        "url": "https://www.usgs.gov/programs/earthquake-hazards/earthquake-facts-earthquake-fantasy",
+        "type": "government"
+      },
+      {
+        "title": "USGS: Myths and Misconceptions About Induced Earthquakes",
+        "url": "https://www.usgs.gov/programs/earthquake-hazards/myths-and-misconceptions-about-induced-earthquakes",
+        "type": "government"
+      },
+      {
+        "title": "Rubinstein & Babaie Mahani (2015) Myths and facts on wastewater injection, hydraulic fracturing, enhanced oil recovery, and induced seismicity",
+        "url": "https://doi.org/10.1785/0220150067",
+        "type": "paper"
+      },
+      {
+        "title": "HAARP: FAQ",
+        "url": "https://haarp.gi.alaska.edu/faq",
+        "type": "other"
+      },
+      {
+        "title": "日本ファクトチェックセンター: 地震は人工的な兵器？専門家が人工地震説を解説",
+        "url": "https://www.factcheckcenter.jp/fact-check/disasters/artificial-earthquake-theory-debunked-experts-explain/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["人工地震", "地震兵器", "HAARP", "誘発地震", "災害デマ", "東日本大震災", "能登半島地震"]
+  },
+  {
+    "id": "haarp-weather-mind-control-conspiracy",
+    "title": "HAARPは気象・地震・人心を操作する秘密兵器である",
+    "category": "conspiracy",
+    "claim": "アラスカのHAARPは、表向きは電離圏研究施設だが、実際には米軍や政府がハリケーン、豪雨、干ばつ、地震、山火事、オーロラ、電磁波被害、マインドコントロールを起こすための秘密兵器である。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "HAARPは高周波電波で電離圏の一部を短時間・局所的に励起して調べる研究施設であり、気象・地震・人間の思考を操作できるという証拠はない。災害時に原因を誤らせ、防災情報や科学機関への不信を広げる。",
+    "explanation": "HAARPの公式説明と全米アカデミーズの報告では、施設の主目的は電離圏・熱圏研究、通信・航法・レーダーに関わる上層大気の理解である。主装置IRIは2.7〜10MHz帯、最大3.6MWの高周波を上空の電離圏へ送信し、自然の太陽活動で起きる現象に似た小さな擾乱を制御して観測する。気象を生む対流圏・成層圏ではこの周波数帯の電波はほとんど吸収されず、HAARP自身も気象操作はできないと説明している。地震についても、電離圏の局所的な加熱で遠隔地の地殻内断層を破壊する既知の物理機構はなく、AFPが取材した地球物理学者らもトルコ・シリア地震をHAARPが起こしたという主張を否定している。マインドコントロールやケムトレイルについても、HAARPの研究対象・出力・作用範囲から外れ、信頼できる証拠は示されていない。",
+    "why_it_spreads": [
+      "軍が関与して始まった高出力施設という事実が、秘密兵器という物語に接続されやすい",
+      "アンテナ群や専門用語が視覚的・技術的に不気味に見え、説明の空白を陰謀で埋めやすい",
+      "巨大災害や異常気象の原因を、複雑な自然過程よりも特定の加害者に帰したい心理に合う",
+      "特許、軍事研究、電磁波、気象改変、ケムトレイルなど複数の陰謀論を束ねる便利な装置として使われる"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "公開されている軍事・通信研究を、隠された破壊兵器の証拠として読み替える",
+          "公式否定や研究公開を、秘密計画を隠すための演出とみなす"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "HAARPの研究キャンペーン日程と嵐・地震・火災の発生時期が近いことを原因の証拠にする",
+          "電離圏を励起できることから、地表の天候や地殻まで操作できると飛躍する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": ["最大出力、軍の関与、特許文書など不安を誘う断片だけを選び、作用範囲や大気物理の制約を無視する"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["電離圏物理、気象学、地震学、神経科学の専門的説明を体制側の隠蔽として退ける"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["気候変動、防災、災害対応、送電設備の発光などの検証を、万能兵器の存在論へずらす"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "HAARPは1990年代初頭に米空軍・米海軍などが関与して始まり、施設建設は1993年に始まった。陰謀論としては、1995年にNick BegichとJeane Manningの『Angels Don't Play This HAARP』が、気象操作・精神操作・環境改変の可能性を強く印象づけ、初期の拡散点の一つになった。",
+      "spread_period": "1990年代後半から2000年代にかけて書籍、講演、ネット掲示板、動画で広がり、2010年ハイチ地震、2011年東日本大震災、2023年トルコ・シリア地震、2024〜2025年のハリケーン・洪水・山火事など、大災害のたびに再燃している。",
+      "spread_scope": "英語圏を起点に、欧州、ラテンアメリカ、中東、アジア、日本語圏へ翻訳・引用され、気象操作、人工地震、ケムトレイル、電磁波被害、反政府・反米系の陰謀論コミュニティで流布している。",
+      "note": "HAARPは軍事研究として始まった実在の施設であり、通信・航法・電離圏研究への応用も実在する。誤りは、その事実をもとに、地表の天候・地震・人間心理を遠隔操作できる万能兵器へ拡大する点にある。",
+      "spreaders": [
+        "HAARP陰謀論を扱う書籍・講演・ドキュメンタリー制作者",
+        "気象操作・ケムトレイル・人工地震を扱うSNSアカウントや動画チャンネル",
+        "災害時にHAARP原因説を投稿する代替メディア・ブログ",
+        "反政府・反軍事・反グローバリズム系の陰謀論コミュニティ"
+      ],
+      "beneficiaries": [
+        "陰謀論コンテンツで広告収益・寄付・講演料・有料購読を得る発信者",
+        "不安を集客に使う代替メディアやオンラインコミュニティ運営者",
+        "災害や気候変動の責任を別の敵像へ転嫁したい政治的発信者"
+      ],
+      "source": {
+        "title": "Britannica: HAARP",
+        "url": "https://www.britannica.com/topic/HAARP"
+      }
+    },
+    "sources": [
+      {
+        "title": "HAARP: About HAARP",
+        "url": "https://haarp.gi.alaska.edu/",
+        "type": "other"
+      },
+      {
+        "title": "HAARP: FAQ",
+        "url": "https://haarp.gi.alaska.edu/faq",
+        "type": "other"
+      },
+      {
+        "title": "National Research Council (2014) Opportunities for High-Power, High-Frequency Transmitters to Advance Ionospheric/Thermospheric Research",
+        "url": "https://doi.org/10.17226/18620",
+        "type": "paper"
+      },
+      {
+        "title": "Britannica: HAARP",
+        "url": "https://www.britannica.com/topic/HAARP",
+        "type": "article"
+      },
+      {
+        "title": "AFP Fact Check: US research station HAARP did not cause Turkey-Syria earthquake",
+        "url": "https://factcheck.afp.com/doc.afp.com.33AN6CP",
+        "type": "article"
+      },
+      {
+        "title": "AFP Fact Check: No connection between HAARP atmospheric research and Hurricane Erin",
+        "url": "https://factcheck.afp.com/doc.afp.com.726C3CQ",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["HAARP", "気象操作", "マインドコントロール", "人工地震", "ケムトレイル", "電磁波", "災害デマ"]
+  },
+  {
+    "id": "apollo-moon-landing-hoax",
+    "title": "アポロ計画の月面着陸は捏造だった",
+    "category": "conspiracy",
+    "claim": "1969年から1972年のアポロ計画による月面着陸は実際には行われておらず、NASAが冷戦の宇宙競争に勝つため、映像や写真をスタジオで撮影して世界をだました。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "アポロ計画の有人月面着陸は、ミッション記録、月試料、レーザー反射器、月周回機画像、世界各地の追跡記録など、互いに独立した証拠で確認されている。捏造説は写真の見え方や政府不信を起点に、証拠全体の整合性を無視している。",
+    "explanation": "NASAの記録では、Apollo 11は1969年7月16日に打ち上げられ、Neil ArmstrongとBuzz Aldrinが7月20日に月面へ降り、7月24日に地球へ帰還した。その後Apollo 12、14、15、16、17を含む計6回の有人月面着陸が行われ、Apolloの6つの月面ミッションは合計382kg、2196点の月試料を持ち帰った。これらの試料は世界中の研究者に分析され、月の地質・年代・衝突史の研究に今も使われている。またApollo 11、14、15の宇宙飛行士が設置したレーザー反射器は、地球からのレーザー測距に現在も利用され、月の距離や軌道を精密に測るデータを返している。さらにLunar Reconnaissance OrbiterはApollo着陸地点、着陸船下段、実験装置、足跡や走行跡を撮影しており、ミッション記録と対応する。『星が写っていない』『旗が揺れている』『影が不自然』などの主張は、露出設定、旗の水平棒と慣性、地形と遠近法で説明でき、スタジオ撮影の証拠にはならない。",
+    "why_it_spreads": [
+      "冷戦、ベトナム戦争、ウォーターゲート後の政府不信と結びつきやすい",
+      "写真や映像の違和感を誰でも検証できるように見え、自己流の発見感を生む",
+      "宇宙開発の技術的複雑さが、直感的な疑念や『当時の技術では無理』という物語に置き換えられやすい",
+      "映画、テレビ番組、動画サイト、SNSで『撮影所で作られた現実』という物語として再利用され続ける"
+    ],
+    "common_fallacies": [
+      {
+        "group": "情報の選択",
+        "items": [
+          "星が写らない写真、影の向き、旗の形など一部の見え方だけを取り上げ、月試料や測距データなどの物理証拠を無視する",
+          "解像度の低い映像や切り抜き画像を、元画像・露出条件・撮影手順から切り離して解釈する"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "NASA、宇宙飛行士、技術者、追跡局、研究者、国外の観測者が長期間そろって沈黙していると仮定する",
+          "矛盾を指摘されるたびに、新たな隠蔽や協力者を追加して説明する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["宇宙工学、写真露出、月地質学、軌道力学、レーザー測距の専門的説明を権威側の言い訳として退ける"]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": ["失われた一部の原テープや記録上の空白を、着陸全体が存在しない証拠に拡大する"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["宇宙開発費や冷戦プロパガンダへの批判を、月面着陸そのものの不存在証明にすり替える"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "月面着陸直後にも疑念はあったが、現在の捏造説の基本形は、Bill Kaysingが1976年に自費出版した『We Never Went to the Moon: America's Thirty Billion Dollar Swindle』に多くをたどれるとされる。",
+      "spread_period": "1970年代後半から書籍・講演・サブカルチャーで広まり、1978年の映画『Capricorn One』が『宇宙ミッションをスタジオで捏造する』想像力を後押しした。2001年にFoxが『Conspiracy Theory: Did We Land on the Moon?』を放送して英語圏で再燃し、以後はYouTube、SNS、切り抜き動画、著名人の発言で周期的に拡散している。",
+      "spread_scope": "米国・英国など英語圏を中心に国際的に流布し、日本語圏でも動画サイト、SNS、都市伝説本、陰謀論系ブログを通じて広がっている。反NASA、反米、反宇宙開発、フラットアース、QAnon周辺の文脈にも接続される。",
+      "note": "宇宙開発が冷戦期の国威発揚や政治的宣伝を含んでいたことと、月面着陸が捏造だったことは別問題である。政治的文脈への批判は可能だが、物理証拠と観測記録は有人月面着陸の実在を強く支持している。",
+      "spreaders": [
+        "Bill Kaysing以降の月面着陸捏造説の著者・講演者",
+        "Foxの2001年番組や同種のドキュメンタリー・動画制作者",
+        "YouTube、TikTok、SNS上の宇宙開発陰謀論アカウント",
+        "反NASA、フラットアース、反政府系の陰謀論コミュニティ"
+      ],
+      "beneficiaries": [
+        "月面着陸捏造説の書籍、動画、講演、広告収益、有料コミュニティで収益を得る発信者",
+        "科学・政府不信を集客に使う代替メディアや陰謀論系コミュニティ",
+        "宇宙開発や政府機関への不信を政治的動員に使う発信者"
+      ],
+      "source": {
+        "title": "The University of Manchester: How moon landing conspiracy theories began and why they persist today",
+        "url": "https://www.manchester.ac.uk/discover/news/moon-landing-conspiracy-theories/%26c%3D6493630599123643246%26mkt%3Den-us"
+      }
+    },
+    "sources": [
+      {
+        "title": "NASA: Apollo 11 Mission Overview",
+        "url": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+        "type": "government"
+      },
+      {
+        "title": "NASA: Apollo Lunar Collection",
+        "url": "https://ares.jsc.nasa.gov/astromaterials3d/apollo-lunar.htm",
+        "type": "government"
+      },
+      {
+        "title": "NASA GSFC: Lunar Laser Ranging",
+        "url": "https://science.gsfc.nasa.gov/earth/geodesy/projects/605",
+        "type": "government"
+      },
+      {
+        "title": "NASA Science: The Apollo 15 Lunar Laser Ranging Retroreflector",
+        "url": "https://science.nasa.gov/photojournal/the-apollo-15-lunar-laser-ranging-retroreflector-a-fundamental-point-on-the-moon/",
+        "type": "government"
+      },
+      {
+        "title": "NASA: Lunar Reconnaissance Orbiter Looks at Apollo 12, Surveyor 3 Landing Sites",
+        "url": "https://www.nasa.gov/missions/lunar-reconnaissance-orbiter-looks-at-apollo-12-surveyor-3-landing-sites/",
+        "type": "government"
+      },
+      {
+        "title": "Royal Museums Greenwich: Moon landing conspiracy theories, debunked",
+        "url": "https://www.rmg.co.uk/stories/topics/moon-landing-conspiracy-theories-debunked",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-22",
+    "updated_at": "2026-04-22",
+    "tags": ["月面着陸", "アポロ計画", "NASA陰謀論", "宇宙開発", "スタンリー・キューブリック", "冷戦", "フラットアース"]
   }
 ]
