@@ -7,17 +7,21 @@ const BASE_URL = "https://re-pseudo.reload.co.jp"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const claims = getClaims()
+  const latestUpdatedAt = claims
+    .map((claim) => claim.updated_at)
+    .sort((a, b) => b.localeCompare(a))[0]
+  const latestModified = latestUpdatedAt ? new Date(latestUpdatedAt) : new Date()
 
   return [
     {
       url: BASE_URL,
-      lastModified: new Date(),
+      lastModified: latestModified,
       changeFrequency: "weekly",
       priority: 1,
     },
     {
       url: `${BASE_URL}/claims/`,
-      lastModified: new Date(),
+      lastModified: latestModified,
       changeFrequency: "weekly",
       priority: 0.9,
     },

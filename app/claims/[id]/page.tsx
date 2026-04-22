@@ -96,7 +96,9 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
     "@context": "https://schema.org",
     "@type": "ClaimReview",
     url: `${BASE_URL}/claims/${id}/`,
+    mainEntityOfPage: `${BASE_URL}/claims/${id}/`,
     datePublished: claim.created_at,
+    dateModified: claim.updated_at,
     claimReviewed: claim.claim,
     author: {
       "@type": "Organization",
@@ -118,15 +120,46 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       "@type": "Organization",
       name: "Re pseudo",
       url: BASE_URL,
-      logo: `${BASE_URL}/logo.svg`,
+      logo: {
+        "@type": "ImageObject",
+        url: `${BASE_URL}/logo.svg`,
+      },
     },
     keywords: claim.tags.join(", "),
+  }
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "ホーム",
+        item: BASE_URL,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "主張一覧",
+        item: `${BASE_URL}/claims/`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: claim.title,
+        item: `${BASE_URL}/claims/${id}/`,
+      },
+    ],
   }
 
   return (
     <article style={{ display: "flex", flexDirection: "column", gap: "2rem" }}>
       <script
         dangerouslySetInnerHTML={{ __html: JSON.stringify(claimReviewJsonLd) }}
+        type="application/ld+json"
+      />
+      <script
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         type="application/ld+json"
       />
       <header style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>

@@ -17,6 +17,7 @@ export const metadata = {
   authors: [{ name: "Re pseudo" }],
   creator: "Re pseudo",
   publisher: "Re pseudo",
+  manifest: "/manifest.webmanifest",
   keywords: [
     "似非科学",
     "疑似科学",
@@ -28,6 +29,17 @@ export const metadata = {
     "検証",
   ],
   category: "fact-checking",
+  icons: {
+    icon: "/icon.svg",
+    shortcut: "/icon.svg",
+    apple: "/icon.svg",
+  },
+  referrer: "origin-when-cross-origin",
+  formatDetection: {
+    telephone: false,
+    address: false,
+    email: false,
+  },
   robots: {
     index: true,
     follow: true,
@@ -66,10 +78,28 @@ export const metadata = {
   },
 }
 
+export const viewport = {
+  themeColor: "#3d2b34",
+  colorScheme: "dark",
+}
+
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
+  const organizationJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Re pseudo",
+    url: BASE_URL,
+    logo: `${BASE_URL}/logo.svg`,
+    sameAs: [BASE_URL],
+  }
+
   return (
     <html lang="ja">
       <body>
+        <script
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+          type="application/ld+json"
+        />
         <header
           style={{
             backgroundColor: "#3d2b34",
