@@ -24,13 +24,11 @@ export const metadata = {
     url: BASE_URL,
     title: "Re pseudo — 似非科学・陰謀論の主張検証",
     description: DESCRIPTION,
-    images: [{ url: "/logo.svg", width: 220, height: 56, alt: "Re pseudo" }],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Re pseudo — 似非科学・陰謀論の主張検証",
     description: DESCRIPTION,
-    images: ["/logo.svg"],
   },
 }
 
@@ -59,6 +57,16 @@ const Page: FC = () => {
         type="application/ld+json"
       />
       <section>
+        <h1
+          style={{
+            fontSize: "1.5rem",
+            fontWeight: 700,
+            lineHeight: 1.4,
+            marginBottom: ".75rem",
+          }}
+        >
+          似非科学・陰謀論の主張検証カタログ
+        </h1>
         <p style={{ color: "#a0aec0", fontSize: ".9375rem", lineHeight: 1.9, marginBottom: ".75rem" }}>
           陰謀論や疑似科学的な情報を、科学的な再現性・検証可能性の観点から見直し、事実に基づいた理解を広めることを目的としたサイトです。
         </p>

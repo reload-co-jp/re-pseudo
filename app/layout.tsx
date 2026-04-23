@@ -61,20 +61,11 @@ export const metadata = {
     siteName: "Re pseudo",
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
-    images: [
-      {
-        url: "/logo.svg",
-        width: 220,
-        height: 56,
-        alt: "Re pseudo",
-      },
-    ],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
-    images: ["/logo.svg"],
   },
   alternates: {
     canonical: BASE_URL,
@@ -93,7 +84,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
     name: "Re pseudo",
     url: BASE_URL,
     logo: `${BASE_URL}/logo.svg`,
-    sameAs: [BASE_URL],
+    sameAs: [BASE_URL, "https://reload.co.jp"],
   }
 
   return (

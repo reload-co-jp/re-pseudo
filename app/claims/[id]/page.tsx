@@ -54,13 +54,11 @@ export const generateMetadata = async ({ params }: Props) => {
       publishedTime: claim.created_at,
       modifiedTime: claim.updated_at,
       tags: claim.tags,
-      images: [{ url: "/logo.svg", width: 220, height: 56, alt: "Re pseudo" }],
     },
     twitter: {
-      card: "summary",
+      card: "summary_large_image",
       title: claim.title,
       description: claim.summary,
-      images: ["/logo.svg"],
     },
   }
 }

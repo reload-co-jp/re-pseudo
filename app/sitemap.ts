@@ -26,9 +26,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${BASE_URL}/fallacies/`,
+      lastModified: latestModified,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    },
+    {
+      url: `${BASE_URL}/criteria/`,
+      lastModified: new Date("2025-01-01"),
+      changeFrequency: "yearly" as const,
+      priority: 0.6,
+    },
+    {
+      url: `${BASE_URL}/conspiracy/`,
+      lastModified: new Date("2025-01-01"),
+      changeFrequency: "yearly" as const,
+      priority: 0.6,
+    },
+    {
       url: `${BASE_URL}/about/`,
-      lastModified: new Date(),
-      changeFrequency: "yearly",
+      lastModified: new Date("2025-01-01"),
+      changeFrequency: "yearly" as const,
       priority: 0.5,
     },
     ...claims.map((c) => ({

@@ -17,13 +17,11 @@ export const metadata = {
     url: `${BASE_URL}/claims/`,
     title: "主張一覧 — Re pseudo",
     description: DESCRIPTION,
-    images: [{ url: "/logo.svg", width: 220, height: 56, alt: "Re pseudo" }],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "主張一覧 — Re pseudo",
     description: DESCRIPTION,
-    images: ["/logo.svg"],
   },
 }
 
