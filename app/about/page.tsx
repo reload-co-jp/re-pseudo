@@ -46,12 +46,14 @@ const AboutPage: FC = () => {
   }
 
   return (
-    <div style={{ display: "flex", flexDirection: "column", gap: "2rem", maxWidth: "680px" }}>
+    <div style={{ display: "flex", flexDirection: "column", gap: "2rem" }}>
       <script
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         type="application/ld+json"
       />
-      <h1 style={{ fontSize: "1.25rem", fontWeight: 700 }}>このサイトについて</h1>
+      <h1 style={{ fontSize: "1.25rem", fontWeight: 700 }}>
+        このサイトについて
+      </h1>
 
       <p style={{ color: "#a0aec0", fontSize: ".9375rem", lineHeight: 1.9 }}>
         近年、陰謀論や疑似科学的な情報が広く拡散され、多くの人がその真偽の判断に迷う状況が生まれています。

@@ -116,7 +116,9 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
           </>
         )}
         <script
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationJsonLd),
+          }}
           type="application/ld+json"
         />
         <header
@@ -155,19 +157,31 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             <nav style={{ display: "flex", gap: "1.25rem" }}>
               <Link
                 href="/claims/"
-                style={{ color: "#a0aec0", fontSize: ".875rem", textDecoration: "none" }}
+                style={{
+                  color: "#a0aec0",
+                  fontSize: ".875rem",
+                  textDecoration: "none",
+                }}
               >
                 一覧
               </Link>
               <Link
                 href="/fallacies/"
-                style={{ color: "#a0aec0", fontSize: ".875rem", textDecoration: "none" }}
+                style={{
+                  color: "#a0aec0",
+                  fontSize: ".875rem",
+                  textDecoration: "none",
+                }}
               >
                 よくある誤謬
               </Link>
               <Link
                 href="/about/"
-                style={{ color: "#a0aec0", fontSize: ".875rem", textDecoration: "none" }}
+                style={{
+                  color: "#a0aec0",
+                  fontSize: ".875rem",
+                  textDecoration: "none",
+                }}
               >
                 このサイトについて
               </Link>
@@ -192,7 +206,8 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
           }}
         >
           <p style={{ color: "#718096", margin: "0 auto", maxWidth: "900px" }}>
-            &copy; Re pseudo — 情報の信頼性を判断するための材料提供を目的としています。
+            &copy; Re pseudo —
+            情報の信頼性を判断するための材料提供を目的としています。
           </p>
         </footer>
       </body>
