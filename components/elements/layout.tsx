@@ -19,7 +19,7 @@ export const Badge: FC<{
     style={{
       backgroundColor: `${color}22`,
       border: `1px solid ${color}`,
-      borderRadius: "4px",
+      borderRadius: "2px",
       color,
       display: "inline-block",
       fontSize: ".75rem",
@@ -37,7 +37,7 @@ export const Card: FC<ComponentProps<"div">> = ({ style, children, ...props }) =
     style={{
       backgroundColor: "#372630",
       border: "1px solid #5a3d48",
-      borderRadius: "8px",
+      borderRadius: "4px",
       padding: "1rem",
       ...style,
     }}

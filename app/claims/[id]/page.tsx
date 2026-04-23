@@ -188,7 +188,6 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         style={{
           ...sectionStyle,
           backgroundColor: "#3b2a24",
-          borderLeft: "4px solid #f6ad55",
           padding: "1.25rem",
         }}
       >
@@ -203,6 +202,26 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         >
           {claim.claim}
         </p>
+      </Card>
+
+      <Card
+        style={sectionStyle}
+      >
+        <p style={sectionTitleStyle}>判定</p>
+        <div style={{ alignItems: "center", display: "flex", gap: ".75rem" }}>
+          <span
+            style={{
+              color: VERDICT_COLOR[claim.verdict],
+              fontSize: "1.25rem",
+              fontWeight: 700,
+            }}
+          >
+            {VERDICT_LABEL[claim.verdict]}
+          </span>
+          <span style={{ color: "#718096", fontSize: ".875rem" }}>
+            {CONFIDENCE_LABEL[claim.confidence]}
+          </span>
+        </div>
       </Card>
 
       <Card style={sectionStyle}>
@@ -349,29 +368,6 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         </a>
       </Card>
 
-      <Card
-        style={{
-          ...sectionStyle,
-          borderLeft: `3px solid ${VERDICT_COLOR[claim.verdict]}`,
-        }}
-      >
-        <p style={sectionTitleStyle}>判定</p>
-        <div style={{ alignItems: "center", display: "flex", gap: ".75rem" }}>
-          <span
-            style={{
-              color: VERDICT_COLOR[claim.verdict],
-              fontSize: "1.25rem",
-              fontWeight: 700,
-            }}
-          >
-            {VERDICT_LABEL[claim.verdict]}
-          </span>
-          <span style={{ color: "#718096", fontSize: ".875rem" }}>
-            {CONFIDENCE_LABEL[claim.confidence]}
-          </span>
-        </div>
-      </Card>
-
       <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>サマリー</h2>
         <p style={{ fontSize: ".9375rem", lineHeight: 1.7 }}>{claim.summary}</p>
@@ -436,7 +432,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
               style={{
                 backgroundColor: "#372630",
                 border: "1px solid #5a3d48",
-                borderRadius: "8px",
+                borderRadius: "4px",
                 padding: ".875rem 1rem",
               }}
             >

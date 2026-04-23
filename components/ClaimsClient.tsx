@@ -14,7 +14,7 @@ type Props = {
 const inputStyle: React.CSSProperties = {
   backgroundColor: "#372630",
   border: "1px solid #5a3d48",
-  borderRadius: "6px",
+  borderRadius: "3px",
   color: "#f0f0f0",
   fontSize: ".875rem",
   padding: ".5rem .75rem",

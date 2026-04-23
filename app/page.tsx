@@ -187,7 +187,7 @@ const Page: FC = () => {
                 style={{
                   backgroundColor: "#372630",
                   border: "1px solid #5a3d48",
-                  borderRadius: "8px",
+                  borderRadius: "4px",
                   color: "#e2e8f0",
                   display: "flex",
                   flexDirection: "column",

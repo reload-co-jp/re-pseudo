@@ -100,7 +100,7 @@ export const MermaidDiagram = ({ definition }: Props) => {
         style={{
           background: "none",
           border: "none",
-          borderRadius: "8px",
+          borderRadius: "4px",
           cursor: "zoom-in",
           display: "block",
           padding: 0,
@@ -112,7 +112,7 @@ export const MermaidDiagram = ({ definition }: Props) => {
           ref={ref}
           style={{
             background: "#1a1014",
-            borderRadius: "8px",
+            borderRadius: "4px",
             minHeight: "120px",
             overflow: "hidden",
             padding: "1rem",
@@ -145,7 +145,7 @@ export const MermaidDiagram = ({ definition }: Props) => {
             style={{
               background: "#1a1014",
               border: "1px solid #5a3d48",
-              borderRadius: "12px",
+              borderRadius: "6px",
               maxHeight: "90dvh",
               maxWidth: "95vw",
               overflow: "auto",
