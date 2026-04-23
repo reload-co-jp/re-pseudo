@@ -186,6 +186,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 似非科学の判断基準
               </Link>
               <Link
+                href="/conspiracy/"
+                style={{
+                  color: "#a0aec0",
+                  fontSize: ".875rem",
+                  textDecoration: "none",
+                }}
+              >
+                陰謀論とは何か
+              </Link>
+              <Link
                 href="/about/"
                 style={{
                   color: "#a0aec0",
