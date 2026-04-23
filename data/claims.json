@@ -1874,5 +1874,1060 @@
     "created_at": "2026-04-23",
     "updated_at": "2026-04-23",
     "tags": ["水素水", "水素", "抗酸化", "活性酸素", "健康食品", "美容飲料", "ダイエット"]
+  },
+  {
+    "id": "takeuchi-documents-authentic-ancient-history",
+    "title": "竹内文書は日本中心の超古代世界史を記した真正史料である",
+    "category": "conspiracy",
+    "claim": "竹内文書は古事記・日本書紀より古い真正な古文書であり、神代文字で記された記録から、超古代日本が世界文明の中心で、モーゼ、キリスト、釈迦、孔子なども日本に来て天皇に仕えたことが分かる。学界が偽書とするのは、正史を守るための隠蔽である。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "竹内文書は宗教史・偽史言説・オカルト文化の研究対象にはなるが、古代史を裏づける真正史料とは認められていない。文体・書体・内容の時代錯誤、来歴の不確かさ、正史・考古学との矛盾から、近代に成立した偽書とみなされる。",
+    "explanation": "竹内文書は、天津教の竹内巨麿が昭和初期に公表したとされる古史古伝で、神代文字や超古代皇統、世界の宗教者が日本に来たという壮大な物語を含む。平凡社『世界大百科事典』は、竹内古文書を古事記以前の歴史書という触れ込みで話題になったが、後に近代の偽書であることが立証された例として挙げている。狩野亨吉は1936年の『天津教古文書の批判』で、天津教が示した古文書について、文体、書体、内容を検討し、近代風の筆跡、文法・語法の不自然さ、正史や近代以降に知られた知識との矛盾から偽造であると論じた。『竹内文書が本物なら正史が覆る』という主張は、真正性を示す独立した来歴、同時代資料、考古学的裏づけ、言語学的整合性を欠く。空襲で原本が失われたとされることも、現存しない史料を真正とみなす根拠にはならない。",
+    "why_it_spreads": [
+      "日本が世界文明の中心だったという物語が、民族的誇りや失われた歴史への憧れに訴える",
+      "神代文字、失われた文書、封印された正史という要素が、隠された真実を発見する物語として魅力を持つ",
+      "古代史には未解明部分が多く、考古学上の不確実性が超古代史の余地として誤用されやすい",
+      "オカルト雑誌、古史古伝本、宗教・スピリチュアル系コミュニティで、検証より物語性が重視されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "来歴が不明確で原本確認も困難な文書を、真正な一次史料として扱う",
+          "神代文字や秘伝という設定を、検証不能性ではなく権威の根拠にする"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "学界が偽書とすることを、正史を守るための隠蔽や弾圧の証拠とみなす",
+          "反証や時代錯誤を指摘されるたびに、原本焼失や秘伝性を持ち出して検証を回避する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "竹内文書の奇抜な一致や地名連想だけを取り上げ、成立時期・文体・書体・考古学との矛盾を無視する",
+          "信奉者や紹介本の記述を、独立した歴史証拠のように扱う"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["歴史学、古文書学、国語学、考古学の検証を、体制側の先入観として退ける"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["宗教史・民俗史・オカルト文化としての影響力を、古代史としての真正性の証明にすり替える"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "竹内文書は、竹内巨麿が昭和初期に天津教の神宝・古文書として公表したことで広く知られるようになった。1920年代後半から1930年代にかけて、天津教、酒井勝軍らの日本ピラミッド説、神代文字論、超古代史への関心と結びついて流布した。",
+      "spread_period": "1930年代には天津教事件や不敬罪裁判を通じて社会問題化し、狩野亨吉や橋本進吉らによる批判を受けた。戦後はオカルト雑誌、古史古伝本、八幡書店系の資料集、超古代史ブーム、1980年代以降のスピリチュアル・ニューエイジ的文脈で再流通し、インターネット時代にはブログ、動画、SNSで再解釈されている。",
+      "spread_scope": "日本語圏を中心に、古史古伝、神代文字、超古代文明、日本ピラミッド、日ユ同祖論、キリスト渡来伝説、スピリチュアル、陰謀論系コミュニティで流布している。一部の新宗教・オカルト思想にも影響を与えたとされる。",
+      "note": "竹内文書は、信仰・出版文化・偽史言説の研究対象としての価値と、古代史の真正史料としての価値を分けて扱う必要がある。『偽書』という評価は、文献が文化的影響を持たないという意味ではなく、史料として古代を直接証明しないという意味である。",
+      "spreaders": [
+        "天津教と竹内文書を紹介する信奉者・関連団体",
+        "古史古伝・超古代史・神代文字を扱う出版社や著者",
+        "オカルト雑誌、ミステリー系メディア、動画チャンネル",
+        "スピリチュアル、日ユ同祖論、日本中心史観を扱う発信者"
+      ],
+      "beneficiaries": [
+        "竹内文書関連の書籍、資料集、講演、ツアーで収益を得る発信者・事業者",
+        "超古代史やスピリチュアル商品で集客する媒体・コミュニティ",
+        "日本中心の歴史物語を政治的・宗教的動員に利用する主体"
+      ],
+      "source": {
+        "title": "コトバンク: 竹内古文書",
+        "url": "https://kotobank.jp/word/%E7%AB%B9%E5%86%85%E5%8F%A4%E6%96%87%E6%9B%B8-1361141"
+      }
+    },
+    "sources": [
+      {
+        "title": "コトバンク: 竹内古文書",
+        "url": "https://kotobank.jp/word/%E7%AB%B9%E5%86%85%E5%8F%A4%E6%96%87%E6%9B%B8-1361141",
+        "type": "article"
+      },
+      {
+        "title": "狩野亨吉: 天津教古文書の批判",
+        "url": "https://www.aozora.gr.jp/cards/000866/files/3039_23980.html",
+        "type": "other"
+      },
+      {
+        "title": "青空文庫: 図書カード 天津教古文書の批判",
+        "url": "https://www.aozora-renewal.cloud/cards/000866/card3039.html",
+        "type": "other"
+      },
+      {
+        "title": "国立国会図書館レファレンス協同データベース: 竹内巨麿の不敬罪について",
+        "url": "https://crd.ndl.go.jp/reference/entry/reference/show?asc=desc&id=1000132546&lsmp=1&mcmd=25&page=ref_view&pg=79&rnk=1&st=ref_cnt_all&type=reference",
+        "type": "government"
+      },
+      {
+        "title": "奈良県立図書情報館: 近代日本の偽史言説",
+        "url": "https://www.library.pref.nara.jp/reference/kininaru/2975",
+        "type": "government"
+      },
+      {
+        "title": "河出書房新社: 原田実『偽書が描いた日本の超古代史』",
+        "url": "https://www.kawade.co.jp/np/isbn/9784309485027/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["竹内文書", "竹内古文書", "古史古伝", "超古代史", "神代文字", "天津教", "偽書"]
+  },
+  {
+    "id": "hollow-earth-polar-entrance-conspiracy",
+    "title": "地球の内部は空洞で、極地に入口がある",
+    "category": "conspiracy",
+    "claim": "地球の内部は巨大な空洞で、内側には太陽、海、都市、未知の文明、アガルタや地底人が存在する。北極や南極には入口があり、NASAや各国政府は衛星写真や極地探検の情報を隠している。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "地震波、地球の平均密度、重力、磁場、熱流量、地球内部を通る波の到達時刻は、地球が地殻・マントル・外核・内核からなる層構造であることを一貫して示す。巨大空洞や極地の入口を示す観測証拠はない。",
+    "explanation": "USGSは、地球内部の知識は地震波の経路と性質、地表岩石の観察、重力・磁場・熱流量、太陽系内での地球運動など複数の証拠から得られると説明している。地球の平均密度は表面の岩石より大きく、内部により高密度の物質が存在しなければ説明できない。地震波は地球内部で屈折・反射し、S波が液体外核を通過しないこと、P波の速度が層境界で変化することから、地殻、マントル、液体外核、固体内核の構造が推定されている。NASAも地球を内核、外核、マントル、地殻からなる惑星として説明し、内核は鉄・ニッケル主体の固体球、外核は鉄・ニッケル流体、マントルは厚い岩石層としている。もし地球が大規模に空洞なら、地震波の到達時刻、影域、地球の質量・慣性モーメント、重力場、磁場生成、火山活動の説明が現在の観測と合わなくなる。極地の衛星画像に見える穴とされるものは雲、海氷、画像処理、投影法の誤解で説明される場合が多く、入口の実在を示す独立観測はない。",
+    "why_it_spreads": [
+      "未知の地底世界や失われた文明という冒険物語が、科学説明より想像力を刺激する",
+      "南極・北極は一般人が行きにくく、軍事・研究基地の存在も秘密の入口という物語に接続されやすい",
+      "地震波や密度の説明は直感的でないため、衛星画像の切り抜きや古い探検談の方が分かりやすく見える",
+      "アガルタ、UFO、ナチス逃亡説、フラットアース、月面着陸捏造説など他の陰謀論と結びつきやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "雲や氷、地図投影、低解像度画像の見え方を、極地入口の証拠として扱う",
+          "古い仮説や冒険小説、伝聞を、現代の地球物理観測と同じ重みの証拠にする"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "ハレーやシムズの歴史的仮説だけを取り上げ、その後の地震学・測地学で否定された経緯を無視する",
+          "地球内部に未解明点があることだけを強調し、既に制約されている層構造を見落とす"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "極地への渡航制限や研究基地の存在を、政府が入口を隠している証拠とみなす",
+          "衛星画像や地震学データが空洞を示さないことを、NASAや学界による隠蔽の結果とする"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": ["洞窟や地下空間が実在することから、惑星規模の空洞もありうると直感的に拡大する"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["地震波、重力、磁場、熱流量に基づく地球物理学の説明を、専門家共同体の作り話として退ける"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "地底世界の伝説は古くからあるが、近代的な地球空洞説は17世紀後半にエドモンド・ハレーが地磁気の変化を説明する仮説として同心球状の地球内部を提案したことにさかのぼる。1818年にはJohn Cleves Symmes Jr.が、地球は空洞で極に大きな開口部があり内部は居住可能だとする回状を配布した。",
+      "spread_period": "19世紀にはシムズの講演、極地探検構想、1820年の小説『Symzonia』、地底旅行文学を通じて広がった。20世紀にはアガルタ、シャンバラ、ナチス神秘主義、UFO、極地陰謀論、ニューエイジ思想と結びつき、インターネット時代には衛星画像の切り抜きや南極陰謀論とともに再拡散している。",
+      "spread_scope": "英語圏を中心に国際的に流布し、日本語圏ではオカルト雑誌、都市伝説、スピリチュアル、UFO、ナチス逃亡説、フラットアース周辺のコミュニティで広がっている。",
+      "note": "地球内部には未解明の動的現象があり、内核の構造やマントル対流の詳細は研究対象である。しかし、未解明点があることは、巨大空洞や極地入口の存在を意味しない。",
+      "spreaders": [
+        "地球空洞説やアガルタを扱うオカルト本・講演・動画チャンネル",
+        "UFO、ナチス神秘主義、南極陰謀論を扱う代替メディア",
+        "衛星画像や極地地図の切り抜きを投稿するSNSアカウント",
+        "フラットアースやNASA陰謀論と接続するコミュニティ"
+      ],
+      "beneficiaries": [
+        "地底世界・南極陰謀論の書籍、動画、講演、オンラインコミュニティで収益を得る発信者",
+        "オカルト観光、グッズ、スピリチュアル商材に物語性を付与する事業者",
+        "科学・政府不信を集客や政治的動員に使う媒体"
+      ],
+      "source": {
+        "title": "Physical Geography: Hollow and Habitable Within: Symmes's Theory of Earth's Internal Structure and Polar Geography",
+        "url": "https://doi.org/10.2747/0272-3646.25.5.382"
+      }
+    },
+    "sources": [
+      {
+        "title": "USGS: The Interior of the Earth",
+        "url": "https://pubs.usgs.gov/gip/interior/",
+        "type": "government"
+      },
+      {
+        "title": "NASA Science: Facts About Earth",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "type": "government"
+      },
+      {
+        "title": "IRIS: Imaging Earth's interior with seismic waves",
+        "url": "https://www.iris.edu/hq/inclass/lesson/imaging_earths_interior_with_seismic_waves",
+        "type": "other"
+      },
+      {
+        "title": "Griffin (2004) Hollow and Habitable Within: Symmes's Theory of Earth's Internal Structure and Polar Geography",
+        "url": "https://doi.org/10.2747/0272-3646.25.5.382",
+        "type": "paper"
+      },
+      {
+        "title": "HISTORY: The 19th-Century Push for a 'Hollow Earth' Expedition",
+        "url": "https://www.history.com/articles/expedition-to-the-center-of-the-earth",
+        "type": "article"
+      },
+      {
+        "title": "NASA NSSDC: Earth Fact Sheet",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html?level=1",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["地球空洞説", "アガルタ", "地底人", "南極陰謀論", "NASA陰謀論", "地震波", "地球内部構造"]
+  },
+  {
+    "id": "bermuda-triangle-supernatural-disappearances",
+    "title": "バミューダトライアングルでは超常現象で船や飛行機が消える",
+    "category": "conspiracy",
+    "claim": "バミューダトライアングルは他の海域より異常に危険で、船や飛行機が通常では説明できない頻度で消えている。原因はアトランティス、UFO、異次元の渦、磁場異常、海底ピラミッドなどの超常的・隠蔽された力である。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "バミューダトライアングル周辺で実際に遭難事故は起きているが、同海域で謎の失踪が他のよく航行される海域より多いという証拠はない。NOAAや米海軍・沿岸警備隊は、超常的説明ではなく、気象、海流、浅瀬、航行量、人為ミスで多くを説明できるとしている。",
+    "explanation": "NOAAは、バミューダトライアングルには公的な定義がなく、米国地名委員会も公式地名として認めていないと説明している。さらに、同海域で謎の失踪が他の大きく交通量の多い海域より頻繁に起きる証拠はないとしている。地域にはハリケーンや熱帯低気圧、Gulf Streamによる急な天候変化、カリブ海の島々や浅瀬、深い海溝など、遭難や捜索困難につながる自然条件がある。Flight 19やUSS Cyclopsのような有名事例は未回収・未解明部分を残すが、未解明であることはUFO、アトランティス、異次元の証拠ではない。Larry Kuscheは1975年の検証で、多くの事件が誇張、事実誤認、区域外の事故、悪天候や人為ミスを無視した語りで構成されていると論じた。事故原因の一部が不明なまま残ることと、超常的な危険地帯が存在することは別である。",
+    "why_it_spreads": [
+      "海上・空中で痕跡が見つからない事故は、謎として記憶されやすい",
+      "UFO、アトランティス、異次元、磁場異常など複数の物語を一つの地名に集約できる",
+      "Flight 19やUSS Cyclopsのような実際の未解明事故が、超常説に現実味を与える",
+      "海域の境界が曖昧なため、都合のよい事故を後から含めやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "情報の選択",
+        "items": [
+          "説明しやすい事故や区域外の事故を除外せず、謎の一覧に加える",
+          "悪天候、航行量、機体・船体の状態、通信記録などの文脈を省いて紹介する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "残骸が見つからない、原因が完全には分からない、という不確実性を超常現象の証拠にする",
+          "『未解明』を『自然要因では説明不能』と読み替える"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": ["同じ広い海域で複数の事故が起きたことを、共通の未知原因がある証拠とみなす"]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": ["政府や軍が公式に超常説を否定することを、真相を隠している証拠として扱う"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["海域の自然条件や事故調査の難しさを、アトランティスやUFOの存在論に置き換える"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "同地域の失踪譚は19世紀から散発的に語られていたが、現在の『バミューダトライアングル』という枠組みは、Vincent Gaddisが1964年のArgosy誌記事『The Deadly Bermuda Triangle』で用いた表現によって広まった。",
+      "spread_period": "1945年のFlight 19、1918年のUSS Cyclopsなど過去の事故が後から結びつけられ、1974年のCharles Berlitz『The Bermuda Triangle』で大衆的ブームになった。1975年にはLarry Kusche『The Bermuda Triangle Mystery—Solved』が多くの誤りや誇張を批判したが、テレビ番組、映画、オカルト本、インターネット動画を通じて再流通している。",
+      "spread_scope": "米国・英語圏を中心に世界的に流布し、日本語圏でもオカルト雑誌、都市伝説本、テレビ特番、YouTube、SNSで『世界の謎』の定番として広がっている。",
+      "note": "バミューダ周辺の海域に危険な気象・海流・地形条件があることと、超常現象で船や飛行機が消える特別な危険地帯であることは別問題である。",
+      "spreaders": [
+        "Vincent Gaddis以降の超常現象作家・オカルト作家",
+        "Charles Berlitz本や関連ドキュメンタリー・映画",
+        "都市伝説、UFO、アトランティスを扱うテレビ番組・動画チャンネル",
+        "SNSで未解明事故リストや地図画像を拡散するアカウント"
+      ],
+      "beneficiaries": [
+        "バミューダトライアングル関連の書籍、番組、動画、広告収益を得る発信者",
+        "ミステリー観光・都市伝説コンテンツで集客する媒体",
+        "UFOやアトランティスなど他の超常説へ誘導するオカルト市場"
+      ],
+      "source": {
+        "title": "NOAA Ocean Service: What is the Bermuda Triangle?",
+        "url": "https://oceanservice.noaa.gov/facts/bermudatri.html"
+      }
+    },
+    "sources": [
+      {
+        "title": "NOAA Ocean Service: What is the Bermuda Triangle?",
+        "url": "https://oceanservice.noaa.gov/facts/bermudatri.html",
+        "type": "government"
+      },
+      {
+        "title": "Britannica: Bermuda Triangle",
+        "url": "https://www.britannica.com/place/Bermuda-Triangle",
+        "type": "article"
+      },
+      {
+        "title": "Britannica: What Is Known (and Not Known) About the Bermuda Triangle",
+        "url": "https://www.britannica.com/story/what-is-known-and-not-known-about-the-bermuda-triangle",
+        "type": "article"
+      },
+      {
+        "title": "National Geographic: The mystery behind the Bermuda Triangle",
+        "url": "https://www.nationalgeographic.com/premium/article/bermuda-triangle-mystery-disappearance",
+        "type": "article"
+      },
+      {
+        "title": "Open Library: Larry Kusche, The Bermuda Triangle Mystery--Solved",
+        "url": "https://openlibrary.org/works/OL3086307W/The_Bermuda_Triangle_mystery--solved",
+        "type": "other"
+      },
+      {
+        "title": "Smithsonian Magazine: How the Disappearance of Flight 19 Fueled the Legend of the Bermuda Triangle",
+        "url": "https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["バミューダトライアングル", "魔の三角海域", "UFO", "アトランティス", "Flight 19", "都市伝説", "海難事故"]
+  },
+  {
+    "id": "water-fueled-car-perpetual-motion",
+    "title": "水だけで走る水燃料自動車は実用化できる",
+    "category": "technology",
+    "claim": "水を電気分解して水素を取り出せば、ガソリンや外部電源なしに自動車を走らせられる。既に水だけで長距離走行できる発明が存在したが、石油会社や政府が利権を守るために隠蔽・妨害している。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "水は燃料ではなく、燃焼後にできる安定した生成物である。水から水素を取り出すには外部からエネルギーを入れる必要があり、その水素を燃やしたり燃料電池で使ったりしても、変換損失のため入力以上のエネルギーは得られない。",
+    "explanation": "水素燃料電池車や水素エンジンは実在するが、燃料は水ではなく、別のエネルギーで製造・圧縮・貯蔵された水素である。米国エネルギー省は、水素は水、炭化水素、有機物に含まれるが、電気分解などで製造する必要があり、環境影響や効率は製造方法に依存すると説明している。水を車内で電気分解して得た水素を燃やす方式では、電気分解、圧縮・分離、燃焼または燃料電池、駆動の各段階で損失が出るため、同じ電力を直接モーターに使うより不利になる。NatureのPhilip Ballも、水は燃えた後の状態であり、水を燃料として正味のエネルギー源にする発想は熱力学に反すると論じている。Stanley Meyerの『water fuel cell』は代表例として繰り返し引用されるが、独立した再現実験はなく、1996年には投資家との訴訟で通常の電気分解にすぎないと判断されたと報じられている。したがって、『水だけで走る車』は水素利用技術と永久機関的な主張を混同したものである。",
+    "why_it_spreads": [
+      "水が安価で身近なため、エネルギー問題を一気に解決する直感的な物語として魅力がある",
+      "水素燃料電池車、水素エンジン、電気分解という実在の技術用語が、主張に科学的な雰囲気を与える",
+      "燃料価格への不満や大企業・政府への不信が、隠蔽説と結びつきやすい",
+      "過去のテレビ映像、特許、実演動画が、性能の独立検証と混同されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "水から水素を取り出せることを、水が正味の燃料になることと同一視する",
+          "排出物として水が出る水素車を、水を燃料にしている車だと誤解する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "デモ動画、特許、報道された発明話を、独立した性能検証や商用実用性の証拠として扱う",
+          "再現できない装置や未公開の仕組みを、既存科学を超えた技術だとみなす"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "実用化されていない理由を、効率・安全性・再現性の問題ではなく石油利権による抑圧に求める",
+          "発明者の死や事業失敗を、技術の正しさを示す隠蔽の証拠として扱う"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": ["新しい触媒や水電解研究の進歩を、外部エネルギーなしで水からエネルギーを得られる可能性にすり替える"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["熱力学やエネルギー収支に基づく反論を、既得権益側の否定や頭の固い専門家の思い込みとして退ける"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "水を燃料にする乗り物の主張は20世紀を通じて散発的に現れた。近年の代表例は、1980年代から1990年代にかけて米国のStanley Meyerが『water fuel cell』で水だけの長距離走行を主張した事例である。",
+      "spread_period": "1990年代にはStanley Meyerのテレビ映像や『22ガロンの水でロサンゼルスからニューヨークまで走れる』という主張が広がった。2000年代以降はHHO発生器、燃費改善装置、YouTube動画、Facebook投稿、発展途上国の発明家報道、近年の水素エンジン報道の誤読を通じて繰り返し再燃している。",
+      "spread_scope": "英語圏を中心に、燃料価格高騰時や水素技術ニュースの時期にSNSで拡散する。日本語圏でも『水で走る車』『水燃料エンジン』『トヨタが水で走る車を開発』などの見出しでブログ、動画、SNSに流通している。",
+      "note": "水素を燃料にする車両や、水を冷却・噴射・改質工程に使う技術は存在する。検証対象は、水そのものを正味のエネルギー源として、外部エネルギーや別燃料なしに車を走らせられるという主張である。",
+      "spreaders": [
+        "Stanley Meyerなどの水燃料装置の発明者・支持者",
+        "HHO発生器や燃費改善装置の販売者・アフィリエイトサイト",
+        "フリーエネルギー、反石油利権、発明隠蔽を扱う動画チャンネル・SNSアカウント",
+        "水素技術ニュースを『水で走る車』として紹介するまとめサイト・ブログ"
+      ],
+      "beneficiaries": [
+        "HHO発生器、改造キット、燃費改善装置の販売事業者",
+        "水燃料自動車の動画・記事で広告収益や誘導収益を得る発信者",
+        "フリーエネルギー投資話や関連セミナーで集客する主体"
+      ],
+      "source": {
+        "title": "Nature: Burning water and other myths",
+        "url": "https://www.nature.com/articles/news070910-13"
+      }
+    },
+    "sources": [
+      {
+        "title": "U.S. Department of Energy: 5 Fast Facts about Hydrogen and Fuel Cells",
+        "url": "https://www.energy.gov/cmei/articles/5-fast-facts-about-hydrogen-and-fuel-cells",
+        "type": "government"
+      },
+      {
+        "title": "Alternative Fuels Data Center: Hydrogen Basics",
+        "url": "https://afdc.energy.gov/fuels/hydrogen-basics",
+        "type": "government"
+      },
+      {
+        "title": "Nature: Burning water and other myths",
+        "url": "https://www.nature.com/articles/news070910-13",
+        "type": "article"
+      },
+      {
+        "title": "Science Feedback: A water-powered car still requires other forms of fuel to work",
+        "url": "https://science.feedback.org/review/a-water-powered-car-still-requires-other-forms-of-fuel-to-work-it-cannot-run-solely-on-water-contrary-to-viral-facebook-video-claims/",
+        "type": "article"
+      },
+      {
+        "title": "Federal Trade Commission: FTC Warns Internet Marketers about Making Misleading Claims about Gas-Saving Devices",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2002/04/ftc-warns-internet-marketers-about-making-misleading-claims-about-benefits-gas-saving-other-energy",
+        "type": "government"
+      },
+      {
+        "title": "AFP Fact Check: No, a car cannot be run on energy produced from water",
+        "url": "https://factcheck.afp.com/no-car-cannot-be-run-energy-produced-water",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["水燃料自動車", "水で走る車", "水燃料エンジン", "HHO", "水素燃料", "電気分解", "フリーエネルギー", "永久機関", "Stanley Meyer"]
+  },
+  {
+    "id": "ayurveda-universal-safe-cure-claims",
+    "title": "アーユルヴェーダは自然で安全な万能治療である",
+    "category": "health",
+    "claim": "アーユルヴェーダは古代インドから続く自然療法なので副作用がなく、体質を整えれば糖尿病、がん、自己免疫疾患、感染症、慢性痛、精神不調など幅広い病気を根本から治せる。標準治療より安全で、薬を減らしたり中止したりしてもよい。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "アーユルヴェーダには長い伝統があり、生活習慣、食事、ヨガ、マッサージ、一部ハーブなど研究対象になる要素もある。しかし、多くの病気に対する有効性は十分に確認されておらず、一部製品には鉛・水銀・ヒ素などの重金属や医薬品相互作用のリスクがある。",
+    "explanation": "NCCIHは、アーユルヴェーダはインド発祥の伝統医療体系で、食事、運動、生活習慣、植物・動物・金属・鉱物由来の製品などを組み合わせると説明している。一方で、有効性については、変形性膝関節症や2型糖尿病などで小規模研究があるものの、多くは小規模または設計上の限界があり、他の健康問題については科学的根拠が乏しいとしている。安全性では、FDAが未承認のアーユルヴェーダ製品に有害量の鉛、水銀、ヒ素が含まれる場合があり、重金属中毒を起こしうると警告している。JAMAの2008年調査でも、インターネットで販売されていた米国製・インド製アーユルヴェーダ薬の一部から鉛、水銀、ヒ素が検出された。伝統医療や植物由来であることは、安全性や治療効果を自動的に保証しない。がん、糖尿病、感染症、自己免疫疾患などで標準治療を遅らせたり中止したりすると、病状悪化や治療機会の喪失につながる。",
+    "why_it_spreads": [
+      "古代から続く、自然、体質改善、全人的ケアといった言葉が安心感を与える",
+      "慢性症状や標準治療への不満を持つ人に、個別化された根本治療として響きやすい",
+      "ヨガ、瞑想、スパ、デトックス、美容、食事法と結びつき、医療とウェルネスの境界が曖昧になりやすい",
+      "一部のハーブ研究や伝統医療研究の存在が、体系全体の万能性の証拠として拡大解釈される"
+    ],
+    "common_fallacies": [
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "自然由来・古代由来なら副作用が少なく安全だとみなす",
+          "体質を整えるという直感的な説明を、疾患治療効果の証拠として扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "小規模研究、予備的研究、個別成分の研究を、体系全体が多くの病気に効く証拠として扱う",
+          "体験談や施術後の主観的改善を、病気そのものが治った証拠とみなす"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "食事改善、休養、運動、瞑想、マッサージで体調が良くなる可能性と、医薬品として疾患を治療できることを混同する",
+          "伝統文化として尊重されることと、現代医療上の有効性・安全性が確認されていることを混同する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": ["標準治療にも限界や副作用があることを、未検証の代替療法を同等以上に選んでよい理由にする"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["医師や規制当局の注意喚起を、自然療法を排除したい医療利権の反応として扱う"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "アーユルヴェーダは古代インドに由来する伝統医療体系で、古典的概念は紀元前から紀元後初期にかけて形成されたとされる。近代以降、インド国内の教育・制度化と、欧米・日本の代替医療・ウェルネス市場への展開によって現在の形で広く紹介されている。",
+      "spread_period": "20世紀後半以降、ヨガ、瞑想、自然食品、スパ、美容、デトックス、統合医療の文脈で英語圏・日本語圏に広がった。2020年代にはWHOの伝統医療センター設立やインド政府のAYUSH政策への注目もあり、科学的検証の取り組みと、過大な健康広告が並行して流通している。",
+      "spread_scope": "インドと南アジアでは医療制度・伝統医療の一部として広く実践され、欧米や日本では補完代替医療、ウェルネス、ヨガ、エステ、健康食品、スピリチュアル市場で流布している。",
+      "note": "検証対象は、アーユルヴェーダの文化的価値や生活習慣支援の可能性ではなく、標準治療の代替として幅広い疾患を安全に治せるという過大な主張である。国や制度により資格・規制・製品品質は大きく異なる。",
+      "spreaders": [
+        "アーユルヴェーダ製品、サプリメント、ハーブ製剤の販売者",
+        "ヨガ、スパ、デトックス、自然療法を扱うウェルネス系メディア・インフルエンサー",
+        "統合医療、代替医療、がん代替療法を扱う一部の発信者",
+        "伝統医療の振興を掲げる団体・教育機関・観光事業者"
+      ],
+      "beneficiaries": [
+        "アーユルヴェーダ製品、サプリメント、ハーブ製剤、施術、講座の販売事業者",
+        "ヨガ、スパ、リトリート、デトックス、美容サービス市場",
+        "伝統医療観光や関連資格ビジネスで集客する主体"
+      ],
+      "source": {
+        "title": "NCCIH: Ayurvedic Medicine: In Depth",
+        "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+      }
+    },
+    "sources": [
+      {
+        "title": "NCCIH: Ayurvedic Medicine: In Depth",
+        "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+        "type": "government"
+      },
+      {
+        "title": "FDA: FDA warns about heavy metal poisoning associated with certain unapproved ayurvedic drug products",
+        "url": "https://www.fda.gov/drugs/fraudulent-products/fda-warns-about-heavy-metal-poisoning-associated-certain-unapproved-ayurvedic-drug-products",
+        "type": "government"
+      },
+      {
+        "title": "Saper et al. (2008) Lead, Mercury, and Arsenic in US- and Indian-Manufactured Ayurvedic Medicines Sold via the Internet",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2755247/",
+        "type": "paper"
+      },
+      {
+        "title": "WHO: WHO establishes the Global Centre for Traditional Medicine in India",
+        "url": "https://www.who.int/news/item/25-03-2022-who-establishes-the-global-centre-for-traditional-medicine-in-india",
+        "type": "government"
+      },
+      {
+        "title": "Britannica: Ayurveda",
+        "url": "https://www.britannica.com/science/Ayurveda",
+        "type": "article"
+      },
+      {
+        "title": "NCCIH: Safe Use of Complementary Health Products and Practices",
+        "url": "https://www.nccih.nih.gov/health/safety",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["アーユルヴェーダ", "Ayurveda", "代替医療", "伝統医療", "自然療法", "ハーブ", "デトックス", "重金属", "鉛中毒", "統合医療"]
+  },
+  {
+    "id": "qigong-qi-energy-cure-claims",
+    "title": "気功の気で病気を治せる",
+    "category": "health",
+    "claim": "気功で体内の気を整えたり、熟練者が外気を送ったりすれば、がん、難病、慢性痛、精神疾患、感染症などを根本から治せる。標準治療ではなく気功治療を受ければ、薬や手術に頼らず回復できる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "気功はゆっくりした運動、呼吸、瞑想を組み合わせる心身技法として、疲労、睡眠、気分、生活の質などに限定的な効果が示されることがある。しかし、気や外気で病気そのものを治す、標準治療の代替になるという主張を支える十分な臨床根拠はない。",
+    "explanation": "気功には、運動・呼吸・集中を組み合わせる自己実践型の気功と、施術者が外部から『気』を送るとされる外気功がある。NCCIHは、がん症状への心身療法の文脈で太極拳・気功について、標準治療に追加する形で疲労や睡眠の改善に役立つ可能性があるが、標準治療の代替としてではないと整理している。Memorial Sloan Kettering Cancer Centerも、気功は低強度運動として不安、疲労、痛み、生活の質の改善に役立つ可能性を認めつつ、がん治療ではなく関連症状の緩和を助けるものだと説明している。がんサバイバーを対象にしたシステマティックレビューでは、疲労、睡眠、抑うつ、生活の質などで有望な結果がある一方、出版バイアスや小規模・短期研究の限界があり、疾患別の確定的推奨にはより厳密な試験が必要とされた。外気功については、疼痛を対象にしたランダム化試験のレビューで『有望だが説得的ではない』とされており、気という未知エネルギーが病変を直接治す証拠にはならない。したがって、補助的な運動・リラクゼーションとして使うことと、病気を治す代替医療として宣伝することは分けて考える必要がある。",
+    "why_it_spreads": [
+      "ゆっくりした運動、呼吸、瞑想で実際に楽になる体感が、病気そのものが治るという解釈につながりやすい",
+      "気、経絡、自然治癒力といった概念が、原因が分かりにくい慢性症状への説明として受け入れられやすい",
+      "標準治療への不安、副作用への恐怖、医療者との相性の悪さが、代替治療への期待を強める",
+      "達人の実演、体験談、テレビ・動画の演出が、独立した臨床効果の証拠と混同されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "気功を始めた後に症状が軽くなったことを、気功が病気を治した証拠とみなす",
+          "休息、軽い運動、呼吸法、社会的交流、プラセボ効果による変化を、気というエネルギーの治療効果として扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "疲労や気分など補助的アウトカムの改善研究を、がんや難病を治せる証拠に拡大する",
+          "実演動画、施術者の肩書き、体験談を、対照群のある臨床試験より強い証拠として扱う"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "気や自然治癒力を整えるという直感的な説明を、具体的な治療効果の証拠と混同する",
+          "薬や手術より自然だから安全で根本的だとみなす"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["低強度運動や瞑想としての有用性を、外気で病変を治す能力の存在論に置き換える"]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["臨床根拠の不足を指摘する医療者を、気功を理解しない西洋医学側の偏見として退ける"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "気功に類する導引、呼吸法、養生法は中国の古い身体技法に由来する。現在の『気功』という語と体系化された健康法としての普及は、20世紀半ば以降の中国で広がった現代的な再編と関係が深い。",
+      "spread_period": "中国では1980〜1990年代に『気功熱』と呼ばれる大流行があり、健康法、超能力、外気治療、宗教的運動、疑似科学論争が結びついた。日本語圏でも1980年代以降、健康雑誌、テレビ、武術・東洋医学ブーム、整体・ヒーリング市場、インターネット動画を通じて流布した。",
+      "spread_scope": "中国、日本、台湾、香港、東南アジア、欧米の補完代替医療、武術、ヨガ・瞑想、ウェルネス、がん代替療法、慢性痛・慢性疲労コミュニティで広がっている。",
+      "note": "検証対象は、気功を軽い運動・呼吸・瞑想として補助的に行うことではなく、気や外気によって疾患そのものを治療できる、標準治療を置き換えられるという主張である。",
+      "spreaders": [
+        "気功師、外気功師、ヒーリング施術者、代替医療クリニック",
+        "武術、東洋医学、スピリチュアル、ウェルネスを扱うメディア・動画チャンネル",
+        "がん代替療法、慢性痛、難病治療をうたう一部の発信者",
+        "気功教室、セミナー、資格講座、リトリートの運営者"
+      ],
+      "beneficiaries": [
+        "気功教室、施術、遠隔ヒーリング、講座、資格認定の事業者",
+        "気功関連の書籍、動画、オンラインサロン、セミナーの販売者",
+        "標準治療への不安を集客に使う代替医療・ウェルネス市場"
+      ],
+      "source": {
+        "title": "Britannica: Qigong",
+        "url": "https://www.britannica.com/topic/qigong"
+      }
+    },
+    "sources": [
+      {
+        "title": "NCCIH: Psychological or Physical Approaches for Cancer Symptoms",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/mind-and-body-approaches-for-cancer-symptoms-and-treatment-side-effects-science/",
+        "type": "government"
+      },
+      {
+        "title": "Memorial Sloan Kettering Cancer Center: Qigong",
+        "url": "https://www.mskcc.org/cancer-care/integrative-medicine/therapies/qigong",
+        "type": "other"
+      },
+      {
+        "title": "Wayne et al. (2018) Tai Chi and Qigong for cancer-related symptoms and quality of life",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5958892/",
+        "type": "paper"
+      },
+      {
+        "title": "Zeng et al. (2019) Qigong or Tai Chi in Cancer Care: an Updated Systematic Review and Meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30955106/",
+        "type": "paper"
+      },
+      {
+        "title": "NCBI Bookshelf DARE: External qigong for pain conditions",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK74720/",
+        "type": "paper"
+      },
+      {
+        "title": "Britannica: Qigong",
+        "url": "https://www.britannica.com/topic/qigong",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["気功", "外気功", "気", "東洋医学", "代替医療", "ヒーリング", "遠隔治療", "自然治癒力", "太極拳", "がん代替療法"]
+  },
+  {
+    "id": "law-of-attraction-manifestation-claims",
+    "title": "引き寄せの法則で望む現実を実現できる",
+    "category": "finance",
+    "claim": "強く願い、既に叶ったように感じ、ポジティブな波動を出せば、宇宙の法則によってお金、恋愛、仕事、健康、幸運を引き寄せられる。失敗、貧困、病気、不幸も本人の思考や波動が引き寄せたものである。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "目標を意識し行動計画を立てることや、現実的な楽観性が役立つ場合はある。しかし、思考や波動が宇宙的な法則として出来事を引き寄せるという主張に科学的根拠はなく、過度なポジティブ幻想は努力や判断を弱める可能性もある。",
+    "explanation": "引き寄せの法則は、ポジティブな思考や感情が同種の出来事を現実に引き寄せるというニューソート系の信念で、自己啓発、スピリチュアル、願望実現、マニフェステーションの文脈で広がっている。心理学では、明確な目標設定、自己効力感、現実的な期待、計画、行動が結果に影響しうることはあるが、それは思考が物理的・宇宙的な力として外部の出来事を動かすことを意味しない。OettingenとMayerの研究では、望ましい未来が実現しそうだという現実的な期待は努力や成果と関連した一方、理想の未来を気持ちよく空想するだけのポジティブ幻想は、複数領域で努力や成果の低さと関連した。Dixonらの2023年研究では、マニフェステーション信念を強く持つ人は自分の成功を高く見積もり、将来成功への自信も強い一方、リスクの高い投資や破産経験、非現実的な成功見積もりとも関連していた。Scientific Americanなどの批判が指摘するように、量子論、磁気、波動などを持ち出して思考が富や病気を引き寄せると説明するのは科学用語の誤用である。また、病気や貧困を本人の思考の結果とみなすと、被害者非難や必要な支援・治療・金融相談の遅れにつながる。",
+    "why_it_spreads": [
+      "複雑な人生の結果を、自分の思考を変えるだけで制御できるという分かりやすい物語にする",
+      "成功者の体験談や後付けの物語が、努力、資本、人脈、偶然、構造的条件の影響を見えにくくする",
+      "不安や停滞感がある時に、すぐ始められて希望を感じられる方法として受け入れられやすい",
+      "量子、波動、周波数、エネルギーなど科学風の語が、スピリチュアルな主張に説得力を与える"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "願った後に良い出来事が起きたことを、思考が出来事を引き寄せた証拠とみなす",
+          "成功者がポジティブに語ることを、ポジティブ思考が成功の原因だったと逆向きに解釈する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "願いが叶った体験談だけを集め、叶わなかった多数の例や途中で行動した要因を無視する",
+          "成功例だけを可視化し、失敗例を『波動が足りなかった』として除外する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "自己啓発の体験談、著名人の発言、売れた本を、普遍的な法則の証拠として扱う",
+          "心理学の目標設定や自己効力感の研究を、宇宙的な引き寄せ法則の証明として流用する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": ["偶然、運、社会的条件、市場変動、病気の自然経過を、本人の思考や波動で説明する"]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": ["希望や安心感を得られることと、外部現実を変える効果があることを混同する"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "思想的には19世紀米国のニューソート運動や心霊主義・自己啓発思想に由来する。Britannicaはニューソートを19世紀米国に起源を持つ心の治癒運動として説明しており、心が健康や現実に及ぼす力を重視した。",
+      "spread_period": "20世紀にはNapoleon Hill『Think and Grow Rich』、Norman Vincent Peale『The Power of Positive Thinking』などの成功哲学・ポジティブ思考の流れと結びついた。2006年の映画・書籍『The Secret』で世界的ブームとなり、2020年代にはTikTokやInstagramでmanifestation、lucky girl syndrome、アファメーションとして再流行している。",
+      "spread_scope": "英語圏を中心に世界的に流布し、日本語圏でも自己啓発書、スピリチュアル、恋愛・復縁、起業、投資、起業塾、オンラインサロン、占い・ヒーリング市場で広がっている。",
+      "note": "検証対象は、目標を明確にする、気持ちを整える、行動計画を立てるといった心理的・行動的技法ではなく、思考や波動が宇宙的法則として外部の富・病気・人間関係を直接引き寄せるという主張である。",
+      "spreaders": [
+        "ニューソート系・スピリチュアル系の自己啓発著者・講演者",
+        "『The Secret』以降のマニフェステーション系コンテンツ制作者",
+        "恋愛、復縁、起業、投資、自己実現を扱うSNSインフルエンサー",
+        "アファメーション、潜在意識、波動、宇宙へのオーダーを扱う講座・オンラインサロン"
+      ],
+      "beneficiaries": [
+        "自己啓発書、動画、講座、セミナー、オンラインサロンの販売者",
+        "恋愛・復縁、起業、投資、スピリチュアル相談を商品化する事業者",
+        "高額塾、コーチング、情報商材、成功法則コンテンツで集客する主体"
+      ],
+      "source": {
+        "title": "Britannica: New Thought",
+        "url": "https://www.britannica.com/event/New-Thought"
+      }
+    },
+    "sources": [
+      {
+        "title": "Britannica: New Thought",
+        "url": "https://www.britannica.com/event/New-Thought",
+        "type": "article"
+      },
+      {
+        "title": "Oettingen & Mayer (2002) The motivating function of thinking about the future",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12416922/",
+        "type": "paper"
+      },
+      {
+        "title": "Kappes & Oettingen (2011) Positive fantasies about idealized futures sap energy",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S002210311100031X",
+        "type": "paper"
+      },
+      {
+        "title": "Dixon et al. (2023) The Secret to Success? The Psychology of Belief in Manifestation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11616226",
+        "type": "paper"
+      },
+      {
+        "title": "Scientific American: The (Other) Secret",
+        "url": "https://www.scientificamerican.com/article/the-other-secret/",
+        "type": "article"
+      },
+      {
+        "title": "Live Science: The Pseudoscience of The Secret",
+        "url": "https://www.livescience.com/5303-pseudoscience-secret.html",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["引き寄せの法則", "マニフェステーション", "願望実現", "自己啓発", "ニューソート", "The Secret", "ポジティブ思考", "波動", "アファメーション", "情報商材"]
+  },
+  {
+    "id": "book-of-mormon-ancient-american-history-claim",
+    "title": "モルモン書は古代アメリカ史の実録である",
+    "category": "conspiracy",
+    "claim": "モルモン書はジョセフ・スミスが金版から翻訳した古代アメリカの実録であり、紀元前後のアメリカ大陸にイスラエル系のニーファイ人・レーマン人などの大文明が存在したこと、アメリカ先住民がその子孫であることは考古学・遺伝学でも裏づけられている。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "モルモン書は末日聖徒運動の聖典として信仰上の重要性を持つが、古代アメリカ史の一次史料として実証されているわけではない。主要な考古学・遺伝学の知見は、書中の民族・地名・文字・旧世界由来の大規模文明を直接裏づけていない。",
+    "explanation": "Britannicaは、モルモン書を1830年にニューヨーク州パルマイラで初版刊行された末日聖徒運動の聖典として説明し、その内容は紀元前600年ごろにエルサレムからアメリカへ移住したヘブライ人集団の歴史を語るものだと整理している。信仰上は神聖な啓示・翻訳として受け止められるが、歴史学・考古学では、本文中のニーファイ人、レーマン人、ザラヘムラ、バウンティフルなどを特定できる同時代碑文、遺物、都市、言語資料は確立していない。Mesoamerican考古学者Michael D. Coeは、Dialogue誌で、Book of Mormonを古代アメリカ移住史の歴史文書とみなす根拠は新世界の発掘から見つかっていないと論じた。遺伝学でも、RaghavanらのScience論文は、現代アメリカ先住民の祖先が主にシベリア・ベーリング地域を経た古い移住に由来することを示しており、紀元前1千年紀の近東系移住が大陸規模で主要祖先になったという単純な説明とは合わない。末日聖徒イエス・キリスト教会自身も、DNA研究はモルモン書の歴史的真正性を決定的に証明も否定もできないとしつつ、現在までの証拠ではアメリカ先住民の大多数が主にアジア系DNAを持つことを認めている。したがって、信仰としての聖典性と、考古学・遺伝学で実証された古代史であるという主張は分けて考える必要がある。",
+    "why_it_spreads": [
+      "信仰共同体にとって、聖典の歴史性が宗教的アイデンティティや宣教の根拠と結びつきやすい",
+      "古代アメリカ文明には未解明部分が多く、地名・遺跡・文化要素の類似が物語と結びつけられやすい",
+      "金版、失われた文字、埋もれた古代記録という設定が、隠された歴史を発見する物語として強い魅力を持つ",
+      "考古学の一部成果やDNA研究の限界が、本文全体の歴史性を支持する余地として過大解釈される"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "一般的な古代アメリカ文明の存在を、モルモン書固有の民族・都市・出来事の証拠として扱う",
+          "信仰上の証言や霊的確信を、考古学・遺伝学上の外部証拠と同じものとして扱う"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "都合のよい類似地名、遺跡、文化要素だけを取り上げ、本文中の地名・文字・動植物・技術との不一致を軽視する",
+          "DNA研究の限界だけを強調し、現時点で得られているアメリカ先住民の主要な祖先集団の知見を無視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "考古学に未発見領域があることを、特定の未証明文明が存在した証拠として扱う",
+          "DNAで完全には否定できないことを、歴史的に確認されたことと同一視する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": ["主流の考古学・遺伝学が直接証拠を認めないことを、宗教的偏見や学界の閉鎖性による否定として退ける"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["モルモン書が宗教的・文学的・共同体的に重要であることを、古代史料として真正であることの証明にすり替える"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "モルモン書は、ジョセフ・スミスが金版から翻訳したとする聖典として1830年3月にニューヨーク州パルマイラで初版が刊行された。初期の宣教では、アメリカ先住民をレーマン人の子孫とみなす語りと結びついて広まった。",
+      "spread_period": "1830年代以降、末日聖徒運動の宣教、移住、出版、翻訳を通じて継続的に流布した。20世紀には考古学的裏づけを探す運動や、メソアメリカ比定説、DNA論争、2006年以降のBook of Mormon序文表現の変更をめぐる議論を通じて、信仰内外で再検討されている。",
+      "spread_scope": "米国を中心に世界各地の末日聖徒コミュニティ、宣教資料、宗教教育、 apologetics、反モルモン批判、宗教史・アメリカ史研究の文脈で流布している。日本語圏では教会出版物、宣教師活動、宗教研究、批判サイト、動画で扱われる。",
+      "note": "検証対象は、神学的真理や信仰体験ではなく、モルモン書が考古学・遺伝学で実証された古代アメリカ史料であるという主張である。教会公式見解にも、DNA研究だけで真正性を決定できないという慎重な整理がある。",
+      "spreaders": [
+        "末日聖徒イエス・キリスト教会と関連する宣教・教育資料",
+        "Book of Mormonの歴史性を擁護する apologetics 団体・研究者・発信者",
+        "古代アメリカと聖書世界の接点を扱う書籍、動画、講演",
+        "モルモン書批判を扱う反対派・宗教比較メディア"
+      ],
+      "beneficiaries": [
+        "モルモン書の歴史性を軸に宣教・教育・出版を行う宗教組織・関連出版社",
+        "Book of Mormon考古学や聖地比定を扱う講座、ツアー、動画、書籍の発信者",
+        "宗教批判・脱会支援・比較宗教コンテンツで集客する媒体"
+      ],
+      "source": {
+        "title": "Church History Library: Book of Mormon First Edition (1830)",
+        "url": "https://history.churchofjesuschrist.org/content/library/book-of-mormon"
+      }
+    },
+    "sources": [
+      {
+        "title": "Britannica: Book of Mormon",
+        "url": "https://www.britannica.com/topic/Book-of-Mormon",
+        "type": "article"
+      },
+      {
+        "title": "Church History Library: Book of Mormon First Edition (1830)",
+        "url": "https://history.churchofjesuschrist.org/content/library/book-of-mormon",
+        "type": "other"
+      },
+      {
+        "title": "The Church of Jesus Christ of Latter-day Saints: Book of Mormon and DNA Studies",
+        "url": "https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-and-dna-studies?lang=eng",
+        "type": "other"
+      },
+      {
+        "title": "Coe (1973) Mormons and Archaeology: An Outside View",
+        "url": "https://www.dialoguejournal.com/articles/mormons-and-archaeology-an-outside-view/",
+        "type": "paper"
+      },
+      {
+        "title": "Raghavan et al. (2015) Genomic evidence for the Pleistocene and recent population history of Native Americans",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4733658/",
+        "type": "paper"
+      },
+      {
+        "title": "Smithsonian National Museum of American History: Joseph the Prophet Addressing the Lamanites",
+        "url": "https://americanhistory.si.edu/collections/nmah_325400",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["モルモン書", "Book of Mormon", "末日聖徒", "ジョセフ・スミス", "ニーファイ人", "レーマン人", "古代アメリカ", "考古学", "DNA", "宗教史"]
+  },
+  {
+    "id": "tanaka-memorial-world-conquest-forgery",
+    "title": "田中メモランダムは日本の世界征服計画を示す本物の公文書である",
+    "category": "conspiracy",
+    "claim": "田中義一首相が1927年に昭和天皇へ極秘上奏した『田中メモランダム／田中上奏文』は本物であり、日本政府は満蒙、中国、アジア、欧米へ段階的に侵略し世界征服する計画を国家方針として持っていた。満州事変以後の日本の行動は、その計画書が真正だった証拠である。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "田中メモランダムは1930年代から日本の侵略性を示す文書として広く流布したが、現在の史学では偽書とみなされる。原本が確認されず、上奏文としての形式不備や事実誤認があり、東京裁判でも存在を確証する証言は得られていない。",
+    "explanation": "田中メモランダムは、1927年の東方会議後に田中義一首相が天皇へ上奏したとされる文書で、『支那を取るためにはまず満蒙を取り、世界を取るためにはまず支那を取る』という趣旨の世界征服計画を述べたものとして知られる。コトバンク収録の日本大百科全書は、1929年12月に中国の雑誌『時事月報』で『田中義一上日皇之奏章』として掲載され、東京裁判でも取り上げられたが、形式その他から偽書と認定されていると整理している。ブリタニカ小項目事典も、上奏文として不審な点や明らかな事実誤りがあり偽書とされ、極東国際軍事裁判で岡田啓介、森島守人は存在を否定し、秦徳純も肯定できなかったと説明している。John J. StephanのModern Asian Studies論文は、原本を見たと認める者がいない『文書』であり、1929年に中国側が暴露して1930年代に国際的に有名になったと位置づけた。満州事変、日中戦争、太平洋戦争が後に起きたため、内容が予言的に見えたことは流布を強めたが、後の出来事との一致は文書の真正性を証明しない。日本の実際の侵略政策や軍部の拡張主義は別に検証されるべき史実であり、それを理由に出所不明の田中メモランダムを真正公文書とみなすのは不適切である。",
+    "why_it_spreads": [
+      "その後の日本の満州・中国・太平洋での軍事行動と内容が重なって見え、後知恵で『予言が当たった』ように感じられる",
+      "秘密上奏文、世界征服計画、暴露文書という構図が、侵略の意図を一枚で説明する強い物語になる",
+      "戦時宣伝、反日宣伝、戦争責任追及、東京裁判をめぐる政治的対立の中で象徴的に使われやすい",
+      "偽書であっても日本の侵略が実在したため、文書の真偽と侵略史の評価が混同されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "後の日本の侵略行動と文書の内容が似ていることを、文書が事前に存在した証拠とみなす",
+          "実際の政策傾向や軍部の拡張主義を、特定の出所不明文書の真正性に直結させる"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "原本が確認されていない文書を、国家最高機密の公文書として扱う",
+          "翻訳・転載・宣伝文書として流通したことを、一次史料としての真正性の証拠にする"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "満州事変以後の一致点だけを取り上げ、上奏文の形式不備、事実誤認、証言の不一致を軽視する",
+          "日本政府や関係者の否定をすべて自己弁護として退け、文書側の来歴不明性を検討しない"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": ["原本が見つからないことを、偽書の可能性ではなく、真相隠蔽や証拠抹消の証拠として扱う"]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": ["日本の侵略戦争があったという史実と、田中メモランダムが本物の公文書であるという別の主張を混同する"]
+      }
+    ],
+    "circulation": {
+      "first_seen": "田中メモランダムは、1929年12月に中国の雑誌『時事月報』が『田中義一上日皇之奏章』として掲載したことで広く知られるようになった。文書自体は1927年7月25日に田中義一が上奏したものとされたが、確認可能な日本語原本は示されていない。",
+      "spread_period": "1930年代に中国・欧米で『日本の世界征服計画』として流布し、1931年の満州事変以後、日本の行動が内容と一致するように見えたため信憑性が高まった。第二次世界大戦中には反日宣伝や連合国側の日本批判で使われ、戦後の東京裁判でも論点化した。戦後は偽書研究、日中歴史認識、歴史教科書・ネット論争の文脈で再流通している。",
+      "spread_scope": "中国語圏、日本語圏、英語圏で流布した。中国では日本軍国主義の計画性を示す象徴的文書として扱われ、日本では偽書・プロパガンダ・東京裁判史観をめぐる議論で引用されることが多い。",
+      "note": "田中メモランダムが偽書とみなされることは、日本の満州侵略、日中戦争、植民地支配、戦争責任を否定することを意味しない。問題は、特定文書が真正な公文書かどうかである。",
+      "spreaders": [
+        "1920〜1930年代の中国側メディア・国民政府系の対日宣伝",
+        "1930〜1940年代の欧米反日宣伝・戦時出版",
+        "東京裁判や戦争責任をめぐる政治的言説",
+        "戦後の日中歴史認識、教科書、ネット論争を扱う発信者"
+      ],
+      "beneficiaries": [
+        "日本の侵略意図を単純な陰謀文書で説明する戦時宣伝・政治宣伝の発信者",
+        "反日・親日いずれかの立場で歴史論争を動員するメディアや論客",
+        "歴史認識対立を題材に書籍、講演、動画、政治キャンペーンを展開する主体"
+      ],
+      "source": {
+        "title": "コトバンク: 田中メモランダム",
+        "url": "https://kotobank.jp/word/%E7%94%B0%E4%B8%AD%E3%82%81%E3%82%82%E3%82%89%E3%82%93%E3%81%A0%E3%82%80-3158118"
+      }
+    },
+    "sources": [
+      {
+        "title": "コトバンク: 田中メモランダム",
+        "url": "https://kotobank.jp/word/%E7%94%B0%E4%B8%AD%E3%82%81%E3%82%82%E3%82%89%E3%82%93%E3%81%A0%E3%82%80-3158118",
+        "type": "article"
+      },
+      {
+        "title": "Stephan (1973) The Tanaka Memorial (1927): authentic or spurious?",
+        "url": "https://www.cambridge.org/core/journals/modern-asian-studies/article/tanaka-memorial-1927-authentic-or-spurious/EBA231BC504F36EAA4D3F802FC38F7BF",
+        "type": "paper"
+      },
+      {
+        "title": "CiNii Research: 江口圭一『田中上奏文の真偽』",
+        "url": "https://cir.nii.ac.jp/crid/1520853834006570368",
+        "type": "paper"
+      },
+      {
+        "title": "国立国会図書館: 『田中上奏文の真偽』",
+        "url": "https://ndlsearch.ndl.go.jp/books/R000000004-I810583",
+        "type": "government"
+      },
+      {
+        "title": "好書好日: 『日中歴史認識 「田中上奏文」をめぐる相剋』書評",
+        "url": "https://book.asahi.com/article/11645212",
+        "type": "article"
+      },
+      {
+        "title": "Open Library: Japan's dream of world empire: the Tanaka memorial",
+        "url": "https://openlibrary.org/works/OL7576767W/Japan%27s_dream_of_world_empire",
+        "type": "other"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": ["田中メモランダム", "田中上奏文", "田中義一", "東方会議", "満蒙", "偽書", "戦時プロパガンダ", "東京裁判", "日中歴史認識", "世界征服計画"]
+  },
+  {
+    "id": "biblical-apocrypha-hidden-true-bible-claim",
+    "title": "聖書偽典は教会が隠した真の聖書である",
+    "category": "conspiracy",
+    "claim": "聖書偽典・外典・ナグ・ハマディ文書・死海文書などは、初期教会が権力維持のため正典から排除・隠蔽した「本当の聖書」であり、イエスの結婚、正統教義の捏造、聖書の全面的改ざんを示す決定的証拠である。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "聖書偽典・外典・ナグ・ハマディ文書・死海文書は、古代ユダヤ教・初期キリスト教の多様性を知るうえで重要な資料である。しかし、それらを一括して「教会が隠した真の聖書」や「正典を覆す決定的証拠」とみなす主張は、文書の年代、ジャンル、成立共同体、伝承過程の違いを無視している。",
+    "explanation": "外典・偽典・新約聖書外典と呼ばれる文書群には、正典に含まれなかった物語、黙示文学、格言集、共同体文書、グノーシス主義的文書などが含まれる。これらの多くは実在する古代文献であり、正典形成の過程や初期宗教運動の多様性を理解するための重要資料である。一方で、非正典であることは自動的に「より古い」「より真正」「隠蔽された真実」を意味しない。ナグ・ハマディ文書は1945年に発見されたコプト語写本群で、グノーシス主義的な著作や秘密の言葉を含むが、多くは2世紀以後の思想世界を反映する。『トマスによる福音書』も古い伝承を含む可能性は議論されるものの、正典福音書より歴史的に優位な目撃証言だとは確認されていない。死海文書は主に紀元前3世紀から紀元1世紀のユダヤ教文書で、ヘブライ語聖書写本、外典・偽典的文書、共同体規則などを含むが、キリスト教会が秘匿した新約の秘密文書ではない。正典形成には礼拝での使用、使徒性の理解、教義的一貫性、地域差、写本流通など複数の要因が関わっており、単純な権力者の隠蔽劇として説明するのは不正確である。",
+    "why_it_spreads": [
+      "「隠された聖書」「禁じられた福音書」という物語は、既存宗教や制度への不信と結びつきやすい",
+      "ナグ・ハマディ文書や死海文書のような実在する発見が、秘密史や陰謀の物語に転用されやすい",
+      "正典形成、写本、古代語、教父文献といった学術的な論点が難しく、単純な悪役構図で説明されやすい",
+      "宗教ミステリー、ドキュメンタリー、動画配信では「隠された真実」という演出が視聴者の関心を引きやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "情報の選択",
+        "items": [
+          "非正典文書の中で刺激的な箇所だけを取り上げ、文書全体の年代・言語・思想背景を無視する",
+          "正典形成に地域差や議論があった事実だけを強調し、文献学・写本学・教父資料の検討を軽視する"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "正典に入らなかったことを、直ちに権力による隠蔽や抹消の証拠とみなす",
+          "写本の発見が近代になったことを、内容が意図的に秘匿され続けた証拠として扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "古い写本・非正典文書・異端的思想の存在を、歴史的事実の直接証明と混同する",
+          "後代の写本や伝承を、イエスや使徒本人の一次証言として扱う"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "初期キリスト教に多様な文書や思想があったことと、正典が全面的に捏造されたという主張を混同する",
+          "信仰上の正統性や神学的評価の問題を、文献の成立年代や史料価値の問題と混同する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "研究上の未解決点や学説の幅を、都合のよい秘密史を入れ込む余地として扱う",
+          "断片的な写本や欠損した本文から、広範な歴史的結論を断定する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "非正典のユダヤ教・キリスト教文書は古代から存在し、「外典」「偽典」「隠された文書」を意味する用語も長い歴史を持つ。近代的な「教会が真の聖書を隠した」という流布主張は、1945年のナグ・ハマディ文書発見、1947年以降の死海文書発見、20世紀後半のグノーシス研究と大衆出版を背景に広がった。",
+      "spread_period": "1970年代以降、グノーシス文書や初期キリスト教の多様性を扱う一般向け書籍で認知が広がった。2000年代には『ダ・ヴィンチ・コード』型の宗教ミステリー、ユダの福音書報道、テレビ番組、インターネット記事、動画プラットフォームを通じて「禁じられた福音書」「隠された聖書」という表現が再流通した。",
+      "spread_scope": "英語圏、日本語圏を含む国際的な宗教ミステリー、古代史、オカルト、反教会、ニューエイジ、陰謀論コミュニティで流布する。学術的な聖書外典研究とは異なり、大衆向けには秘密史や教会陰謀の物語として語られることが多い。",
+      "note": "外典・偽典・ナグ・ハマディ文書・死海文書を研究すること自体は、聖書学・古代史・宗教学の正当な営みである。この項目が扱うのは、それらを一括して「隠蔽された真の聖書」や「正典を覆す決定的証拠」とする過剰な主張であり、信仰上の真偽判定ではない。",
+      "spreaders": [
+        "宗教ミステリーや古代史ミステリーを扱う出版・映像メディア",
+        "反教会・反制度を掲げる陰謀論系発信者",
+        "ニューエイジ、秘教、オカルト系の講師・インフルエンサー",
+        "ナグ・ハマディ文書、死海文書、ユダの福音書などをセンセーショナルに扱うブログや動画チャンネル"
+      ],
+      "beneficiaries": [
+        "宗教ミステリー本、ドキュメンタリー、動画配信で収益を得るメディア事業者",
+        "隠された知識や秘教的講座を販売する講師・セミナー運営者",
+        "既存宗教への不信を動員して支持者や視聴者を集める発信者"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: Biblical apocrypha",
+        "url": "https://www.britannica.com/topic/apocrypha"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: Biblical apocrypha",
+        "url": "https://www.britannica.com/topic/apocrypha",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Pseudepigrapha",
+        "url": "https://www.britannica.com/topic/pseudepigrapha",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: The Nag Hammadi Library",
+        "url": "https://www.britannica.com/topic/The-Nag-Hammadi-Library",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Gospel of Thomas",
+        "url": "https://www.britannica.com/topic/Gospel-of-Thomas",
+        "type": "article"
+      },
+      {
+        "title": "Library of Congress: Scrolls from the Dead Sea",
+        "url": "https://www.loc.gov/exhibits/scrolls/",
+        "type": "government"
+      },
+      {
+        "title": "Library of Congress: The Qumran Library",
+        "url": "https://www.loc.gov/exhibits/scrolls/libr.html",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-04-23",
+    "tags": [
+      "聖書偽典",
+      "聖書外典",
+      "新約外典",
+      "ナグ・ハマディ文書",
+      "死海文書",
+      "トマスによる福音書",
+      "グノーシス主義",
+      "正典形成",
+      "禁じられた福音書",
+      "隠された聖書",
+      "宗教陰謀論"
+    ]
   }
 ]
