@@ -176,6 +176,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 よくある誤謬
               </Link>
               <Link
+                href="/criteria/"
+                style={{
+                  color: "#a0aec0",
+                  fontSize: ".875rem",
+                  textDecoration: "none",
+                }}
+              >
+                似非科学の判断基準
+              </Link>
+              <Link
                 href="/about/"
                 style={{
                   color: "#a0aec0",
