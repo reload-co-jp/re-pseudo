@@ -160,6 +160,12 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 一覧
               </Link>
               <Link
+                href="/fallacies/"
+                style={{ color: "#a0aec0", fontSize: ".875rem", textDecoration: "none" }}
+              >
+                よくある誤謬
+              </Link>
+              <Link
                 href="/about/"
                 style={{ color: "#a0aec0", fontSize: ".875rem", textDecoration: "none" }}
               >
