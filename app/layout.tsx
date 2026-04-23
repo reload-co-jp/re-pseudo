@@ -1,7 +1,10 @@
 import Link from "next/link"
+import Script from "next/script"
 import "./reset.css"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
+const GA_MEASUREMENT_ID = "G-XTHQD4EWNJ"
+const IS_PRODUCTION = process.env.NODE_ENV === "production"
 const SITE_TITLE = "Re pseudo — 似非科学・陰謀論の主張検証"
 const SITE_DESCRIPTION =
   "似非科学・陰謀論・誤情報の主張を、根拠・出典・流布状況・よく使われる論法とともに整理する検証カタログ。"
@@ -96,6 +99,22 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <html lang="ja">
       <body>
+        {IS_PRODUCTION && (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+              strategy="afterInteractive"
+            />
+            <Script id="google-analytics" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', '${GA_MEASUREMENT_ID}');
+              `}
+            </Script>
+          </>
+        )}
         <script
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
           type="application/ld+json"
