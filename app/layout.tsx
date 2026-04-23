@@ -205,10 +205,23 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             padding: "1rem 1.5rem",
           }}
         >
-          <p style={{ color: "#718096", margin: "0 auto", maxWidth: "900px" }}>
-            &copy; Re pseudo —
-            情報の信頼性を判断するための材料提供を目的としています。
-          </p>
+          <div style={{ color: "#718096", margin: "0 auto", maxWidth: "900px" }}>
+            <p style={{ margin: 0 }}>
+              &copy; Re pseudo —
+              情報の信頼性を判断するための材料提供を目的としています。
+            </p>
+            <p style={{ margin: ".25rem 0 0" }}>
+              運営:{" "}
+              <a
+                href="https://reload.co.jp"
+                rel="noopener noreferrer"
+                style={{ color: "#718096" }}
+                target="_blank"
+              >
+                株式会社リロード
+              </a>
+            </p>
+          </div>
         </footer>
       </body>
     </html>
