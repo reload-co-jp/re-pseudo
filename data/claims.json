@@ -2929,5 +2929,371 @@
       "隠された聖書",
       "宗教陰謀論"
     ]
+  },
+  {
+    "id": "detox-cleanses-remove-toxins-claim",
+    "title": "デトックスで体内の毒素を排出できる",
+    "category": "health",
+    "claim": "ジュースクレンズ、酵素ドリンク、デトックスティー、サプリ、腸内洗浄、足裏シートなどのデトックスで、体内にたまった毒素や老廃物を排出でき、健康・美容・減量に役立つ。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "通常のデトックス商品やクレンズが曖昧な「毒素」を排出するという裏づけは乏しい。短期的な体重減少や爽快感が出ることはあっても、多くはカロリー制限、水分変動、下剤作用などによるもので、方法によっては脱水や電解質異常などの害がある。",
+    "explanation": "身体には本来、肝臓、腎臓、消化管などを通じて不要物質を処理・排出する仕組みがある。NCCIHは、デトックスやクレンズの人での研究は少なく質も低いとし、2015年のレビューには体重管理や毒素除去を支持する説得的な根拠がないと要約している。商業的なデトックスでしばしば語られる「毒素」は具体性が低く、何をどの経路でどれだけ除去できるのかが曖昧なことが多い。ジュースクレンズや極端な食事制限で一時的に体重が減ることはあっても、その多くは摂取カロリーや糖質の減少、水分・グリコーゲン変動によるもので、長期的な有効性は示されていない。腸内洗浄や下剤・利尿作用を伴う製品は、脱水、電解質異常、消化器症状、まれに重い合併症のリスクもある。なお、重金属中毒などで行う医学的な解毒治療は存在するが、それは診断と適応が明確な医療行為であり、市販のデトックス商材一般とは別物である。",
+    "why_it_spreads": [
+      "「毒素」や「老廃物」という曖昧で不安を刺激しやすい言葉が、体調不良や罪悪感の説明として便利に使われやすい",
+      "短期の絶食、下剤、発汗、低糖質化で生じる体重変化や一時的な高揚感が、毒素排出の証拠と誤解されやすい",
+      "年始、連休後、美容・減量シーズンに、リセット願望と結びついて流行しやすい",
+      "インフルエンサー、ウェルネス、美容、代替医療の広告が、科学用語と体験談を混ぜて訴求しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "どの毒素を何で測り、どれだけ減ったのかを示さないまま、排出効果を断定する",
+          "発汗、排便、体重減少を、そのまま毒素除去の証拠とみなす"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "食事制限や水分変動による短期的な見た目の変化を、デトックス固有の効果だと解釈する",
+          "体調の自然な回復や生活改善による変化を、特定のクレンズ商品のおかげとみなす"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "自然由来、植物性、ハーブというだけで、安全かつ有効だと考える",
+          "体をきれいにする、内側から流すといった直感的な表現を、科学的説明の代わりに使う"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "現代生活で化学物質に触れることは事実だから、市販デトックスにも効果があるはずだと飛躍する",
+          "疲労感、むくみ、便通変化など原因が多い症状を、すべて毒素蓄積のせいにする"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "好意的な体験談やビフォーアフターだけを示し、対照群や長期経過を見ない",
+          "一部の食品成分や断食研究を、市販のデトックス商品全般の証拠に流用する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "近代の『デトックス』流行は、断食療法や自然療法の系譜と結びついて発展した。代表例のひとつである Master Cleanse は1940年代に Stanley Burroughs が提唱し、後にレモンデトックスとして広く知られるようになった。",
+      "spread_period": "2000年代以降、セレブ文化、ジュースクレンズ、デトックスティー、腸活、美容・減量マーケティング、SNSのビフォーアフター投稿を通じて英語圏・日本語圏で再拡大した。2010年代後半以降はインフルエンサーマーケティングやサブスク型サプリ販売と結びついて流通している。",
+      "spread_scope": "英語圏、日本語圏を含むウェルネス、美容、ダイエット、代替医療コミュニティで広い。ジュース、茶、酵素ドリンク、足裏シート、腸内洗浄、サウナ、ファスティング合宿など多様な形に派生している。",
+      "note": "医療現場での中毒治療や特定の検査前処置まで否定するものではない。この項目が扱うのは、曖昧な毒素概念を用いて一般向け商品・施術に広く効果をうたうデトックス言説である。",
+      "spreaders": [
+        "ウェルネス・美容・ダイエット系インフルエンサー",
+        "ジュースクレンズ、デトックスティー、サプリ、腸内洗浄を扱う事業者",
+        "代替医療、自然療法、ファスティング施設の一部発信",
+        "年始や連休明けのリセット需要を狙う広告メディア"
+      ],
+      "beneficiaries": [
+        "デトックスティー、酵素ドリンク、クレンズジュース、サプリなどの販売事業者",
+        "腸内洗浄、ファスティング、ウェルネス宿泊プログラムの提供者",
+        "美容・減量不安を集客に使う広告、アフィリエイト、インフルエンサーマーケティングの担い手"
+      ],
+      "source": {
+        "title": "Healthline: The Master Cleanse Diet Review",
+        "url": "https://www.healthline.com/health/master-cleanse-diet"
+      }
+    },
+    "sources": [
+      {
+        "title": "NCCIH: “Detoxes” and “Cleanses”: What You Need To Know",
+        "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know",
+        "type": "government"
+      },
+      {
+        "title": "NIH News in Health: Do Detox Diets and Cleanses Work?",
+        "url": "https://newsinhealth.nih.gov/2021/12/do-detox-diets-cleanses-work",
+        "type": "government"
+      },
+      {
+        "title": "Klein & Kiat (2015) Detox diets for toxin elimination and weight management: a critical review of the evidence",
+        "url": "https://researchers.mq.edu.au/en/publications/detox-diets-for-toxin-elimination-and-weight-management-a-critica/",
+        "type": "paper"
+      },
+      {
+        "title": "FTC: Detox tea claims are hard to swallow",
+        "url": "https://consumer.ftc.gov/ftc-detox-tea-claims-are-hard-swallow",
+        "type": "government"
+      },
+      {
+        "title": "FTC returns more than $930,000 to consumers who bought Teami’s deceptively advertised teas",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2022/02/ftc-returns-more-930000-consumers-who-bought-teamis-deceptively-advertised-teas",
+        "type": "government"
+      },
+      {
+        "title": "Mayo Clinic: Colon cleansing: Is it helpful or harmful?",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/consumer-health/expert-answers/colon-cleansing/faq-20058435",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-24",
+    "updated_at": "2026-04-24",
+    "tags": [
+      "デトックス",
+      "クレンズ",
+      "ジュースクレンズ",
+      "デトックスティー",
+      "酵素ドリンク",
+      "腸内洗浄",
+      "ファスティング",
+      "老廃物",
+      "毒素",
+      "ウェルネス",
+      "美容健康商材"
+    ]
+  },
+  {
+    "id": "low-carb-diet-universally-best-safe-claim",
+    "title": "糖質制限は誰にでも最善で、糖質は避けるほど健康に良い",
+    "category": "health",
+    "claim": "糖質は体に悪く、できるだけ減らすか断つべきである。厳格な糖質制限やケトジェニック食は、誰にとっても安全で、減量、糖尿病、慢性疾患の予防・改善に最善の方法である。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "糖質制限は一部の成人では減量や2型糖尿病の血糖管理に役立つことがあるが、糖質そのものが「毒」というわけではなく、厳格な糖質制限が誰にでも最善・安全とは言えない。長期効果は一貫せず、食事の質や個別条件、薬剤調整が重要である。",
+    "explanation": "炭水化物は身体の主要なエネルギー源のひとつで、食物繊維、全粒穀物、豆類、果物、乳製品などを通じて栄養を供給する。MedlinePlusは、炭水化物は健康的な食事の一部であり、平均的には総摂取カロリーの45〜65%を炭水化物からとるとしている。一方で、低炭水化物食は、減量や2型糖尿病の血糖改善に短期的な利点を示す研究がある。ADAのコンセンサス報告でも、糖尿病のある人では炭水化物摂取量を減らすことが血糖管理に有効な選択肢になりうるが、すべての人に理想的な炭水化物・脂質・たんぱく質比率があるわけではなく、個別化が必要とされている。2022年のメタ解析でも、低炭水化物食は肥満の人で短期的にはやや大きな減量効果を示したが、10〜14か月以降は差が小さくなった。さらに、長期的な健康影響は食事の中身に左右される。精製炭水化物を減らし、野菜、豆類、全粒穀物、ナッツ、不飽和脂肪を重視することは有益だが、炭水化物を一律に悪者にして、動物性脂肪や加工肉に置き換えればよいという話ではない。子ども、妊娠中、1型糖尿病、腎疾患、糖尿病薬の調整が必要な人などでは、自己判断の厳格な糖質制限が問題になることもある。",
+    "why_it_spreads": [
+      "体重が最初に落ちやすく、むくみや血糖変動の改善も体感しやすいため、万能感が生まれやすい",
+      "白砂糖や菓子類への批判が、果物、豆類、全粒穀物まで含めた炭水化物全体の否定に広がりやすい",
+      "『糖質は毒』『太るのは糖質だけ』のような単純な物語は、複雑な栄養学より共有されやすい",
+      "ダイエット本、SNS、ケト製品、食事指導ビジネスが、短期成果を前面に出して拡散しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "精製糖や過剰な超加工食品の問題を、炭水化物全体の有害性へ一般化する",
+          "一部の疾患管理での有用性を、全員にとっての最適解だと読み替える"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "摂取カロリー低下や水分変動による初期の減量を、糖質制限そのものの普遍的優位性とみなす",
+          "薬剤調整や全体の食事改善で起きた血糖改善を、糖質さえ減らせばよいという結論に結びつける"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "短期試験や成功体験だけを強調し、長期追跡や継続困難性を見ない",
+          "体重やHbA1cの改善だけを見て、食物繊維、脂質の質、生活背景の違いを無視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "個人差が大きい領域であることを、極端な主張の根拠に使う",
+          "長期安全性や対象集団ごとの差が未解決な点を、『だから全員試すべき』という方向へ解釈する"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "血糖が上がる栄養素だから悪いはずだという直感で、炭水化物全体を危険視する",
+          "ケトーシスや脂肪燃焼という言葉から、より自然で優れた代謝状態だと短絡する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "近代的な低炭水化物ダイエットの代表格は、1960年代に始まり1970年代に書籍化されたアトキンス式で、糖質制限を減量の中心に据えた。ケトジェニック食自体はてんかん治療で古くから使われていたが、一般向け減量法としては後年に大衆化した。",
+      "spread_period": "2000年代前半にアトキンスや低炭水化物ダイエットが大流行し、2010年代以降はパレオ、ケト、糖質オフ商品、CGM活用、SNSのビフォーアフター投稿を通じて再拡大した。2020年代には2型糖尿病の食事療法、ダイエット、アンチ糖質言説が混在したまま流通している。",
+      "spread_scope": "英語圏、日本語圏を含む減量、糖尿病管理、フィットネス、アンチ砂糖、自己最適化コミュニティで広い。緩やかな低糖質から厳格なケトジェニックまで幅があり、同じ『糖質制限』でも中身はかなり異なる。",
+      "note": "この項目は、低炭水化物食の医療的・個別的な活用を否定するものではない。対象は『糖質は毒』『誰でも厳格に減らすほどよい』『万能で安全』という一般化された主張である。",
+      "spreaders": [
+        "ダイエット本、自己啓発系の食事法メディア",
+        "ケト、糖質オフ、ボディメイク系インフルエンサー",
+        "低糖質食品、サプリ、指導サービスを扱う事業者",
+        "糖尿病・減量の成功体験を一般化して発信する一部のコミュニティ"
+      ],
+      "beneficiaries": [
+        "低糖質食品、ケト食品、代替甘味料、サプリの販売事業者",
+        "糖質制限の書籍、講座、オンラインサロン、食事指導サービスの提供者",
+        "ボディメイクや自己管理需要を集客に使う広告・アフィリエイト・SNS発信者"
+      ],
+      "source": {
+        "title": "Mayo Clinic: Atkins Diet: What's behind the claims?",
+        "url": "https://www.mayoclinic.org/health/atkins-diet/my00648"
+      }
+    },
+    "sources": [
+      {
+        "title": "MedlinePlus: Carbohydrates",
+        "url": "https://medlineplus.gov/carbohydrates.html",
+        "type": "government"
+      },
+      {
+        "title": "Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7011201/",
+        "type": "paper"
+      },
+      {
+        "title": "Silverii et al. (2022) Effectiveness of low-carbohydrate diets for long-term weight loss in obese individuals: A meta-analysis of randomized controlled trials",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35373905/",
+        "type": "paper"
+      },
+      {
+        "title": "Diabetes UK: Low-carb diets position statement",
+        "url": "https://www.diabetes.org.uk/for-professionals/supporting-your-patients/clinical-recommendations-for-professionals/low-carb-diets-for-people-with-diabetes",
+        "type": "article"
+      },
+      {
+        "title": "Mayo Clinic: Low-carb diet: Can it help you lose weight?",
+        "url": "https://www.mayoclinic.org/health/low-carb-diet/NU00279",
+        "type": "article"
+      },
+      {
+        "title": "Qin et al. (2023) Low-carbohydrate diet and risk of cardiovascular disease, cardiovascular and all-cause mortality: a systematic review and meta-analysis of cohort studies",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37701967/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-24",
+    "updated_at": "2026-04-24",
+    "tags": [
+      "糖質制限",
+      "低炭水化物食",
+      "ローカーボ",
+      "ケトジェニック",
+      "ケトダイエット",
+      "アトキンス",
+      "糖質オフ",
+      "ダイエット",
+      "糖尿病食事療法",
+      "炭水化物",
+      "食事法"
+    ]
+  },
+  {
+    "id": "autophagy-fasting-antiaging-cure-claim",
+    "title": "オートファジーは断食で確実に起動し、若返りや病気予防をもたらす",
+    "category": "health",
+    "claim": "16時間断食やファスティングをすればオートファジーが確実に起動し、細胞が若返る。これにより、がん予防、認知症予防、免疫改善、長寿など幅広い健康効果が得られる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "オートファジーは実在する重要な細胞機構だが、特定の断食法で人のオートファジーがどの程度・どの組織で・いつ活性化するかは単純ではない。断食が人で若返りや病気予防を広く保証するという主張は、人間研究より動物研究や基礎研究を先走って一般化している。",
+    "explanation": "オートファジーは、細胞が不要になった成分や損傷した構造を分解・再利用する基礎的な仕組みで、2016年のノーベル生理学・医学賞でもその機構解明が評価された。栄養不足やストレスで関連経路が変化することはよく知られており、断食や時間制限食がオートファジー関連マーカーに影響しうることを示す研究もある。ただし、人でのオートファジー測定は難しく、血液細胞のマーカー変化がそのまま全身の『若返り』を意味するわけではない。ヒト研究では、早めの時間制限食が一部マーカーや代謝指標に影響した報告はあるが、参加者数は小さく、短期試験が多い。NIHも、時間制限食は代謝症候群の人に控えめな利益を示したが、長期的な利点と欠点の理解にはさらなる研究が必要としている。体重管理の面でも、断食は選択肢のひとつではあるが、従来のカロリー制限より明確に優れているとは一貫して示されていない。したがって、『何時間空腹ならオートファジーが起動する』『起動すれば若返る』『病気予防まで広く約束される』という言い方は、基礎科学の知見を臨床効果へ飛躍させている。",
+    "why_it_spreads": [
+      "細胞の掃除、リサイクル、若返りという比喩が直感的で、難しい基礎生物学をわかった気にさせやすい",
+      "ノーベル賞受賞という事実が、断食法やサプリの商品宣伝に権威づけとして転用されやすい",
+      "断食で体重や食欲、眠気の変化を体感すると、それをオートファジーの証拠だと受け取りやすい",
+      "長寿、がん予防、脳機能改善など複数の願望を一つの仕組みで説明できるため、拡散力が高い"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "オートファジーという基礎細胞機構の存在と、特定の断食法の臨床的有効性を同一視する",
+          "基礎研究で示された機序を、そのまま人の若返りや病気予防の証明だと扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "動物実験や細胞実験の結果を、人間の日常的な断食法へ直接当てはめる",
+          "一部の血液マーカーや短期試験の変化を、全身の健康効果の確証とみなす"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "断食後の体重減少、眠気の変化、食欲低下などを、オートファジー由来の若返り効果と解釈する",
+          "生活習慣全体の改善や総摂取エネルギー低下の影響を、断食時間そのものの効果に帰属させる"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "人で最適な断食時間や組織ごとの差が未解明なことを、都合のよい時間ルールの断定に使う",
+          "今後の研究余地を、すでに効果が確立したかのような宣伝の余白にする"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "好意的な短期研究や解説だけを取り上げ、混合した臨床結果や長期データ不足を無視する",
+          "断食の不適応や薬剤調整の必要性を軽視し、誰でも実践すべき健康法として語る"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "オートファジー研究自体は1960年代から続いてきたが、一般向け健康言説として大きく可視化されたのは、2016年に大隅良典がオートファジー機構の解明でノーベル生理学・医学賞を受賞して以降である。断食と結びついた大衆的流行は、それ以前からあった断続的断食ブームと結合して強まった。",
+      "spread_period": "2010年代前半に5:2ダイエットや時間制限食が英語圏で流行し、2016年以降は『ノーベル賞のオートファジー』として日本語圏でも一気に拡散した。2020年代には16時間断食、ファスティングアプリ、健康系YouTube、サプリ宣伝と結びついて流布している。",
+      "spread_scope": "英語圏、日本語圏を含むダイエット、アンチエイジング、自己最適化、代替医療コミュニティで広い。断食法、サプリ、低糖質食、長寿法が混ざった形で語られることが多い。",
+      "note": "この項目は、オートファジーという細胞機構の存在や、断食研究そのものを否定するものではない。対象は、特定の断食法で人の若返りや広範な病気予防が確実に得られるとする過剰な一般化である。",
+      "spreaders": [
+        "断食、16時間断食、ファスティングを扱う健康インフルエンサー",
+        "アンチエイジング、自己最適化、美容系の動画・書籍メディア",
+        "ファスティングプログラム、アプリ、サプリ、関連食品の販売事業者",
+        "ノーベル賞や基礎研究を一般向け健康法に翻訳する解説コンテンツ"
+      ],
+      "beneficiaries": [
+        "ファスティング指導、リトリート、食事プログラムの提供者",
+        "断食支援アプリ、サプリ、プロテイン、関連食品の販売事業者",
+        "若返り、長寿、不調改善ニーズで集客する広告・アフィリエイト・SNS発信者"
+      ],
+      "source": {
+        "title": "The 2016 Nobel Prize in Physiology or Medicine",
+        "url": "https://www.nobelprize.org/prizes/medicine/2016/summary/"
+      }
+    },
+    "sources": [
+      {
+        "title": "The 2016 Nobel Prize in Physiology or Medicine",
+        "url": "https://www.nobelprize.org/prizes/medicine/2016/summary/",
+        "type": "other"
+      },
+      {
+        "title": "Longo & Mattson (2014) Fasting: Molecular Mechanisms and Clinical Applications",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3946160/",
+        "type": "paper"
+      },
+      {
+        "title": "Jamshed et al. (2019) Early Time-Restricted Feeding Improves 24-Hour Glucose Levels and Affects Markers of the Circadian Clock, Aging, and Autophagy in Humans",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31151228/",
+        "type": "paper"
+      },
+      {
+        "title": "NIH Research Matters: Time-restricted eating for metabolic syndrome",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/time-restricted-eating-metabolic-syndrome",
+        "type": "government"
+      },
+      {
+        "title": "Khalafi et al. (2025) Longer-term effects of intermittent fasting on body composition and cardiometabolic health in adults with overweight and obesity: A systematic review and meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39501676/",
+        "type": "paper"
+      },
+      {
+        "title": "Biomarkers of Autophagy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34260029/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-24",
+    "updated_at": "2026-04-24",
+    "tags": [
+      "オートファジー",
+      "16時間断食",
+      "断続的断食",
+      "時間制限食",
+      "ファスティング",
+      "若返り",
+      "アンチエイジング",
+      "長寿",
+      "細胞の掃除",
+      "ノーベル賞",
+      "健康法"
+    ]
   }
 ]
