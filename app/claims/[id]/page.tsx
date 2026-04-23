@@ -2,7 +2,6 @@ import { notFound } from "next/navigation"
 import Link from "next/link"
 import { FC } from "react"
 import { Badge, Card } from "components/elements/layout"
-import { ClaimDiagram } from "components/ClaimDiagram"
 import { getClaims, getClaimById } from "lib/claims"
 import {
   CATEGORY_LABEL,
@@ -478,11 +477,6 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
             </div>
           ))}
         </div>
-      </section>
-
-      <section style={sectionStyle}>
-        <h2 style={sectionTitleStyle}>相関図</h2>
-        <ClaimDiagram claim={claim} />
       </section>
 
       <section style={sectionStyle}>
