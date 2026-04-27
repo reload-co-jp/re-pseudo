@@ -5191,5 +5191,464 @@
       "資産形成",
       "投資初心者"
     ]
+  },
+  {
+    "id": "orgone-energy-healing-protection-claim",
+    "title": "オルゴンで治療・浄化・防御できる",
+    "category": "health",
+    "claim": "オルゴンという生命エネルギーは実在し、オルゴン蓄積器やオルゴナイトを使えば、病気の治療、活力の回復、空間の浄化、電磁波や悪影響からの防御ができる。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "オルゴンは Wilhelm Reich が提唱した仮説的な生命エネルギーだが、主流科学で再現的に確認された実体ではない。治療器具や浄化グッズとしての効能にも信頼できる根拠はなく、医療や安全対策の代わりになるという主張は成り立たない。",
+    "explanation": "オルゴンは、Wilhelm Reich が1930年代後半から唱えた『宇宙的生命エネルギー』の概念であり、彼はこれを集める器具として orgone energy accumulator（orgone box）を作り、神経系や健康に作用すると主張した。Britannica は Reich の orgonomy を疑似科学的体系として位置づけ、orgone box についても彼が多くの病気、とくにがんにまで効くと主張したと要約している。しかし、オルゴンそのものは既知の物理学・生理学で確認された実体ではなく、再現的な測定法も確立していない。米国FDAは1950年代に orgone accumulator を『quack products』の文脈で取り締まり、1954年には州際流通差止めの injunction を得た。1957年の連邦控訴裁判決でも、その装置が誤表示・不正表示された医療機器として争われていたことが確認できる。現代ではこの系譜がオルゴナイト、エネルギー浄化グッズ、電磁波防御アクセサリーなどへ受け継がれているが、名称や形が変わっても、核心部分である『オルゴンという測定可能なエネルギーが健康や環境に特別作用する』という根拠は示されていない。したがって、オルゴン製品を治療、浄化、防御の有効手段とみなすことは支持されない。",
+    "why_it_spreads": [
+      "『目に見えない生命エネルギー』という概念が、直感的で神秘的な魅力を持ちやすい",
+      "病気、疲労、不安、電磁波不安、空間浄化願望など、複数の悩みを一つの道具で解決できる物語になりやすい",
+      "箱、樹脂、金属、結晶などの視覚的な装置が、科学っぽさと儀式性を同時に与える",
+      "FDAとの対立や書籍焼却の歴史が、『抑圧された真実』という陰謀論的な語りに利用されやすい",
+      "手作りオルゴナイトやスピリチュアル商品として、個人販売・SNS拡散と相性がよい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "体感や口コミ、好転反応らしき変化を、再現的な効果の証拠として扱う",
+          "装置の形状や素材の説明を、オルゴン実在の検証と混同する"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "生命力や宇宙エネルギーという魅力的な語感自体を、実在の根拠のように使う",
+          "金属、木材、樹脂、結晶など自然物・半自然物の組み合わせを、安全性や有効性の証明にすり替える"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "科学界や規制当局の否定を、真実を隠す抑圧の証拠として読む",
+          "歴史上の訴追や焼却事件を、そのままオルゴンの有効性証明に転換する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "生命や意識に未解明部分があることを、オルゴン実在の余地として扱う",
+          "電磁波やストレスの不安を、オルゴン製品の万能性に一般化する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "リラックスした感じや儀式的満足感を、物理的・医療的防御効果へすり替える",
+          "歴史的人物としての Reich の影響力を、彼のエネルギー理論の妥当性と混同する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "オルゴン概念は Wilhelm Reich が1930年代後半に提唱し、1940年代には orgone energy accumulator を治療装置として広めた。以後、彼の orgonomy 周辺の小規模共同体を通じて存続した。",
+      "spread_period": "1940年代から1950年代に Reich の治療器具と気象操作装置が注目を集め、FDAとの対立で悪名と伝説性を帯びた。1960年代以降はカウンターカルチャー、ニューエイジ、代替医療、近年ではオルゴナイトや電磁波防御グッズとして再流通している。",
+      "spread_scope": "英語圏を中心に、代替医療、スピリチュアル、ニューエイジ、陰謀論コミュニティで広がった。日本語圏でも浄化グッズ、開運雑貨、電磁波対策アクセサリー、手作り販売の文脈で断続的に流通している。",
+      "note": "この項目は、Reich が精神分析史や20世紀思想史で議論される人物であることまで否定するものではない。対象は、オルゴンというエネルギーが実在し、器具や小物で健康・環境・防御に有効だとする主張である。",
+      "spreaders": [
+        "Wilhelm Reich 周辺の orgonomy 団体、後継出版物、オルゴン蓄積器の支持者",
+        "オルゴナイト、浄化グッズ、電磁波対策商品を扱うスピリチュアル・代替医療系の販売者や媒体"
+      ],
+      "beneficiaries": [
+        "関連器具、グッズ、講座、書籍、手作り販売で収益を得る事業者や発信者",
+        "『隠された生命エネルギー』の物語で集客できるスピリチュアル・陰謀論系コミュニティ"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: Wilhelm Reich",
+        "url": "https://www.britannica.com/biography/Wilhelm-Reich"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: Wilhelm Reich",
+        "url": "https://www.britannica.com/biography/Wilhelm-Reich",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: orgone",
+        "url": "https://www.britannica.com/science/orgone",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: orgone box",
+        "url": "https://www.britannica.com/science/orgone-box",
+        "type": "article"
+      },
+      {
+        "title": "FDA: Part IV: Regulating Cosmetics, Devices, and Veterinary Medicine After 1938",
+        "url": "https://www.fda.gov/about-fda/changes-science-law-and-regulatory-authorities/part-iv-regulating-cosmetics-devices-and-veterinary-medicine-after-1938",
+        "type": "government"
+      },
+      {
+        "title": "Wilhelm Reich et al. v. United States, 239 F.2d 134 (1st Cir. 1957)",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/F2/239/134/108394/",
+        "type": "other"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "オルゴン",
+      "orgone",
+      "オルゴナイト",
+      "orgonite",
+      "Wilhelm Reich",
+      "orgone accumulator",
+      "エネルギー治療",
+      "電磁波対策",
+      "浄化グッズ",
+      "疑似科学",
+      "ニューエイジ"
+    ]
+  },
+  {
+    "id": "seitai-body-distortion-cures-systemic-symptoms",
+    "title": "整体で体のゆがみを直せば幅広い不調が治る",
+    "category": "health",
+    "claim": "整体で骨盤や背骨、全身のゆがみを整えれば、腰痛や肩こりだけでなく、自律神経の乱れ、内臓不調、頭痛、不眠、冷え、疲労など幅広い症状を根本から治せる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "徒手療法や脊椎マニピュレーションには、腰痛や一部の筋骨格系症状で小さな改善を示す研究がある一方、『体のゆがみ』という曖昧な概念を介して全身不調を根本治療できるとする根拠はない。非筋骨格系の症状や病気まで広げた万能主張は誤解を招き、必要な受診を遅らせるおそれもある。",
+    "explanation": "整体という語は日本では広く使われるが、内容は店舗や流派によって大きく異なり、ストレッチ、マッサージ、関節モビライゼーション、脊椎マニピュレーションなどが混在している。NCCIHは、spinal manipulation について慢性腰痛や急性腰痛で低〜中等度の根拠があるとしつつ、効果は主に筋骨格系症状に関するもので、万能治療ではないと整理している。実際、Ernst の non-spinal pain に関する系統的レビューでは、乳児疝痛、中耳炎、月経痛、慢性骨盤痛、線維筋痛症など非脊椎性の症状に対する有効性は示されなかった。さらに『ゆがみ』は一般向け説明では多用されるが、何をもって病的なゆがみとし、どの手技でどの症状が改善するのかについて一貫した診断基準や再現的測定法は乏しい。安全性の面でも、NCCIHや有害事象レビューは、施術後の一時的な痛みや不快感が珍しくなく、頚部への強い操作ではまれながら重篤な神経・血管合併症が報告されているとしている。したがって、整体をリラクゼーションや一部の筋骨格系症状への補助的な手技として使うことと、『ゆがみ矯正で全身の不調が治る』という強い主張を信じることは分けて考える必要がある。",
+    "why_it_spreads": [
+      "『ゆがみ』という言葉は見えない不調を一つの原因で説明できる感じを与え、理解しやすい",
+      "施術後の軽さやリラックス感が、根本治療が起きた感覚につながりやすい",
+      "腰痛や肩こりのような症状改善の経験が、内臓や自律神経など別の問題にも一般化されやすい",
+      "店舗サイトやSNSではビフォーアフター、姿勢写真、体験談が視覚的に強く伝わる",
+      "病院で原因がはっきりしない不調に対して、『体のバランス』という説明が魅力的に見えやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "自然経過、休養、ストレス軽減、運動の影響による改善を、整体でゆがみが治った結果とみなす",
+          "姿勢や筋緊張の変化と、内臓・自律神経症状の因果関係を短絡的に結びつける"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "施術直後の体感や体験談を、広い症状群への有効性の証拠として扱う",
+          "腰痛や頚部痛での限定的な研究結果を、全身不調全般に拡大する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "医学的に原因が明確でない不調を、ゆがみ理論の正しさの裏づけとみなす",
+          "体の構造と機能の関係が複雑であることを、どんな症状でも手技で整えられる余地として語る"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "リラクゼーションや一時的な疼痛緩和を、根本原因の解消や病気の治療と混同する",
+          "筋骨格系症状への補助的有用性を、内臓疾患や全身症状への効果へすり替える"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "医療機関で原因が特定できないことを、整体だけが真の原因を見抜ける証拠とみなす",
+          "受診勧奨や禁忌への注意を、既存医療側の偏見や利権として退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "日本の『整体』は20世紀前半以降、武術系手技、オステオパシー、カイロプラクティック、民間療法などが混ざりながら広まった総称で、単一理論の起点を一つに定めにくい。",
+      "spread_period": "戦後の民間療法ブーム、1980〜1990年代の健康雑誌やテレビ、2000年代以降のウェブ集客、近年のSNS動画と口コミを通じて、『骨盤矯正』『姿勢矯正』『自律神経整体』といった語りで再拡大している。",
+      "spread_scope": "日本語圏を中心に、腰痛・肩こりのケア、姿勢改善、美容、産後ケア、自律神経ケア、原因不明の不調への対処として広く流通している。店舗サイト、予約サイト、SNS、動画、地域広告で日常的に接触しやすい。",
+      "note": "この項目は、整体や徒手療法によるリラクゼーションや、一部の筋骨格系症状への補助的な症状緩和まで否定するものではない。対象は、『体のゆがみ』を万能原因として、幅広い不調を根本治療できるとする強い主張である。",
+      "spreaders": [
+        "整体院、姿勢矯正・骨盤矯正・自律神経整体を掲げる店舗や予約媒体",
+        "健康情報サイト、SNS、動画、口コミで広がる体験談型コンテンツ"
+      ],
+      "beneficiaries": [
+        "継続通院、回数券、サブスク、関連セルフケア商材で収益を得る事業者",
+        "不調の原因を単純化した説明で集客しやすい健康・美容メディア"
+      ],
+      "source": {
+        "title": "厚生労働省: 医業類似行為に対する取扱いについて",
+        "url": "https://www.mhlw.go.jp/topics/bukyoku/isei/i-anzen/hourei/061115-1a.html"
+      }
+    },
+    "sources": [
+      {
+        "title": "NCCIH: Spinal Manipulation: What You Need To Know",
+        "url": "https://www.nccih.nih.gov/health/spinal-manipulation-what-you-need-to-know",
+        "type": "government"
+      },
+      {
+        "title": "NCCIH: Low-Back Pain and Complementary Health Approaches: What You Need To Know",
+        "url": "https://www.nccih.nih.gov/health/low-back-pain-and-complementary-health-approaches-what-you-need-to-know",
+        "type": "government"
+      },
+      {
+        "title": "Chiropractic manipulation for non-spinal pain: a systematic review",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK69954/",
+        "type": "paper"
+      },
+      {
+        "title": "Adverse effects of spinal manipulation: a systematic review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17606755/",
+        "type": "paper"
+      },
+      {
+        "title": "厚生労働省: 医業類似行為に対する取扱いについて",
+        "url": "https://www.mhlw.go.jp/topics/bukyoku/isei/i-anzen/hourei/061115-1a.html",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "整体",
+      "骨盤矯正",
+      "姿勢矯正",
+      "自律神経整体",
+      "manual therapy",
+      "spinal manipulation",
+      "ゆがみ",
+      "肩こり",
+      "腰痛",
+      "代替医療",
+      "民間療法"
+    ]
+  },
+  {
+    "id": "conversion-therapy-can-change-orientation-identity",
+    "title": "転向療法で性的指向や性自認を変えられる",
+    "category": "health",
+    "claim": "転向療法（conversion therapy、sexual orientation/gender identity change efforts）を受ければ、同性愛や両性愛、トランスジェンダーの性自認を異性愛・シスジェンダーへ変えることができ、本人の苦痛や生きづらさも改善する。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "転向療法には、性的指向や性自認を安全かつ有効に変えられるという信頼できる根拠がない。主要な精神医療・医療団体は有効性を支持しておらず、むしろ抑うつ、不安、自責感、希死念慮の増加など深刻な害と結びつくとして反対している。",
+    "explanation": "転向療法は、sexual orientation change efforts（SOCE）や gender identity change efforts を含む広い実践群で、心理療法、宗教的指導、懲罰的訓練、羞恥や罪悪感の強化などを通じて、性的指向や性自認を変えようとする。2018年の米国精神医学会（American Psychiatric Association）の position statement は、同性愛や多様な性自認を精神疾患とみなして変化を前提にする発想自体を否定し、倫理的な実践者は転向療法を行うべきでないと勧告している。APAの2020年記事やAMAの政策文書も、有効性を裏づける医学的証拠はなく、心理的苦痛や自傷・自殺リスクの上昇と関連すると整理している。Ryan らの研究では、思春期に親主導で転向療法的介入を受けたLGBT若者で、抑うつ、自殺念慮、自殺企図、学業・収入面の不利益との関連が示された。転向療法を受けた人の中には『変わった』と自己報告する人もいるが、それは行動抑制、宗教的再解釈、自己否認、社会的圧力下での表明を含みうるため、持続的で安全な変化の証拠にはならない。したがって、性的指向や性自認を変えられる治療として転向療法を勧めることは支持されない。",
+    "why_it_spreads": [
+      "宗教的・道徳的規範や家族期待の中で、『変われるはずだ』という希望や圧力が生まれやすい",
+      "性的指向や性自認に伴う苦痛の原因を、差別や葛藤ではなく本人の属性そのものに帰してしまいやすい",
+      "『元当事者が変わった』という証言が、複雑な内面や後の撤回を省いて強い説得力を持ちやすい",
+      "公的医療の外側で、宗教指導、カウンセリング、親向け支援、自己啓発として提供されやすい",
+      "社会的偏見が強い環境では、本人や家族が安全よりも同化を優先してしまう"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "個別の『変われた』証言を、再現性ある治療効果の証拠として扱う",
+          "苦痛の一時的低下や宗教共同体への再適応を、性的指向や性自認の変化そのものと混同する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "差別や自己否定による苦痛を、属性を変えるべき理由にすり替える",
+          "本人の信仰や価値観に寄り添う支援と、属性を変えることを目指す介入を混同する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "主要な医療・精神医療団体の反対を、政治的正しさやイデオロギーとして退ける",
+          "有害性への警告を、信仰や伝統への攻撃として読み替える"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "羞恥、自責感、家族からの拒絶が本人の精神状態に与える影響を軽視する",
+          "自己否認や抑圧的適応を、健全な治療成果として受け取ってしまう"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "人のアイデンティティ経験が流動的なことを、外部介入で望む方向へ変えられる証拠に拡大する",
+          "苦痛を減らす支援の必要性を、属性変更の治療が必要だという主張へ飛躍させる"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "同性愛を病理化する試みは19世紀末から存在したが、現代的な『転向療法』としては20世紀半ば以降、精神分析的治療、行動療法、宗教的矯正、ex-gay ministry などの形で広まった。",
+      "spread_period": "1970年代以降、同性愛の脱病理化が進む一方で、宗教右派や保守的カウンセリング団体の中で『reparative therapy』『ex-gay』として再編された。2010年代から2020年代にかけては多くの専門団体や自治体が規制・禁止を進める一方、宗教・家族・政治運動の文脈でなお継続している。",
+      "spread_scope": "英語圏を中心に宗教団体、保守的支援ネットワーク、無資格カウンセリング、オンライン発信で広く流布した。日本語圏でも宗教・家族相談・保守的言説の中で断続的に紹介されるが、実態は公的医療の外側に分散しやすい。",
+      "note": "この項目は、信仰や価値観と性的指向・性自認の葛藤を抱える人に対する非強制的な心理支援まで否定するものではない。対象は、属性そのものを変えることを目的とし、その有効性や安全性をうたう転向療法である。",
+      "spreaders": [
+        "転向療法を支持する宗教団体、ex-gay ministry、保守的カウンセリングや親支援ネットワーク",
+        "性的指向や性自認の多様性を病理化・矯正対象化する政治的・文化的言説"
+      ],
+      "beneficiaries": [
+        "相談、講座、宿泊プログラム、寄付集め、指導料で利益や影響力を得る団体や指導者",
+        "異性愛・シスジェンダー規範を維持したい制度や共同体"
+      ],
+      "source": {
+        "title": "American Psychological Association: A growing number of states ban sexual orientation change efforts",
+        "url": "https://www.apa.org/news/apa/2020/sexual-orientation-change"
+      }
+    },
+    "sources": [
+      {
+        "title": "American Psychiatric Association: Position Statement on Conversion Therapy and LGBTQ Patients",
+        "url": "https://www.psychiatry.org/getattachment/3d23f2f4-1497-4537-b4de-fe32fe8761bf/Position-Conversion-Therapy.pdf",
+        "type": "government"
+      },
+      {
+        "title": "American Psychological Association: A growing number of states ban sexual orientation change efforts",
+        "url": "https://www.apa.org/news/apa/2020/sexual-orientation-change",
+        "type": "article"
+      },
+      {
+        "title": "Parent-Initiated Sexual Orientation Change Efforts With LGBT Adolescents: Implications for Young Adult Mental Health and Adjustment",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30403564/",
+        "type": "paper"
+      },
+      {
+        "title": "Sexual Orientation and Gender Identity Change Efforts are Unethical and Harmful",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32639919/",
+        "type": "paper"
+      },
+      {
+        "title": "American Medical Association: Advocating for the LGBTQ community",
+        "url": "https://www.ama-assn.org/public-health/population-health/advocating-lgbtq-community",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "転向療法",
+      "conversion therapy",
+      "SOCE",
+      "reparative therapy",
+      "ex-gay",
+      "性的指向",
+      "性自認",
+      "LGBTQ",
+      "有害な療法",
+      "疑似科学",
+      "宗教右派"
+    ]
+  },
+  {
+    "id": "geopolitics-deterministically-predicts-national-destiny",
+    "title": "地政学で国家の運命や戦争の帰結を決定論的に読める",
+    "category": "conspiracy",
+    "claim": "地理的位置、海へのアクセス、資源、ハートランドやリムランドの位置関係さえ見れば、国家の行動や戦争の帰結、国際秩序の変化はかなり一意に予測できる。政治や経済、制度、文化、技術、偶発要因は二次的である。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "地政学は国際政治を考えるための一つの視角ではあるが、地理条件だけで国家の行動や戦争の結果を決定論的に読み切れるわけではない。現代の研究は、地理を『制約や可能性を与える条件』として扱う傾向が強く、通俗的な運命論や万能予測として使うのは誤解を招く。",
+    "explanation": "Britannica が説明するように、地政学は地理的条件が国際関係の力学に与える影響を考える分析枠組みであり、海上交通、資源、国境、空間配置などが無視できないこと自体は確かである。しかし、その古典的系譜には、ハートランド論やリムランド論のように、巨大な地理区分から世界政治の将来をかなり強く導こうとする傾向もあった。こうした古典地政学は大きな歴史的影響力を持った一方、戦間期の帝国主義やナチ期の geopolitik とも結びつき、戦後にはその決定論や政策正当化機能が強く批判された。Harvey Starr が論じるように、現代の国際政治研究における空間の重要性は、地理決定論ではなく possibilism、つまり地理が行為者に制約と選択肢を与えるという見方で捉えるほうが適切である。critical geopolitics も、地政学がしばしば客観的科学ではなく、国家やメディアが空間認識を組み立てる言説実践として働くことを示してきた。実際の戦争や外交では、政治体制、同盟、産業力、技術革新、補給、世論、指導者判断、偶発的出来事が結果を大きく左右する。したがって、地政学は有用な視点でありうるが、『地図を見れば運命が読める』『地理がほぼすべてを決める』という使い方は、分析ではなく通俗的な決定論に近い。",
+    "why_it_spreads": [
+      "複雑な国際政治を、地図と少数の概念で一気に理解できた感覚を与える",
+      "後から見ればもっともらしい地図解釈が多く、結果論が予測力に見えやすい",
+      "戦争や大国対立への不安が強い時期ほど、単純で断定的な説明が求められやすい",
+      "ニュース解説、動画、SNS、投資解説で『地政学』が権威的なラベルとして使われやすい",
+      "地理条件が実際に重要であるため、その重要性が過剰な運命論へ拡大されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "地理条件と歴史結果の相関を、そのまま単線的な因果法則として扱う",
+          "戦争の結果を一つの地理要因へ還元し、制度・技術・意思決定の相互作用を無視する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "古典理論に合う事例だけを取り上げ、外れた事例や反例を見落とす",
+          "歴史の一時点を切り出して、長期の変化や条件変動を無視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "地理が重要な制約条件であることを、ほぼ一意の未来予測が可能だという主張に拡大する",
+          "空間分析の有用性を、決定論的な運命論の正しさと取り違える"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "地政学を『考慮すべき一要素』として使うことと、『万能な説明装置』として使うことを混同する",
+          "政策提言やイデオロギー的主張を、客観的・不可避な地理法則のように見せる"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "政治学、経済学、地域研究の複雑な説明を、単純明快な地政学に比べて無用とみなす",
+          "異なる解釈がありうる国際情勢を、『地図を見れば答えは明白』として閉じてしまう"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "geopolitics という語は20世紀初頭に Rudolf Kjellén によって用いられ、Mahan、Mackinder、Spykman らの古典理論を通じて広がった。戦間期には geopolitik として国家戦略を正当化する語りにも結びついた。",
+      "spread_period": "第二次世界大戦後に一度は退潮したが、冷戦戦略、資源問題、地域紛争分析を通じて再浮上し、21世紀にはニュース解説、シンクタンク、YouTube、投資・ビジネス文脈で『地政学』が大衆語として再拡大した。",
+      "spread_scope": "英語圏、日本語圏を含む広い範囲で、外交・安全保障だけでなく、経済、エネルギー、サプライチェーン、投資判断の説明ラベルとして流通している。学術的議論から離れた場では、しばしば地理決定論や大国宿命論として単純化される。",
+      "note": "この項目は、地政学や政治地理学を学問として否定するものではない。対象は、地理条件から国家や戦争の結果をほぼ決定論的に読み切れるとする通俗的・断定的な主張である。",
+      "spreaders": [
+        "大国対立を単純化して語るニュース解説、動画、SNS、論壇、投資コンテンツ",
+        "古典地政学を万能フレームとして再利用する評論家や啓蒙書"
+      ],
+      "beneficiaries": [
+        "複雑な情勢をわかりやすく断定して集客できるメディアや発信者",
+        "自らの政策や世界観を『地理法則』として自然化したい政治的言説"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: geopolitics",
+        "url": "https://www.britannica.com/topic/geopolitics"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: geopolitics",
+        "url": "https://www.britannica.com/topic/geopolitics",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: critical geopolitics",
+        "url": "https://www.britannica.com/topic/critical-geopolitics",
+        "type": "article"
+      },
+      {
+        "title": "Harvey Starr, On Geopolitics: Spaces and Places",
+        "url": "https://doi.org/10.1111/isqu.12090",
+        "type": "paper"
+      },
+      {
+        "title": "Alexandros Stogiannos, The Genesis of Geopolitics and Friedrich Ratzel: Dismissing the Myth of the Ratzelian Geodeterminism",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-98035-5",
+        "type": "paper"
+      },
+      {
+        "title": "James D. Sidaway, Popular Geopolitics 3.0? Deconstructing the Boundaries of Popular Geopolitics",
+        "url": "https://doi.org/10.1080/14650045.2021.2022909",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "地政学",
+      "geopolitics",
+      "ハートランド",
+      "リムランド",
+      "地理決定論",
+      "大国政治",
+      "国際政治",
+      "戦争予測",
+      "popular geopolitics",
+      "critical geopolitics"
+    ]
   }
 ]
