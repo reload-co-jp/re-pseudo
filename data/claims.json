@@ -5650,5 +5650,575 @@
       "popular geopolitics",
       "critical geopolitics"
     ]
+  },
+  {
+    "id": "late-night-eating-automatically-causes-weight-gain",
+    "title": "夜に食べると太る",
+    "category": "health",
+    "claim": "同じ量を食べても、夜に食べた食事はそれだけで脂肪になりやすく、夜食や夕食後の間食は自動的に太る原因になる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "夜に食べれば即座に太るという単純な法則は成り立たない。体重増加の中心は総摂取エネルギー、食事内容、活動量、睡眠や生活リズムとの組み合わせで決まり、食事タイミングはその一要素にすぎない。ただし、遅い時間の食事や不規則な摂食は、食欲調整や血糖代謝、過食習慣を通じて不利に働くことがある。",
+    "explanation": "近年の chrononutrition 研究は、食事タイミングが代謝や食欲に影響しうることを示している。NHLBI の解説でも、体内時計と食事時間のずれは代謝に影響しうるとされる。一方で、それを『夜に食べたら同じものでも必ず太る』と単純化するのは正確ではない。2024年の JAMA Network Open の系統的レビュー・メタ解析は、meal timing が体格や代謝指標に影響する可能性を示しつつも、研究間の異質性や介入内容の違いが大きいことを示した。JAMA Internal Medicine の TREAT 試験では、12時から20時までの time-restricted eating は、通常の3食パターンに対して体重減少で明確な優位を示さなかった。他方、Jamshed らの early time-restricted eating 試験では、エネルギー制限と組み合わせた早い時間帯の摂食が体脂肪や代謝面で有利になりうる結果も出ている。つまり、食べる時刻はゼロではないが、単独で運命を決めるスイッチではない。夜食が太りやすいとされるのは、疲労や飲酒、テレビ視聴、睡眠不足などと結びついて、高カロリー食品を追加で食べやすく、総摂取量が増えやすいからでもある。したがって、『夜に食べると太る』は生活習慣上の注意としては一理あるが、時間帯だけで自動的に脂肪化すると受け取るのは誤解を招く。",
+    "why_it_spreads": [
+      "短く覚えやすく、食事管理のルールとして使いやすい",
+      "夜食後に罪悪感や満腹感が強く残りやすく、『太った原因』として記憶に残りやすい",
+      "夜遅い食事が実際には過食、飲酒、睡眠不足と結びつきやすいため、単純化した因果でも部分的に当たって見える",
+      "ダイエット情報では『何をどれだけ食べるか』より、『いつ食べるか』のほうが拡散しやすい",
+      "体内時計やインスリンの話が、複雑な条件を省いて断定的に伝えられやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "夜に食べる習慣と体重増加の関連を、時間帯そのものの単独効果として扱う",
+          "夜食と一緒に起こる過食、飲酒、睡眠不足、活動量低下の影響を切り分けずに結論づける"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "夜食で太った経験だけを覚え、同じ摂取量でも太らなかった例や全体のエネルギー収支を見落とす",
+          "早い時間の time-restricted eating に有利な研究だけを取り上げ、効果差の小さい試験を無視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "食事タイミングが代謝に影響しうることを、夜の食事は必ず太るという断定へ拡大する",
+          "一部の実験条件での差を、すべての人・すべての食事内容に一般化する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "『夜食が習慣化すると不利になりやすい』という生活指導を、『夜に食べたものは自動的に脂肪化する』という生理法則に変える",
+          "食欲管理や睡眠衛生の問題を、時間帯だけの問題へ単純化する"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "夜のストレス食いや習慣的つまみ食いの行動要因を無視し、時間帯だけを悪者にする",
+          "罪悪感や自己申告バイアスが、夜食の印象を実際以上に悪化させることを見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "『夜に食べると太る』という言い回しは、近代的なダイエット言説や家庭内の生活指導として20世紀後半から広く見られ、近年は chrononutrition や intermittent fasting の流行と結びついて再活性化している。",
+      "spread_period": "雑誌ダイエット、テレビ健康情報、夜食注意の生活習慣指導として以前から流通していたが、2010年代以降は time-restricted eating、16時間断食、体内時計ダイエットの文脈で再拡大した。",
+      "spread_scope": "日本語圏を含む広い地域で、家庭のしつけ、減量指導、SNS、動画、健康メディア、フィットネス業界で広く共有されている。科学解説では条件つきで語られる内容が、一般向けには断定的な標語へ単純化されやすい。",
+      "note": "この項目は、夜遅い食事や不規則な摂食が一部の人で体重管理や代謝に不利になりうることを否定するものではない。対象は、『夜に食べたものは時間帯だけで太る』『同じ量でも夜なら自動的に太る』という単純化された主張である。",
+      "spreaders": [
+        "ダイエット媒体、健康番組、SNS、動画、断食・体内時計ダイエットの発信者",
+        "短い生活ルールとして『夜食は太る』を広める一般向け健康情報"
+      ],
+      "beneficiaries": [
+        "断食プログラム、食事管理サービス、ダイエット商材を販売する事業者",
+        "単純な健康ルールで集客しやすいメディアやインフルエンサー"
+      ],
+      "source": {
+        "title": "NHLBI, NIH: Chrononutrition: Timing of meals matters for your health",
+        "url": "https://www.nhlbi.nih.gov/news/2023/chrononutrition-timing-meals-matters-your-health"
+      }
+    },
+    "sources": [
+      {
+        "title": "JAMA Network Open: Meal Timing and Anthropometric and Metabolic Outcomes: A Systematic Review and Meta-Analysis",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825747",
+        "type": "paper"
+      },
+      {
+        "title": "JAMA Internal Medicine: Effects of Time-Restricted Eating on Weight Loss and Other Metabolic Parameters in Women and Men With Overweight and Obesity",
+        "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2771095",
+        "type": "paper"
+      },
+      {
+        "title": "JAMA Internal Medicine: Effectiveness of Early Time-Restricted Eating for Weight Loss, Fat Loss, and Cardiometabolic Health in Adults With Obesity",
+        "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2794819",
+        "type": "paper"
+      },
+      {
+        "title": "NHLBI, NIH: Chrononutrition: Timing of meals matters for your health",
+        "url": "https://www.nhlbi.nih.gov/news/2023/chrononutrition-timing-meals-matters-your-health",
+        "type": "government"
+      },
+      {
+        "title": "The Relationship Between Feasting Periods and Weight Gain: a Systematic Scoping Review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31953670/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "夜食",
+      "夜に食べると太る",
+      "meal timing",
+      "chrononutrition",
+      "time-restricted eating",
+      "intermittent fasting",
+      "ダイエット",
+      "体重管理",
+      "食事時間",
+      "生活習慣"
+    ]
+  },
+  {
+    "id": "blood-type-o-mosquito-bites-more",
+    "title": "O型は蚊に刺されやすい",
+    "category": "health",
+    "claim": "O型の人は、A型やB型、AB型よりも蚊に刺されやすく、血液型だけで蚊に好まれやすさがかなり決まる。",
+    "verdict": "partially_true",
+    "confidence": "medium",
+    "risk_level": "low",
+    "summary": "O型の人に蚊がやや引き寄せられる可能性を示した研究はあるが、結果は限定的で、種や実験条件によって異なる。蚊に刺されやすさは血液型だけでは決まらず、体臭、皮膚細菌、呼気中の二酸化炭素、体温、妊娠、衣服の色、行動など多くの要因が関与する。",
+    "explanation": "2004年の Shirai らの研究では、ヒトスジシマカ（Aedes albopictus）が O型の被験者により多く着地する傾向が報告され、特にA型との比較で有意差が示された。ただし、この差は主に特定種・特定条件で観察されたもので、O型が他のすべての血液型より一貫して大幅に刺されやすいことまで証明したわけではない。蚊の吸血行動は非常に複雑で、Fikrig と Harrington のレビューが整理するように、実験デザイン、種差、宿主の環境、行動、局所的な生息条件によって結果の解釈は大きく変わる。また、CDC や NIH の解説が示すように、蚊は人を探す際にまず二酸化炭素、体臭、体温、湿度、視覚刺激など複数の手がかりを使う。Verhulst らの研究では皮膚細菌叢の構成も魅力度に関わっていた。したがって、『O型は蚊に刺されやすい』には一部研究的な裏づけはあるが、血液型だけで好まれやすさがほぼ決まると受け取るのは言い過ぎである。",
+    "why_it_spreads": [
+      "血液型は誰でも知っていて話題にしやすく、簡単な自己分類として広まりやすい",
+      "刺されやすい人には強い実感があり、血液型のような固定要因に原因を求めたくなりやすい",
+      "一部研究の『O型を好む傾向』という結果が、日常会話では『O型は刺される』へ単純化されやすい",
+      "血液型性格論と同じく、個人差をわかりやすく説明する雑学として消費されやすい",
+      "本当は複数因子で決まる現象でも、ひとつの答えにまとめたほうが覚えやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "一部の種・条件で見られた差を、すべての蚊・すべての状況に一般化する",
+          "『傾向がある』を『ほぼ決まる』へ拡大する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "O型を支持する研究だけを取り上げ、種差や条件差、混合した結果を無視する",
+          "自分や周囲の体験で合う例だけを覚え、反例を見落とす"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "血液型と刺されやすさの関連を、主要因であるかのように扱う",
+          "実際には二酸化炭素や体臭、体温などの要因が強い場面でも、血液型のせいにする"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "『少し好まれる可能性』を『防虫対策をしても無意味』のような宿命論へ変える",
+          "雑学的な差の話を、実際の防蚊行動より重要な要因のように見せる"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "刺された記憶の強さやかゆみ反応の個人差が、実際の吸血回数の印象を歪めることを見落とす",
+          "血液型ラベルが自己認識を補強し、『私はO型だから刺される』という確信を強める"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "血液型と蚊の嗜好の関係は少なくとも20世紀後半から研究されていたが、一般向けには2000年代以降、ヒトスジシマカ研究や健康雑学記事を通じて『O型は刺されやすい』として広まった。",
+      "spread_period": "雑誌やテレビの雑学、ウェブ記事、SNS、夏場の健康コラムを通じて繰り返し流布し、近年は『蚊にモテる人の特徴』の一項目として定着している。",
+      "spread_scope": "日本語圏を含む広い地域で、健康雑学、生活情報、虫除け情報、血液型談義の文脈で広く共有されている。研究上の限定条件が、会話の中では単純な一般法則に変わりやすい。",
+      "note": "この項目は、血液型が蚊の嗜好に全く無関係だと断言するものではない。対象は、O型なら血液型だけでかなり刺されやすさが決まる、という強い一般化である。",
+      "spreaders": [
+        "健康雑学メディア、夏の生活情報、SNS投稿、血液型談義コンテンツ",
+        "虫除けや生活情報を扱う一般向け記事や番組"
+      ],
+      "beneficiaries": [
+        "血液型雑学や季節ネタで集客できるメディアや発信者",
+        "『刺されやすい人向け』訴求で注意喚起や商品訴求をしやすい関連媒体"
+      ],
+      "source": {
+        "title": "Journal of Medical Entomology: Landing Preference of Aedes albopictus on Human Skin Among ABO Blood Groups",
+        "url": "https://academic.oup.com/jme/article/41/4/796/885285"
+      }
+    },
+    "sources": [
+      {
+        "title": "Landing preference of Aedes albopictus on human skin among ABO blood groups, secretors or nonsecretors, and ABH antigens",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15311477/",
+        "type": "paper"
+      },
+      {
+        "title": "Understanding and interpreting mosquito blood feeding studies: the case of Aedes albopictus",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34497032/",
+        "type": "paper"
+      },
+      {
+        "title": "CDC: About Mosquito Bites",
+        "url": "https://www.cdc.gov/mosquitoes/about/about-mosquito-bites.html",
+        "type": "government"
+      },
+      {
+        "title": "NIH: How mosquitoes distinguish people from animals",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/how-mosquitoes-distinguish-people-animals",
+        "type": "government"
+      },
+      {
+        "title": "Composition of Human Skin Microbiota Affects Attractiveness to Malaria Mosquitoes",
+        "url": "https://doi.org/10.1371/journal.pone.0028991",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "O型",
+      "血液型",
+      "蚊",
+      "蚊に刺されやすい",
+      "ABO",
+      "mosquito",
+      "ヒトスジシマカ",
+      "体臭",
+      "皮膚細菌",
+      "夏の雑学"
+    ]
+  },
+  {
+    "id": "telepathy-direct-mind-to-mind-communication-real",
+    "title": "テレパシーは実在し、思考を直接伝えられる",
+    "category": "conspiracy",
+    "claim": "人は通常の感覚や言語を使わなくても、テレパシーによって他人の考えやイメージを直接受け取ったり送ったりできる。この能力は実験でも確認されている。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "テレパシーは長く研究されてきたが、主流科学で再現的に確認された能力とは認められていない。超心理学の一部実験で好意的な結果が報告されても、効果は小さく不安定で、方法論や再現性をめぐる争いが続いており、実用的能力としては支持されない。",
+    "explanation": "Britannica は telepathy を、通常の感覚チャネルを使わずに一人の心から別の心へ思考が直接伝わるという超感覚的知覚の一種として説明している。しかし同時に、厳密な方法になるほど有意差はまれになり、その存在は証明されていないと整理している。超心理学ではカード当て、夢テレパシー、ガンツフェルト実験、リモートビューイングなど多様な方法が試されてきた。支持者は一部のメタ解析や個別実験を根拠にするが、Milton と Wiseman の 1999 年メタ分析は、より厳格な条件を満たした後続のガンツフェルト研究群が主要効果を再現しなかったと報告している。Scott のリモートビューイング総説も、公開された証拠は説得的ではなく、既存科学を覆すには不十分だと結論づけた。さらに、超心理学メタ分析自体についても、出版バイアス、選択基準、感覚漏洩、柔軟な分析、再現失敗の扱いが争点になっている。要するに、テレパシー研究が存在しないのではなく、100年以上の研究を経ても、誰でも確実に示せる心の直接通信能力として確立していない、というのが現状である。",
+    "why_it_spreads": [
+      "親しい相手と考えが重なった経験を、超常的通信として解釈したくなりやすい",
+      "偶然の一致、表情や文脈の読み取り、記憶の選択が『当たった』感覚を強めやすい",
+      "超能力、スピリチュアル、SF、アニメ、ドラマの定番テーマで文化的な親和性が高い",
+      "実験が存在すること自体が、『科学も認めつつある』という印象を与えやすい",
+      "孤独や断絶を超えて心が直接つながるという願望に強く訴える"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "小さな有意差や単発の好結果を、安定した能力の存在証明に拡大する",
+          "出版バイアスや分析選択の影響を十分に検討しないまま結論づける"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "当たった経験だけを覚え、外れた予感や失敗例を忘れる",
+          "好意的な研究だけを引用し、再現失敗や批判的レビューを無視する"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "偶然の一致や高い共感性を、心の直接通信の結果とみなす",
+          "非言語的手がかりの読み取りを、感覚外情報の受信と混同する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "意識や脳に未解明部分があることを、テレパシー実在の証拠へ飛躍させる",
+          "実験結果に議論が残ることを、『否定されていないから本当』と読み替える"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "主流科学の懐疑を、頭が固い・未知を恐れているだけだと片づける",
+          "厳密な再現性要求を、超常現象に不向きな偏ったルールだと退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "テレパシーという語は19世紀後半に心霊研究の文脈で定着し、1882年設立の Society for Psychical Research 以降、心霊主義と超心理学の中心テーマとして広まった。",
+      "spread_period": "20世紀にはJ.B. RhineのESP研究、戦後の超能力ブーム、1970年代以降のガンツフェルト実験、冷戦期のリモートビューイング関心を通じて再燃した。現代ではスピリチュアル、自己啓発、エンタメ、SNSで断続的に再生産されている。",
+      "spread_scope": "欧米、日本語圏を含む広い地域で、心霊主義、超心理学、宗教、エンタメ、陰謀論、自己啓発の文脈で広く流通している。一般向けには学術的留保が省かれ、『実在がほぼ証明された能力』のように語られやすい。",
+      "note": "この項目は、人間同士の高い共感、以心伝心的な感覚、非言語的理解の存在を否定するものではない。対象は、通常感覚を介さない思考の直接伝達が実在し、実験的に確立された能力だとする主張である。",
+      "spreaders": [
+        "超心理学・スピリチュアル媒体、超能力番組、自己啓発、SNSの超常コンテンツ",
+        "テレパシーを物語装置や能力論として扱うエンタメ・疑似科学言説"
+      ],
+      "beneficiaries": [
+        "超能力講座、スピリチュアル商品、コンテンツ配信で集客できる発信者や事業者",
+        "『隠された人間能力』の物語で関心を集められる媒体やコミュニティ"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: telepathy",
+        "url": "https://www.britannica.com/topic/telepathy"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: telepathy",
+        "url": "https://www.britannica.com/topic/telepathy",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: parapsychology",
+        "url": "https://www.britannica.com/topic/parapsychology",
+        "type": "article"
+      },
+      {
+        "title": "Does Psi exist? Lack of replication of an anomalous process of information transfer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10414223/",
+        "type": "paper"
+      },
+      {
+        "title": "Remote viewing",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3360082/",
+        "type": "paper"
+      },
+      {
+        "title": "Testing for Questionable Research Practices in a Meta-Analysis: An Example from Experimental Parapsychology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4856278/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "テレパシー",
+      "telepathy",
+      "ESP",
+      "超感覚的知覚",
+      "ガンツフェルト",
+      "リモートビューイング",
+      "超心理学",
+      "超能力",
+      "以心伝心",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "zero-point-energy-free-power-extraction-claim",
+    "title": "ゼロポイントエネルギーから無限の実用電力を取り出せる",
+    "category": "technology",
+    "claim": "量子真空のゼロポイントエネルギーは実在しており、それを装置で取り出せば、燃料なしでほぼ無限のクリーン電力を得られる。既に実用化できるが、既得権益や学界が抑えている。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "ゼロポイントエネルギーという量子論上の概念自体は実在の物理概念だが、そこから自由に実用電力を取り出せることは示されていない。Casimir 効果などの真空ゆらぎ関連現象は観測されていても、それを無尽蔵な発電源として利用できる証拠はなく、熱力学や詳細釣り合いの制約が大きい。",
+    "explanation": "Britannica が説明するように、zero-point energy は量子力学において絶対零度でも消えない最低限のエネルギーであり、空虚な『真空』が古典的な無ではないことと結びつく。Casimir effect も、真空ゆらぎに関連する微小な力として観測されている。しかし、ここから『真空には莫大なエネルギーがある』と、『そのエネルギーを自由に引き出して連続的な実用電力にできる』は別問題である。Moddel と Dmitriyeva のレビューは、ゼロポイントエネルギー抽出をうたう多くの提案について、非線形処理や Casimir cavity を用いる主要案が熱力学や detailed balance に反すると整理し、信頼できる実証はないと結論づけている。Scientific American も、ゼロポイントエネルギーや Casimir 効果は物理的に実在しても、『free-lunch crowd』がそれを無限電力に拡大解釈していると警告している。つまり、量子真空の物理は現代物理学の一部である一方、ゼロポイントエネルギー発電装置の宣伝は、その実在概念を利用した過剰な飛躍である。したがって、『ゼロポイントエネルギーから燃料なしの実用電力を得られる』『既に装置化されている』という主張は支持されない。",
+    "why_it_spreads": [
+      "量子力学の難解さが、そのまま反論しにくい権威性として働きやすい",
+      "『宇宙に満ちる見えない巨大エネルギー』という物語は、フリーエネルギー願望に強く刺さる",
+      "Casimir 効果のような実在現象が、発電可能性まで証明したかのように誤解されやすい",
+      "既得権益や抑圧の物語と結びつくと、実証不足がむしろ『隠された真実』の証拠に見えやすい",
+      "装置図、特許、量子用語、真空、共振、トーション場などの言葉が、もっともらしさを増幅する"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "ゼロポイントエネルギーという理論概念の実在を、そのまま発電技術の実現性にすり替える",
+          "Casimir 効果の観測を、エネルギー採掘装置の成立証明として扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "特許、デモ、模式図、理論提案を、独立再現された発電実証と混同する",
+          "出力測定やエネルギー収支が不十分な実験を、実用化の証拠として扱う"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "量子真空に未解明部分があることを、自由エネルギー装置の実現余地へ直結させる",
+          "宇宙論的真空エネルギー問題の難しさを、装置レベルの発電可能性の根拠にする"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "熱力学や詳細釣り合いに基づく反論を、旧来科学の限界や保守性として退ける",
+          "実証の要求を、革新を潰す既得権益の壁だと解釈する"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "商用化されない理由を、石油業界や政府の隠蔽に求める",
+          "再現できないこと自体を、発明が封じられている証拠だとみなす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "ゼロポイントエネルギーは20世紀初頭の量子論に由来する正規の物理概念だが、これを自由エネルギー源として語る通俗的文脈は20世紀後半のフリーエネルギー運動やニューエイジ物理本の中で広がった。",
+      "spread_period": "Casimir 効果の周知や量子真空への関心の高まりとともに、1980年代以降、フリーエネルギー、代替発電、反既得権益言説の中で再生産されてきた。インターネット時代には装置図、動画、量子語彙を使う解説でさらに拡散した。",
+      "spread_scope": "英語圏、日本語圏を含むフリーエネルギー、陰謀論、代替技術、スピリチュアル科学、投資詐欺的文脈で広く流通している。学術的な zero-point energy と、商品・装置宣伝の zero-point energy が意図的または無自覚に混同されやすい。",
+      "note": "この項目は、ゼロポイントエネルギーや Casimir 効果が物理学の実在概念・現象であることを否定するものではない。対象は、それらを根拠に燃料不要の実用発電や無限エネルギー装置が成立するという主張である。",
+      "spreaders": [
+        "フリーエネルギー媒体、代替技術系発信者、量子語彙を使う自己啓発・陰謀論コンテンツ",
+        "ゼロポイントエネルギー装置や関連投資話を広めるサイト、動画、書籍"
+      ],
+      "beneficiaries": [
+        "装置、投資案件、講座、関連商材で注目や資金を集める事業者や発信者",
+        "『抑圧された革命技術』の物語で集客できるメディアやコミュニティ"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: zero-point energy",
+        "url": "https://www.britannica.com/science/zero-point-energy"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: zero-point energy",
+        "url": "https://www.britannica.com/science/zero-point-energy",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Casimir effect",
+        "url": "https://www.britannica.com/science/Casimir-effect",
+        "type": "article"
+      },
+      {
+        "title": "Extraction of Zero-Point Energy from the Vacuum: Assessment of Stochastic Electrodynamics-Based Approach as Compared to Other Methods",
+        "url": "https://doi.org/10.3390/atoms7020051",
+        "type": "paper"
+      },
+      {
+        "title": "Scientific American: What is the 'zero-point energy' (or 'vacuum energy') in quantum physics? Is it really possible that we could harness this energy?",
+        "url": "https://www.scientificamerican.com/article/follow-up-what-is-the-zer/",
+        "type": "article"
+      },
+      {
+        "title": "Uncertainty Principle and the Zero-Point Energy of the Harmonic Oscillator",
+        "url": "https://doi.org/10.1038/136395b0",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "ゼロポイントエネルギー",
+      "zero-point energy",
+      "真空エネルギー",
+      "vacuum energy",
+      "Casimir effect",
+      "フリーエネルギー",
+      "量子真空",
+      "永久機関",
+      "自由エネルギー",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "antigravity-device-cancels-gravity-claim",
+    "title": "反重力装置で重力を打ち消せる",
+    "category": "technology",
+    "claim": "超伝導体、回転円盤、電磁場、特殊素材などを使えば、地球の重力を遮蔽したり打ち消したりできる。反重力装置や重力シールドは実現可能で、すでに原理実証されている。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "現代物理学では、重力を電磁シールドのように遮蔽する実用装置は確認されていない。過去の反重力・重力遮蔽の代表的主張も再現に失敗しており、現在のところ『反重力装置が原理実証された』といえる根拠はない。",
+    "explanation": "NASA の Cosmicopia は、反重力装置の代表例としてしばしば引用される Podkletnov の超伝導円盤実験について、他の研究者が再現できておらず、重力研究者の大半が非常に疑わしいとみなしていると説明している。さらに同ページでは、重力は電磁気と異なる相互作用であり、電荷に依存する磁気的操作をそのまま重力制御へ結びつけることは現在の物理学の枠組みでは支持されないとしている。Nature の 2005 年記事は、ESA が重力制御案を検討した結果として、重力遮蔽のような発想はエネルギー保存則や一般相対論の理解と強く衝突し、少なくとも既知の物理の範囲では成立しにくいと整理している。Tajmar と Bertolami の査読論文も、仮に重力制御が可能だったとしても推進上の利益は限定的であり、現在提案されている重力制御案に突破口は見いだせないと述べている。NASA の技術報告『Responding to Mechanical Antigravity』も、機械的な反重力・推進主張の多くが摩擦、トルク、測定誤差の誤読によって生じると注意している。したがって、重力研究や人工重力の工学的検討が存在することと、『重力を遮蔽・打ち消す装置が原理実証された』ことは別であり、後者を事実として広めるのは不正確である。",
+    "why_it_spreads": [
+      "空を自由に飛ぶ、燃料なしで浮くといった願望に強く結びつくため、夢の技術として拡散しやすい",
+      "超伝導、量子、電磁場、回転体といった高度な語彙が、未検証の装置にも権威性を与えやすい",
+      "微小な重量変化や振動、ノイズを『重力変化』として読み替えると、もっともらしい実験談が作りやすい",
+      "NASA や ESA が周辺研究を検討した事実だけが切り出され、『もう実現間近』という印象に変換されやすい",
+      "既得権益に潰された革命技術という物語が、再現失敗や証拠不足を逆に魅力へ変えやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "人工重力、浮上、推力制御、重量軽減のような別概念を、重力そのものの遮蔽と混同する",
+          "基礎研究や理論的検討の存在を、そのまま実用反重力装置の成立にすり替える"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "未再現の単発実験やデモ動画を、確立した原理実証のように扱う",
+          "特許や研究計画の存在を、効果確認済みの証拠と誤認する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "量子重力や重力の未解明部分を、装置レベルの反重力実現可能性へ直結させる",
+          "理論物理に未解決問題があることを、どんな反重力主張にも余地がある証拠だとみなす"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "再現や商用化に失敗した理由を、軍事機密や既得権益の隠蔽で説明する",
+          "反証の欠如ではなく『封じられているから出てこない』と考える"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "主流物理の懐疑を、保守性や想像力不足だと片づける",
+          "厳密な測定や独立再現の要求を、革新つぶしとして退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "反重力の発想自体は19世紀末から20世紀初頭の空想科学や大衆科学に見られるが、現代の装置論としては1992年の Podkletnov らによる超伝導体の『重力遮蔽』報告が大きな起点として参照され続けている。",
+      "spread_period": "1990年代後半から2000年代にかけて、Podkletnov 実験、NASA の Breakthrough Propulsion Physics、ESA の重力制御調査などが切り取られ、反重力・重力シールド・秘密推進技術の文脈で広がった。現在も動画、ブログ、UFO・秘密宇宙計画系コミュニティで再生産されている。",
+      "spread_scope": "英語圏、日本語圏を含む疑似科学、代替技術、UFO、陰謀論、未来技術コミュニティで流通している。学術的な重力研究、人工重力、マイクログラビティ研究と意図的または無自覚に混同されやすい。",
+      "note": "この項目は、一般相対論、量子重力研究、宇宙開発における人工重力研究、あるいは空気圧や揚力による『無重力感』の工学を否定するものではない。対象は、装置で重力そのものを遮蔽・打ち消せるという主張である。",
+      "spreaders": [
+        "反重力・フリーエネルギー媒体、UFO・秘密宇宙計画系コンテンツ、技術系陰謀論コミュニティ",
+        "未検証の装置デモや理論図を紹介する動画、ブログ、書籍"
+      ],
+      "beneficiaries": [
+        "関連装置、教材、講演、投資話で注目や資金を集める発信者や事業者",
+        "『隠された革命技術』の物語で継続的に集客できるメディアやコミュニティ"
+      ],
+      "source": {
+        "title": "NASA Cosmicopia: Anti-Gravity",
+        "url": "https://cosmicopia.gsfc.nasa.gov/qa_gp_gr.html"
+      }
+    },
+    "sources": [
+      {
+        "title": "NASA Cosmicopia: Anti-Gravity / Electromagnetism and Gravity",
+        "url": "https://cosmicopia.gsfc.nasa.gov/qa_gp_gr.html",
+        "type": "government"
+      },
+      {
+        "title": "Hypothetical Gravity Control and Possible Influence on Space Propulsion",
+        "url": "https://doi.org/10.2514/1.15240",
+        "type": "paper"
+      },
+      {
+        "title": "Nature: Antigravity has feet of clay",
+        "url": "https://doi.org/10.1038/news050124-8",
+        "type": "article"
+      },
+      {
+        "title": "NASA Technical Reports Server: Responding to Mechanical Antigravity",
+        "url": "https://ntrs.nasa.gov/citations/20070004897",
+        "type": "government"
+      },
+      {
+        "title": "A Possibility of Gravitational Force Shielding by Bulk YBa2Cu3O7-x Superconductor",
+        "url": "https://doi.org/10.1016/0921-4534(92)90055-H",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28",
+    "tags": [
+      "反重力",
+      "antigravity",
+      "anti-gravity",
+      "重力遮蔽",
+      "gravity shielding",
+      "Podkletnov",
+      "超伝導",
+      "人工重力",
+      "UFO技術",
+      "疑似科学"
+    ]
   }
 ]
