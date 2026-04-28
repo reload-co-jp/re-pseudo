@@ -1,4 +1,5 @@
 import { FC, Suspense } from "react"
+import Breadcrumbs from "components/Breadcrumbs"
 import ClaimsClient from "components/ClaimsClient"
 import { getClaims } from "lib/claims"
 
@@ -71,15 +72,23 @@ const ClaimsPage: FC = () => {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         type="application/ld+json"
       />
-      <h1
-        style={{
-          fontSize: "1.25rem",
-          fontWeight: 700,
-          marginBottom: "1.5rem",
-        }}
-      >
-        主張一覧
-      </h1>
+      <div style={{ display: "flex", flexDirection: "column", gap: ".875rem", marginBottom: "1.5rem" }}>
+        <Breadcrumbs
+          items={[
+            { href: "/", label: "ホーム" },
+            { label: "主張一覧" },
+          ]}
+        />
+        <h1
+          style={{
+            fontSize: "1.25rem",
+            fontWeight: 700,
+            margin: 0,
+          }}
+        >
+          主張一覧
+        </h1>
+      </div>
       <Suspense>
         <ClaimsClient claims={claims} />
       </Suspense>

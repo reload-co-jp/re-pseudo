@@ -1,4 +1,5 @@
 import { FC } from "react"
+import Breadcrumbs from "components/Breadcrumbs"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
 const DESCRIPTION =
@@ -48,6 +49,12 @@ const AboutPage: FC = () => {
       <script
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         type="application/ld+json"
+      />
+      <Breadcrumbs
+        items={[
+          { href: "/", label: "ホーム" },
+          { label: "このサイトについて" },
+        ]}
       />
       <h1 style={{ fontSize: "1.25rem", fontWeight: 700 }}>
         このサイトについて

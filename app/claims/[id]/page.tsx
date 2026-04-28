@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation"
 import Link from "next/link"
 import { FC } from "react"
+import Breadcrumbs from "components/Breadcrumbs"
 import { Badge, Card } from "components/elements/layout"
 import { getClaims, getClaimById } from "lib/claims"
 import {
@@ -160,6 +161,13 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         type="application/ld+json"
       />
       <header style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>
+        <Breadcrumbs
+          items={[
+            { href: "/", label: "ホーム" },
+            { href: "/claims/", label: "主張一覧" },
+            { label: claim.title },
+          ]}
+        />
         <div style={{ display: "flex", flexWrap: "wrap", gap: ".375rem" }}>
           <Badge
             color={VERDICT_COLOR[claim.verdict]}

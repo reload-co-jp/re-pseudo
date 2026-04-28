@@ -1,4 +1,5 @@
 import { FC } from "react"
+import Breadcrumbs from "components/Breadcrumbs"
 import { Card } from "components/elements/layout"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
@@ -162,6 +163,12 @@ const CriteriaPage: FC = () => {
       <script dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} type="application/ld+json" />
 
       <header style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>
+        <Breadcrumbs
+          items={[
+            { href: "/", label: "ホーム" },
+            { label: "似非科学の判断基準" },
+          ]}
+        />
         <h1 style={{ fontSize: "1.25rem", fontWeight: 700 }}>似非科学の判断基準</h1>
         <p style={bodyStyle}>
           「科学」と「似非科学」を分ける境界は、単純な正誤ではなく<strong style={{ color: "#e2e8f0" }}>検証可能性・透明性・反証への態度</strong>にある。

@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { FC } from "react"
+import Breadcrumbs from "components/Breadcrumbs"
 import { Card } from "components/elements/layout"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
@@ -183,6 +184,12 @@ const ConspiracyPage: FC = () => {
       <script dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} type="application/ld+json" />
 
       <header style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>
+        <Breadcrumbs
+          items={[
+            { href: "/", label: "ホーム" },
+            { label: "陰謀論とは何か" },
+          ]}
+        />
         <h1 style={{ fontSize: "1.25rem", fontWeight: 700 }}>陰謀論とは何か</h1>
         <p style={bodyStyle}>
           陰謀論（Conspiracy Theory）は、ある出来事や状況の原因を、<strong style={{ color: "#e2e8f0" }}>秘密裏に行動する悪意ある集団の意図的な計画</strong>に帰属させる説明様式である。

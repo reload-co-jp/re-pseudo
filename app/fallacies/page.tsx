@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { FC } from "react"
+import Breadcrumbs from "components/Breadcrumbs"
 import { Card } from "components/elements/layout"
 import { getFallacyGroups } from "lib/fallacies"
 
@@ -53,6 +54,12 @@ const FallaciesPage: FC = () => {
         type="application/ld+json"
       />
       <header style={{ display: "flex", flexDirection: "column", gap: ".5rem" }}>
+        <Breadcrumbs
+          items={[
+            { href: "/", label: "ホーム" },
+            { label: "よくある誤謬" },
+          ]}
+        />
         <h1 style={{ fontSize: "1.25rem", fontWeight: 700 }}>よくある誤謬</h1>
         <p style={{ color: "#a0aec0", fontSize: ".875rem", lineHeight: 1.8 }}>
           {DESCRIPTION}
