@@ -6220,5 +6220,802 @@
       "UFO技術",
       "疑似科学"
     ]
+  },
+  {
+    "id": "akashic-records-objective-truth-access-claim",
+    "title": "アカシックレコードから客観的な真実を読み取れる",
+    "category": "conspiracy",
+    "claim": "アカシックレコードには宇宙や人類の全記録が保存されており、訓練や霊的能力によってそこへアクセスすれば、過去世、他人の本質、未来、隠された真実を客観的に読み取れる。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "アカシックレコードは神秘思想・オカルティズム上の概念としては広く語られてきたが、そこから検証可能な客観情報を安定して取得できる証拠はない。読み取りの納得感は、曖昧な記述の自己適用や暗示、記憶の補完で生じやすい。",
+    "explanation": "Britannica によれば、Akashic record は occultism において、時間の始まり以来のあらゆる出来事や思考、感情の記録が Akasha に刻まれているという観念であり、select individuals や medium がアクセスできるとされる。これは宗教史・神秘思想の一部としては実在する概念だが、そこから読み取られた内容が、通常の知覚や推論を超えて客観的事実を与えることは示されていない。Britannica の clairvoyance 項目でも、超感覚的知覚の研究は決定的な支持を与えていないと整理されている。さらに、読まれた内容が『驚くほど当たっている』と感じられる背景には、Barnum effect のように誰にでも当てはまりうる曖昧な記述を自分向けの特別な情報と受け取ってしまう傾向がある。加えて、記憶研究では、示唆や反復的なイメージ化が高い確信を伴う false memories を生みうることが知られており、瞑想、誘導、セッションの中で生じた印象を『宇宙の記録を見た』と実感すること自体は、客観的正確さの証拠にならない。したがって、アカシックレコードを神秘思想上の信念や象徴として語ることと、それを通じて過去世や隠された真実を検証可能な形で取得できると主張することは分ける必要がある。後者は現在のところ支持されない。",
+    "why_it_spreads": [
+      "『宇宙にすべての答えが記録されている』という発想は、意味づけや救済を求める心理に強く響く",
+      "個人的な悩みや不安を、壮大な物語の中に位置づけ直せるため、強い納得感が生まれやすい",
+      "読み取り結果が曖昧で象徴的でも、受け手が自分の状況に合わせて意味を補える",
+      "前世、使命、相性、魂の課題といったテーマは、自己理解コンテンツやセッション商品と相性がよい",
+      "反証しにくい主張なので、外れた場合も『まだ読み解けていない』『波長が合わない』と再解釈されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "個人的な納得感や感動を、客観的真実性の証拠とみなす",
+          "当たったように見える部分だけを残し、外れた部分を象徴解釈で処理する"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "Barnum effect、暗示、記憶の補完による納得感を見落とす",
+          "強い主観的体験が、そのまま外界の事実性を保証すると考える"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "意識や宇宙に未解明部分があることを、アカシックレコードの実在証明にすり替える",
+          "科学で完全説明されていない経験を、即座に超常情報源の証拠とみなす"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "象徴的・宗教的な真理としての価値を、事実命題の正確さへすり替える",
+          "自己洞察に役立ったという感想を、過去世や未来予知の正確さと混同する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "検証可能性を求める態度を、霊性を理解できない唯物論として退ける",
+          "再現性の欠如を、選ばれた人にしか読めないからだと説明する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "アカシックレコードの観念は19世紀後半の神智学で形成され、Theosophy Wiki がまとめるように 1881 年の Henry Steel Olcott『The Buddhist Catechism』や、1880年代以降の神智学文献、のちの C.W. Leadbeater『Clairvoyance』などを通じて定着した。",
+      "spread_period": "19世紀末から20世紀初頭に神智学・人智学で広がり、20世紀には Edgar Cayce などのリーディング文化、後半以降はニューエイジ、スピリチュアル、自己啓発市場で再拡散した。現在はオンライン講座、個人セッション、動画、SNS で日常的に流通している。",
+      "spread_scope": "欧米、日本語圏を含むスピリチュアル、オカルト、ニューエイジ、自己理解コンテンツ市場で広く流通している。宗教的・象徴的語りと、事実命題としての『真実読み取り』が無自覚に混同されやすい。",
+      "note": "この項目は、神秘思想や宗教文化の一部としてアカシックレコードが語られてきた歴史そのものを否定するものではない。対象は、それを客観的で検証可能な情報源として扱う主張である。",
+      "spreaders": [
+        "ニューエイジ、スピリチュアル、前世リーディング、自己啓発系の媒体やセッション提供者",
+        "魂の使命、過去世、宇宙意識を扱う動画、書籍、SNS コンテンツ"
+      ],
+      "beneficiaries": [
+        "個人鑑定、講座、資格商材、コミュニティ運営で受益しうる発信者や事業者",
+        "『隠れた真実へのアクセス』を魅力として集客できるメディアやスピリチュアル市場"
+      ],
+      "source": {
+        "title": "Theosophy Wiki: Akashic Records",
+        "url": "https://www.theosophy.wiki/en/Akashic_Records"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: Akashic record",
+        "url": "https://www.britannica.com/topic/Akashic-record",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Akasha",
+        "url": "https://www.britannica.com/topic/Akasha-occultism",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: clairvoyance",
+        "url": "https://www.britannica.com/topic/clairvoyance",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Barnum Effect",
+        "url": "https://www.britannica.com/science/Barnum-Effect",
+        "type": "article"
+      },
+      {
+        "title": "False Memories for Suggestions: The Impact of Conceptual Elaboration",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2981863/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "アカシックレコード",
+      "Akashic Records",
+      "Akasha",
+      "前世",
+      "リーディング",
+      "クレアボヤンス",
+      "神智学",
+      "ニューエイジ",
+      "スピリチュアル",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "luminiferous-ether-still-exists-claim",
+    "title": "光を運ぶエーテルは今も実在する",
+    "category": "technology",
+    "claim": "宇宙空間には光や電磁波を運ぶ物理的なエーテルが実在しており、相対性理論はそれを誤って否定したにすぎない。Michelson-Morley 実験も本当はエーテルを否定していない。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "luminiferous ether は19世紀物理で重要だった歴史的仮説だが、現代物理で光の伝播にそれを要請する理由はない。Michelson-Morley 以降の実験史と特殊相対論の成立により、光を運ぶ物理的媒体としてのエーテル仮説は不要かつ支持されないものになった。",
+    "explanation": "Britannica が説明するように、ether は19世紀に electromagnetic waves を伝える universal substance として想定された理論的媒質だった。しかし、その性質は『空間を満たしつつ、物体運動に干渉せず、しかも横波を支えるほど剛体的』である必要があり、概念上の困難を抱えていた。1887年の Michelson-Morley experiment は、地球の運動に対する ether wind を検出しようとしたが、Britannica にある通り差は見つからず、この null result は ether theories を深刻に揺るがした。さらに 1905 年の特殊相対論は、光速度不変を前提に電磁気と運動学を統一し、光の伝播に機械的媒質を必要としない枠組みを与えた。Encyclopedia.com も、today the term ether is used only in a historical context と整理している。20世紀には Dayton Miller などが ether drift を主張したが、Nature に掲載された同時代の総括でも、繰り返し実験は orbital motion に関する null result を確認したとされている。したがって、古典物理史におけるエーテル概念の重要性を認めることと、『光を運ぶ物理的エーテルが今も実在し、相対論に敗れていない』と主張することは別であり、後者は現代物理の根拠に照らして支持されない。",
+    "why_it_spreads": [
+      "かつて主流だった理論が捨てられた歴史は、『本当は正しかったのでは』という逆張りの魅力を持ちやすい",
+      "真空、場、ダークエネルギー、量子真空などの現代概念が、古典的エーテルの復活と混同されやすい",
+      "相対論が難解なので、より直感的な『何かの媒質があるはずだ』という発想が受け入れられやすい",
+      "少数派理論や独自宇宙論を支える共通土台として、エーテルが便利に再利用されやすい",
+      "『主流科学に消された古い真理』という物語が、未整理な歴史理解と結びつきやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "現代物理の場や真空の概念を、そのまま19世紀の luminiferous ether と同一視する",
+          "歴史的に重要だった理論であることを、現在も正しいことの根拠にすり替える"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "Michelson-Morley の null result や後続実験全体ではなく、一部の異論だけを取り上げる",
+          "独自解釈の理論や周辺現象を、エーテル存在の実証とみなす"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "現代宇宙論や量子重力に未解決問題があることを、古典的エーテル復活の根拠にする",
+          "『完全にはわかっていない』を『古い仮説が生きている』へ飛躍させる"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "相対論の標準的理解を、権威主義や教育の刷り込みとして退ける",
+          "複数の独立実験や理論整合性より、直感的な説明のわかりやすさを優先する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "Miller などの少数派主張だけを強調し、後続の精密検証や理論的整理を省く",
+          "エーテルという語の多義性を利用して、別概念を同じ証拠列に混ぜる"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "エーテル概念自体は古代ギリシアの第五元素まで遡るが、現代の検証対象である luminiferous ether は17世紀から19世紀に発展し、19世紀後半に Maxwell 理論と結びついて広く受け入れられた。",
+      "spread_period": "1887年の Michelson-Morley 実験と1905年の特殊相対論以後、主流物理では歴史的概念となったが、20世紀前半の ether-drift 再解釈、後半以降の代替物理、独自宇宙論、反相対論言説の中で繰り返し復活してきた。現代では動画、ブログ、独自理論サイトで再生産されている。",
+      "spread_scope": "英語圏、日本語圏を含む代替物理、反相対論、フリーエネルギー、スピリチュアル科学系コミュニティで流通している。歴史的エーテル、量子真空、場、アカシックな『媒質』の概念が混同されやすい。",
+      "note": "この項目は、場の理論、量子真空、ダークエネルギーなど現代物理の概念を否定するものではない。対象は、光を運ぶ古典的な物理媒質としてのエーテルが今も実在し、相対論に取って代われるという主張である。",
+      "spreaders": [
+        "反相対論や代替物理を扱う媒体、独自宇宙論サイト、疑似科学系動画やブログ",
+        "エーテルを他の周辺理論の基礎概念として再利用する発信者やコミュニティ"
+      ],
+      "beneficiaries": [
+        "独自理論の書籍、講座、動画、関連商材で注目を集められる発信者や事業者",
+        "『主流科学が見落とした真理』の物語で継続的に集客できる媒体やコミュニティ"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: ether",
+        "url": "https://www.britannica.com/science/ether-theoretical-substance"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: ether",
+        "url": "https://www.britannica.com/science/ether-theoretical-substance",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Michelson-Morley experiment",
+        "url": "https://www.britannica.com/science/Michelson-Morley-experiment",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopedia.com: ether (in physics and astronomy)",
+        "url": "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/ether-physics-and-astronomy",
+        "type": "article"
+      },
+      {
+        "title": "Nature: On Prof. Miller's Ether Drift Experiment",
+        "url": "https://doi.org/10.1038/117854a0",
+        "type": "paper"
+      },
+      {
+        "title": "Encyclopaedia Britannica: The Michelson-Morley experiment",
+        "url": "https://www.britannica.com/science/light/The-Michelson-Morley-experiment",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "エーテル",
+      "aether",
+      "ether",
+      "luminiferous ether",
+      "光エーテル",
+      "Michelson-Morley",
+      "相対性理論",
+      "代替物理",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "synchronicity-proves-hidden-message-claim",
+    "title": "シンクロニシティは隠れたメッセージや因果を示す",
+    "category": "conspiracy",
+    "claim": "意味のある偶然の一致であるシンクロニシティは、宇宙や集合的無意識、見えない力が個人にメッセージを送っている証拠であり、偶然では説明できない外的な連結や超常的因果を示している。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "偶然の一致に強い意味を感じる体験は珍しくないが、それ自体は外部からの客観的メッセージや超常的因果の証拠にはならない。人は無関係な事象にも意味あるつながりを見いだしやすく、記憶や注意も『当たった一致』を強調する。",
+    "explanation": "シンクロニシティは C.G. Jung が『acausal connecting principle』として提示した概念で、分析心理学や宗教的象徴理解の文脈では大きな影響を持った。しかし、この概念が現代科学において、偶然の一致が実際に外的メッセージや超常的連結を示すことの実証になっているわけではない。Britannica の apophenia は、人が無関係またはランダムなデータや出来事の間にパターンや関連を知覚してしまう傾向を指し、superstitions や conspiracy theories とも結びつくと説明している。これは、印象的な一致に意味を感じる経験そのものを否定するのではなく、その体験から『偶然ではない外部の意図が働いた』と推論する際に認知的飛躍が起きやすいことを示す。さらに Barnum effect に見られるように、人は曖昧で一般的な内容でも自分向けの特別な意味として受け取りやすい。Blain らの apophenia 研究も、意味のないパターンへの false positive 的反応が一般集団にも広く存在することを示している。したがって、シンクロニシティを個人の内省や物語化の手がかりとして語ることと、それを客観的な外的メッセージや因果連結の証拠として扱うことは分ける必要がある。後者は支持されないか、少なくとも大きく誇張されている。",
+    "why_it_spreads": [
+      "偶然の一致に意味を感じる経験は多くの人にとって鮮烈で、物語として共有しやすい",
+      "不安や迷いのある時期ほど、出来事に導きやサインを読み取りたくなる",
+      "印象的な一致だけが記憶に残り、外れた無数の偶然は見落とされやすい",
+      "Jung や集合的無意識の語彙が、主観的体験に深い権威や哲学的重みを与えやすい",
+      "占い、スピリチュアル、自己啓発の文脈と相性がよく、日常の出来事を意味化する商品価値が高い"
+    ],
+    "common_fallacies": [
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "apophenia や選択的注意によって意味が増幅されることを見落とす",
+          "印象の強い一致が記憶に残りやすいという記憶バイアスを無視する"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "同時に起きた印象的な出来事を、見えない因果や意図の証拠とみなす",
+          "説明の難しい偶然を、ただちに外的メッセージの作用へ結びつける"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "個人的体験談を、客観的に検証された法則の証拠として扱う",
+          "当たった一致だけを数え、起こらなかった予感や無数の偶然を勘定に入れない"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "人間意識の未解明さを、超常的連結原理の実在証明にすり替える",
+          "完全に説明しきれない主観体験を、外的な超常因子の根拠にする"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "内省や象徴理解に役立つという価値を、事実命題としての真実性へすり替える",
+          "『意味があったと感じた』ことを、『客観的に意味が仕組まれていた』ことと混同する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "シンクロニシティ概念は Jung が1930年代から準備し、1952年の『Synchronicity: An Acausal Connecting Principle』で広く提示した。",
+      "spread_period": "20世紀後半に Jung 心理学、宗教思想、ニューエイジ、自己啓発の文脈で広がり、21世紀にはSNSや動画で『宇宙からのサイン』『エンジェルナンバー』系の語りと結びついて再拡散している。",
+      "spread_scope": "欧米、日本語圏を含むスピリチュアル、心理占星術、自己啓発、オカルト、日常の意味づけ文化で広く流通している。Jung の哲学的概念と、『偶然は偶然ではない』という通俗的メッセージ論が混同されやすい。",
+      "note": "この項目は、偶然の一致に主観的な意味や慰めを感じる経験そのものを否定するものではない。対象は、それを客観的な外的メッセージや超常的因果の証拠として扱う主張である。",
+      "spreaders": [
+        "スピリチュアル、自己啓発、占い、心理占星術系の媒体や発信者",
+        "『宇宙からのサイン』『意味ある偶然』を扱う動画、書籍、SNS コンテンツ"
+      ],
+      "beneficiaries": [
+        "個人鑑定、講座、コミュニティ、関連商材で受益しうる発信者や事業者",
+        "日常の偶然を意味化する物語で継続的に集客できるメディアやコンテンツ市場"
+      ],
+      "source": {
+        "title": "Cambridge Core review: The Interpretation of Nature and the Psyche: Synchronicity an acausal connecting principle",
+        "url": "https://www.cambridge.org/core/journals/philosophy/article/interpretation-of-nature-and-the-psyche-synchronicity-an-acausal-connecting-principle-c-jung-translated-by-r-f-c-hull-the-influence-of-archetypal-ideas-on-the-scientific-ideas-of-kepler-w-pauli-translated-by-priscilla-silz-routledge-and-kegan-paul-london-1955-pp-viii-247-price-16s/A2438F7795F857E83B1449A36E81A1E1"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: apophenia",
+        "url": "https://www.britannica.com/topic/apophenia",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Barnum Effect",
+        "url": "https://www.britannica.com/science/Barnum-Effect",
+        "type": "article"
+      },
+      {
+        "title": "Analytic psychology",
+        "url": "https://www.britannica.com/topic/analytic-psychology",
+        "type": "article"
+      },
+      {
+        "title": "Collective unconscious",
+        "url": "https://www.britannica.com/science/collective-unconscious",
+        "type": "article"
+      },
+      {
+        "title": "Apophenia as the Disposition to False Positives: A Unifying Framework for Openness and Psychoticism",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7112154/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "シンクロニシティ",
+      "synchronicity",
+      "Jung",
+      "ユング心理学",
+      "意味のある偶然",
+      "集合的無意識",
+      "宇宙からのサイン",
+      "apophenia",
+      "スピリチュアル",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "psychokinesis-moves-objects-by-thought-claim",
+    "title": "念力で物体や機械を動かせる",
+    "category": "conspiracy",
+    "claim": "人は念力、テレキネシス、psychokinesis によって、手を触れずに物体を動かしたり、金属を曲げたり、乱数発生器などの物理系に思考だけで安定して影響を与えたりできる。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "念力は超心理学で長く研究されてきたが、再現性のある科学的証拠は確立していない。見かけ上の成功は、手品的手法、測定バイアス、偶然の揺らぎ、出版バイアスで説明されやすい。",
+    "explanation": "Britannica の psychokinesis 項目は、PK を『mind on matter』として定義しつつ、scientific evidence supporting the existence of psychokinesis is lacking と明記している。対象はサイコロ試行、金属曲げ、乱数発生器への微小影響など多岐にわたるが、支持的とされる結果は publication bias や confirmation bias の影響を受けやすく、結論は inconclusive だと整理されている。parapsychology 全体についても、研究史は長いものの自然法則を超える現象としての実在は論争的なままである。さらに、2018年の量子的乱数に対する intentional observer effects の大規模検討は、micro-psychokinesis を支持するよりも、むしろ evidence against micro-psychokinesis を示した。大きな物体移動や金属曲げについては、古典的なステージマジックや不正手法で再現できることが広く知られており、派手な実演ほど検証条件の厳密さが重要になる。したがって、念力研究の歴史や個人の強い体験談を認めても、『思考だけで物体や機械に安定して物理的影響を与えられる能力が確認されている』とはいえない。",
+    "why_it_spreads": [
+      "触れずに世界へ作用できるという発想は、力への憧れや特別感と強く結びつく",
+      "成功例だけを見ると偶然の揺らぎや手品的演出が超常能力に見えやすい",
+      "微小効果や統計的有意差の話は一般向けには誇張されやすく、再現性の弱さが伝わりにくい",
+      "アニメ、映画、超能力番組のイメージが現実の主張に説得力を与えやすい",
+      "『主流科学が認めない隠れた人間能力』という物語が、超常・自己啓発市場と相性がよい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "単発の実演や当たり試行を、安定した能力の実証とみなす",
+          "出版バイアスや選択報告の影響を受けた小さな効果を、そのまま実在証拠として扱う"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "偶然の揺らぎ、記憶バイアス、観察者期待の効果を見落とす",
+          "驚きや感動の強い体験を、そのまま物理的事実の保証とみなす"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "微小な統計差や未解決の物理問題を、念力全体の成立証明へ飛躍させる",
+          "研究継続中であることを、能力の実在がほぼ確認されたかのように語る"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "厳密な再現性要求を、超能力を理解しない硬直した科学の態度だと退ける",
+          "否定的結果より、支持的な逸話や肯定的研究だけを信頼する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "BCI や筋電入力のような実在技術を、純粋な念力と混同する",
+          "マジックで再現可能な現象を、超常能力の証拠として扱う"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "念力的な観念は古くからあるが、現代的な psychokinesis / telekinesis の語りは19世紀末の心霊研究と20世紀の超心理学で体系化され、J.B. Rhine らの研究で広く知られるようになった。",
+      "spread_period": "20世紀には超能力実験、スプーン曲げ、ESP ブーム、テレビ番組で広がり、後半からは RNG 実験やニューエイジ文脈でも再流通した。現在も動画、SNS、自己啓発、オカルト市場で繰り返し再生産されている。",
+      "spread_scope": "欧米、日本語圏を含む超能力、超心理学、オカルト、自己啓発、エンタメの文脈で広く流通している。大規模な物体移動の派手な演出と、微小 PK 研究の統計主張が同列に語られやすい。",
+      "note": "この項目は、脳波・筋電・視線などを使う実在の入力技術や、舞台奇術としての金属曲げを否定するものではない。対象は、思考だけで外界へ直接物理作用を及ぼせるという主張である。",
+      "spreaders": [
+        "超能力番組、超心理学・オカルト媒体、自己啓発やニューエイジ系コンテンツ",
+        "念力実演や関連講座を扱う動画、書籍、イベント、SNS 発信"
+      ],
+      "beneficiaries": [
+        "超能力実演、講座、コミュニティ、関連商材で受益しうる発信者や事業者",
+        "『隠れた人間能力』の物語で集客できるメディアやエンタメ市場"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: psychokinesis",
+        "url": "https://www.britannica.com/topic/psychokinesis"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: psychokinesis",
+        "url": "https://www.britannica.com/topic/psychokinesis",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: parapsychology",
+        "url": "https://www.britannica.com/topic/parapsychology",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: pseudoscience",
+        "url": "https://www.britannica.com/topic/pseudoscience",
+        "type": "article"
+      },
+      {
+        "title": "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29619001/",
+        "type": "paper"
+      },
+      {
+        "title": "Encyclopaedia Britannica: magical thinking",
+        "url": "https://www.britannica.com/science/magical-thinking",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "念力",
+      "psychokinesis",
+      "PK",
+      "telekinesis",
+      "テレキネシス",
+      "超能力",
+      "スプーン曲げ",
+      "RNG",
+      "超心理学",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "precognitive-dreams-predict-future-claim",
+    "title": "予知夢で未来の出来事を知ることができる",
+    "category": "conspiracy",
+    "claim": "夢の中で未来の出来事を事前に正確に見ることができ、印象的な夢が後の現実と一致した場合、それは偶然ではなく予知能力や超感覚的な未来知覚の証拠である。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "夢と後の出来事の一致を強く感じる体験は珍しくないが、それだけで未来知覚の証拠にはならない。夢は曖昧で後から多様に解釈でき、記憶の再構成や後知恵バイアスも一致感を強める。",
+    "explanation": "Britannica の precognition は、future events を supernormally 知る主張として整理されており、dreams による予知の anecdotal evidence は長い伝統を持つ一方、実験的な statistical support は telepathy や clairvoyance よりも弱いと述べている。clairvoyance や ESP 全体についても、より厳密な検証で決定的な支持は得られていない。予知夢が強く信じられやすい理由の一つは、夢の内容がそもそも断片的で曖昧なため、後から起きた出来事へ柔軟に当てはめやすいことにある。加えて、Britannica の hindsight bias が示すように、人は結果を知ったあとで『最初からわかっていた』と過大評価しやすい。confirmation bias も、一致した夢だけを記憶し、不一致の大量の夢を忘れやすくする。false memory 研究も、後からの意味づけや再想起の過程で記憶内容が変化しうることを示している。したがって、夢が個人の不安、期待、連想を反映し、それが後の出来事と印象的に重なることはあっても、それを超感覚的な未来知覚の証拠とみなすのは行き過ぎである。",
+    "why_it_spreads": [
+      "夢は感情的に強い体験なので、現実との一致があると非常に印象に残りやすい",
+      "夢の内容は曖昧で象徴的なため、後から幅広い出来事に当てはめやすい",
+      "当たった夢だけが語られ、不一致の大量の夢は忘れられやすい",
+      "死別、災害、不安な出来事の前後では、偶然の一致に強い意味を読み込みやすい",
+      "スピリチュアル、占い、オカルト文化の中で、夢は特別なメッセージ源として扱われやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "印象的な一致例だけを集め、不一致例や曖昧な夢全体を考慮しない",
+          "個人的な体験談を、再現可能な能力の証拠とみなす"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "夢記憶の再構成や false memory の影響を見落とす",
+          "後知恵バイアスや選択的記憶による一致感の増幅を無視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "夢や意識の未解明さを、そのまま予知能力の実在証明にすり替える",
+          "説明のつきにくい一致を、ただちに超感覚的知覚と解釈する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "夢が心理的に意味深いことを、外界の未来事実を知ったことと混同する",
+          "内的な予感や不安の反映を、客観的な未来予測の成功にすり替える"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "当たったように見える夢だけを書き留め、外れた夢や記録の欠如を省く",
+          "夢の具体性が低いほど事後的に一致条件を広げてしまう"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "予知夢の観念は古代から広く見られるが、現代的な超心理学の文脈では19世紀末以降の心霊研究と、20世紀の J.B. Rhine らによる precognition 研究を通じて整理・普及した。",
+      "spread_period": "宗教、民間信仰、心霊研究の系譜に加え、20世紀には超能力ブーム、夢解釈本、テレビ番組、オカルト雑誌で広がった。現在はSNS、掲示板、動画、スピリチュアル系発信で日常的に再生産されている。",
+      "spread_scope": "世界各地で広く見られる主張だが、英語圏、日本語圏では超能力、スピリチュアル、災害前兆、自己啓発の文脈で特に流通している。個人の夢日記、災害後の回想投稿、体験談メディアと結びつきやすい。",
+      "note": "この項目は、夢が感情や不安、日中の情報を整理する心理的体験であることや、夢の主観的意味を否定するものではない。対象は、夢が超感覚的に未来の事実を正確に知らせるという主張である。",
+      "spreaders": [
+        "超能力・オカルト媒体、スピリチュアル系発信者、夢占い・夢解釈コンテンツ",
+        "災害や事件の後に『予知していた夢』を共有する SNS、動画、掲示板文化"
+      ],
+      "beneficiaries": [
+        "夢鑑定、夢占い、講座、関連書籍やコンテンツで受益しうる発信者や事業者",
+        "『夢は未来からのメッセージ』という物語で関心を集められる媒体やコミュニティ"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: precognition",
+        "url": "https://www.britannica.com/topic/precognition"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: precognition",
+        "url": "https://www.britannica.com/topic/precognition",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: extrasensory perception (ESP)",
+        "url": "https://www.britannica.com/topic/extrasensory-perception",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: clairvoyance",
+        "url": "https://www.britannica.com/topic/clairvoyance",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: hindsight bias",
+        "url": "https://www.britannica.com/topic/hindsight-bias",
+        "type": "article"
+      },
+      {
+        "title": "Are false memories more difficult to forget than accurate memories?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12507370/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "予知夢",
+      "precognitive dream",
+      "precognition",
+      "予知",
+      "夢占い",
+      "ESP",
+      "clairvoyance",
+      "後知恵バイアス",
+      "スピリチュアル",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "psychometry-object-reading-reveals-facts-claim",
+    "title": "サイコメトリーで物から事実を読み取れる",
+    "category": "conspiracy",
+    "claim": "持ち主の私物、写真、遺品、アクセサリーなどに触れるだけで、その人物の過去、感情、居場所、事件の経緯、未来に関する事実を超感覚的に読み取ることができる。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "サイコメトリーはオカルティズムや超心理学で語られてきたが、物に触れて客観的事実を正確に取得できる科学的証拠はない。納得感は、曖昧な記述、コールドリーディング、事後的な当てはめで生まれやすい。",
+    "explanation": "Britannica の psychometry は、object reading として、物に接触して person or thing に関する facts or impressions を受け取るとされる実践を説明している。しかし同項目でも、psychometric visions are usually too haphazard to be of much practical value とされており、失踪者探しや犯罪捜査への利用も歴史的に試みられたにとどまる。サイコメトリーは、より一般的には clairvoyance や ESP の一種として理解されるが、Britannica の clairvoyance は、その実在について research in parapsychology has yet to provide conclusive support と整理している。体験的に『当たった』と感じられやすい背景としては、Dutton の cold reading 研究が示すように、一般的な記述や相手の反応への微調整が、いかにも個別情報を読み取ったような印象を生みうる。さらに Barnum effect により、受け手は曖昧で広く当てはまる内容を自分固有の情報と受け取りやすい。したがって、物や遺品に触れて強い印象や連想が湧く主観体験はありえても、それを客観的な事実取得能力として扱うことは支持されない。",
+    "why_it_spreads": [
+      "持ち物には『持ち主の気配が宿る』という直感があり、主張が感覚的に受け入れられやすい",
+      "遺品や写真のように感情価の高い対象ほど、読み取り結果に意味を感じやすい",
+      "読み取り内容が曖昧でも、受け手が自分の事情に合わせて補完しやすい",
+      "行方不明者や死別など切実な状況では、通常手段で得られない情報への期待が高まりやすい",
+      "霊視、前世、予知、守護存在など他のスピリチュアル主張と接続しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "当たったように見える事例だけを残し、外れや曖昧な読みに触れない",
+          "捜査協力や体験談の存在を、能力の実証と混同する"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "Barnum effect やコールドリーディングによる納得感を見落とす",
+          "相手の反応、文脈、事前情報から無意識に推測している可能性を無視する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "物から連想が喚起される主観体験を、外界の事実を取得したことにすり替える",
+          "象徴的な『しっくり感』を、具体的事実の正確性と混同する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "意識や記憶の未解明さを、物への情報記録という超常機構の証拠にする",
+          "説明困難な一致を、そのまま超感覚的読み取りへ結びつける"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "読みに合う情報だけを後から拾い上げ、合わない部分を象徴解釈で処理する",
+          "曖昧な表現ほど適用範囲が広がることを無視する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "サイコメトリーの語と実践は19世紀半ばのオカルティズムと心霊研究で広まり、Joseph Rodes Buchanan らによる主張が初期の重要な起点とされる。",
+      "spread_period": "19世紀後半から20世紀にかけて心霊主義、超心理学、霊媒文化で広がり、後には失踪者捜索、犯罪捜査協力、テレビの霊視企画、個人鑑定サービスなどで再流通した。現在は動画、SNS、個人セッション市場で継続して広がっている。",
+      "spread_scope": "欧米、日本語圏を含むスピリチュアル、霊視、オカルト、超能力、自己啓発の文脈で流通している。『遺品に残る波動』『写真から読む』といった周辺表現へ展開しやすい。",
+      "note": "この項目は、物が記憶や感情を呼び起こす心理的連想や、遺品に強い意味を感じる体験を否定するものではない。対象は、物に触れることで外界の事実を超感覚的に取得できるという主張である。",
+      "spreaders": [
+        "霊視、占い、スピリチュアル、超能力系の媒体やセッション提供者",
+        "失踪者・事件・遺品の読み取りを扱う動画、番組、書籍、SNS コンテンツ"
+      ],
+      "beneficiaries": [
+        "個人鑑定、講座、イベント、関連商材で受益しうる発信者や事業者",
+        "『物に残る情報を読む』という物語で関心を集められるメディアやコミュニティ"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: psychometry",
+        "url": "https://www.britannica.com/topic/psychometry"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: psychometry",
+        "url": "https://www.britannica.com/topic/psychometry",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: clairvoyance",
+        "url": "https://www.britannica.com/topic/clairvoyance",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: extrasensory perception (ESP)",
+        "url": "https://www.britannica.com/topic/extrasensory-perception",
+        "type": "article"
+      },
+      {
+        "title": "The cold reading technique",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3360083/",
+        "type": "paper"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Barnum Effect",
+        "url": "https://www.britannica.com/science/Barnum-Effect",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "サイコメトリー",
+      "psychometry",
+      "object reading",
+      "物読み",
+      "霊視",
+      "clairvoyance",
+      "ESP",
+      "コールドリーディング",
+      "スピリチュアル",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "quantum-consciousness-explains-mind-claim",
+    "title": "意識は量子論でほぼ説明できる",
+    "category": "technology",
+    "claim": "人間の意識は脳内の量子効果、とくに微小管での量子計算や量子重ね合わせで説明でき、これはすでに有力に実証されている。したがって、意識は単なる神経活動ではなく、魂や超常現象、死後意識の存続を示唆する。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "量子論を意識に応用する仮説や研究は実在するが、意識が量子効果で『ほぼ説明済み』だとはいえない。特定の量子意識理論、とくに Orch-OR をめぐっては支持論文もある一方で、生物学的実現性や実証性への強い批判が続いており、そこから魂や超常を導くのは飛躍が大きい。",
+    "explanation": "意識研究に量子論を導入する試みは、Hameroff と Penrose の Orch-OR のように現実の学術仮説として存在する。実際、近年も支持的なレビューや論考は発表されている。しかし、それは『量子意識が確立した』ことと同義ではない。PubMed にある Reimers らの批判論文は、Orch-OR が前提とする微小管での量子計算やコヒーレンス維持について、生物学的に必要な条件が満たされず、known physical paradigms に照らして feasible explanation ではないと結論している。一方で Hameroff 自身は Orch-OR を最も包括的で反証可能な理論だと主張しており、研究コミュニティ内でも見解は割れている。つまり、量子意識は確立理論ではなく、論争的で検証途上の仮説群である。さらに、たとえ脳内に何らかの量子的過程が関与していたとしても、それだけで魂、ESP、死後意識、宇宙意識の実在が導かれるわけではない。量子論の難解さや『観測者』概念はしばしば一般向けに誤用され、神経科学の未解決問題を超常的説明へ短絡させる温床になっている。したがって、『意識の量子論的説明』を研究テーマとして扱うことと、『量子で意識はほぼ説明済みで、超常まで裏づけられた』と語ることは明確に分ける必要がある。",
+    "why_it_spreads": [
+      "意識という難問に対して、量子論は深遠で特別な答えを与えてくれそうに見える",
+      "『観測者』『重ね合わせ』『非局所性』といった量子語彙が、哲学的・神秘的連想を強く誘う",
+      "神経科学で未解決の部分が残っているため、代替説明に大きな余地があるように感じられやすい",
+      "一部の実在する学術論文や著名研究者の名前が、一般向けには過剰な確立感を与えやすい",
+      "スピリチュアル、自己啓発、超常主張と結びつくと、量子論が権威づけ装置として使われやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "量子意識仮説が存在することを、そのまま有力に実証された事実へすり替える",
+          "脳で量子効果が起こりうる可能性を、意識の本質説明や魂の証拠へ飛躍させる"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "意識のハードプロブレムや神経科学の未解決性を、任意の量子主張の根拠にする",
+          "量子論の解釈問題を、超常的結論の余地として利用する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "支持的レビューや理論論文を、決定的な実証研究と同等に扱う",
+          "批判論文や再現性の問題を無視し、肯定的な少数研究だけを強調する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "主流神経科学の慎重姿勢を、唯物論的偏見や想像力不足として退ける",
+          "複雑な技術的批判を、保守的な学界の抵抗として片づける"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "意識は特別に感じられるから古典物理では説明できないはずだと考える",
+          "主観体験の神秘性を、そのまま量子的起源の証拠とみなす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "意識への量子論的応用は20世紀半ばから散発的に現れたが、現代の代表的文脈としては1990年代以降の Penrose-Hameroff の Orch-OR が大きな起点になっている。",
+      "spread_period": "1990年代以降、意識のハードプロブレムへの関心、一般向け量子本、ニューエイジ的量子解釈と結びついて広がった。近年もレビュー論文、講演、動画、自己啓発コンテンツを通じて『量子が意識を証明した』という形で再拡散している。",
+      "spread_scope": "学術、哲学、一般向け科学、スピリチュアル、自己啓発の境界領域で広く流通している。厳密な理論仮説と、超常や魂の物語を混ぜた通俗的『量子意識』言説がしばしば混同される。",
+      "note": "この項目は、量子脳仮説や量子生物学の研究自体を否定するものではない。対象は、それらがすでに意識の本質を有力に説明し、さらに超常現象まで裏づけたかのように語る主張である。",
+      "spreaders": [
+        "量子意識を一般向けに紹介する科学啓蒙、哲学系コンテンツ、スピリチュアル媒体",
+        "『量子で魂や引き寄せを説明する』自己啓発、講座、動画、書籍"
+      ],
+      "beneficiaries": [
+        "量子意識を看板にした講演、書籍、講座、関連商材で受益しうる発信者や事業者",
+        "難解な量子語彙で神秘性や権威を付与できるメディアやコミュニティ"
+      ],
+      "source": {
+        "title": "PubMed: 'Orch OR' is the most complete, and most easily falsifiable theory of consciousness",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33232193/"
+      }
+    },
+    "sources": [
+      {
+        "title": "'Orch OR' is the most complete, and most easily falsifiable theory of consciousness",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33232193/",
+        "type": "paper"
+      },
+      {
+        "title": "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19792156/",
+        "type": "paper"
+      },
+      {
+        "title": "The finer scale of consciousness: quantum theory",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31807566/",
+        "type": "paper"
+      },
+      {
+        "title": "Quantum theory of Consciousness: A ripple in the existing constructs",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9129321/",
+        "type": "paper"
+      },
+      {
+        "title": "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40342554/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "量子意識",
+      "quantum consciousness",
+      "Orch-OR",
+      "Penrose",
+      "Hameroff",
+      "微小管",
+      "意識のハードプロブレム",
+      "量子脳仮説",
+      "スピリチュアル",
+      "疑似科学"
+    ]
   }
 ]
