@@ -18,8 +18,7 @@ type Props = {
   params: Promise<{ id: string }>
 }
 
-export const generateStaticParams = () =>
-  getClaims().map((c) => ({ id: c.id }))
+export const generateStaticParams = () => getClaims().map((c) => ({ id: c.id }))
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
 
@@ -160,7 +159,9 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         type="application/ld+json"
       />
-      <header style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>
+      <header
+        style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}
+      >
         <Breadcrumbs
           items={[
             { href: "/", label: "ホーム" },
@@ -180,27 +181,32 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           <Badge color="#718096" label={CATEGORY_LABEL[claim.category]} />
           <Badge color="#718096" label={CONFIDENCE_LABEL[claim.confidence]} />
         </div>
-        <h1 style={{ fontSize: "1.375rem", fontWeight: 700, lineHeight: 1.4 }}>
+        <h1
+          style={{
+            fontSize: "1rem",
+            fontWeight: 700,
+            lineHeight: 1.4,
+          }}
+        >
           {claim.title}
         </h1>
         <p style={{ color: "#718096", fontSize: ".75rem" }}>
           公開: {claim.created_at}
-          {claim.updated_at !== claim.created_at && `　更新: ${claim.updated_at}`}
+          {claim.updated_at !== claim.created_at && `更新: ${claim.updated_at}`}
         </p>
       </header>
 
       <Card
         style={{
           ...sectionStyle,
-          backgroundColor: "#3b2a24",
           padding: "1.25rem",
         }}
       >
         <p style={{ ...sectionTitleStyle, color: "#f6ad55" }}>検証する主張</p>
         <p
           style={{
-            color: "#f7fafc",
-            fontSize: "clamp(1.125rem, 2.4vw, 1.5rem)",
+            color: "#d9d9d6",
+            fontSize: "clamp(1.25rem, 2.8vw, 1.75rem)",
             fontWeight: 700,
             lineHeight: 1.55,
           }}
@@ -209,9 +215,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         </p>
       </Card>
 
-      <Card
-        style={sectionStyle}
-      >
+      <Card style={sectionStyle}>
         <p style={sectionTitleStyle}>判定</p>
         <div style={{ alignItems: "center", display: "flex", gap: ".75rem" }}>
           <span
@@ -228,6 +232,55 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           </span>
         </div>
       </Card>
+
+      <section style={sectionStyle}>
+        <h2 style={sectionTitleStyle}>サマリー</h2>
+        <p style={{ fontSize: ".9375rem", lineHeight: 1.7 }}>{claim.summary}</p>
+      </section>
+
+      <section style={sectionStyle}>
+        <h2 style={sectionTitleStyle}>解説</h2>
+        <p
+          style={{
+            color: "#a0aec0",
+            fontSize: ".9375rem",
+            lineHeight: 1.8,
+            whiteSpace: "pre-wrap",
+          }}
+        >
+          {claim.explanation}
+        </p>
+      </section>
+
+      <section style={sectionStyle}>
+        <h2 style={sectionTitleStyle}>拡散する理由</h2>
+        <ul
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            gap: ".5rem",
+            listStyle: "none",
+            padding: 0,
+          }}
+        >
+          {claim.why_it_spreads.map((reason, i) => (
+            <li
+              key={i}
+              style={{
+                alignItems: "flex-start",
+                color: "#a0aec0",
+                display: "flex",
+                fontSize: ".9375rem",
+                gap: ".5rem",
+                lineHeight: 1.6,
+              }}
+            >
+              <span style={{ color: "#718096", flexShrink: 0 }}>•</span>
+              {reason}
+            </li>
+          ))}
+        </ul>
+      </section>
 
       <Card style={sectionStyle}>
         <p style={sectionTitleStyle}>初出・流布状況</p>
@@ -270,7 +323,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         </dl>
         {Boolean(
           claim.circulation.spreaders?.length ||
-            claim.circulation.beneficiaries?.length,
+          claim.circulation.beneficiaries?.length
         ) && (
           <div
             style={{
@@ -374,55 +427,6 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       </Card>
 
       <section style={sectionStyle}>
-        <h2 style={sectionTitleStyle}>サマリー</h2>
-        <p style={{ fontSize: ".9375rem", lineHeight: 1.7 }}>{claim.summary}</p>
-      </section>
-
-      <section style={sectionStyle}>
-        <h2 style={sectionTitleStyle}>解説</h2>
-        <p
-          style={{
-            color: "#a0aec0",
-            fontSize: ".9375rem",
-            lineHeight: 1.8,
-            whiteSpace: "pre-wrap",
-          }}
-        >
-          {claim.explanation}
-        </p>
-      </section>
-
-      <section style={sectionStyle}>
-        <h2 style={sectionTitleStyle}>拡散する理由</h2>
-        <ul
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            gap: ".5rem",
-            listStyle: "none",
-            padding: 0,
-          }}
-        >
-          {claim.why_it_spreads.map((reason, i) => (
-            <li
-              key={i}
-              style={{
-                alignItems: "flex-start",
-                color: "#a0aec0",
-                display: "flex",
-                fontSize: ".9375rem",
-                gap: ".5rem",
-                lineHeight: 1.6,
-              }}
-            >
-              <span style={{ color: "#718096", flexShrink: 0 }}>•</span>
-              {reason}
-            </li>
-          ))}
-        </ul>
-      </section>
-
-      <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>よく使われる論法・誤謬</h2>
         <div
           style={{
@@ -435,8 +439,8 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
             <div
               key={fallacyGroup.group}
               style={{
-                backgroundColor: "#372630",
-                border: "1px solid #5a3d48",
+                backgroundColor: "#261b22",
+                border: "1px solid #372630",
                 borderRadius: "4px",
                 padding: ".875rem 1rem",
               }}
@@ -533,7 +537,6 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           </div>
         </section>
       )}
-
     </article>
   )
 }

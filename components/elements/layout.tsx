@@ -32,11 +32,15 @@ export const Badge: FC<{
   </span>
 )
 
-export const Card: FC<ComponentProps<"div">> = ({ style, children, ...props }) => (
+export const Card: FC<ComponentProps<"div">> = ({
+  style,
+  children,
+  ...props
+}) => (
   <div
     style={{
-      backgroundColor: "#372630",
-      border: "1px solid #5a3d48",
+      backgroundColor: "#261b22",
+      border: "1px solid #372630",
       borderRadius: "4px",
       padding: "1rem",
       ...style,

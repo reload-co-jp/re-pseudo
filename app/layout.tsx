@@ -114,7 +114,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         />
         <header
           style={{
-            backgroundColor: "#3d2b34",
+            backgroundColor: "#261b22",
             boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
             padding: ".75rem 1.5rem",
           }}
@@ -123,6 +123,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             style={{
               alignItems: "center",
               display: "flex",
+              flexWrap: "wrap",
               gap: "2rem",
               margin: "0 auto",
               maxWidth: "900px",
@@ -145,7 +146,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 width={204}
               />
             </Link>
-            <nav style={{ display: "flex", gap: "1.25rem" }}>
+            <nav style={{ display: "flex", flexWrap: "wrap", gap: "1rem" }}>
               <Link
                 href="/claims/"
                 style={{
@@ -174,7 +175,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                   textDecoration: "none",
                 }}
               >
-                似非科学の判断基準
+                判断基準
               </Link>
               <Link
                 href="/conspiracy/"
@@ -201,7 +202,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         </header>
         <main
           style={{
-            background: "#261b22",
+            background: "#1c1118",
             minHeight: "calc(100dvh - 6rem)",
             padding: "2rem 1.5rem",
           }}
@@ -210,13 +211,15 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         </main>
         <footer
           style={{
-            backgroundColor: "#3d2b34",
+            backgroundColor: "#261b22",
             boxShadow: "0 -4px 6px rgba(0, 0, 0, 0.1)",
             fontSize: ".75rem",
             padding: "1rem 1.5rem",
           }}
         >
-          <div style={{ color: "#718096", margin: "0 auto", maxWidth: "900px" }}>
+          <div
+            style={{ color: "#718096", margin: "0 auto", maxWidth: "900px" }}
+          >
             <p style={{ margin: 0 }}>
               &copy; Re pseudo —
               情報の信頼性を判断するための材料提供を目的としています。
