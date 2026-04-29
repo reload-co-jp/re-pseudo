@@ -3,7 +3,7 @@ import Link from "next/link"
 import { FC } from "react"
 import Breadcrumbs from "components/Breadcrumbs"
 import { Badge, Card } from "components/elements/layout"
-import { getClaims, getClaimById } from "lib/claims"
+import { formatDate, getClaims, getClaimById } from "lib/claims"
 import {
   CATEGORY_LABEL,
   CONFIDENCE_LABEL,
@@ -191,8 +191,8 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           {claim.title}
         </h1>
         <p style={{ color: "#718096", fontSize: ".75rem" }}>
-          公開: {claim.created_at}
-          {claim.updated_at !== claim.created_at && `更新: ${claim.updated_at}`}
+          公開: {formatDate(claim.created_at)}
+          {claim.updated_at !== claim.created_at && `更新: ${formatDate(claim.updated_at)}`}
         </p>
       </header>
 

@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { Badge, Card } from "components/elements/layout"
+import { formatDate } from "lib/claims"
 import { CATEGORY_LABEL, RISK_COLOR, RISK_LABEL, VERDICT_COLOR, VERDICT_LABEL } from "lib/labels"
 import type { Claim } from "types/claim"
 
@@ -47,7 +48,7 @@ const ClaimCard = ({ claim }: Props) => (
         ))}
       </div>
     )}
-    <p style={{ color: "#718096", fontSize: ".75rem" }}>{claim.created_at}</p>
+    <p style={{ color: "#718096", fontSize: ".75rem" }}>{formatDate(claim.created_at)}</p>
   </Card>
 )
 

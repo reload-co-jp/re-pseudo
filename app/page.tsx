@@ -1,7 +1,7 @@
 import Link from "next/link"
 import { FC } from "react"
 import { Badge, Card } from "components/elements/layout"
-import { getCategoryCount, getFeaturedClaims, getLatestClaims } from "lib/claims"
+import { formatDate, getCategoryCount, getFeaturedClaims, getLatestClaims } from "lib/claims"
 import {
   CATEGORY_DESCRIPTION,
   CATEGORY_LABEL,
@@ -40,7 +40,7 @@ const Page: FC = () => {
   const heroStats = [
     { label: "掲載主張", value: `${totalClaims}件` },
     { label: "カテゴリ", value: `${Object.keys(categoryCount).length}分類` },
-    { label: "新着更新", value: latest[0]?.created_at ?? "—" },
+    { label: "新着更新", value: latest[0] ? formatDate(latest[0].created_at) : "—" },
   ]
   const websiteJsonLd = {
     "@context": "https://schema.org",
@@ -65,52 +65,58 @@ const Page: FC = () => {
       <section
         style={{
           background:
-            "linear-gradient(180deg, rgba(61,43,52,.92) 0%, rgba(55,38,48,.96) 58%, rgba(42,29,36,1) 100%)",
-          border: "1px solid #5a3d48",
-          borderRadius: "6px",
+            "linear-gradient(160deg, rgba(80,48,64,1) 0%, rgba(55,32,46,1) 40%, rgba(30,18,24,1) 100%)",
+          border: "1px solid #7a4d62",
+          borderRadius: "8px",
           overflow: "hidden",
+          position: "relative",
         }}
       >
         <div
           style={{
             display: "grid",
-            gap: "1.5rem",
+            gap: "1.25rem",
             padding: "1.5rem",
           }}
         >
-          <div style={{ display: "flex", flexDirection: "column", gap: ".875rem" }}>
-            <Badge color="#f6ad55" label="根拠・出典・流布状況を整理" />
-            <div style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>
+          <div style={{ display: "flex", flexDirection: "column", gap: "1.25rem" }}>
+            <Badge color="#f6ad55" label="根拠・出典・流布状況を整理" style={{ backgroundColor: "transparent", border: "none" }} />
+            <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
               <h1
                 style={{
-                  fontSize: "clamp(1.75rem, 4vw, 2.5rem)",
-                  fontWeight: 700,
-                  lineHeight: 1.25,
+                  fontSize: "clamp(1.75rem, 4vw, 2.75rem)",
+                  fontWeight: 800,
+                  letterSpacing: "-.02em",
+                  lineHeight: 1.1,
                 }}
               >
-                Re pseudo
+                <span style={{ color: "#f6ad55" }}>Re</span>
+                {" "}
+                <span style={{ color: "#f7fafc" }}>pseudo</span>
               </h1>
               <p
                 style={{
-                  color: "#f7fafc",
-                  fontSize: "clamp(1rem, 2vw, 1.125rem)",
+                  color: "#f0e6ec",
+                  fontSize: "clamp(.9rem, 2vw, 1rem)",
                   lineHeight: 1.85,
-                  maxWidth: "42rem",
+                  maxWidth: "38rem",
                 }}
               >
                 似非科学・陰謀論・誤情報の主張を、判定だけで終わらせず、
-                どんな根拠が使われ、どう広まり、どの論法で信じられやすいのかまでたどる検証カタログです。
+                どんな根拠が使われ、どう広まり、どの論法で信じられやすいのかまでたどる検証カタログ。
               </p>
               <p
                 style={{
-                  color: "#cbd5e0",
+                  borderLeft: "2px solid #7a4d62",
+                  color: "#b8a0ae",
                   fontSize: ".9375rem",
                   lineHeight: 1.8,
-                  maxWidth: "42rem",
+                  maxWidth: "38rem",
+                  paddingLeft: ".875rem",
                 }}
               >
-                特定の立場を先に決めるのではなく、再現性、検証可能性、公的情報、
-                研究レビューを手がかりに、判断材料を見つけやすく整理しています。
+                特定の立場を先に決めるのではなく、再現性・検証可能性・公的情報・
+                研究レビューを手がかりに判断材料を整理。
               </p>
             </div>
           </div>
@@ -126,27 +132,28 @@ const Page: FC = () => {
               href="/claims/"
               style={{
                 backgroundColor: "#f6ad55",
-                border: "1px solid #f6ad55",
-                borderRadius: "4px",
-                color: "#22161c",
-                fontSize: ".875rem",
-                fontWeight: 700,
-                padding: ".75rem 1rem",
+                border: "none",
+                borderRadius: "5px",
+                boxShadow: "0 2px 12px rgba(246,173,85,.35)",
+                color: "#1a0f14",
+                fontSize: ".9rem",
+                fontWeight: 800,
+                padding: ".8rem 1.4rem",
                 textDecoration: "none",
               }}
             >
-              主張一覧を見る
+              主張一覧を見る →
             </Link>
             <Link
               href="/criteria/"
               style={{
-                backgroundColor: "transparent",
-                border: "1px solid #7f5b69",
-                borderRadius: "4px",
-                color: "#e2e8f0",
-                fontSize: ".875rem",
+                backgroundColor: "rgba(255,255,255,.06)",
+                border: "1px solid #7a4d62",
+                borderRadius: "5px",
+                color: "#e2d4da",
+                fontSize: ".9rem",
                 fontWeight: 600,
-                padding: ".75rem 1rem",
+                padding: ".8rem 1.4rem",
                 textDecoration: "none",
               }}
             >
@@ -155,13 +162,13 @@ const Page: FC = () => {
             <Link
               href="/fallacies/"
               style={{
-                backgroundColor: "transparent",
-                border: "1px solid #7f5b69",
-                borderRadius: "4px",
-                color: "#e2e8f0",
-                fontSize: ".875rem",
+                backgroundColor: "rgba(255,255,255,.06)",
+                border: "1px solid #7a4d62",
+                borderRadius: "5px",
+                color: "#e2d4da",
+                fontSize: ".9rem",
                 fontWeight: 600,
-                padding: ".75rem 1rem",
+                padding: ".8rem 1.4rem",
                 textDecoration: "none",
               }}
             >
@@ -171,36 +178,38 @@ const Page: FC = () => {
 
           <div
             style={{
+              borderTop: "1px solid #5a3048",
               display: "grid",
-              gap: ".75rem",
-              gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))",
+              gap: "0",
+              gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))",
+              paddingTop: "1.5rem",
             }}
           >
-            {heroStats.map((item) => (
+            {heroStats.map((item, i) => (
               <div
                 key={item.label}
                 style={{
-                  backgroundColor: "#2d1f28",
-                  border: "1px solid #5a3d48",
-                  borderRadius: "4px",
+                  borderLeft: i > 0 ? "1px solid #5a3048" : "none",
                   display: "flex",
                   flexDirection: "column",
-                  gap: ".35rem",
-                  minHeight: "88px",
-                  padding: "1rem",
+                  gap: ".25rem",
+                  padding: ".5rem 1rem",
                 }}
               >
-                <span style={{ color: "#a0aec0", fontSize: ".75rem" }}>{item.label}</span>
                 <strong
                   style={{
-                    color: "#f7fafc",
-                    fontSize: "1.125rem",
+                    color: "#f6ad55",
+                    fontSize: "clamp(1rem, 2vw, 1.25rem)",
                     fontWeight: 700,
-                    lineHeight: 1.3,
+                    lineHeight: 1,
+                    letterSpacing: "-.01em",
                   }}
                 >
                   {item.value}
                 </strong>
+                <span style={{ color: "#9a7a88", fontSize: ".6875rem", letterSpacing: ".04em" }}>
+                  {item.label}
+                </span>
               </div>
             ))}
           </div>
@@ -282,7 +291,7 @@ const Page: FC = () => {
               }}
             >
               <span style={{ color: "#718096", fontSize: ".75rem", whiteSpace: "nowrap" }}>
-                {c.created_at}
+                {formatDate(c.created_at)}
               </span>
               <Badge
                 color={VERDICT_COLOR[c.verdict]}
@@ -318,34 +327,35 @@ const Page: FC = () => {
         >
           カテゴリ
         </h2>
-        <div style={{ display: "flex", flexWrap: "wrap", gap: ".75rem" }}>
+        <div style={{ display: "grid", gap: ".75rem", gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))" }}>
           {(Object.entries(categoryCount) as [keyof typeof CATEGORY_LABEL, number][]).map(
             ([cat, count]) => (
               <Link
                 href={`/claims/?category=${cat}`}
                 key={cat}
                 style={{
-                  backgroundColor: "#372630",
+                  backgroundColor: "#2d1f28",
                   border: "1px solid #5a3d48",
-                  borderRadius: "4px",
+                  borderRadius: "6px",
                   color: "#e2e8f0",
                   display: "flex",
                   flexDirection: "column",
-                  gap: ".4rem",
-                  maxWidth: "260px",
-                  padding: ".75rem 1rem",
+                  gap: ".5rem",
+                  padding: "1rem 1.25rem",
                   textDecoration: "none",
                 }}
               >
-                <div style={{ fontSize: ".875rem", fontWeight: 600 }}>
-                  {CATEGORY_LABEL[cat]}
+                <div style={{ alignItems: "center", display: "flex", justifyContent: "space-between" }}>
+                  <span style={{ fontSize: ".9375rem", fontWeight: 700 }}>
+                    {CATEGORY_LABEL[cat]}
+                  </span>
+                  <span style={{ backgroundColor: "#3d2535", borderRadius: "3px", color: "#f6ad55", fontSize: ".75rem", fontWeight: 700, padding: "1px 7px" }}>
+                    {count}
+                  </span>
                 </div>
-                <p style={{ color: "#a0aec0", fontSize: ".75rem", lineHeight: 1.6 }}>
+                <p style={{ color: "#9a8090", fontSize: ".8125rem", lineHeight: 1.65, margin: 0 }}>
                   {CATEGORY_DESCRIPTION[cat]}
                 </p>
-                <div style={{ color: "#718096", fontSize: ".75rem" }}>
-                  {count}件
-                </div>
               </Link>
             ),
           )}

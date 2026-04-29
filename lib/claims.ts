@@ -1,6 +1,8 @@
 import claimsData from "data/claims.json"
 import type { Claim } from "types/claim"
 
+export const formatDate = (date: string): string => date.replace(/-/g, ".")
+
 const claims = claimsData as Claim[]
 
 export const getClaims = (): Claim[] => claims
