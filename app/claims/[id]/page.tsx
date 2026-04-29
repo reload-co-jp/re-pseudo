@@ -537,6 +537,39 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           </div>
         </section>
       )}
+
+      <section style={{ ...sectionStyle, alignItems: "flex-start" }}>
+        <h2 style={sectionTitleStyle}>シェア</h2>
+        <a
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(claim.title)}&url=${encodeURIComponent(`${BASE_URL}/claims/${id}/`)}`}
+          rel="noopener noreferrer"
+          style={{
+            alignItems: "center",
+            backgroundColor: "#000",
+            border: "1px solid #333",
+            borderRadius: "6px",
+            color: "#fff",
+            display: "inline-flex",
+            fontSize: ".875rem",
+            fontWeight: 600,
+            gap: ".5rem",
+            padding: ".5rem 1rem",
+            textDecoration: "none",
+          }}
+          target="_blank"
+        >
+          <svg
+            fill="currentColor"
+            height="16"
+            viewBox="0 0 24 24"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.259 5.63L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z" />
+          </svg>
+          Xでシェア
+        </a>
+      </section>
     </article>
   )
 }
