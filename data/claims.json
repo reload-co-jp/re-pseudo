@@ -7017,5 +7017,861 @@
       "スピリチュアル",
       "疑似科学"
     ]
+  },
+  {
+    "id": "channeling-receives-objective-messages-claim",
+    "title": "チャネリングで高次存在から客観的なメッセージを受け取れる",
+    "category": "conspiracy",
+    "claim": "チャネラーは霊、宇宙存在、アセンデッドマスター、高次元存在など外部の知性とつながり、本人が知らない客観的事実、未来、病気や人生の答えを信頼できる形で受け取れる。",
+    "verdict": "insufficient_evidence",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "チャネリングはスピリチュアル文化やニューエイジで広く語られるが、外部存在から検証可能な情報を安定して受け取れる証拠はない。助言を医療・金銭・人間関係の重要判断に使うと実害が出うる。",
+    "explanation": "Britannica は Spiritualism を、19世紀の米欧で死者の魂が生者と相互作用できるという信念に基づいて広がった運動として説明しており、ニューエイジ期には死者だけでなくアセンデッドマスターや地球外存在などを受信する channelers が人気を得たと整理している。これは宗教史・文化史上の実践としては実在するが、チャネリング内容が外部存在から来た客観情報であることを示すわけではない。媒体を通じた情報受信については、近年のメタ分析が一部の霊媒研究で偶然を上回る結果を報告している一方、同じ論文内でも cold reading、warm reading、hot reading、盲検化、評価者バイアスなどの統制が重要課題として扱われている。Dutton の cold reading 研究は、占星術師、手相占い師、オーラやタロットの読み手、霊媒との面接で、相手の反応に合わせた推測と Barnum effect によって、超常的に個人情報を得たような印象が生まれうると説明している。さらに Britannica の Barnum Effect も、曖昧で一般的な記述を自分固有の内容として受け取りやすい心理を示しており、占い・霊能・水晶占いなどで使われるとする。したがって、チャネリング体験が主観的に強い意味や慰めを持つことは否定できないが、そこから得たメッセージを検証済みの外部知性や未来情報として扱うには根拠が不足している。",
+    "why_it_spreads": [
+      "死別、不安、病気、人生の岐路で、通常手段では得られない答えや安心を求める心理に合う",
+      "メッセージが抽象的・象徴的だと、受け手が自分の状況へ柔軟に当てはめやすい",
+      "チャネラーの確信、儀式性、声色やトランス状態が、外部存在と接続している印象を強める",
+      "当たったように感じた部分だけが記憶・共有され、外れや曖昧な部分は意味づけで処理されやすい",
+      "高次元、宇宙、魂、量子などの語彙が、個人的助言に深い権威を与えやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "個人的な納得感や偶然の一致を、外部存在からの情報取得の証拠とみなす",
+          "当たった例だけを強調し、外れたメッセージや事後解釈を十分に扱わない"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "Barnum effect、コールドリーディング、相手の反応からの推測による納得感を見落とす",
+          "悲嘆や不安がある時ほど、曖昧な助言に強い意味を感じやすいことを無視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "意識や死後の問題に未解明部分があることを、任意のチャネリング主張の根拠にする",
+          "研究が続いていることを、外部存在との通信がほぼ確認済みであるかのように語る"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "メッセージが心理的に役立ったことを、情報源が実在したことと混同する",
+          "宗教的・象徴的な意味を、医療・投資・未来予測の正確性へすり替える"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "検証可能性や盲検化を求める態度を、霊性への無理解として退ける",
+          "医療・法務・金融の専門的助言より、霊的メッセージを優先する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "近代的な霊媒・交霊の流行は1848年の米国 Hydesville の Fox sisters 事件を起点に Spiritualism として広がった。チャネリングという語は20世紀後半のニューエイジ文脈で、死者以外の高次存在や地球外存在からの通信にも使われるようになった。",
+      "spread_period": "19世紀後半から20世紀初頭に交霊会・霊媒文化として広がり、1970年代以降のニューエイジ運動でアセンデッドマスター、宇宙存在、集合意識などを受信する実践として再拡散した。現在は個人セッション、動画、SNS、オンライン講座で流通している。",
+      "spread_scope": "英語圏、日本語圏を含むスピリチュアル、ニューエイジ、占い、自己啓発、代替医療、UFO・宇宙存在コミュニティで広い。宗教的実践、心理的自己対話、事実主張、商業鑑定が混在しやすい。",
+      "note": "この項目は、宗教的信念や瞑想体験、創作・内省としてのチャネリングを否定するものではない。対象は、外部存在から検証可能な客観情報を安定して受け取れるという事実主張である。",
+      "spreaders": [
+        "ニューエイジ、スピリチュアル、霊媒、占い、自己啓発系の媒体やセッション提供者",
+        "高次存在、宇宙存在、アセンデッドマスター、守護霊からのメッセージを扱う動画、書籍、SNS コンテンツ"
+      ],
+      "beneficiaries": [
+        "個人鑑定、講座、資格商材、コミュニティ運営で受益しうる発信者や事業者",
+        "不安や喪失感に答えを与える物語で集客できるスピリチュアル市場"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: Spiritualism",
+        "url": "https://www.britannica.com/topic/spiritualism-religion"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: Spiritualism",
+        "url": "https://www.britannica.com/topic/spiritualism-religion",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Spiritualist belief and practice",
+        "url": "https://www.britannica.com/topic/spiritualism-religion/Spiritualist-belief-and-practice",
+        "type": "article"
+      },
+      {
+        "title": "Anomalous information reception by mediums: A meta-analysis of the scientific evidence",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1550830720301518",
+        "type": "paper"
+      },
+      {
+        "title": "The cold reading technique",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3360083/",
+        "type": "paper"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Barnum Effect",
+        "url": "https://www.britannica.com/science/Barnum-Effect",
+        "type": "article"
+      },
+      {
+        "title": "United States Postal Inspection Service: Psychic Scam",
+        "url": "https://www.uspis.gov/news/scam-article/psychic-scam",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "チャネリング",
+      "channeling",
+      "霊媒",
+      "mediumship",
+      "交霊",
+      "ニューエイジ",
+      "高次存在",
+      "アセンデッドマスター",
+      "コールドリーディング",
+      "Barnum effect",
+      "スピリチュアル",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "mentalism-reads-and-controls-minds-claim",
+    "title": "メンタリズムで相手の心を読み、行動を自在に操れる",
+    "category": "conspiracy",
+    "claim": "メンタリストは心理学、微表情、視線、しぐさ、NLP、暗示を使えば、相手の考えや嘘を高精度に読み取り、本人に気づかれないまま行動や選択を自在に操作できる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "メンタリズムは舞台芸・マジックとして成立するが、読心や高精度の嘘検知、自由な心理操作が科学的に確立した技術だという主張は誇張。実際には手品、ミスディレクション、事前情報、統計的推測、演出が大きい。",
+    "explanation": "Britannica は mind reading を、第二の視力のように見せる magician's trick として説明し、18世紀以降の舞台で、合図、符号、配置、電気的信号などにより観客の名前や数字、物を当てる演目が発展したと整理している。つまり、メンタリズムや読心演技は芸能として実在するが、その成功は超常的読心や万能の心理技術を意味しない。心理学的手がかりがまったく役に立たないわけではない一方、嘘検知や心の読み取りについては限界が大きい。Bond と DePaulo のメタ分析では、人が補助なしでリアルタイムに嘘と真実を判定する平均正答率は54%で、直感的な読心能力とはほど遠い。微表情についても Burgoon は、微表情は頻度が低く、欺瞞に固有ではなく、嘘発見の最良手段ではないと論じている。さらに Wiseman らの PLOS ONE 論文は、NLPで語られる『視線方向で嘘を見抜ける』という主張を3研究で支持しなかった。Dutton の cold reading 研究は、占い師や霊媒との面接で、一般的記述、相手の反応への調整、Barnum effect により、個別情報を超常的に読んだような印象が作られうると説明している。したがって、メンタリズムをエンタメや限定的な対人観察術として楽しむことと、『心理学で心を読める・人を自在に操れる』という事実主張は分ける必要がある。",
+    "why_it_spreads": [
+      "舞台やテレビでは失敗例や準備過程が見えず、成功だけが読心の証拠に見えやすい",
+      "心理学、脳科学、NLP、微表情などの語が、手品的演出に科学的権威を与えやすい",
+      "他人の本音を知りたい、交渉や恋愛で有利になりたいという欲求に刺さる",
+      "当たった体験は強く記憶され、外れや曖昧な読みは忘れられやすい",
+      "ビジネス研修、恋愛商材、自己啓発で『すぐ使える心理操作』として商品化しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "舞台芸として成功することを、実用的な読心・心理操作能力の証拠にすり替える",
+          "限定的な心理効果や観察技術を、相手の心を直接読める技術として語る"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "成功した演目や当たった読みだけを見せ、失敗例、事前準備、選択編集を省く",
+          "単発の実演や体験談を、再現可能な科学的能力の証拠とみなす"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "Barnum effect、コールドリーディング、ミスディレクションによる納得感を見落とす",
+          "相手の反応や文脈からの通常推論を、特殊能力や科学的読心と誤認する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "微表情、視線、しぐさなど都合のよいサインだけを強調し、研究上の限界を省く",
+          "NLPやボディランゲージの有名な俗説を、検証済み知識として扱う"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "人間行動が完全には予測できないことを、逆に秘密の心理操作技術の余地として扱う",
+          "小さな統計的傾向を、個人相手の高精度な判断へ過大適用する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "Britannica によれば、舞台上の mind reading は少なくとも18世紀後半に確認でき、Philip Breslaw が1781年にロンドンの Haymarket Theatre で演じ、1784年には Pinetti 夫妻も観客の思考を当てる演目を宣伝した。",
+      "spread_period": "19世紀から20世紀にかけて Robert-Houdin、Houdini、Joseph Dunninger、The Amazing Kreskin などの舞台芸・マジックとして広がった。20世紀後半以降はテレビ、自己啓発、ビジネス研修、NLP、ボディランゲージ解説と結びつき、心理技術としての語りが強まった。",
+      "spread_scope": "欧米、日本語圏を含むマジック、テレビ番組、動画、自己啓発、営業・恋愛ノウハウ、NLP、嘘検知、非言語コミュニケーション市場で広い。エンタメ上の演出と科学的な心理技術の境界が曖昧になりやすい。",
+      "note": "この項目は、手品・舞台芸としてのメンタリズムや、相手をよく観察する対人スキルを否定するものではない。対象は、それを読心、万能嘘検知、自在な心理操作として宣伝する主張である。",
+      "spreaders": [
+        "メンタリズム、読心術、心理操作を扱うテレビ番組、動画、SNS、書籍、講座",
+        "NLP、ボディランゲージ、微表情、恋愛・営業心理術を即効ノウハウとして扱う発信者や媒体"
+      ],
+      "beneficiaries": [
+        "ショー、書籍、講座、研修、オンライン教材で受益しうる発信者や事業者",
+        "『相手の心を読める』という物語で注目を集められるエンタメ・自己啓発市場"
+      ],
+      "source": {
+        "title": "Encyclopaedia Britannica: mind reading",
+        "url": "https://www.britannica.com/art/mind-reading"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: mind reading",
+        "url": "https://www.britannica.com/art/mind-reading",
+        "type": "article"
+      },
+      {
+        "title": "Accuracy of Deception Judgments",
+        "url": "https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2",
+        "type": "paper"
+      },
+      {
+        "title": "Microexpressions Are Not the Best Way to Catch a Liar",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6158306/",
+        "type": "paper"
+      },
+      {
+        "title": "The Eyes Don't Have It: Lie Detection and Neuro-Linguistic Programming",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040259",
+        "type": "paper"
+      },
+      {
+        "title": "The cold reading technique",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3360083/",
+        "type": "paper"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Barnum Effect",
+        "url": "https://www.britannica.com/science/Barnum-Effect",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "メンタリズム",
+      "mentalism",
+      "読心術",
+      "mind reading",
+      "嘘検知",
+      "微表情",
+      "microexpression",
+      "NLP",
+      "ボディランゲージ",
+      "コールドリーディング",
+      "Barnum effect",
+      "心理操作",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "seven-habits-guarantees-success-claim",
+    "title": "『7つの習慣』で誰でも成功を再現できる",
+    "category": "finance",
+    "claim": "『7つの習慣』の原則を実践すれば、誰でも仕事、収入、人間関係、人生の成功を再現できる。成功者が実践する普遍法則なので、成果が出ないのは本人の習慣化や主体性が足りないからである。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "『7つの習慣』には目標設定、優先順位づけ、傾聴、協働など実用的な助言が含まれる。しかし、特定の7項目が誰にでも成功を保証する科学的法則として実証されているわけではない。成果は能力、環境、資源、健康、運、制度条件にも左右される。",
+    "explanation": "『The 7 Habits of Highly Effective People』は Stephen R. Covey による1989年刊行のビジネス・自己啓発書で、FranklinCovey や Simon & Schuster は、同書が40年以上の言語圏で4000万部以上売れたと説明している。内容には、主体性、目的意識、優先順位づけ、相互利益、傾聴、協働、自己更新など、実務や人間関係で役立ちうる原則が含まれる。実際、心理学には関連する根拠もある。たとえば実行意図のメタ分析では、『いつ・どこで・どう行動するか』を事前に決める if-then plan が目標達成を助けることが示されている。これは『終わりを思い描く』『最優先事項を優先する』といった助言と部分的に整合する。一方で、それは『7つの習慣』というパッケージ全体が、収入、昇進、幸福、人間関係を誰にでも再現可能に改善することを直接示す証拠ではない。自己啓発書全般についても、Scientific American は、研究対象になった本はごく一部で、効果は問題の種類、読者の動機、支援の有無、実践率に左右されると整理している。Journal of Happiness Studies のレビューも、問題焦点型の自助教材には有効な場合がある一方、すべての障害・すべての人に等しく効くわけではなく、実証データが不足する本が多いと述べている。したがって、『7つの習慣』を行動改善の枠組みとして使うことと、成功の普遍法則や失敗の自己責任論として扱うことは分ける必要がある。",
+    "why_it_spreads": [
+      "7項目という整理は覚えやすく、複雑なキャリアや人生を扱いやすい手順に見せる",
+      "世界的ベストセラーや企業研修での採用実績が、科学的実証と混同されやすい",
+      "主体性や人格を重視する語りは、努力で人生を制御したい欲求に合う",
+      "成功者の体験談は、資本、学歴、健康、人脈、景気、差別構造、偶然の影響を見えにくくする",
+      "企業研修や自己啓発市場では、シンプルで共通言語化しやすい枠組みが商品化しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "成功者が習慣を語ることを、その習慣が成功の主原因だったと逆向きに解釈する",
+          "読後に改善した体験を、他の環境変化や本人の元々の資源ではなく本の効果に帰属させる"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "売上部数、研修導入、著名人の推薦を、効果の科学的検証と同じものとして扱う",
+          "関連する目標設定研究や自己制御研究を、7項目全体の実証として流用する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "成功例や感動的な読者体験だけを示し、実践しても変化しなかった例を見落とす",
+          "習慣化しやすい人、職場裁量が大きい人、支援資源がある人の事例を一般化する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "人生訓として役立つことを、収入や昇進を再現する法則であることへすり替える",
+          "行動改善のヒントを、構造的制約や健康問題を超える万能解決策として扱う"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "自己啓発で希望や納得感を得ることと、客観的成果が改善することを混同する",
+          "成果が出ない人に自己責任感や劣等感を強めうる点を見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "Stephen R. Covey の『The 7 Habits of Highly Effective People』は1989年に Free Press から刊行された。日本語版『7つの習慣』もビジネス書・自己啓発書として広く読まれた。",
+      "spread_period": "1990年代以降、ビジネス書、企業研修、学校・家庭向け派生書、手帳・時間管理ツール、講演、要約メディアを通じて拡大した。30周年版以降も FranklinCovey の研修、オンライン学習、AIコーチなどへ展開している。",
+      "spread_scope": "英語圏、日本語圏を含む世界的なビジネス、自己啓発、リーダーシップ教育、企業研修、学校教育、家庭教育の文脈で広く流通している。",
+      "note": "この項目は、『7つの習慣』の読書体験や、目標設定・傾聴・優先順位づけなどの実用性を否定するものではない。対象は、それを誰にでも成功を保証する普遍法則や、成果が出ない人の自己責任論として扱う誇張である。",
+      "spreaders": [
+        "FranklinCovey と関連研修・学習プログラム",
+        "ビジネス書、自己啓発書、要約メディア、企業研修、学校・家庭向け派生コンテンツ",
+        "成功習慣、リーダーシップ、時間管理を扱う講師、動画、SNS 発信"
+      ],
+      "beneficiaries": [
+        "書籍、研修、講座、手帳、オンライン教材で受益しうる出版社・研修会社・講師",
+        "成功法則やリーダーシップ教育を共通言語として導入できる企業・教育市場"
+      ],
+      "source": {
+        "title": "Simon & Schuster: The 7 Habits of Highly Effective People",
+        "url": "https://www.simonandschuster.com/books/The-7-Habits-of-Highly-Effective-People/Stephen-R-Covey/9781982137274"
+      }
+    },
+    "sources": [
+      {
+        "title": "FranklinCovey: The 7 Habits of Highly Effective People",
+        "url": "https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/",
+        "type": "article"
+      },
+      {
+        "title": "Simon & Schuster: The 7 Habits of Highly Effective People",
+        "url": "https://www.simonandschuster.com/books/The-7-Habits-of-Highly-Effective-People/Stephen-R-Covey/9781982137274",
+        "type": "article"
+      },
+      {
+        "title": "Implementation Intentions and Goal Achievement: A Meta-analysis of Effects and Processes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0065260106380021",
+        "type": "paper"
+      },
+      {
+        "title": "Do self-help books help?",
+        "url": "https://link.springer.com/article/10.1007/s10902-006-9041-2",
+        "type": "paper"
+      },
+      {
+        "title": "Scientific American: Do Self-Help Books Help?",
+        "url": "https://www.scientificamerican.com/article/do-self-help-books-help/",
+        "type": "article"
+      },
+      {
+        "title": "Self-help books for depression: how can practitioners and patients make the right choice?",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1463163/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "7つの習慣",
+      "The 7 Habits of Highly Effective People",
+      "Stephen Covey",
+      "Covey",
+      "自己啓発",
+      "ビジネス書",
+      "成功法則",
+      "リーダーシップ",
+      "時間管理",
+      "目標設定",
+      "習慣化",
+      "自己責任論"
+    ]
+  },
+  {
+    "id": "enneagram-accurate-personality-typing-claim",
+    "title": "エニアグラムで本質的な性格タイプを正確に判定できる",
+    "category": "conspiracy",
+    "claim": "エニアグラムは人間を9つの本質的タイプに分類する科学的な性格診断であり、タイプ、ウィング、統合・分裂の方向を知れば、性格、相性、適職、成長課題、対人パターンを高精度に判定できる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "エニアグラムは自己理解や対話のきっかけとして使われるが、9タイプ構造やウィング、統合・分裂が科学的に強く実証された性格診断とはいえない。採用、適職、相性、心理支援の判断に使うには根拠不足。",
+    "explanation": "エニアグラムは九芒星図形と9つの性格タイプを結びつけた現代の人格類型で、現在の性格類型としては Oscar Ichazo と Claudio Naranjo 以降の20世紀後半の流れが大きい。The Enneagram Institute も、性格タイプを組み合わせた現代的システムは Ichazo の1960年代の教えに由来すると説明している。エニアグラム研究は存在し、Wagner と Walker の1983年研究のように、初期から信頼性・妥当性を検討する試みはあった。しかし、Hook らの Journal of Clinical Psychology の系統レビューは、104の独立サンプルを検討したうえで、信頼性・妥当性の証拠は混合的だと結論している。同レビューは、因子分析の一部が理論と部分的に合うことや、Big Five など他構成概念との理論整合的関連を認めつつ、因子分析では通常9因子より少ない因子が見つかり、クラスタリングで9タイプを導出した研究はなく、ウィングやタイプ間移動など二次的理論を支持する研究も少ないと整理している。したがって、エニアグラムを内省の語彙として使うことと、個人の本質・相性・適職を客観的に判定する科学的診断として使うことは分ける必要がある。類型ラベルはわかりやすい一方、自己成就、バーナム効果、確証バイアス、ステレオタイプ化により、自分や他人を狭い説明へ閉じ込める危険がある。",
+    "why_it_spreads": [
+      "9タイプという整理は覚えやすく、複雑な自己理解を扱いやすい物語に変える",
+      "『行動ではなく動機を見る』という説明が、MBTIなどより深い診断に感じられやすい",
+      "タイプ記述が広く当てはまりやすく、読者が自分の経験に合わせて意味を補いやすい",
+      "相性、適職、恋愛、チームビルディング、スピリチュアル成長へ展開しやすく商品化しやすい",
+      "SNSや診断サイトでは、短いタイプ名・ミーム・あるある投稿として共有しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "読んで当たっている感覚や自己理解の深まりを、9タイプ構造の客観的妥当性の証拠とみなす",
+          "一部尺度の信頼性やBig Fiveとの関連を、ウィングや統合・分裂まで含む体系全体の実証として扱う"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "バーナム効果や確証バイアスにより、曖昧な記述が個人的に当たって見えることを見落とす",
+          "自己申告式テストが、回答時の気分、自己イメージ、理想像に左右されることを軽視する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "当たったタイプ記述や成功した研修例だけを強調し、誤判定や再現性の限界を省く",
+          "支持的な研究を紹介する一方で、9因子構造やタイプ移動への弱い根拠を説明しない"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "内省や会話の補助として役立つことを、性格・適職・相性の診断精度が高いことへすり替える",
+          "スピリチュアルな成長モデルを、心理測定上の分類精度と同じものとして扱う"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "タイプ説明に沿った行動を後から思い出し、タイプが行動原因だったと考える",
+          "チーム研修後の改善を、研修効果、対話時間、期待効果ではなくエニアグラム理論そのものに帰属させる"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "九芒星図形は G. I. Gurdjieff らの20世紀初頭の教えで知られるようになったが、現在流通する9性格タイプ体系は主に Oscar Ichazo が1960年代に構成し、Claudio Naranjo が1970年代に心理学的語彙へ展開した流れに由来する。",
+      "spread_period": "1970年代以降、米国の心理・スピリチュアル・キリスト教霊性コミュニティで広がり、1980〜1990年代に Helen Palmer、Don Richard Riso、Richard Rohr らの書籍や講座で大衆化した。2010年代後半以降はSNS、ポッドキャスト、診断サイト、企業研修で再拡大した。",
+      "spread_scope": "英語圏、日本語圏を含む自己啓発、スピリチュアル、キリスト教霊性、コーチング、心理教育、恋愛・相性診断、企業研修、チームビルディングで広く流通している。",
+      "note": "この項目は、エニアグラムを自己理解や対話の補助として使うことを否定しない。対象は、9タイプやウィング、統合・分裂を科学的に確立した性格・適職・相性診断として扱う過剰な主張である。",
+      "spreaders": [
+        "エニアグラム講師、コーチ、診断サイト、自己啓発・スピリチュアル系媒体",
+        "恋愛、相性、適職、チームビルディングを扱うSNS、動画、書籍、ポッドキャスト",
+        "企業研修、教会・霊性教育、心理教育コンテンツの一部"
+      ],
+      "beneficiaries": [
+        "診断、講座、資格、研修、書籍、オンライン教材で受益しうる発信者や事業者",
+        "タイプ別コンテンツで滞在時間や共有を伸ばせるメディア・診断サービス"
+      ],
+      "source": {
+        "title": "The Enneagram Institute: The Traditional Enneagram",
+        "url": "https://www.enneagraminstitute.com/the-traditional-enneagram/"
+      }
+    },
+    "sources": [
+      {
+        "title": "The Enneagram: A systematic review of the literature and directions for future research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33332604/",
+        "type": "paper"
+      },
+      {
+        "title": "Reliability and validity study of a Sufi personality typology: The Enneagram",
+        "url": "https://doi.org/10.1002/1097-4679(198309)39:5%3C712::AID-JCLP2270390511%3E3.0.CO;2-3",
+        "type": "paper"
+      },
+      {
+        "title": "The Enneagram Institute: The Traditional Enneagram",
+        "url": "https://www.enneagraminstitute.com/the-traditional-enneagram/",
+        "type": "article"
+      },
+      {
+        "title": "The Narrative Enneagram: Our Story",
+        "url": "https://www.narrativeenneagram.org/our-story/",
+        "type": "article"
+      },
+      {
+        "title": "Verywell Mind: Exploring the Enneagram of Personality",
+        "url": "https://www.verywellmind.com/the-enneagram-of-personality-4691757",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Barnum Effect",
+        "url": "https://www.britannica.com/science/Barnum-Effect",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "エニアグラム",
+      "Enneagram",
+      "性格診断",
+      "9タイプ",
+      "ウィング",
+      "統合と分裂",
+      "適職診断",
+      "相性診断",
+      "自己啓発",
+      "コーチング",
+      "チームビルディング",
+      "バーナム効果",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "meditation-cures-illness-and-is-risk-free-claim",
+    "title": "瞑想は病気を治し、誰にでも安全に効く",
+    "category": "health",
+    "claim": "瞑想やマインドフルネスを続ければ、うつ、不安、慢性痛、不眠、高血圧、依存症、トラウマ、がんなど多くの病気が根本から治り、薬や標準治療は不要になる。自然な方法なので副作用や悪化のリスクもない。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "瞑想・マインドフルネスには不安、抑うつ、睡眠、慢性痛などで補助的効果が示される場合がある。しかし効果は条件依存で、疾患を根本治療する万能法ではない。標準治療の代替やリスクゼロという主張は危険。",
+    "explanation": "NCCIH は、瞑想・マインドフルネスが不安、ストレス、抑うつ、痛み、睡眠などに役立つ可能性を認めつつ、多くの研究は予備的または方法論上の限界があり、結果が楽観的に解釈されがちだと説明している。Goyal らの JAMA Internal Medicine 系統的レビュー・メタ分析でも、マインドフルネス瞑想プログラムには不安、抑うつ、痛みに対する中等度の証拠があった一方、ストレスや生活の質などでは証拠が低く、他の積極的治療より優れる明確な証拠は少なかった。NCCIH も、慢性痛では結果が混在し、睡眠では教育より良い可能性があるが認知行動療法や運動と差がない場合もある、と整理している。さらに安全性についても、瞑想は一般にリスクが少ないとされるが、害を十分調べた研究は少ない。Farias らの2020年系統レビューは、83研究中55研究で瞑想関連の有害事象が報告され、全体推定で約8.3%に有害事象が見られ、頻度の高いものは不安、抑うつ、認知の異常だったと報告した。人口ベース調査でも、瞑想経験者の一部に不安、外傷性再体験、感情過敏などの否定的経験が報告されている。したがって、瞑想をストレス対処や治療補助として使うことと、病気を治す万能治療・無害な標準治療代替として宣伝することは分ける必要がある。",
+    "why_it_spreads": [
+      "呼吸や注意を整えるだけで始められ、費用や身体負担が小さく見える",
+      "実際に落ち着く体感が、病気そのものが治っているという解釈につながりやすい",
+      "脳科学、免疫、ホルモン、自律神経などの語が、広範な健康効果を裏づけるように見える",
+      "医療への不満や薬の副作用不安がある人に、自然で自己管理できる方法として響きやすい",
+      "アプリ、講座、企業研修、ウェルネス市場で、誰にでも使える健康習慣として売りやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "不安やストレスの軽減を、疾患の根本治療や標準治療の代替へすり替える",
+          "補助療法としての有用性を、薬や心理療法より優れた万能治療の証拠として扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "小規模研究や短期効果を、長期的な治癒や幅広い疾患への効果として一般化する",
+          "肯定的な研究だけを引用し、研究品質、バイアス、比較対象、有害事象の限界を省く"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "自然で古くからある実践だから安全で副作用がないと考える",
+          "内側から整える感覚を、医学的な治療効果の証拠とみなす"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "瞑想を始めた後に症状が軽くなったことを、自然経過、休養、運動、治療併用ではなく瞑想単独の効果とみなす",
+          "ストレス軽減と体調改善の関連を、すべての病気を瞑想で治せる因果関係として扱う"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "有害事象や悪化例、トラウマ歴のある人での注意点を紹介しない",
+          "研究で検討された構造化プログラムと、短いアプリ音声や自己流実践を同じ効果として扱う"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "瞑想自体は仏教、ヒンドゥー教、ヨーガ、禅、その他の宗教・修行伝統に長い歴史を持つ。現代医療・心理療法の文脈では、1979年に Jon Kabat-Zinn がマサチューセッツ大学で始めた mindfulness-based stress reduction (MBSR) が大きな起点になった。",
+      "spread_period": "1990年代以降、MBSR、MBCT、企業研修、脳科学報道、ヨガ・ウェルネス市場を通じて拡大した。2010年代以降はスマートフォンアプリ、オンライン講座、職場のメンタルヘルス施策、SNSで『科学的に効く万能習慣』として再流通している。",
+      "spread_scope": "欧米、日本語圏を含む医療、心理療法、企業研修、教育、ウェルネス、ヨガ、スピリチュアル、自己啓発、アプリ市場で広い。構造化された臨床プログラムと、一般向け健康商材・霊性実践が混在しやすい。",
+      "note": "この項目は、瞑想やマインドフルネスをストレス対処、自己理解、宗教的実践、治療補助として使うことを否定しない。対象は、疾患を根本治療できる、標準治療を置き換えられる、誰にでも無害という過大な健康主張である。",
+      "spreaders": [
+        "瞑想アプリ、ウェルネス媒体、ヨガ・瞑想講座、自己啓発コンテンツ",
+        "企業研修、ストレス対策プログラム、スピリチュアル・代替医療系発信者",
+        "脳科学や自律神経を強調する健康系SNS、動画、書籍"
+      ],
+      "beneficiaries": [
+        "アプリ課金、講座、リトリート、研修、書籍、オンライン教材で受益しうる事業者",
+        "低コストの健康管理施策として導入できる企業・ウェルネス市場"
+      ],
+      "source": {
+        "title": "NCCIH: Meditation and Mindfulness: Effectiveness and Safety",
+        "url": "https://www.nccih.nih.gov/health/meditation/overview.htm"
+      }
+    },
+    "sources": [
+      {
+        "title": "NCCIH: Meditation and Mindfulness: Effectiveness and Safety",
+        "url": "https://www.nccih.nih.gov/health/meditation/overview.htm",
+        "type": "government"
+      },
+      {
+        "title": "NCCIH: 8 Things to Know About Meditation and Mindfulness",
+        "url": "https://www.nccih.nih.gov/health/tips/8-things-to-know-about-meditation-and-mindfulness",
+        "type": "government"
+      },
+      {
+        "title": "Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/",
+        "type": "paper"
+      },
+      {
+        "title": "Adverse events in meditation practices and meditation-based therapies: a systematic review",
+        "url": "https://doi.org/10.1111/acps.13225",
+        "type": "paper"
+      },
+      {
+        "title": "Prevalence of meditation-related adverse effects in a population-based sample in the United States",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8636531/",
+        "type": "paper"
+      },
+      {
+        "title": "Brief Mindfulness-Based Interventions for Acute and Chronic Pain: A Systematic Review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30523705/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "瞑想",
+      "マインドフルネス",
+      "meditation",
+      "mindfulness",
+      "MBSR",
+      "MBCT",
+      "ストレス",
+      "不安",
+      "うつ",
+      "慢性痛",
+      "不眠",
+      "ウェルネス",
+      "代替医療"
+    ]
+  },
+  {
+    "id": "left-brain-right-brain-personality-claim",
+    "title": "右脳型・左脳型で性格や才能が決まる",
+    "category": "health",
+    "claim": "人は右脳型と左脳型に分かれ、左脳型は論理・数学・分析に強く、右脳型は直感・芸術・創造性に強い。利き脳を診断すれば性格、学習法、適職、子どもの才能がわかり、右脳トレーニングで創造性や能力を大きく伸ばせる。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "脳機能には左右差があるが、人全体を右脳型・左脳型に分けて性格や才能を説明する根拠はない。言語や空間注意などの局所的な側性化を、人格・学習法・適職診断へ広げた神経神話。",
+    "explanation": "左右の大脳半球がまったく同じ働きをするわけではない。Nobel Prize の解説が示すように、Roger Sperry は分離脳研究などを通じて大脳半球の機能的特殊化を明らかにし、1981年にノーベル生理学・医学賞を受けた。一般に、言語処理の一部は左半球優位、空間注意や一部の視空間処理は右半球優位になりやすい。しかし、それは個人が全体として『左脳型』『右脳型』に分かれることを意味しない。Nielsen らの PLOS ONE 研究は、1011人の安静時 fMRI 機能結合を調べ、局所的な左右差はあるが、個人全体として左脳ネットワークまたは右脳ネットワークが優勢になるという表現型とは整合しないと結論した。OECD の『Understanding the Brain』も、左脳・右脳の対立を神経神話として扱い、両半球は脳梁などで結ばれ、独立した機能単位ではなく相互作用するネットワークだと説明している。Scientific American も、左脳型・右脳型の人が異なるという主張は、言語や空間能力の一部側性化を人格や学習様式へ過剰に一般化したものだと整理している。したがって、脳の左右差を学ぶことと、利き脳診断で性格・才能・適職・教育法を決めることは分ける必要がある。",
+    "why_it_spreads": [
+      "論理と創造性を左右に分ける図解は直感的で覚えやすい",
+      "本物の分離脳研究や脳機能側性化があるため、俗説にも科学的な雰囲気が出る",
+      "自分の得意不得意を簡単に説明でき、性格診断として受け入れやすい",
+      "教育、子育て、適職診断、研修で『能力を伸ばす方法』として商品化しやすい",
+      "『右脳を鍛えれば創造性が伸びる』という希望が、努力の方向を単純に示してくれる"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "言語や空間処理の局所的な側性化を、人格全体の左右脳タイプ分類へすり替える",
+          "分離脳患者で見られた特殊な現象を、健康な一般人の性格診断へ拡張する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "脳画像やノーベル賞研究の存在を、利き脳診断や右脳教育の実証と同じものとして扱う",
+          "専門研究の限定条件を省き、キャッチーな左右二分法だけを残す"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "芸術が得意な人を右脳型、数学が得意な人を左脳型と後付け分類する",
+          "右脳教材を使った後の成長を、年齢発達、練習量、家庭環境ではなく右脳活性の効果とみなす"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "左右差のある機能だけを取り上げ、ほとんどの認知課題で両半球が協調する事実を省く",
+          "利き脳診断の当たったように感じる例だけを共有し、検証不能な結果を無視する"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "曖昧な性格記述を自分に当てはめるバーナム効果を見落とす",
+          "子どもや部下をタイプで固定し、実際の能力や興味の変化を見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "脳機能の左右差研究は19世紀の失語症研究や20世紀の分離脳研究に由来し、Roger Sperry の研究で大きく知られた。『左脳は論理、右脳は創造性』という通俗的二分法は、1970年代以降の大衆心理学、教育論、自己啓発で広がった。",
+      "spread_period": "1980年代以降、教育本、子育て教材、脳トレ、創造性開発、企業研修、自己分析コンテンツで繰り返し流通した。2000年代以降はオンライン診断、SNS、動画、子ども向け右脳教育教材として再生産されている。",
+      "spread_scope": "英語圏、日本語圏を含む教育、子育て、自己啓発、能力開発、脳トレ、適職診断、企業研修、創造性開発の文脈で広い。",
+      "note": "この項目は、脳機能の側性化や分離脳研究そのものを否定するものではない。対象は、左右差を人格・才能・学習法・適職の二分法として扱う過剰な一般化である。",
+      "spreaders": [
+        "右脳教育、脳トレ、能力開発、創造性研修を扱う教材・講座・自己啓発媒体",
+        "利き脳診断、適職診断、性格診断を提供するWebコンテンツ、SNS、動画",
+        "教育・子育て・企業研修で神経科学用語を簡略化して使う発信者"
+      ],
+      "beneficiaries": [
+        "右脳トレーニング教材、講座、診断、研修、書籍で受益しうる事業者",
+        "脳科学風の説明で商品価値や説得力を高められる教育・自己啓発市場"
+      ],
+      "source": {
+        "title": "OECD: Understanding the Brain: The Birth of a Learning Science",
+        "url": "https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en"
+      }
+    },
+    "sources": [
+      {
+        "title": "An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275",
+        "type": "paper"
+      },
+      {
+        "title": "OECD: Understanding the Brain: The Birth of a Learning Science",
+        "url": "https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en",
+        "type": "government"
+      },
+      {
+        "title": "Nobel Prize: Roger W. Sperry facts",
+        "url": "https://www.nobelprize.org/prizes/medicine/1981/sperry/facts/",
+        "type": "article"
+      },
+      {
+        "title": "Nobel Prize in Physiology or Medicine 1981 Press Release",
+        "url": "https://www.nobelprize.org/prizes/medicine/1981/press-release/",
+        "type": "article"
+      },
+      {
+        "title": "Scientific American: 5 Common Myths about the Brain",
+        "url": "https://www.scientificamerican.com/article/5-common-myths-about-the-brain/",
+        "type": "article"
+      },
+      {
+        "title": "Left Brain vs. Right Brain: Findings on Visual Spatial Capacities and the Functional Neurology of Giftedness",
+        "url": "https://doi.org/10.1080/02783193.2013.829549",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "右脳",
+      "左脳",
+      "利き脳",
+      "脳科学",
+      "神経神話",
+      "neuromyth",
+      "brain lateralization",
+      "分離脳",
+      "右脳教育",
+      "脳トレ",
+      "学習法",
+      "適職診断",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "cliftonstrengths-predicts-job-fit-claim",
+    "title": "ストレングスファインダーで適職や成果を正確に予測できる",
+    "category": "finance",
+    "claim": "ストレングスファインダー（CliftonStrengths）の上位資質を見れば、その人の本質的な才能、適職、向いている役割、将来の成果が科学的にわかる。採用、配属、昇進、チーム編成でも資質順位を使えば高精度に判断できる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "CliftonStrengths は自己理解や強み開発の補助として設計されたツールで、一定の信頼性・妥当性資料もある。しかし Gallup 自身も採用・選考用途は推奨しておらず、資質順位だけで適職や成果を高精度に予測できるという主張は誇張。",
+    "explanation": "CliftonStrengths は Gallup のオンライン才能アセスメントで、34の才能テーマを測定し、個人が自然に考え、感じ、行動するパターンを理解して強み開発に役立てることを目的としている。Gallup は技術報告書やメタ分析を公開し、信頼性・妥当性、強み開発とエンゲージメントや業績指標の関連を示している。一方で、Gallup のヘルプセンターは、CliftonStrengths は development tool であり selection tool ではない、採用候補者比較や雇用判断には使うべきでない、特定の資質テーマを特定職務の成功に結びつけておらず選考用途に妥当化されていない、と明記している。2024年の Reid と Short の Consulting Psychology Journal 論文も、高等教育での CliftonStrengths 導入について、利用目的と利用集団に合う実証的根拠を慎重に検討すべきだとし、現時点の証拠は不十分と論じた。Gallup はこの論文に反論し、2023年技術報告や外部研究を挙げて信頼性・妥当性の証拠を補足しているが、その反論を踏まえても、開発用途の妥当性と採用・配属・昇進の個別判定精度は別問題である。したがって、CliftonStrengths を対話や自己理解、強み活用の枠組みとして使うことと、上位資質だけで適職・将来成果・人事判断を決めることは分ける必要がある。",
+    "why_it_spreads": [
+      "上位5資質という結果が覚えやすく、本人の強みを肯定的に説明してくれる",
+      "Gallup という調査会社ブランドと技術報告書が、用途を超えた科学的確実性に見えやすい",
+      "弱点克服より強み活用というメッセージが、職場や自己啓発で受け入れられやすい",
+      "採用・配属・チーム編成の複雑な判断を、わかりやすい資質ラベルに置き換えられる",
+      "研修、コーチング、診断レポート、書籍、社内ワークショップとして商品化しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "自己理解や対話の補助として役立つことを、採用や適職判定の予測精度が高いことへすり替える",
+          "チーム全体の強み開発と業績の関連を、個人の資質順位だけで成果を予測できる話に変える"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "Gallup の技術報告やメタ分析を、すべての用途での妥当性証明として扱う",
+          "開発用途の信頼性・妥当性と、選考用途の職務関連妥当性を区別しない"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "強み研修を受けた組織の成果改善を、研修量、管理職の関与、組織文化、選抜効果ではなく資質診断そのものの効果とみなす",
+          "高業績者に多い資質を、その職務で成功する原因として単純化する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "資質が当たっている体験談や成功事例を強調し、誤解、固定化、過剰適用のリスクを省く",
+          "Gallup 自身が採用・選考用途を推奨していない点を紹介しない"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "肯定的な資質ラベルによる納得感や自己効力感を、客観的な職務適性の証拠と混同する",
+          "資質ラベルが本人や上司の期待を固定し、経験機会を狭めうる点を見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "CliftonStrengths は Don Clifton の強み心理学と Gallup の才能研究を背景に開発され、2001年の Marcus Buckingham と Donald O. Clifton『Now, Discover Your Strengths』で StrengthsFinder として広く知られるようになった。のちに CliftonStrengths として展開された。",
+      "spread_period": "2000年代以降、ビジネス書、Gallup のオンライン診断、企業研修、大学の初年次教育、キャリア支援、コーチングで普及した。2020年代も CliftonStrengths 34、メタ分析、技術報告、認定コーチ制度、職場エンゲージメント施策と結びついて流通している。",
+      "spread_scope": "英語圏、日本語圏を含む企業研修、人材開発、キャリア支援、大学教育、自己啓発、コーチング、チームビルディング市場で広い。",
+      "note": "この項目は CliftonStrengths を自己理解・人材開発・対話の補助として使うことを否定しない。対象は、上位資質を採用、配属、昇進、適職、将来成果の高精度判定として使う過剰な主張である。",
+      "spreaders": [
+        "Gallup と CliftonStrengths 関連書籍・診断・研修・認定コーチ",
+        "強み開発、キャリア支援、企業研修、大学初年次教育を扱う発信者や組織",
+        "上位資質別の仕事術、適職診断、チーム編成を扱うSNS、動画、ブログ"
+      ],
+      "beneficiaries": [
+        "診断コード、レポート、認定、研修、コーチング、書籍で受益しうる事業者や講師",
+        "強み開発を人材施策やエンゲージメント施策として導入できる企業・教育市場"
+      ],
+      "source": {
+        "title": "Gallup Help Center: Can I use the CliftonStrengths assessment as a selection tool for hiring?",
+        "url": "https://support.gallup.com/hc/en-us/articles/40531127683091-Can-I-use-the-CliftonStrengths-assessment-as-a-selection-tool-for-hiring"
+      }
+    },
+    "sources": [
+      {
+        "title": "Gallup Help Center: Can I use the CliftonStrengths assessment as a selection tool for hiring?",
+        "url": "https://support.gallup.com/hc/en-us/articles/40531127683091-Can-I-use-the-CliftonStrengths-assessment-as-a-selection-tool-for-hiring",
+        "type": "article"
+      },
+      {
+        "title": "Gallup Help Center: What does the CliftonStrengths assessment measure?",
+        "url": "https://support.gallup.com/hc/en-us/articles/44814944204051-What-does-the-CliftonStrengths-assessment-measure",
+        "type": "article"
+      },
+      {
+        "title": "Gallup: CliftonStrengths Technical Report",
+        "url": "https://support.gallup.com/hc/en-us/articles/43170394336787-CliftonStrengths-Technical-Report",
+        "type": "article"
+      },
+      {
+        "title": "Gallup: Strengths Meta-Analysis Report",
+        "url": "https://www.gallup.com/cliftonstrengths/en/269615/strengths-meta-analysis-2015.aspx",
+        "type": "article"
+      },
+      {
+        "title": "Cautionary Comments on the CliftonStrengths Assessment in Higher Education",
+        "url": "https://doi.org/10.1037/cpb0000265",
+        "type": "paper"
+      },
+      {
+        "title": "The Real Reliability and Validity Evidence for CliftonStrengths in Higher Education",
+        "url": "https://www.gallup.com/cliftonstrengths/en/652592/real-reliability-validity-evidence-cliftonstrengths-higher-education.aspx",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "ストレングスファインダー",
+      "CliftonStrengths",
+      "StrengthsFinder",
+      "Gallup",
+      "強み診断",
+      "才能診断",
+      "適職診断",
+      "採用選考",
+      "人材開発",
+      "企業研修",
+      "コーチング",
+      "自己啓発"
+    ]
   }
 ]
