@@ -36,7 +36,7 @@ export const generateMetadata = async ({ params }: Props) => {
   if (!claim) return {}
   const url = `${BASE_URL}/claims/${id}/`
   return {
-    title: claim.title,
+    title: `【検証】${claim.title}`,
     description: claim.summary,
     keywords: [
       claim.title,
@@ -49,7 +49,7 @@ export const generateMetadata = async ({ params }: Props) => {
     openGraph: {
       type: "article",
       url,
-      title: claim.title,
+      title: `【検証】${claim.title}`,
       description: claim.summary,
       publishedTime: claim.created_at,
       modifiedTime: claim.updated_at,
@@ -57,7 +57,7 @@ export const generateMetadata = async ({ params }: Props) => {
     },
     twitter: {
       card: "summary_large_image",
-      title: claim.title,
+      title: `【検証】${claim.title}`,
       description: claim.summary,
     },
   }
