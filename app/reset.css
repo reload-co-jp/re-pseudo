@@ -5,7 +5,11 @@
 }
 
 :root {
-  background: #1c1118;
+  background-attachment: fixed;
+  background-color: #1c1118;
+  background-image: url("/images/bg.png");
+  background-position: center;
+  background-size: cover;
   color: #f0f0f0;
   color-scheme: dark;
 }

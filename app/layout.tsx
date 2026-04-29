@@ -202,7 +202,6 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         </header>
         <main
           style={{
-            background: "#1c1118",
             minHeight: "calc(100dvh - 6rem)",
             padding: "2rem 1.5rem",
           }}
