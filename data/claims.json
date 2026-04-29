@@ -7873,5 +7873,742 @@
       "コーチング",
       "自己啓発"
     ]
+  },
+  {
+    "id": "sea-serpent-cryptid-exists-claim",
+    "title": "シーサーペントは未知の巨大海洋生物として実在する",
+    "category": "environment",
+    "claim": "世界各地の船乗りや沿岸住民が目撃してきたシーサーペントは、既知の魚やクジラでは説明できない未知の巨大な蛇型・爬虫類型海洋生物であり、目撃談や古い絵図はその実在を示している。",
+    "verdict": "insufficient_evidence",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "海には未発見種が残る可能性はあるが、シーサーペントを独立した巨大未確認生物として示す標本や再現性ある証拠はない。多くの目撃談はリュウグウノツカイ、ウバザメ、クジラ、アシカ、巨大イカ、海藻、複数個体の誤認で説明可能。",
+    "explanation": "Britannica はシーサーペントを神話・伝説上の海洋動物として整理し、これまで捕獲された『海蛇』が既知の生物群に属さないと確認された例はないと述べている。同項目は、イルカ類が縦列で浮上する様子、半ば水面に出た海藻、ウバザメ、ひも状の魚やリュウグウノツカイ、アシカ、巨大イカなどがシーサーペント目撃の説明候補になるとする。NOAA もリュウグウノツカイについて、長い帯状の体と独特の外見が海蛇伝説の源になったと説明している。実際、Benfield らの Journal of Fish Biology 論文は、遠隔操作機によりメキシコ湾で生きたリュウグウノツカイを複数回観察し、この深海魚が大きく、珍しく、表層では見慣れない存在であることを示している。一方で、既知の深海魚や巨大イカが存在することは、未知の蛇型巨大生物の実在を意味しない。19世紀の HMS Daedalus 目撃のような有名事例は歴史的資料として重要だが、古い目撃談や挿絵は距離、波、光、恐怖、記憶、既存の海怪イメージに影響されやすく、標本、DNA、鮮明映像、追跡観測の代わりにはならない。したがって、海洋生物学上の未知種の可能性を認めることと、シーサーペント目撃談を巨大未確認生物の実証と扱うことは分ける必要がある。",
+    "why_it_spreads": [
+      "深海は未探索部分が多く、未知の巨大生物がいても不思議ではないと感じられやすい",
+      "リュウグウノツカイや巨大イカの実在が、伝説全体も本当だったという印象を与える",
+      "海上では距離、波、光、霧、動物の一部だけの視認で形や大きさを誤認しやすい",
+      "古い航海記や挿絵は物語性が強く、証拠よりもロマンとして共有されやすい",
+      "未確認生物、深海ミステリー、怪物観光、動画コンテンツと相性がよい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "目撃談や古い挿絵を、標本や再現性ある観測と同等の証拠として扱う",
+          "説明不能に見える事例だけを残し、既知生物の誤認で説明できる事例を軽視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "深海に未知種が残りうることを、特定の巨大蛇型生物が実在する根拠にする",
+          "未同定の目撃談を、未知生物の肯定証拠として扱う"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "複数の似た目撃談があることを、同一種の実在による一致とみなす",
+          "リュウグウノツカイや巨大イカが伝説の一部を説明することを、シーサーペント全体の実在証明と解釈する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "怪物らしく見える絵や証言だけを強調し、距離・天候・観察時間・識別条件の弱さを省く",
+          "既知の候補種や自然現象による説明を、夢がない説明として退ける"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "海が広く神秘的だから巨大怪物もいるはずだと考える",
+          "船乗りの経験や古い伝承を、検証済みの生物学的証拠と同一視する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "海蛇・海怪の観念は古代神話や宗教文献まで遡る。近代的な有名事例としては、1848年に HMS Daedalus の乗員が南大西洋で巨大な海蛇状生物を見たと報告し、Illustrated London News に挿絵が掲載された。",
+      "spread_period": "19世紀の新聞・航海記・博物学書で多数の海蛇目撃談が流通し、20世紀には未確認動物学、怪奇本、テレビ番組、深海ミステリーの題材として再生産された。21世紀にはリュウグウノツカイ漂着ニュースや深海映像と結びつき、SNSや動画で再拡散している。",
+      "spread_scope": "欧米、日本語圏を含む海洋民俗、未確認動物、深海生物、怪奇・都市伝説、観光、オカルト、教育雑学コンテンツで広く流通している。",
+      "note": "この項目は、深海に未知種が存在しうることや、リュウグウノツカイ・巨大イカのような珍しい既知生物を否定しない。対象は、目撃談を根拠に未知の巨大蛇型海洋生物が実在すると断定する主張である。",
+      "spreaders": [
+        "未確認動物学、海洋怪談、深海ミステリーを扱う書籍、番組、動画、SNS",
+        "シーサーペントや海怪伝承を観光・地域史・雑学として紹介する媒体",
+        "リュウグウノツカイ漂着や巨大イカ発見を海蛇伝説と結びつけるニュース・解説コンテンツ"
+      ],
+      "beneficiaries": [
+        "未確認動物・怪物伝説を扱うメディア、出版、動画配信、観光で受益しうる主体",
+        "深海の神秘性を集客に使える展示、教育、エンタメ市場"
+      ],
+      "source": {
+        "title": "Library of Congress: The great sea serpent when first seen from HMS Daedalus",
+        "url": "https://www.loc.gov/item/2003680172/"
+      }
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica: sea serpent",
+        "url": "https://www.britannica.com/topic/sea-serpent",
+        "type": "article"
+      },
+      {
+        "title": "NOAA Fisheries: The Giant Oarfish",
+        "url": "https://www.fisheries.noaa.gov/podcast/giant-oarfish",
+        "type": "government"
+      },
+      {
+        "title": "Five in situ observations of live oarfish Regalecus glesne by remotely operated vehicles",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23808690/",
+        "type": "paper"
+      },
+      {
+        "title": "The first description of oarfish Regalecus glesne ageing structures",
+        "url": "https://pubs.usgs.gov/publication/70168339",
+        "type": "government"
+      },
+      {
+        "title": "Encyclopaedia Britannica: kraken",
+        "url": "https://www.britannica.com/topic/kraken",
+        "type": "article"
+      },
+      {
+        "title": "Library of Congress: The great sea serpent when first seen from HMS Daedalus",
+        "url": "https://www.loc.gov/item/2003680172/",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "シーサーペント",
+      "sea serpent",
+      "海蛇",
+      "海怪",
+      "未確認動物",
+      "cryptid",
+      "cryptozoology",
+      "リュウグウノツカイ",
+      "oarfish",
+      "巨大イカ",
+      "深海生物",
+      "HMS Daedalus",
+      "疑似科学"
+    ]
+  },
+  {
+    "id": "sleepwalking-myths-waking-dangerous-claim",
+    "title": "夢遊病の人は夢を演じており、起こすと危険である",
+    "category": "health",
+    "claim": "夢遊病の人は見ている夢をそのまま演じて歩いており、無理に起こすとショックや心臓発作、精神的損傷を起こすので絶対に起こしてはいけない。歩いていても本人は危険を避けられるため、自然に戻るまで見守ればよい。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "夢遊病は主に深いノンレム睡眠からの不完全な覚醒で、REM睡眠中の夢をそのまま演じる現象ではない。起こすこと自体が致命的に危険なわけではないが、混乱や抵抗はありうる。安全確保と穏やかな誘導が重要。",
+    "explanation": "Mayo Clinic は、夢遊病を N3 睡眠、すなわち深いノンレム睡眠で起こる arousal disorder と説明している。Johns Hopkins Medicine も、夢は主に REM 睡眠で起こる一方、夢遊病は深いノンレム睡眠で起こるため、夢を演じている現象とは別だと整理している。夢遊病では目が開いていたり日常行動をしているように見えたりするが、反応は乏しく、起こしにくく、翌朝記憶がないことが多い。『起こすと危険』という俗説についても、Mayo Clinic は、起こされること自体は危険ではないが、混乱し興奮する場合があるため、無理に覚醒させる必要はなく、穏やかにベッドへ戻すのがよいとする。Sleep Foundation も、起こすこと自体よりも、階段から落ちる、外へ出る、車を運転する、刃物や火を使うなど睡眠中の行動のほうが危険になりうると説明している。したがって、夢遊病者を乱暴に揺さぶる必要はないが、『起こしてはいけないから放置する』のも誤りである。窓やドアの施錠、階段・刃物・火器・車へのアクセス制限、睡眠不足やアルコール、薬剤、睡眠時無呼吸など誘因の確認が現実的な対策になる。頻回、成人発症、けが、危険行動、日中機能低下がある場合は医療相談が必要である。",
+    "why_it_spreads": [
+      "目を開けて歩く姿が『夢の中の行動』に見えやすい",
+      "突然起こすと混乱する実体験が、『起こすと命に関わる』という誇張に変わりやすい",
+      "映画や怪談では夢遊病が神秘的・危険な状態として演出されやすい",
+      "深いノンレム睡眠、REM睡眠、レム睡眠行動障害の違いが一般には知られにくい",
+      "『触らず見守るだけ』という単純なルールは覚えやすいが、安全確保の重要性を隠しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "起こすと混乱しうることを、起こすと致命的に危険という話へすり替える",
+          "夢遊病とレム睡眠行動障害、悪夢、夜驚を同じ現象として扱う"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "起こされた後に混乱や怒りが出たことを、覚醒そのものが脳や心臓を損傷した結果とみなす",
+          "歩行中に障害物を避けたように見えることを、本人が完全に周囲を理解している証拠と考える"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "家族の体験談や映画描写を、医学的な睡眠段階の説明より優先する",
+          "危険がなかった軽い事例だけを見て、外出、転落、運転、けがのリスクを軽視する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "『無理に起こさなくてよい』という助言だけを取り出し、安全な環境づくりや医療相談の条件を省く",
+          "子どもでは自然に減ることが多いという情報を、成人発症や頻回例でも放置してよい根拠にする"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "混乱した人への急な接触が恐怖や防御反応を招くことを見落とす",
+          "家族の不安を下げる迷信的ルールが、実際の安全対策を遅らせることを見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "夢遊病の観念は古くからあり、文学や民間伝承では夢、狂気、憑依、予言的行動と結びつけて描かれてきた。医学的には somnambulism として睡眠障害・パラソムニアの枠組みで整理され、現代ではノンレム睡眠からの覚醒障害として説明される。",
+      "spread_period": "19〜20世紀の文学、演劇、映画、怪談、家庭内の言い伝えで『起こすと危険』『夢を演じている』という説明が広がった。インターネット時代には睡眠雑学、育児情報、都市伝説、動画解説で繰り返し再生産されている。",
+      "spread_scope": "欧米、日本語圏を含む一般家庭、育児、睡眠雑学、ホラー・犯罪物語、医療俗説、SNSで広く流通している。",
+      "note": "この項目は、夢遊病が実在し、けがや他者への危険を伴う場合があることを否定しない。対象は、夢を演じる現象だ、起こすと致命的に危険だ、放置すれば安全だという俗説である。",
+      "spreaders": [
+        "睡眠に関する家庭内の言い伝え、育児・健康雑学、SNS投稿",
+        "夢遊病を神秘的・危険な状態として描く映画、ドラマ、小説、怪談",
+        "睡眠段階の違いを単純化した解説コンテンツ"
+      ],
+      "beneficiaries": [
+        "睡眠雑学、都市伝説、ホラー・犯罪物語で関心を集められるメディアや発信者",
+        "安全対策よりも印象的な逸話を売りにできるコンテンツ市場"
+      ],
+      "source": {
+        "title": "Mayo Clinic: Sleepwalking - Symptoms and causes",
+        "url": "https://www.mayoclinic.org/diseases-conditions/sleepwalking/symptoms-causes/syc-20353506"
+      }
+    },
+    "sources": [
+      {
+        "title": "Mayo Clinic: Sleepwalking - Symptoms and causes",
+        "url": "https://www.mayoclinic.org/diseases-conditions/sleepwalking/symptoms-causes/syc-20353506",
+        "type": "article"
+      },
+      {
+        "title": "Mayo Clinic: Sleepwalking - Diagnosis and treatment",
+        "url": "https://www.mayoclinic.org/diseases-conditions/sleepwalking/diagnosis-treatment/drc-20353511",
+        "type": "article"
+      },
+      {
+        "title": "Johns Hopkins Medicine: Parasomnias: Sleepwalking",
+        "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/parasomnias-sleepwalking",
+        "type": "article"
+      },
+      {
+        "title": "Sleep Education by American Academy of Sleep Medicine: Sleepwalking",
+        "url": "https://sleepeducation.org/sleep-disorders/sleepwalking/",
+        "type": "article"
+      },
+      {
+        "title": "Sleep Foundation: What Happens if You Wake Up a Sleepwalker?",
+        "url": "https://www.sleepfoundation.org/parasomnias/what-happens-if-you-wake-a-sleepwalker/",
+        "type": "article"
+      },
+      {
+        "title": "Sleep Foundation: Sleepwalking: What Is Somnambulism?",
+        "url": "https://www.sleepfoundation.org/parasomnias/sleepwalking",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "夢遊病",
+      "睡眠時遊行症",
+      "sleepwalking",
+      "somnambulism",
+      "パラソムニア",
+      "parasomnia",
+      "ノンレム睡眠",
+      "NREM",
+      "レム睡眠行動障害",
+      "睡眠障害",
+      "睡眠安全",
+      "医療俗説"
+    ]
+  },
+  {
+    "id": "eye-floaters-always-harmless-supplement-cure-claim",
+    "title": "飛蚊症は放置してよく、サプリや目の運動で治せる",
+    "category": "health",
+    "claim": "飛蚊症は老化や目の疲れによる harmless な症状なので、急に増えても基本的に放置してよい。ルテイン、ブルーベリー、パイナップル酵素、ビタミン、目の運動、マッサージ、生活改善で硝子体の濁りを自然に消せる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "飛蚊症の多くは加齢性の硝子体変化で治療不要だが、急な増加、光視症、視野の影やカーテン感は網膜裂孔・網膜剥離の警告になりうる。サプリや目の運動で確実に治せる根拠は乏しく、受診遅れは視力喪失につながる。",
+    "explanation": "飛蚊症は、硝子体のコラーゲン線維や細胞成分が網膜に影を落とすことで、小さな点、糸、くもの巣のようなものが見える症状である。Mayo Clinic と National Eye Institute は、多くの飛蚊症は加齢に伴う硝子体の液化・収縮で起こり、治療を要しない場合が多いと説明している。一方で、突然たくさん増える、新しい飛蚊症が急に出る、光が走る、視野の一部に影やカーテンがかかる、周辺視野が欠けるといった症状は、網膜裂孔や網膜剥離の可能性があり、直ちに眼科または救急を受診すべき警告である。NEI は網膜剥離を medical emergency とし、治療が遅れると永久的な視力低下や失明リスクが高まると述べている。治療についても、Mayo Clinic はほとんどの飛蚊症は治療不要だが、視機能を大きく妨げる少数例では硝子体手術やレーザーが検討される一方、感染、出血、網膜裂孔、網膜損傷などのリスクがあると説明している。サプリや自然療法については、小規模研究や商業的宣伝はあるものの、ルテイン、ブルーベリー、パイナップル酵素、ビタミン、目の運動で一般的な飛蚊症を確実に消せるとする標準的根拠は十分でない。したがって、慢性的で変化のない飛蚊症を経過観察することと、急な症状を自己判断で放置したり、サプリ治療で受診を遅らせたりすることは分ける必要がある。",
+    "why_it_spreads": [
+      "飛蚊症は多くの人にあり、実際に自然に気にならなくなる例がある",
+      "『老化現象だから大丈夫』という説明が、危険サインまで過小評価させやすい",
+      "サプリや目の運動は手軽で、手術や眼科受診より心理的負担が小さい",
+      "ルテインやブルーベリーなど目によさそうな成分が、硝子体の濁りにも効くように感じられやすい",
+      "網膜裂孔・網膜剥離は痛みがないこともあり、緊急性が伝わりにくい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "多くの飛蚊症は治療不要という話を、急な症状でも受診不要という話へすり替える",
+          "目の健康維持に役立ちうる栄養素を、硝子体混濁を消す治療法として扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "小規模研究、体験談、商業サイトの改善例を、確立した治療効果の証拠とみなす",
+          "標準的な眼底検査や網膜評価の必要性を省き、自己ケアだけを強調する"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "時間とともに脳が飛蚊症を気にしなくなったことを、サプリや目運動で濁りが消えた結果とみなす",
+          "疲れ目の日に飛蚊症が気になったことを、眼精疲労だけが原因だと決めつける"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "自然食品やサプリなら安全で、眼内の構造変化にも効くはずだと考える",
+          "手術やレーザーが怖いため、自然療法の効果を過大評価する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "慢性的な軽い飛蚊症の情報だけを示し、急増、光視症、視野欠損の警告を省く",
+          "網膜剥離が痛みなく進む場合があることや、緊急受診の必要性を伝えない"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "飛蚊症自体は古くから知られる眼症状だが、現代的な過小評価は『加齢性でよくある症状』という一般向け説明と結びついている。サプリや自然療法で消せるという主張は、目の健康サプリ市場、ネット記事、動画、SNSの体験談で広がった。",
+      "spread_period": "2000年代以降、検索サイト、健康食品広告、眼精疲労・スマホ目対策、ルテイン・ブルーベリー系サプリ、近年はパイナップル酵素や抗酸化サプリの話題と結びついて再流通している。",
+      "spread_scope": "日本語圏、英語圏を含む健康食品、目のサプリ、視力回復、眼精疲労、スマホ老眼、自然療法、セルフケア系コンテンツで広く流通している。",
+      "note": "この項目は、慢性的で変化のない飛蚊症が多くの場合治療不要であることや、眼科医管理下でレーザー・手術が検討される場合があることを否定しない。対象は、急な飛蚊症を自己判断で放置してよい、サプリや運動で確実に治るという主張である。",
+      "spreaders": [
+        "目の健康サプリ、視力回復、自然療法を扱う広告・ブログ・動画・SNS",
+        "眼精疲労やスマホ目対策として飛蚊症を軽く扱うセルフケア系コンテンツ",
+        "ルテイン、ブルーベリー、酵素、ビタミンを幅広い目の不調に効くように宣伝する販売チャネル"
+      ],
+      "beneficiaries": [
+        "目のサプリ、自然療法、視力回復教材、セルフケア商品で受益しうる事業者",
+        "不安な症状を手軽な対処法で引きつけられる健康情報メディア"
+      ],
+      "source": {
+        "title": "National Eye Institute: Floaters",
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/floaters"
+      }
+    },
+    "sources": [
+      {
+        "title": "National Eye Institute: Floaters",
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/floaters",
+        "type": "government"
+      },
+      {
+        "title": "National Eye Institute: Retinal Detachment",
+        "url": "https://www.nei.nih.gov/index.php/learn-about-eye-health/eye-conditions-and-diseases/retinal-detachment",
+        "type": "government"
+      },
+      {
+        "title": "Mayo Clinic: Eye floaters - Symptoms and causes",
+        "url": "https://www.mayoclinic.org/diseases-conditions/eye-floaters/symptoms-causes/syc-20372346",
+        "type": "article"
+      },
+      {
+        "title": "Mayo Clinic: Eye floaters - Diagnosis and treatment",
+        "url": "https://www.mayoclinic.org/diseases-conditions/eye-floaters/diagnosis-treatment/drc-20372350",
+        "type": "article"
+      },
+      {
+        "title": "Cleveland Clinic: Eye Floaters",
+        "url": "https://my.clevelandclinic.org/health/articles/14209-floaters--flashers",
+        "type": "article"
+      },
+      {
+        "title": "A New Pharmacological Vitreolysis through the Supplement of Mixed Fruit Enzymes for Patients with Ocular Floaters or Vitreous Hemorrhage-Induced Floaters",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9695351/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "飛蚊症",
+      "eye floaters",
+      "floaters",
+      "硝子体",
+      "網膜裂孔",
+      "網膜剥離",
+      "光視症",
+      "ルテイン",
+      "ブルーベリー",
+      "パイナップル酵素",
+      "目のサプリ",
+      "自然療法",
+      "医療デマ"
+    ]
+  },
+  {
+    "id": "submarine-patents-still-common-ambush-claim",
+    "title": "サブマリン特許は今も秘密裏に出願して企業を待ち伏せできる",
+    "category": "finance",
+    "claim": "発明者や企業は特許出願を何十年も秘密にしておき、市場が広がった後に突然特許を成立させて、既に普及した技術から巨額のライセンス料を取れる。サブマリン特許は現在でも一般的に使える有効なビジネス戦略である。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "古典的なサブマリン特許問題は実在したが、米国では1995年の特許期間変更と2000年以降の18か月公開制度で大きく抑制された。非公開請求など例外は残るが、何十年も秘密出願を潜航させて満期を先送りする戦略が一般に可能という理解は古い。",
+    "explanation": "サブマリン特許とは、特許出願を長く非公開・係属させ、市場参加者が技術を採用した後に特許として浮上し、予期しないロイヤルティや差止めリスクを生む問題を指す。FTC の2003年報告は、かつて米国では特許出願が公開されず、特許が発行されて初めて公開されるため、競合企業が製品開発へ投資した後で侵害を知らされることがあったと説明している。同報告は、18か月公開制度が事業計画の確実性を高め、予期しない submarine patents の問題を減らしたと述べている。さらに USPTO の MPEP 2701 は、1995年6月8日以後の通常の実用・植物特許期間は、出願日または優先される最初の米国出願日から20年で終わると整理している。これは、審査を長引かせるほど特許発行後の残存期間が短くなることを意味し、旧制度のように『発行から17年』を得るため出願を潜航させる動機を弱めた。加えて、USPTO の MPEP 1120 は、2000年11月29日以降の多くの実用・植物出願が18か月後に公開されると説明している。一方で、米国のみで出願し外国出願しない場合の nonpublication request、国家安全保障上の秘密命令、継続出願、審査遅延による特許期間調整など、公開や期間の例外・複雑性は残る。したがって、特許リスクやパテントトロール問題が消えたわけではないが、『今でも誰でも何十年も完全に隠して、後から満期たっぷりの特許で待ち伏せできる』という主張は、現在の制度を誤解している。",
+    "why_it_spreads": [
+      "Lemelson 事件のような実在した有名事例が、現在も同じ制度で起こるように語られやすい",
+      "特許制度は出願公開、継続出願、期間調整、非公開請求などが複雑で、古い知識が更新されにくい",
+      "後から特許侵害を主張される恐怖は、スタートアップや開発者に強く響く",
+      "パテントトロール、標準必須特許、秘密特許、発明隠蔽など別問題と混同されやすい",
+      "『大企業や発明家が法制度を使って待ち伏せする』という物語は陰謀論的にも拡散しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "特許トロールやNPEによる訴訟リスクを、古典的サブマリン特許と同一視する",
+          "非公開請求や秘密命令の例外を、何十年も自由に潜航できる制度として語る"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "1995年の特許期間変更や2000年以降の18か月公開制度を省き、古い事例だけを示す",
+          "Lemelson 型の極端な事例を、現代の通常出願にもそのまま一般化する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "特許が突然問題化した体験談を、出願が完全に秘密だった証拠とみなす",
+          "特許公報や公開公報を調べないまま、権利主張が予期できなかったことを制度的隠蔽と解釈する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "継続出願や請求項補正の複雑さを、どんな技術でも後出しで独占できる根拠にする",
+          "特許期間調整や延長があることを、特許期間の制限が実質ないという話へ飛躍させる"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "知らない特許で警告を受けたことを、意図的な潜航・待ち伏せの証拠と決めつける",
+          "発明が普及しない理由を、秘密特許による抑圧だけで説明する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "サブマリン特許問題は、米国で特許期間が発行日から17年だった時代、特許出願が発行まで公開されない制度と結びついて問題化した。Jerome Lemelson の機械視覚・バーコード関連特許群などが代表例として語られる。",
+      "spread_period": "1990年代から2000年代初頭にかけて、Lemelson 関連訴訟、ソフトウェア・ビジネス方法特許、標準化と特許開示問題、FTC の競争政策議論を通じて広く知られた。現在はパテントトロール、スタートアップの特許不安、発明隠蔽論、知財解説コンテンツで再流通している。",
+      "spread_scope": "米国特許制度を中心に、技術企業、スタートアップ、ソフトウェア開発、標準化団体、知財実務、投資・ビジネス系メディア、発明家コミュニティで流通している。日本語圏では米国制度の古い説明が現在の一般論として残ることがある。",
+      "note": "この項目は、過去のサブマリン特許問題や現代の特許訴訟リスク、NPE問題を否定しない。対象は、古典的な潜航戦略が現在でも通常の特許出願で広く使えるという過剰な一般化である。",
+      "spreaders": [
+        "知財リスクを扱うビジネス記事、特許トロール解説、スタートアップ向け警告コンテンツ",
+        "発明隠蔽、フリーエネルギー、技術抑圧を語る動画・ブログ・SNS",
+        "米国特許制度の古い説明を現在の制度として紹介する解説媒体"
+      ],
+      "beneficiaries": [
+        "特許調査、FTO調査、知財コンサル、訴訟対策サービスで受益しうる主体",
+        "特許不安や発明抑圧の物語で関心を集められるメディアや発信者"
+      ],
+      "source": {
+        "title": "FTC: To Promote Innovation: The Proper Balance of Competition and Patent Law and Policy",
+        "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/us/us193en.html"
+      }
+    },
+    "sources": [
+      {
+        "title": "FTC: To Promote Innovation: The Proper Balance of Competition and Patent Law and Policy",
+        "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/us/us193en.html",
+        "type": "government"
+      },
+      {
+        "title": "FTC Executive Summary: To Promote Innovation",
+        "url": "https://search.ftc.gov/sites/default/files/documents/reports/promote-innovation-proper-balance-competition-and-patent-law-and-policy/innovationrptsummary.pdf",
+        "type": "government"
+      },
+      {
+        "title": "USPTO MPEP 2701: Patent Term",
+        "url": "https://www.uspto.gov/web/offices/pac/mpep/documents/2700_2701.htm",
+        "type": "government"
+      },
+      {
+        "title": "USPTO MPEP 1120: Eighteen-Month Publication of Patent Applications",
+        "url": "https://www.uspto.gov/web/offices/pac/mpep/documents/1100_1120.htm",
+        "type": "government"
+      },
+      {
+        "title": "USPTO MPEP 1122: Requests for Nonpublication",
+        "url": "https://www.uspto.gov/web/offices/pac/mpep/documents/1100_1122.htm",
+        "type": "government"
+      },
+      {
+        "title": "USPTO: Patent term calculator",
+        "url": "https://www.uspto.gov/patents/laws/patent-term-calculator",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "サブマリン特許",
+      "submarine patent",
+      "特許",
+      "知的財産",
+      "USPTO",
+      "FTC",
+      "18か月公開",
+      "非公開請求",
+      "特許トロール",
+      "NPE",
+      "Lemelson",
+      "スタートアップ",
+      "知財リスク"
+    ]
+  },
+  {
+    "id": "sleep-paralysis-spiritual-attack-claim",
+    "title": "金縛りは霊や悪霊による攻撃である",
+    "category": "health",
+    "claim": "金縛りで体が動かず、胸を押される、誰かが部屋にいる、耳元で声がする、幽体離脱のように感じるのは、霊、悪霊、守護霊、呪い、宇宙存在など外部の超常的存在が干渉している証拠である。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "金縛りは睡眠麻痺として医学的に説明できる。REM睡眠の筋肉弛緩が入眠時や覚醒時に残り、幻覚や胸部圧迫感を伴うことがある。霊的体験として感じることはあっても、外部存在の証拠ではない。",
+    "explanation": "American Academy of Sleep Medicine の Sleep Education は、睡眠麻痺を REM parasomnia とし、REM睡眠中に夢を演じないよう体を動かなくする REM atonia が、入眠時または覚醒時に起こることで生じると説明している。Harvard Health も、睡眠麻痺では意識はあるのに体が動かず、REM睡眠の心的イメージが覚醒状態に残るため、侵入者、胸の圧迫、浮遊や体外離脱のような幻覚を伴うことがあると整理している。NINDS のナルコレプシー解説でも、睡眠麻痺は数秒から数分続く一時的な運動・発話不能で、鮮明で恐ろしい視覚・聴覚・触覚幻覚を伴いうるが、安全な場所にいれば発作自体は危険ではないとされる。こうした体験は文化ごとに、悪霊、金縛り、night hag、incubus、宇宙人、憑依などの物語で解釈されてきた。実際、Sleep Foundation は睡眠麻痺の幻覚を、侵入者の存在感、胸部圧迫、浮遊・体外離脱感の3類型に分けて説明している。したがって、金縛りが非常に恐ろしく、本人にとって意味深い体験であることは否定できないが、その感覚を外部の霊的存在や呪いの実在証拠とみなすのは飛躍である。頻回、強い苦痛、日中の過眠、脱力発作、睡眠時無呼吸やPTSDなどが疑われる場合は、睡眠医学・精神保健の相談対象になる。",
+    "why_it_spreads": [
+      "意識があるのに動けない体験は非常に恐ろしく、通常の夢より現実感が強い",
+      "侵入者感、胸の圧迫、声、影、浮遊感が、霊や悪霊の物語と直感的に結びつく",
+      "文化ごとに金縛りを霊的現象として説明する伝承があり、体験の解釈枠を与える",
+      "睡眠麻痺という仕組みを知らないと、強い主観的リアリティを外部存在の証拠と感じやすい",
+      "怪談、心霊動画、スピリチュアル相談で、恐怖体験が共有・商品化されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "REM atonia と入眠時・覚醒時幻覚による現実感を見落とす",
+          "恐怖や呼吸感覚の変化が、侵入者や胸に乗る存在の感覚を強めることを無視する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "主観的に見えた・聞こえた感覚を、外部存在が客観的にいた証拠とみなす",
+          "複数人が似た体験を語ることを、共通の睡眠生理ではなく同じ霊的存在の証拠と考える"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "怖い場所や不安な時期に金縛りが起きたことを、霊障や呪いの原因とみなす",
+          "お祓いや儀式の後に減ったことを、睡眠改善や安心感ではなく霊的原因の除去と解釈する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "体験が本人にとって意味深いことを、外部の霊的存在が実在したことへすり替える",
+          "睡眠麻痺の医学的説明を、霊的体験の価値や文化的意味を否定するものとして扱う"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "心霊的に見える事例だけを共有し、睡眠不足、仰向け寝、ストレス、不規則睡眠などの誘因を省く",
+          "ナルコレプシーや睡眠時無呼吸など医療相談が必要な背景を見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "金縛りに相当する体験は世界各地の民間伝承に古くから見られ、日本では霊的な『金縛り』、欧州では night hag や incubus などとして語られてきた。現代医学では REM睡眠関連の睡眠麻痺として整理される。",
+      "spread_period": "20世紀には怪談、心霊番組、オカルト雑誌、都市伝説で広がり、1990年代以降は宇宙人誘拐、幽体離脱、スピリチュアル、睡眠雑学と結びついた。現在はSNS、動画、体験談サイト、睡眠情報記事で再流通している。",
+      "spread_scope": "日本語圏、英語圏を含む家庭内の言い伝え、怪談、心霊・オカルト、スピリチュアル、睡眠雑学、メンタルヘルス周辺で広く流通している。",
+      "note": "この項目は、金縛り体験の恐怖や文化的意味を否定しない。対象は、睡眠麻痺で説明できる体験を、霊・呪い・外部存在の客観的証拠として断定する主張である。",
+      "spreaders": [
+        "心霊番組、怪談、オカルト雑誌、体験談サイト、SNS、動画チャンネル",
+        "金縛りを霊障、呪い、守護霊、宇宙存在と結びつけるスピリチュアル系発信者",
+        "睡眠麻痺と霊的解釈を混同した雑学・都市伝説コンテンツ"
+      ],
+      "beneficiaries": [
+        "除霊、霊視、スピリチュアル相談、護符、関連講座で受益しうる発信者や事業者",
+        "恐怖体験や怪談として関心を集められるメディア・動画市場"
+      ],
+      "source": {
+        "title": "Sleep Education by American Academy of Sleep Medicine: Sleep Paralysis",
+        "url": "https://sleepeducation.org/sleep-disorders/sleep-paralysis/"
+      }
+    },
+    "sources": [
+      {
+        "title": "Sleep Education by American Academy of Sleep Medicine: Sleep Paralysis",
+        "url": "https://sleepeducation.org/sleep-disorders/sleep-paralysis/",
+        "type": "article"
+      },
+      {
+        "title": "Harvard Health: Sleep paralysis: Causes, symptoms, and treatments",
+        "url": "https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments",
+        "type": "article"
+      },
+      {
+        "title": "National Institute of Neurological Disorders and Stroke: Narcolepsy",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/narcolepsy",
+        "type": "government"
+      },
+      {
+        "title": "Sleep Foundation: Sleep Paralysis: Symptoms, Causes, and Treatment",
+        "url": "https://www.sleepfoundation.org/parasomnias/sleep-paralysis",
+        "type": "article"
+      },
+      {
+        "title": "Cleveland Clinic: Sleep Paralysis",
+        "url": "https://my.clevelandclinic.org/health/diseases/21974-sleep-paralysis",
+        "type": "article"
+      },
+      {
+        "title": "Sleep Foundation: Sleep Paralysis Demon",
+        "url": "https://www.sleepfoundation.org/parasomnias/sleep-demon",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "金縛り",
+      "睡眠麻痺",
+      "sleep paralysis",
+      "REM atonia",
+      "レム睡眠",
+      "入眠時幻覚",
+      "覚醒時幻覚",
+      "霊障",
+      "幽霊",
+      "悪霊",
+      "心霊現象",
+      "ナルコレプシー",
+      "睡眠障害"
+    ]
+  },
+  {
+    "id": "phantom-limb-pain-is-imaginary-claim",
+    "title": "幻肢痛は気のせいで、精神力や代替療法だけで治せる",
+    "category": "health",
+    "claim": "切断された手足はもう存在しないため、そこが痛む幻肢痛は本人の思い込み、弱さ、未練、霊的な影響にすぎない。痛みを無視したり、気合い、暗示、ミラー療法、ヒーリングなどを行えば根本的に治せる。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "幻肢痛は切断後に多くの人が経験する実在の痛みで、末梢神経、脊髄、脳の変化が関わる。心理状態は痛みを悪化させうるが、気のせいではない。治療は薬物、リハビリ、心理支援、神経刺激などの複合管理が必要になることがある。",
+    "explanation": "Cleveland Clinic は、幻肢痛を切断された身体部位に痛みを感じる状態と説明し、存在しない部位が痛むように見えても痛みは real だと明記している。StatPearls も、幻肢痛を存在しない四肢に生じる痛み・不快感として定義し、切断患者の60〜85%に報告されると整理している。機序は単一ではなく、切断端の神経腫や末梢神経の過興奮、脊髄の中枢感作、体性感覚野や運動野の再編成、ストレス・不安・抑うつなどが重なりうる。したがって、心理的要因が関わることはあっても、幻肢痛を『気のせい』や『弱さ』として片づけるのは誤りである。治療も一つの万能法ではない。Cleveland Clinic は、薬物療法、ミラー療法、TENS、神経刺激、認知行動療法、義肢調整など複数の選択肢を挙げる一方、StatPearls は、どの治療も一貫して全員に効くわけではなく、専門職チームによる管理が望ましいと述べている。薬物療法に関する Cochrane レビューも、幻肢痛の薬物管理には不確実性が残ると結論している。ミラー療法についても、2021年のメタ分析では有益性を示す中等度程度の証拠がある一方、プラセボ対照試験に限った2022年レビューでは有効性を支持する証拠を見いだせないとされ、研究結果は一枚岩ではない。つまり、幻肢痛は実在するが治療反応は個人差が大きく、医学的評価と複合的な疼痛管理が必要である。",
+    "why_it_spreads": [
+      "存在しない手足が痛むという直感に反する現象なので、思い込みと誤解されやすい",
+      "痛みは外から見えず、画像や血液検査で単純に確認しにくい",
+      "ストレスや不安で悪化することが、精神論や自己責任論と結びつきやすい",
+      "ミラー療法の印象的な映像や体験談が、誰にでも効く簡単な治療として広まりやすい",
+      "切断、身体イメージ、喪失感というテーマが、霊的未練や魂の物語と結びつきやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "痛みに心理的要因が関わることを、痛みが架空であることと混同する",
+          "本人の苦痛や生活機能への影響を、外から見えないから軽いものとして扱う"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "失った部位に組織がないことを、脳と神経系で痛みが生じないことへすり替える",
+          "ミラー療法や心理支援が役立つ場合があることを、精神力だけで治せるという話に変える"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "単発の治癒体験や動画を、すべての幻肢痛に有効な治療の証拠とみなす",
+          "治療研究の混合した結果や個人差を省き、万能療法として宣伝する"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "体の一部がないなら痛みもないはずだという直感を、神経科学より優先する",
+          "薬や専門治療より、気合い・暗示・ヒーリングのほうが自然で根本的だと考える"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "改善した例だけを共有し、長期化や難治例、残存肢痛・感染・義肢不適合の評価を省く",
+          "痛みが強い人ほど専門的な疼痛管理やメンタルヘルス支援が必要になりうる点を隠す"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "幻肢感覚は16世紀の外科医 Ambroise Pare らの時代から記載され、19世紀には米国の医師 Silas Weir Mitchell が南北戦争後の切断兵の症状を研究し、phantom limb という語を広めた。",
+      "spread_period": "20世紀後半以降、脳の可塑性、体性感覚地図、Ramachandran らのミラー療法の紹介で一般にも知られるようになった。一方で、切断後の痛みを精神論、トラウマ、未練、代替療法で説明する言説も、慢性痛・リハビリ・スピリチュアル・自己啓発周辺で流通している。",
+      "spread_scope": "切断者支援、慢性痛、リハビリ、神経科学、代替医療、スピリチュアル、自己啓発、戦傷・事故後ケアの文脈で広く語られる。科学的説明、患者体験、民間療法、霊的解釈が混在しやすい。",
+      "note": "この項目は、ミラー療法、心理支援、瞑想、リラクゼーションなどが一部の人の疼痛管理に役立つ可能性を否定しない。対象は、幻肢痛を気のせい・弱さ・霊的未練とみなし、医学的評価や複合治療を不要とする主張である。",
+      "spreaders": [
+        "慢性痛を精神論や自己責任論で語る自己啓発・健康情報コンテンツ",
+        "幻肢痛を霊的未練、魂、エネルギー身体と結びつけるスピリチュアル系発信者",
+        "ミラー療法や代替療法を万能治療として紹介する動画、講座、広告"
+      ],
+      "beneficiaries": [
+        "代替療法、ヒーリング、自己啓発講座、疼痛改善プログラムで受益しうる事業者",
+        "印象的な脳科学・奇跡的治療の物語で関心を集められるメディアや発信者"
+      ],
+      "source": {
+        "title": "StatPearls: Phantom Limb Pain",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK448188/"
+      }
+    },
+    "sources": [
+      {
+        "title": "Cleveland Clinic: Phantom Limb Pain",
+        "url": "https://my.clevelandclinic.org/health/diseases/12092-phantom-limb-pain",
+        "type": "article"
+      },
+      {
+        "title": "StatPearls: Phantom Limb Pain",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK448188/",
+        "type": "paper"
+      },
+      {
+        "title": "Brain and spinal stimulation therapies for phantom limb pain: a systematic review",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK532708/",
+        "type": "paper"
+      },
+      {
+        "title": "Pharmacologic interventions for treating phantom limb pain",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27737513/",
+        "type": "paper"
+      },
+      {
+        "title": "Effects of mirror therapy on phantom limb sensation and phantom limb pain in amputees: A systematic review and meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34308686/",
+        "type": "paper"
+      },
+      {
+        "title": "Effect of mirror therapy in the treatment of phantom limb pain in amputees: A systematic review of randomized placebo-controlled trials",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10086832/",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "幻肢痛",
+      "phantom limb pain",
+      "幻肢",
+      "切断",
+      "神経障害性疼痛",
+      "慢性痛",
+      "ミラー療法",
+      "mirror therapy",
+      "脳の可塑性",
+      "中枢感作",
+      "疼痛管理",
+      "代替療法",
+      "医療デマ"
+    ]
   }
 ]
