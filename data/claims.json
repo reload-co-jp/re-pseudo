@@ -8733,5 +8733,128 @@
       "美容",
       "健康食品"
     ]
+  },
+  {
+    "id": "lamb-meat-diet-fat-burning-claim",
+    "title": "ラム肉を食べれば脂肪が燃えて痩せる",
+    "category": "health",
+    "claim": "ラム肉にはL-カルニチンが多く含まれるため、食べるだけで脂肪がミトコンドリアへ運ばれて燃え、代謝が上がって痩せる。ラム肉は太らない肉なので、量や総カロリーを気にせず食べてもダイエットになる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "ラム肉はたんぱく質、鉄、ビタミンB12などを含む食品で、適量なら食事に組み込める。しかし、L-カルニチンを含むから食べるだけで脂肪が燃える、量を気にせず痩せるという主張は誇張。体重変化は総摂取エネルギーと食事全体で決まる。",
+    "explanation": "L-カルニチンは脂肪酸をミトコンドリアへ運ぶ働きに関わる物質で、肉や乳製品に含まれ、人体内でも合成される。NIH Office of Dietary Supplements は、カルニチンは脂肪酸のβ酸化に関わるため減量成分として提案されてきたが、体重減少を主目的に調べた研究は限られ、多くは二次評価項目で、追加研究が必要だと説明している。2016年のメタ分析ではL-カルニチン補給で平均約1.33kgの体重減少が見られ、2020年の37RCTメタ分析でも体重や脂肪量への小さな効果が示された。しかし、これはサプリとして1.8〜4g/日程度を投与した臨床試験の話であり、ラム肉を食べるだけで同等の脂肪燃焼が起きることを示すものではない。さらに、2020年メタ分析でもウエスト周囲径や体脂肪率への有意効果はなく、高品質試験だけでは体重効果の確認にとどまる。NCCIH も、多くの急速減量サプリは長期体重管理に有効と示されておらず、安全性問題があるものもあると警告している。ラム肉は赤肉であり、American Heart Association は赤肉には一般に鶏肉、魚、植物性たんぱく質より飽和脂肪が多いことがあり、食べるなら赤身・未加工・適量を選ぶよう勧めている。したがって、ラム肉を低糖質食や高たんぱく食の一部として適量食べることと、ラム肉そのものを脂肪燃焼食品として無制限に食べることは分ける必要がある。",
+    "why_it_spreads": [
+      "L-カルニチンが脂肪酸輸送に関わるという生化学が、食べるだけで脂肪燃焼という単純な物語に変わりやすい",
+      "肉を食べながら痩せられるというメッセージは、食事制限への抵抗感を下げる",
+      "高たんぱく食や低糖質食で体重が落ちた経験が、ラム肉固有の効果として語られやすい",
+      "ジンギスカンや赤身肉の健康イメージが、ダイエット訴求と結びつきやすい",
+      "焼肉、外食、通販、サプリ市場で『脂肪燃焼』の販売語として使いやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "L-カルニチンが脂肪酸代謝に関わることを、ラム肉を食べるだけで体脂肪が減ることへすり替える",
+          "高たんぱく食の満腹感や筋肉維持の利点を、特定の肉の脂肪燃焼効果として扱う"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "糖質や総摂取カロリーが減った結果を、ラム肉のカルニチン効果とみなす",
+          "運動や食事管理と一緒にラム肉を食べて痩せた例を、ラム肉単独の効果と解釈する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "L-カルニチンサプリ研究を、ラム肉を食べるダイエットの直接証拠として流用する",
+          "小さな平均体重差を、誰でも大きく痩せる効果として宣伝する"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "天然の肉に含まれる成分ならサプリより自然で強く効くと考える",
+          "赤身肉や伝統食というイメージを、量を気にしない健康法の根拠にする"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "ラム肉のたんぱく質や鉄分だけを強調し、脂質、飽和脂肪、調理油、タレ、総カロリーを省く",
+          "赤肉は適量・赤身・未加工で食べるという食事ガイドの条件を説明しない"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "ラム肉ダイエットの大衆的流布は、低糖質・高たんぱくダイエットと『L-カルニチンで脂肪燃焼』という健康食品宣伝が結びついた2000年代以降の美容・ダイエット情報で目立つようになった。",
+      "spread_period": "2000年代以降、ジンギスカンブーム、赤身肉ブーム、低糖質食、L-カルニチンサプリ、外食・通販広告、SNSの食事記録を通じて広がった。2020年代もボディメイク、糖質制限、肉食ダイエット文脈で再流通している。",
+      "spread_scope": "日本語圏の美容、ダイエット、外食、焼肉、ジンギスカン、低糖質、フィットネス、サプリ市場で特に広い。英語圏では lamb そのものより、red meat、protein、L-carnitine の文脈で語られやすい。",
+      "note": "この項目は、ラム肉をたんぱく質源として適量食べることや、赤身・未加工肉を食事計画に組み込むことを否定しない。対象は、ラム肉やL-カルニチンを食べるだけで脂肪が燃え、量を気にせず痩せるという主張である。",
+      "spreaders": [
+        "美容・ダイエット系メディア、外食・焼肉・ジンギスカン関連広告、SNS投稿",
+        "L-カルニチン、脂肪燃焼、低糖質、肉食ダイエットを扱うサプリ・健康食品・フィットネス媒体",
+        "赤身肉や羊肉の健康イメージを訴求する通販・レシピ・飲食店コンテンツ"
+      ],
+      "beneficiaries": [
+        "ラム肉、ジンギスカン、赤身肉、L-カルニチンサプリ、ダイエット食品で受益しうる事業者",
+        "『食べて痩せる』情報で集客できる美容・健康メディアやアフィリエイト運営者"
+      ],
+      "source": {
+        "title": "NIH Office of Dietary Supplements: Dietary Supplements for Weight Loss",
+        "url": "https://ods.od.nih.gov/factsheets/WeightLoss-HealthProfessional/"
+      }
+    },
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Dietary Supplements for Weight Loss",
+        "url": "https://ods.od.nih.gov/factsheets/WeightLoss-HealthProfessional/",
+        "type": "government"
+      },
+      {
+        "title": "NCCIH: Weight Control",
+        "url": "https://www.nccih.nih.gov/health/weight-control",
+        "type": "government"
+      },
+      {
+        "title": "The effect of (L-)carnitine on weight loss in adults: a systematic review and meta-analysis of randomized controlled trials",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27335245/",
+        "type": "paper"
+      },
+      {
+        "title": "Effects of l-carnitine supplementation on weight loss and body composition: A systematic review and meta-analysis of 37 randomized controlled clinical trials with dose-response analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32359762/",
+        "type": "paper"
+      },
+      {
+        "title": "American Heart Association: Picking Healthy Proteins",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/meat-poultry-and-fish-picking-healthy-proteins",
+        "type": "article"
+      },
+      {
+        "title": "MedlinePlus: Dietary Guidelines for Americans 2025 - 2030",
+        "url": "https://medlineplus.gov/ency/article/002093.htm",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "ラム肉",
+      "羊肉",
+      "lamb",
+      "ジンギスカン",
+      "L-カルニチン",
+      "carnitine",
+      "脂肪燃焼",
+      "肉食ダイエット",
+      "低糖質",
+      "高たんぱく",
+      "赤肉",
+      "ダイエット",
+      "健康食品"
+    ]
   }
 ]
