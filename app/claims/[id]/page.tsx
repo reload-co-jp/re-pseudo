@@ -3,7 +3,7 @@ import Link from "next/link"
 import { FC } from "react"
 import Breadcrumbs from "components/Breadcrumbs"
 import { Badge, Card } from "components/elements/layout"
-import { formatDate, getClaims, getClaimById } from "lib/claims"
+import { formatDate, getClaims, getClaimById, getRelatedClaims } from "lib/claims"
 import {
   CATEGORY_LABEL,
   CONFIDENCE_LABEL,
@@ -124,6 +124,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
     },
     keywords: claim.tags.join(", "),
   }
+  const relatedClaims = getRelatedClaims(claim)
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -532,6 +533,69 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
                 style={{ textDecoration: "none" }}
               >
                 <Badge color="#718096" label={`#${tag}`} />
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {relatedClaims.length > 0 && (
+        <section style={sectionStyle}>
+          <h2 style={sectionTitleStyle}>類似の主張</h2>
+          <div
+            style={{
+              display: "grid",
+              gap: ".5rem",
+              gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
+            }}
+          >
+            {relatedClaims.map((related) => (
+              <Link
+                href={`/claims/${related.id}/`}
+                key={related.id}
+                style={{
+                  backgroundColor: "#261b22",
+                  border: "1px solid #372630",
+                  borderRadius: "4px",
+                  color: "#e2e8f0",
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: ".35rem",
+                  minWidth: 0,
+                  padding: ".75rem",
+                  textDecoration: "none",
+                }}
+              >
+                <span
+                  style={{
+                    color: "#f6ad55",
+                    fontSize: ".75rem",
+                    fontWeight: 700,
+                    lineHeight: 1.4,
+                  }}
+                >
+                  {VERDICT_LABEL[related.verdict]}
+                </span>
+                <span
+                  style={{
+                    fontSize: ".875rem",
+                    fontWeight: 700,
+                    lineHeight: 1.45,
+                    overflowWrap: "anywhere",
+                  }}
+                >
+                  {related.title}
+                </span>
+                <span
+                  style={{
+                    color: "#a0aec0",
+                    fontSize: ".75rem",
+                    lineHeight: 1.5,
+                    overflowWrap: "anywhere",
+                  }}
+                >
+                  {related.summary}
+                </span>
               </Link>
             ))}
           </div>
