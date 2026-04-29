@@ -8856,5 +8856,128 @@
       "ダイエット",
       "健康食品"
     ]
+  },
+  {
+    "id": "highball-alcohol-weight-loss-claim",
+    "title": "ハイボールなら糖質ゼロで痩せる",
+    "category": "health",
+    "claim": "ハイボールはウイスキーと炭酸水なので糖質がほぼなく、ビールや甘い酒より太りにくい。糖質ゼロだから脂肪にならず、食事制限中でも毎日飲めばストレスなく痩せられる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "ハイボールは甘いカクテルやビールより糖質・カロリーを抑えやすい場合がある。しかしアルコール自体は1gあたり約7kcalあり、栄養の少ないエネルギー源。飲酒量やつまみが増えれば減量を妨げる。",
+    "explanation": "ウイスキーなどの蒸留酒は糖質がほぼないため、甘いカクテルや糖質を含む酒より糖質量を抑えやすい。しかし、糖質が少ないことは『カロリーがない』『脂肪にならない』『痩せる』ことを意味しない。MedlinePlus は、アルコールは1gあたり約7kcalのエネルギーを持ち、栄養素に乏しい empty calories だと説明している。さらに、蒸留酒1.5オンス、つまり45mL程度でも約100kcalあり、店や自宅の濃いハイボールでは1杯が標準量を超えやすい。NIAAA も、米国の標準ドリンクは純アルコール14gで、飲酒はカロリーを供給し望まない体重増加に寄与しうると説明する。MedlinePlus の減量向け解説は、アルコールは高カロリーなだけでなく、飲酒時に食べ物の選択が悪くなりやすいことも体重管理を難しくすると述べている。2011年の系統的レビューも、アルコール摂取と体重の関係は飲酒パターンや飲料種で異なるが、重い飲酒は体重増加と関連しやすく、アルコール自体のエネルギー量を無視できないと整理している。したがって、ハイボールを他の高糖質・高カロリー飲料の代替として少量選ぶことと、ハイボールを痩せる飲み物として毎日飲むことは別である。",
+    "why_it_spreads": [
+      "糖質ゼロや低糖質という言葉が、カロリーゼロや太らないと混同されやすい",
+      "ビールや甘いカクテルから替えると摂取カロリーが減る場合があり、ハイボール自体の痩身効果に見えやすい",
+      "飲酒をやめずにダイエットしたい心理に合う",
+      "居酒屋、外食、酒類広告で低糖質・爽快・ヘルシーなイメージを打ち出しやすい",
+      "飲酒後の食欲増加やつまみのカロリーは見落とされやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "糖質が少ないことを、総カロリーが少ないことや痩せることへすり替える",
+          "高カロリー飲料から置き換える利点を、ハイボール自体の脂肪燃焼効果として扱う"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "ハイボールに替えて痩せた例を、食事量や飲酒量の変化ではなくハイボールの効果とみなす",
+          "糖質制限中に体重が落ちたことを、蒸留酒なら太らない証拠と解釈する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "糖質量だけを栄養評価の根拠にし、アルコール量、カロリー、飲酒頻度、健康リスクを省く",
+          "低糖質商品の広告表現を、医学的な減量効果の証拠として扱う"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "ウイスキー単体の糖質だけを強調し、濃さ、杯数、割材、つまみ、締めの食事を計算に入れない",
+          "アルコールが睡眠、食欲、判断、肝臓、依存リスクに与える影響を説明しない"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "透明な炭酸水で割ると軽く感じるため、体への負担やエネルギー量も小さいと感じる",
+          "『糖質ゼロ』のラベルを健康的な選択の十分条件として受け取る"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "ハイボール自体は古くからあるウイスキーの飲み方だが、日本語圏で『ハイボールは太らない』『糖質ゼロでダイエット向き』という語りが目立つのは、2000年代後半以降のハイボール再ブームと低糖質ダイエットの普及が重なった時期である。",
+      "spread_period": "2010年代以降、糖質制限、居酒屋チェーン、酒類広告、ダイエット記事、SNSの外食・晩酌投稿を通じて広がった。2020年代も低糖質、糖質ゼロ、プリン体ゼロ、健康志向の酒類マーケティングと結びついて流通している。",
+      "spread_scope": "日本語圏の外食、宅飲み、糖質制限、ダイエット、美容、フィットネス、酒類広告、SNSで広い。英語圏では whisky soda や low-carb alcohol の文脈に近い。",
+      "note": "この項目は、甘いカクテルや高カロリー飲料から低カロリーなハイボールへ置き換えると摂取エネルギーを減らせる場合があることを否定しない。対象は、糖質ゼロだから痩せる、毎日飲んでも減量に有利という主張である。",
+      "spreaders": [
+        "糖質制限・ダイエット系メディア、酒類広告、居酒屋・外食関連コンテンツ",
+        "低糖質、糖質ゼロ、プリン体ゼロを訴求する酒類・健康情報媒体",
+        "晩酌しながら痩せる方法を紹介するSNS、動画、ブログ"
+      ],
+      "beneficiaries": [
+        "酒類メーカー、飲食店、低糖質酒類、ダイエット系広告で受益しうる事業者",
+        "飲酒を肯定する減量情報で集客できる健康・美容メディアやアフィリエイト運営者"
+      ],
+      "source": {
+        "title": "MedlinePlus: Weight loss and alcohol",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000889.htm"
+      }
+    },
+    "sources": [
+      {
+        "title": "MedlinePlus: Weight loss and alcohol",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000889.htm",
+        "type": "government"
+      },
+      {
+        "title": "NIAAA: Understanding Alcohol Drinking Patterns",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/alcohol-drinking-patterns",
+        "type": "government"
+      },
+      {
+        "title": "NIAAA Rethinking Drinking: Alcohol Calorie Calculator",
+        "url": "https://rethinkingdrinking.niaaa.nih.gov/Tools/calculators/calorie-calculator.aspx",
+        "type": "government"
+      },
+      {
+        "title": "CDC: About Moderate Alcohol Use",
+        "url": "https://www.cdc.gov/alcohol/about-alcohol-use/moderate-alcohol-use.html",
+        "type": "government"
+      },
+      {
+        "title": "Alcohol consumption and body weight: a systematic review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21790610/",
+        "type": "paper"
+      },
+      {
+        "title": "MedlinePlus: Alcohol and diet",
+        "url": "https://medlineplus.gov/ency/imagepages/17023.htm",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-04-29",
+    "updated_at": "2026-04-29",
+    "tags": [
+      "ハイボール",
+      "highball",
+      "ウイスキー",
+      "whisky",
+      "蒸留酒",
+      "アルコール",
+      "糖質ゼロ",
+      "低糖質",
+      "ダイエット",
+      "減量",
+      "カロリー",
+      "晩酌",
+      "酒"
+    ]
   }
 ]
