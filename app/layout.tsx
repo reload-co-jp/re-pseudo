@@ -84,7 +84,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
     name: "Re pseudo",
     url: BASE_URL,
     logo: `${BASE_URL}/logo.svg`,
-    sameAs: [BASE_URL, "https://reload.co.jp"],
+    sameAs: [BASE_URL],
   }
 
   return (
