@@ -18,6 +18,35 @@ export const getFeaturedClaims = (): Claim[] =>
 export const getLatestClaims = (): Claim[] =>
   [...claims].sort((a, b) => b.created_at.localeCompare(a.created_at)).slice(0, 4)
 
+const DIET_TAGS = new Set([
+  "16時間断食",
+  "カロリー",
+  "ケトダイエット",
+  "ケトジェニック",
+  "ジュースクレンズ",
+  "ダイエット",
+  "デトックスティー",
+  "ファスティング",
+  "低炭水化物食",
+  "低糖質",
+  "体重管理",
+  "健康油",
+  "夜に食べると太る",
+  "断続的断食",
+  "断食",
+  "時間制限食",
+  "減量",
+  "糖質オフ",
+  "糖質ゼロ",
+  "糖質制限",
+  "脂肪燃焼",
+  "肉食ダイエット",
+  "酵素ダイエット",
+])
+
+export const getDietClaims = (): Claim[] =>
+  claims.filter((claim) => claim.tags.some((tag) => DIET_TAGS.has(tag)))
+
 export const getRelatedClaims = (claim: Claim, limit = 6): Claim[] => {
   const tags = new Set(claim.tags)
   const fallacies = new Set(claim.common_fallacies.map((group) => group.group))
