@@ -178,6 +178,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 ダイエット関連
               </Link>
               <Link
+                href="/anti-government-conspiracy/"
+                style={{
+                  color: "#a0aec0",
+                  fontSize: ".875rem",
+                  textDecoration: "none",
+                }}
+              >
+                反政府陰謀論
+              </Link>
+              <Link
                 href="/criteria/"
                 style={{
                   color: "#a0aec0",

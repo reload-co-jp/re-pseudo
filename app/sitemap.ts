@@ -38,6 +38,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: `${BASE_URL}/anti-government-conspiracy/`,
+      lastModified: latestModified,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    },
+    {
       url: `${BASE_URL}/criteria/`,
       lastModified: new Date("2025-01-01"),
       changeFrequency: "yearly" as const,

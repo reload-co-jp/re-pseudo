@@ -47,6 +47,25 @@ const DIET_TAGS = new Set([
 export const getDietClaims = (): Claim[] =>
   claims.filter((claim) => claim.tags.some((tag) => DIET_TAGS.has(tag)))
 
+const ANTI_GOVERNMENT_CONSPIRACY_IDS = new Set([
+  "5g-virus-activation",
+  "vaccine-microchip",
+  "chemtrail-conspiracy",
+  "new-world-order-one-world-government",
+  "climate-change-hoax-conspiracy",
+  "deep-state-conspiracy",
+  "flat-earth-conspiracy",
+  "artificial-earthquake-weapon",
+  "haarp-weather-mind-control-conspiracy",
+  "apollo-moon-landing-hoax",
+  "hollow-earth-polar-entrance-conspiracy",
+  "water-fueled-car-perpetual-motion",
+  "zero-point-energy-free-power-extraction-claim",
+])
+
+export const getAntiGovernmentConspiracyClaims = (): Claim[] =>
+  claims.filter((claim) => ANTI_GOVERNMENT_CONSPIRACY_IDS.has(claim.id))
+
 export const getRelatedClaims = (claim: Claim, limit = 6): Claim[] => {
   const tags = new Set(claim.tags)
   const fallacies = new Set(claim.common_fallacies.map((group) => group.group))
