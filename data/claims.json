@@ -9209,5 +9209,240 @@
       "自己診断",
       "レッテル貼り"
     ]
+  },
+  {
+    "id": "ccp-spy-smear-claim",
+    "title": "気に入らない相手は中国共産党のスパイである",
+    "category": "conspiracy",
+    "claim": "中国政府や中国共産党による諜報・影響工作は広く行われているため、中国に関係がある人物、華人・中国系の研究者、親中に見える政治家、企業、市民団体、メディア関係者は、中国共産党のスパイや工作員だと見なしてよい。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "中国政府・中国共産党による諜報、経済スパイ、サイバー攻撃、越境弾圧、影響工作は公的機関も警告する実在の安全保障課題である。しかし、個別の人物や団体を証拠なく『中国共産党のスパイ』と断定することは、事実認定として不十分で、差別、名誉毀損、萎縮効果を生みやすい。",
+    "explanation": "FBIや米司法省は、中国政府・中国共産党とその代理人による経済スパイ、サイバー活動、越境弾圧、秘密警察拠点、反体制派への嫌がらせなどを重大な脅威として扱っている。したがって、『中国政府系の諜報・影響工作は存在しない』という否定は正しくない。一方で、FBIと米司法省は、脅威の主体は中国政府・中国共産党の政策と代理人であり、中国人や中国系の人々一般ではないと明確に区別している。米司法省は2022年、対中国案件を一括するChina Initiativeについて、実際の安全保障上の懸念は認めつつも、中国や中国系の人を低い基準で捜査・訴追しているという有害な認識を生んだとして終了した。研究者調査でも、中国系科学者が政府監視や人種プロファイリングへの不安を強く感じ、研究協力や資金申請を控える影響が報告されている。したがって、公開資料、資金関係、未登録代理人行為、機密情報の不正取得、司法判断など具体的証拠に基づく検証と、国籍・民族・対中姿勢・交友関係だけによるスパイ断定は分ける必要がある。",
+    "why_it_spreads": [
+      "中国政府の実際の諜報・影響工作事案があるため、疑いが広い集団へ一般化されやすい",
+      "安全保障不安、台湾・香港・ウイグル・技術流出などの現実の懸念が、個人攻撃のラベルに転用されやすい",
+      "『スパイ』『工作員』という言葉は政治的敵対者を一言で信用失墜させられる",
+      "SNSでは断片的な写真、交友関係、過去発言、出自が、秘密任務の証拠のように扱われやすい",
+      "公式否定や証拠不足が『隠蔽の証拠』として解釈され、反証困難な構造になりやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "証拠がないことを、秘密工作だから表に出ないという説明で補う",
+          "中国政府の実在する工作事案を、特定個人や広い属性集団へのスパイ認定に拡張する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "国籍、民族、留学歴、交友関係、対中政策への意見だけをスパイの証拠として扱う",
+          "捜査、起訴、判決、登録義務違反、機密情報の不正取得などの具体的証拠を区別しない"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "中国政府・中国共産党への批判を、中国人・中国系・中国語話者一般への疑念にすり替える",
+          "政策や報道内容への反論ではなく、相手の忠誠心や出自を攻撃する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "司法手続きや情報保全の基準を、弱腰や隠蔽として退ける",
+          "公的機関が属性ではなく行為を問題にすべきだと説明しても、敵をかばっていると解釈する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "中国政府の諜報活動をめぐる警戒は冷戦期から存在するが、現代的には2010年代後半以降、米国のChina Initiative、技術流出、孔子学院、香港・台湾問題、COVID-19、TikTokやサイバー攻撃をめぐる議論と結びついて強まった。",
+      "spread_period": "2018年以降、米中対立の深刻化、COVID-19期の反アジア感情、2022年のChina Initiative終了、2023年の中国秘密警察拠点摘発、各国の外国影響工作対策をめぐる報道を通じて、実在の安全保障問題と過剰なスパイ認定が混在して流通している。",
+      "spread_scope": "米国、日本、台湾、欧州、豪州などの安全保障、反共、反中、移民、研究安全保障、SNS政治論争の文脈で広い。中国政府批判や人権問題への関心と、民族・出自に基づく疑念が混同される場合がある。",
+      "note": "この項目は、中国政府・中国共産党による実際の諜報、経済スパイ、越境弾圧、影響工作の存在を否定しない。対象は、具体的証拠なしに個人や集団を中国共産党のスパイと断定するレッテル貼りである。",
+      "spreaders": [
+        "反中・反共系のSNSアカウント、動画チャンネル、政治系ブログの一部",
+        "安全保障不安を強調する政治運動やインフルエンサーの一部",
+        "研究安全保障や移民問題を扱う発信の一部"
+      ],
+      "beneficiaries": [
+        "『スパイ暴露』型の投稿で注目、広告収益、寄付、有料購読を得る発信者",
+        "政敵を外国勢力と結びつけて信用低下させたい政治的アクター",
+        "排外的感情や不安を動員して支持を集める運動"
+      ],
+      "source": {
+        "title": "U.S. Department of Justice: Assistant Attorney General Matthew Olsen Delivers Remarks on Countering Nation-State Threats",
+        "url": "https://www.justice.gov/opa/speech/assistant-attorney-general-matthew-olsen-delivers-remarks-countering-nation-state-threats"
+      }
+    },
+    "sources": [
+      {
+        "title": "FBI: The China Threat",
+        "url": "https://www.fbi.gov/chinathreat/",
+        "type": "government"
+      },
+      {
+        "title": "FBI: Transnational Repression",
+        "url": "https://www.fbi.gov/investigate/counterintelligence/transnational-repression",
+        "type": "government"
+      },
+      {
+        "title": "U.S. Department of Justice: Assistant Attorney General Matthew Olsen Delivers Remarks on Countering Nation-State Threats",
+        "url": "https://www.justice.gov/opa/speech/assistant-attorney-general-matthew-olsen-delivers-remarks-countering-nation-state-threats",
+        "type": "government"
+      },
+      {
+        "title": "U.S. Department of Justice: Two Arrested for Operating Illegal Overseas Police Station of the Chinese Government",
+        "url": "https://www.justice.gov/opa/pr/two-arrested-operating-illegal-overseas-police-station-chinese-government",
+        "type": "government"
+      },
+      {
+        "title": "内閣官房: 外国による偽情報等に関するポータルサイト",
+        "url": "https://www.cas.go.jp/jp/seisaku/nisejouhou_portal/index.html",
+        "type": "government"
+      },
+      {
+        "title": "Committee of 100 and University of Arizona: Racial Profiling Among Scientists of Chinese Descent and Consequences for the U.S. Scientific Community",
+        "url": "https://www.committee100.org/initiatives/racial-profiling-among-scientists-of-chinese-descent-and-consequences-for-the-us-scientific-community/",
+        "type": "other"
+      }
+    ],
+    "created_at": "2026-05-05",
+    "updated_at": "2026-05-05",
+    "tags": [
+      "中国共産党",
+      "CCP",
+      "中国政府",
+      "スパイ",
+      "工作員",
+      "外国影響工作",
+      "越境弾圧",
+      "経済スパイ",
+      "中国脅威論",
+      "反中",
+      "反共",
+      "レッテル貼り",
+      "陰謀論",
+      "安全保障"
+    ]
+  },
+  {
+    "id": "sanseito-deep-state-belief-claim",
+    "title": "参政党はディープステートを信じる政党である",
+    "category": "conspiracy",
+    "claim": "参政党は、政財界、メディア、医療界、農業界、官僚組織などを秘密裏に動かす『ディープステート（影の政府）』が存在すると党として信じ、その陰謀に立ち向かうことを政治活動の中心にしている。",
+    "verdict": "partially_true",
+    "confidence": "medium",
+    "risk_level": "medium",
+    "summary": "参政党代表の神谷宗幣氏がディープステートという語を肯定的に用い、党の政治的チャンスとして語ったと報じられているため、党幹部の重要な発信にその陰謀論的枠組みが含まれるのは事実に近い。一方で、公式綱領や政策ページに『ディープステート信仰』が明文化されているわけではなく、党員全体の信念や党の中心教義と断定するには根拠が足りない。",
+    "explanation": "朝日新聞は2025年7月、神谷宗幣代表が自身のYouTube系チャンネルで、トランプ支持者の間で広がった『ディープステート（影の政府）』という語を取り上げ、参政党はこれまでも言ってきた、各分野にディープステートがいる、という趣旨の発言をしたと報じた。動画の存在自体は動画情報サイトでも確認でき、公開日は2025年5月30日とされている。PRESIDENT Onlineのインタビューでも、陰謀論政治研究者が、参政党の伸長をトランプ型の陰謀論政治との連続性で論じている。一方、参政党の公式サイトに掲載される綱領や政策では、『日本の舵取りに外国勢力が関与できない体制づくり』『過度なグローバリズムへの対抗』『外国勢力によるスパイ行為への対応』などの表現はあるが、少なくとも公式政策の見出しや基本文書で『ディープステート』を党の教義として掲げていることは確認できない。したがって、検証可能なのは『代表や周辺発信がディープステート論を政治的に用いている』という範囲であり、『参政党全体が信仰している』『政治活動の中心がそれだけである』という言い方は過剰である。",
+    "why_it_spreads": [
+      "代表の発言と党公式の立場が同一視されやすい",
+      "参政党が既存政党、メディア、医療、グローバリズムへの不信を強く打ち出すため、ディープステート論と接続して見えやすい",
+      "『信仰』という表現は政治的批判として強く、支持者と批判者の双方に拡散されやすい",
+      "ディープステートという語は定義が曖昧で、既得権益批判から世界支配陰謀論まで幅広く使われる",
+      "短い切り抜きやSNS投稿では、発言者、党公式政策、支持者コミュニティの区別が失われやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "代表や周辺チャンネルの発言を、党員全体の信仰や公式教義として扱う",
+          "既得権益批判や外国勢力対策と、秘密政府による全体支配の主張を同一視する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "一部発言だけで党の全政策や全構成員の信念を断定する",
+          "公式綱領、政策文書、選挙公約、代表発言、支持者投稿の証拠の重みを区別しない"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "メディア、医療界、農業界、官僚組織など複数分野の問題を、秘密の単一勢力で説明する",
+          "反論や未記載を、意図的に隠している証拠として解釈する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "批判に都合のよい切り抜きだけを採用し、公式政策や文脈を確認しない",
+          "支持に都合のよい言い換えだけを採用し、陰謀論的な言葉遣いの影響を軽視する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "参政党と陰謀論的言説の関係は、2022年参院選前後から反ワクチン、反グローバリズム、メディア不信などの文脈で論じられてきた。ディープステートに関しては、2025年5月公開の神谷宗幣氏の動画と、同年7月の参院選報道で広く可視化された。",
+      "spread_period": "2025年参院選期に、参政党の支持拡大、外国人政策、反ワクチン・反グローバリズム批判、トランプ型政治との比較をめぐる報道やSNS論争の中で拡散した。2026年にも関連書籍や政治評論で継続的に言及されている。",
+      "spread_scope": "日本語圏の政治ニュース、参院選報道、反参政党系・支持者系SNS、陰謀論ウォッチ、保守・反グローバリズム系コミュニティで流通している。",
+      "note": "この項目は、参政党への政策批判や代表発言の検証を妨げるものではない。対象は、『ディープステートを信仰』という強い要約が、代表発言、党公式方針、党員全体の信念をどこまで正確に表すかである。",
+      "spreaders": [
+        "参政党批判系のSNSアカウント、政治系ブログ、ニュース解説",
+        "参政党支持者や反グローバリズム系発信の一部",
+        "参院選期の政党分析・陰謀論政治分析記事"
+      ],
+      "beneficiaries": [
+        "刺激的な政党ラベルで注目や広告収益を得る政治系発信者",
+        "参政党を陰謀論政党として批判したい政治的アクター",
+        "ディープステート対既存権力という物語で支持を固めたい発信者"
+      ],
+      "source": {
+        "title": "朝日新聞: 結党5年の参政党とは 秘密裏に社会動かす『影の政府』、代表が主張",
+        "url": "https://www.asahi.com/articles/AST7H1CH9T7HUTIL008M.html"
+      }
+    },
+    "sources": [
+      {
+        "title": "朝日新聞: 結党5年の参政党とは 秘密裏に社会動かす『影の政府』、代表が主張",
+        "url": "https://www.asahi.com/articles/AST7H1CH9T7HUTIL008M.html",
+        "type": "article"
+      },
+      {
+        "title": "参政党: 綱領・規約",
+        "url": "https://sanseito.jp/about/",
+        "type": "other"
+      },
+      {
+        "title": "参政党: 参政党の政策",
+        "url": "https://sanseito.jp/political_measures/",
+        "type": "other"
+      },
+      {
+        "title": "PRESIDENT Online: 参政党の躍進は『日本の宿命』である",
+        "url": "https://president.jp/articles/-/98559",
+        "type": "article"
+      },
+      {
+        "title": "Britannica: Conspiracy theory",
+        "url": "https://www.britannica.com/topic/conspiracy-theory",
+        "type": "article"
+      },
+      {
+        "title": "YouTubeランキング: 世界はもう変わり始めている 支配層たちの陰謀の終焉｜山口敬之",
+        "url": "https://yutura.net/channel/7769/video/OJ_2Mz5Y_1M/?n=1",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-05",
+    "updated_at": "2026-05-05",
+    "tags": [
+      "参政党",
+      "神谷宗幣",
+      "ディープステート",
+      "DS",
+      "影の政府",
+      "陰謀論政治",
+      "反グローバリズム",
+      "既得権益",
+      "メディア不信",
+      "医療不信",
+      "参院選",
+      "政党批判",
+      "切り抜き"
+    ]
   }
 ]
