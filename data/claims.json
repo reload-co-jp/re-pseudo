@@ -9921,5 +9921,254 @@
       "反証可能性",
       "陰謀論"
     ]
+  },
+  {
+    "id": "jfk-assassination-government-conspiracy-claim",
+    "title": "ケネディ暗殺は政府やディープステートの陰謀である",
+    "category": "conspiracy",
+    "claim": "1963年11月22日のジョン・F・ケネディ大統領暗殺は、リー・ハーヴェイ・オズワルドの単独犯ではなく、CIA、FBI、軍産複合体、マフィア、反カストロ勢力、ジョンソン政権、またはディープステートが関与した組織的陰謀であり、政府は真相を隠蔽している。",
+    "verdict": "insufficient_evidence",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "ケネディ暗殺には未解消の疑問、捜査上の失敗、記録公開の遅れがあり、陰謀説が残り続けている。ただし、特定組織の関与や『政府が暗殺した』という断定を支える決定的証拠は確認されていない。",
+    "explanation": "ウォーレン委員会は1964年、リー・ハーヴェイ・オズワルドが教科書倉庫から発砲し、ケネディ大統領を殺害したと結論づけ、オズワルドやジャック・ルビーが国内外の陰謀に加わっていた証拠は見つからなかったとした。FBIも、約25,000件の聴取と多数の捜査線を調べた結果、オズワルド単独犯と説明している。一方、1979年の下院暗殺調査特別委員会（HSCA）は、音響証拠を根拠に2人の銃撃犯がいた高い可能性を認め、ケネディはおそらく陰謀の結果として暗殺されたと述べた。ただし同委員会は、他の銃撃犯や陰謀の範囲を特定できず、ソ連政府、キューバ政府、反カストロ・キューバ人団体、全国犯罪組織、シークレットサービス、FBI、CIAが組織として関与したとは結論していない。その後、全米研究評議会の音響証拠再検討は、銃声とされた音は暗殺後約1分に記録されたもので、草地の丘からの銃撃や第2の銃撃犯を支持する信頼できる音響データではないと結論した。1988年には司法省も、既知の捜査線を追ったうえで、ケネディ暗殺陰謀説を支持する説得的証拠は特定できないとされた。2025年から2026年にかけて国立公文書館は多数のJFK暗殺関連記録を追加公開しており、CIAやFBIの情報共有失敗、オズワルド監視、冷戦期の作戦文脈を調べる余地は残る。しかし、記録公開の遅れや不備は『暗殺実行への関与』の証明ではなく、現時点では政府・ディープステート主導の暗殺説は根拠不十分である。",
+    "why_it_spreads": [
+      "現職大統領暗殺という重大事件に対して、単独犯説明が心理的に釣り合わないと感じられやすい",
+      "オズワルドが裁判前に殺害され、本人尋問と公開裁判による検証が失われた",
+      "ウォーレン委員会、FBI、CIA、シークレットサービスへの不信と、実際の情報共有失敗が混ざりやすい",
+      "HSCAの『おそらく陰謀』という結論だけが切り取られ、後の音響証拠再評価や限定的な結論が省かれやすい",
+      "未公開・黒塗り文書の存在が、隠蔽と暗殺関与を同一視する物語を強化した",
+      "映画、書籍、テレビ特番、SNSが、複数犯・草地の丘・CIA関与などを反復して大衆文化化した"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "記録公開の遅れや機密指定を、暗殺実行への関与の証拠として扱う",
+          "証拠が出ないことを、より高度な隠蔽の証拠として解釈する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "HSCAの『おそらく陰謀』だけを採用し、銃撃犯や組織を特定できなかった点を省く",
+          "証言の食い違い、記憶違い、捜査ミスを、特定組織の犯行証拠として積み上げる"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "CIA、FBI、マフィア、キューバ関連勢力が当時存在した利害や接点を、暗殺実行の因果関係とみなす",
+          "ジョンソン政権や軍産複合体が政治的に利益を得たという推測を、計画の証拠に置き換える"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "都合のよい写真、弾道解釈、証言だけを集め、矛盾する鑑定や再検討を軽視する",
+          "新規公開文書の断片的な記述を、文脈確認なしに陰謀説へ接続する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "公的調査の欠点を理由に、法医学、弾道、音響再検討の全体を無効扱いする",
+          "調査機関への不信を、全ての結論が操作されたという前提へ拡大する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "1963年11月の暗殺直後から、オズワルドが真犯人を隠すために殺された、複数犯がいた、政府や外国勢力が関与したという憶測が広がった。1964年のウォーレン報告後も、報告への批判本や雑誌記事が陰謀説を拡散した。",
+      "spread_period": "1960年代後半以降、ウォーレン報告批判、1970年代の政府不信とHSCA調査、1991年の映画『JFK』、1992年JFK記録法、2017年以降の文書公開、2025年から2026年の追加公開で周期的に再燃している。",
+      "spread_scope": "米国を中心に、英語圏、日本語圏の政治陰謀論、歴史ミステリー、映画・テレビ、YouTube、SNS、反政府系コミュニティで広く流通している。",
+      "note": "この項目は、ウォーレン委員会や情報機関の失敗、未公開記録への調査要求、歴史研究の必要性を否定しない。対象は、未解明点や文書公開の遅れを根拠に、CIA、FBI、軍、マフィア、ディープステートなどの暗殺関与を断定する主張である。",
+      "spreaders": [
+        "ウォーレン報告批判本、ドキュメンタリー、映画、テレビ特番",
+        "JFK暗殺研究コミュニティ、歴史ミステリー系メディア、SNS投稿",
+        "反政府・反情報機関・ディープステート系陰謀論コミュニティ"
+      ],
+      "beneficiaries": [
+        "JFK暗殺陰謀論を扱う書籍、動画、配信、講座、有料コミュニティの一部",
+        "挑発的な見出しで注目や広告収益を得るメディアや発信者",
+        "反政府・反情報機関メッセージを拡散したい政治的発信者"
+      ],
+      "source": {
+        "title": "National Archives: House Select Committee on Assassinations Report",
+        "url": "https://www.archives.gov/research/jfk/select-committee-report"
+      }
+    },
+    "sources": [
+      {
+        "title": "National Archives: Warren Commission Report, Chapter 1",
+        "url": "https://www.archives.gov/research/jfk/warren-commission-report/chapter-1",
+        "type": "government"
+      },
+      {
+        "title": "FBI: JFK Assassination",
+        "url": "https://www.fbi.gov/history/famous-cases/jfk-assassination",
+        "type": "government"
+      },
+      {
+        "title": "National Archives: House Select Committee on Assassinations Report",
+        "url": "https://www.archives.gov/research/jfk/select-committee-report",
+        "type": "government"
+      },
+      {
+        "title": "National Research Council: Report of the Committee on Ballistic Acoustics",
+        "url": "https://nap.nationalacademies.org/catalog/10264/report-of-the-committee-on-ballistic-acoustics",
+        "type": "paper"
+      },
+      {
+        "title": "National Archives: JFK Assassination Records - 2025 Documents Release",
+        "url": "https://www.archives.gov/research/jfk/release-2025",
+        "type": "government"
+      },
+      {
+        "title": "National Archives: The President John F. Kennedy Assassination Records Collection",
+        "url": "https://www.archives.gov/research/jfk/",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-05",
+    "updated_at": "2026-05-05",
+    "tags": [
+      "ケネディ暗殺",
+      "JFK暗殺",
+      "ジョン・F・ケネディ",
+      "リー・ハーヴェイ・オズワルド",
+      "ウォーレン委員会",
+      "HSCA",
+      "CIA",
+      "FBI",
+      "ディープステート",
+      "マフィア",
+      "軍産複合体",
+      "草地の丘",
+      "複数犯説",
+      "音響証拠",
+      "公文書公開",
+      "反政府陰謀論"
+    ]
+  },
+  {
+    "id": "crystal-skulls-ancient-mystic-artifact-claim",
+    "title": "クリスタル・スカルは古代文明の超常的遺物である",
+    "category": "conspiracy",
+    "claim": "クリスタル・スカルは古代マヤ、アステカ、アトランティス、または宇宙人が作った水晶製の頭蓋骨であり、現代技術でも再現困難な加工、予言、治癒、情報記録、霊的エネルギーなどの超常的な力を持つ。",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "有名なクリスタル・スカルは、考古学的発掘で出土した先コロンブス期遺物として認証されていない。科学分析では近現代の工具・研磨痕が確認され、古代超技術や超常能力を示す証拠もない。",
+    "explanation": "スミソニアン協会は、科学調査されたクリスタル・スカルの標本に先コロンブス期の起源を証明する証拠はなく、どれも考古学的発掘で出土したものではないと説明している。2008年のJournal of Archaeological Science論文は、大英博物館の透明水晶髑髏とスミソニアンの白水晶髑髏を、走査電子顕微鏡による工具痕、ラマン分光、X線回折、含有物などで分析した。大英博物館標本には回転式工具による加工痕があり、19世紀ヨーロッパ製と結論された。スミソニアン標本は、第二次世界大戦後の研磨技術を示し、1960年にメキシコで購入される直前に作られた可能性が高いとされた。スミソニアンの収蔵記録も、この標本をアステカ由来ではなく近現代の作例として扱っている。National Geographicも、電子顕微鏡分析で近現代の彫刻工具痕が確認され、公式発掘から出土した有名標本はないと整理している。メソアメリカ美術に頭蓋骨モチーフは多いが、それは水晶髑髏が古代マヤやアステカの超常的装置である証拠にはならない。予言、治癒、情報記録、エネルギー放射などの主張も、再現可能な測定や考古学的文脈に支えられていない。",
+    "why_it_spreads": [
+      "透明な水晶と頭蓋骨という強い視覚性が、古代の秘密や霊的力の印象を作りやすい",
+      "マヤ、アステカ、アトランティス、宇宙人という既存のオカルト物語と接続しやすい",
+      "発掘由来が不明なことが、偽物の根拠ではなく失われた真実の証拠として語られやすい",
+      "映画、テレビ番組、博物館展示、土産物市場で反復され、大衆文化として定着した",
+      "水晶のヒーリング商品やスピリチュアル市場で、神秘性が付加価値になりやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "出土記録や来歴がない標本を、古代由来の可能性が残る証拠として扱う",
+          "博物館に収蔵されたことを、真正な古代遺物として認定されたことと混同する"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "水晶の透明感や硬さから、特別なエネルギーや情報記録能力を直感する",
+          "精巧に見える加工を、古代人には不可能だから超技術だと早合点する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "一部標本の来歴不明を、古代文明や宇宙人起源の余地として拡大する",
+          "無機物は年代測定が難しいという制約を、超常的起源を否定できない根拠にする"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "考古学者が真正性を認めないことを、古代超文明を隠すための否定とみなす",
+          "研究結果よりも、失われた文明や封印された知識という物語を優先する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "クリスタル・スカルは19世紀後半の欧米骨董市場と博物館収集ブームの中で、古代メキシコや先コロンブス期の遺物として売買・収蔵され始めた。大英博物館の標本は1897年にTiffanyから購入され、後に近代作とみなされるようになった。",
+      "spread_period": "20世紀にはMitchell-Hedges skullの物語、失われた文明、アトランティス、宇宙人、ニューエイジ思想と結びついた。2008年の映画『インディ・ジョーンズ/クリスタル・スカルの王国』と関連番組で再流行し、以後もスピリチュアル商品、動画、オカルト解説で流通している。",
+      "spread_scope": "英語圏、日本語圏を含むオカルト、古代文明、古代宇宙飛行士説、ニューエイジ、水晶ヒーリング、映画・ゲーム解説、博物館ミステリー文脈で広い。",
+      "note": "この項目は、水晶彫刻の美術的価値、頭蓋骨モチーフを含むメソアメリカ文化、近現代工芸品としての関心を否定しない。対象は、有名クリスタル・スカルを古代超文明の遺物や超常的装置と断定する主張である。",
+      "spreaders": [
+        "オカルト本、テレビ番組、映画、動画、SNS投稿",
+        "古代宇宙飛行士説、アトランティス、ニューエイジ系コミュニティ",
+        "水晶・ヒーリング・スピリチュアル商品を扱う一部販売者"
+      ],
+      "beneficiaries": [
+        "クリスタル・スカル関連の書籍、動画、講座、有料コミュニティの一部",
+        "水晶髑髏や関連アクセサリー、ヒーリング商品を販売する事業者の一部",
+        "神秘的な見出しで注目や広告収益を得るメディアや発信者"
+      ],
+      "source": {
+        "title": "Smithsonian Institution: Mysterious Crystal Skull on Exhibit for the First Time at Smithsonian’s National Museum of Natural History",
+        "url": "https://www.si.edu/newsdesk/releases/mysterious-crystal-skull-exhibit-first-time-smithsonian-s-national-museum-natural-history"
+      }
+    },
+    "sources": [
+      {
+        "title": "Smithsonian Institution: Mysterious Crystal Skull on Exhibit for the First Time at Smithsonian’s National Museum of Natural History",
+        "url": "https://www.si.edu/newsdesk/releases/mysterious-crystal-skull-exhibit-first-time-smithsonian-s-national-museum-natural-history",
+        "type": "other"
+      },
+      {
+        "title": "Smithsonian Institution: Skull, carved rock crystal",
+        "url": "https://www.si.edu/object/nmnhanthropology_8552155",
+        "type": "other"
+      },
+      {
+        "title": "Sax et al. 2008: The origins of two purportedly pre-Columbian Mexican crystal skulls",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0305440308001052",
+        "type": "paper"
+      },
+      {
+        "title": "Smithsonian Research: The origins of two purportedly pre-Columbian Mexican crystal skulls",
+        "url": "https://research.si.edu/publication-details/?id=74068",
+        "type": "paper"
+      },
+      {
+        "title": "Archaeology Magazine: Legend of the Crystal Skulls",
+        "url": "https://archive.archaeology.org/0805/etc/indy.html",
+        "type": "article"
+      },
+      {
+        "title": "National Geographic: Crystal Skulls",
+        "url": "https://www.nationalgeographic.com/history/article/crystal-skulls",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-05",
+    "updated_at": "2026-05-05",
+    "tags": [
+      "クリスタル・スカル",
+      "水晶髑髏",
+      "水晶どくろ",
+      "古代文明",
+      "マヤ",
+      "アステカ",
+      "アトランティス",
+      "古代宇宙飛行士説",
+      "宇宙人",
+      "オーパーツ",
+      "OOPArts",
+      "ニューエイジ",
+      "ヒーリング",
+      "水晶",
+      "博物館",
+      "偽造品",
+      "インディ・ジョーンズ"
+    ]
   }
 ]
