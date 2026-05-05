@@ -168,26 +168,6 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 よくある誤謬
               </Link>
               <Link
-                href="/diet/"
-                style={{
-                  color: "#a0aec0",
-                  fontSize: ".875rem",
-                  textDecoration: "none",
-                }}
-              >
-                ダイエット関連
-              </Link>
-              <Link
-                href="/anti-government-conspiracy/"
-                style={{
-                  color: "#a0aec0",
-                  fontSize: ".875rem",
-                  textDecoration: "none",
-                }}
-              >
-                反政府陰謀論
-              </Link>
-              <Link
                 href="/criteria/"
                 style={{
                   color: "#a0aec0",
@@ -237,14 +217,41 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
           }}
         >
           <div
-            style={{ color: "#718096", margin: "0 auto", maxWidth: "900px" }}
+            style={{
+              color: "#718096",
+              margin: "0 auto",
+              maxWidth: "900px",
+              display: "flex",
+              flexDirection: "column",
+              gap: ".25rem",
+            }}
           >
-            <p style={{ margin: 0 }}>
+            <p>
               &copy; Re pseudo —
               情報の信頼性を判断するための材料提供を目的としています。
             </p>
-            <p style={{ margin: ".25rem 0 0" }}>
-              運営:{" "}
+            <div style={{ display: "flex", gap: ".5rem" }}>
+              <Link
+                href="/diet/"
+                style={{
+                  color: "#718096",
+                  textDecoration: "none",
+                }}
+              >
+                ダイエット関連
+              </Link>
+              <Link
+                href="/anti-government-conspiracy/"
+                style={{
+                  color: "#718096",
+                  textDecoration: "none",
+                }}
+              >
+                反政府陰謀論
+              </Link>
+            </div>
+            <p>
+              運営:&nbsp;
               <a
                 href="https://reload.co.jp"
                 rel="noopener noreferrer"
