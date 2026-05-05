@@ -10170,5 +10170,260 @@
       "偽造品",
       "インディ・ジョーンズ"
     ]
+  },
+  {
+    "id": "panama-papers-prove-all-names-criminal-claim",
+    "title": "パナマ文書に名前がある人は全員犯罪者である",
+    "category": "finance",
+    "claim": "パナマ文書やICIJのOffshore Leaks Databaseに名前が出た個人・企業は、全員が脱税、資金洗浄、汚職などの犯罪者である。政府やメディアは全名簿を隠しており、名前の有無だけで不正や世界的支配構造を断定できる。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "パナマ文書はオフショア金融の秘匿性と犯罪利用を明らかにした重大調査だが、名前掲載だけで違法行為は断定できない。オフショア会社には合法利用もあり、本人確認、時期、役割、取引内容、各国法の検証が必要である。",
+    "explanation": "ICIJはパナマ文書を、Mossack Fonsecaから流出した1150万件超の金融・法務記録にもとづく調査と説明している。文書は犯罪、汚職、脱税、制裁逃れなどを可能にする秘匿的オフショア構造を明らかにし、各国の捜査、税務追徴、透明性改革につながった。一方でICIJのOffshore Leaks Databaseは、掲載された個人や法人が違法または不適切な行為をしたことを示唆しないと明記している。オフショア会社や信託には、国際取引、相続、資産保有、共同投資など合法目的もあり、問題は匿名性が犯罪や租税回避にも使われる点である。ICIJ自身も、公開データは流出資料の一部で、銀行口座、メール、金融取引の全内容を公開しておらず、同姓同名や重複、データ時点の制約があるため、住所や識別情報で本人確認するよう注意している。OECDの税透明性レビューや各国税務当局の制度も、海外口座・オフショア資産を一律違法とはせず、申告義務、実質的所有者、取引目的、所得の申告状況を問題にする。したがって、パナマ文書が示した構造的問題は実在するが、『名前がある＝犯罪者』『リストだけで全て判明』『報道されない名前は隠蔽』という断定は誤解を招く。",
+    "why_it_spreads": [
+      "富裕層や政治家だけが秘密の仕組みで得をしているという不公平感に直結する",
+      "実際に汚職、脱税、資金洗浄に関わる事例が含まれたため、全掲載者にも疑いが広がりやすい",
+      "巨大リーク、黒塗り、未公開文書、タックスヘイブンという語が陰謀論的物語と結びつきやすい",
+      "データベース検索で同姓同名や類似名が見つかると、本人確認なしに告発へ進みやすい",
+      "オフショア会社、信託、実質的所有者、 nominee などの仕組みが複雑で、単純な悪人リストとして理解されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "データベース掲載を、違法行為の証拠と同一視する",
+          "同姓同名、住所、時期、役割、取引内容を確認せず個人や企業を断定する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "オフショア金融が犯罪に悪用されるという事実を、オフショア利用は全て犯罪という主張に置き換える",
+          "税制や透明性制度の問題を、個別掲載者全員の犯罪性にすり替える"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "報道されない名前や未公開資料の存在を、政府やメディアが特定人物を守っている証拠とみなす",
+          "複雑な金融ネットワークを、単一の世界支配組織の証拠として読む"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "ICIJの免責説明や合法利用への注意を無視し、刺激的な名前だけを共有する",
+          "不正が確認された事例だけを集め、合法・未確認・別人の可能性を省く"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "公開データが全資料ではないことを、隠された犯罪リストが必ずあるという根拠にする",
+          "所有関係が不透明なことを、ただちに資金洗浄や脱税の証明として扱う"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2016年4月3日にICIJと提携報道機関がパナマ文書調査を公開し、同年5月にOffshore Leaks Databaseへパナマ文書由来のオフショア会社データが追加された。公開直後から、名前掲載を犯罪認定と誤解する投稿や、報道されない人物名をめぐる隠蔽説が広がった。",
+      "spread_period": "2016年の初報とデータベース公開時に大きく拡散し、その後もParadise Papers、Pandora Papers、各国税務調査、政治家や著名人の名前が報じられるたびに再流通している。2020年代もSNSや動画で、富裕層・政治家・メディア不信の文脈で引用される。",
+      "spread_scope": "英語圏、日本語圏を含む税制批判、反富裕層、反政治家、反グローバリズム、金融陰謀論、SNS告発系コンテンツで広く流通している。",
+      "note": "この項目は、パナマ文書の公益性、租税回避・資金洗浄・汚職の調査、実質的所有者透明化の必要性を否定しない。対象は、掲載名だけで犯罪や陰謀関与を断定する主張である。",
+      "spreaders": [
+        "SNS上の告発投稿、まとめサイト、動画、金融陰謀論コミュニティ",
+        "反富裕層・反政治家・反グローバリズム系発信の一部",
+        "Offshore Leaks Databaseの検索結果を文脈なしに共有する投稿"
+      ],
+      "beneficiaries": [
+        "刺激的な告発見出しで注目や広告収益を得るメディアや発信者",
+        "富裕層・政治家・国際金融への不信を動員する政治的発信者",
+        "陰謀論的な金融解説、動画、講座、有料コミュニティの一部"
+      ],
+      "source": {
+        "title": "ICIJ: Frequently asked questions about ICIJ and the Panama Papers",
+        "url": "https://www.icij.org/investigations/panama-papers/faqs/"
+      }
+    },
+    "sources": [
+      {
+        "title": "ICIJ: Frequently asked questions about ICIJ and the Panama Papers",
+        "url": "https://www.icij.org/investigations/panama-papers/faqs/",
+        "type": "article"
+      },
+      {
+        "title": "ICIJ Offshore Leaks Database: Disclaimer",
+        "url": "https://offshoreleaks.icij.org/pages/disclaimer",
+        "type": "article"
+      },
+      {
+        "title": "ICIJ Offshore Leaks Database: FAQ",
+        "url": "https://offshoreleaks.icij.org/pages/faq",
+        "type": "article"
+      },
+      {
+        "title": "ICIJ: ICIJ releases Panama Papers offshore company data",
+        "url": "https://www.icij.org/blog/2016/05/icij-releases-panama-papers-offshore-company-data/",
+        "type": "article"
+      },
+      {
+        "title": "OECD: Global Forum on Transparency and Exchange of Information for Tax Purposes Peer Reviews: Panama 2016",
+        "url": "https://www.oecd.org/en/publications/global-forum-on-transparency-and-exchange-of-information-for-tax-purposes-peer-reviews-panama-2016_9789264266162-en.html",
+        "type": "government"
+      },
+      {
+        "title": "IRS Internal Revenue Manual: Offshore Voluntary Disclosure Program",
+        "url": "https://www.irs.gov/irm/part4/irm_04-063-003r",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-05",
+    "updated_at": "2026-05-05",
+    "tags": [
+      "パナマ文書",
+      "Panama Papers",
+      "Offshore Leaks",
+      "ICIJ",
+      "Mossack Fonseca",
+      "オフショア会社",
+      "タックスヘイブン",
+      "租税回避",
+      "脱税",
+      "資金洗浄",
+      "実質的所有者",
+      "シェルカンパニー",
+      "国際金融",
+      "富裕層",
+      "政治家",
+      "金融陰謀論"
+    ]
+  },
+  {
+    "id": "tiktok-secretly-steals-all-user-data-claim",
+    "title": "TikTokは利用者の情報を秘密裏に抜いている",
+    "category": "technology",
+    "claim": "TikTokは通常のSNSより危険で、利用者に知らせず連絡先、位置情報、閲覧履歴、入力内容、写真、音声、端末内データを抜き取り、中国政府や中国共産党へ全て送っている。アプリを入れるだけでスマートフォン全体が監視される。",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "TikTokが広範な個人情報、端末情報、行動データを収集することは事実で、子どものプライバシー違反疑惑や社員による記者データ不正アクセスも確認・報道されている。ただし、端末内の全情報を盗む、常時盗聴する、全データを中国政府へ直送するという断定は証拠で支えられていない。",
+    "explanation": "TikTokのプライバシーポリシーは、アカウント情報、投稿・下書き・アップロード時のコンテンツ、IPアドレスやSIM地域などから推定する位置情報、端末・ネットワーク情報、アプリ内行動、動画や音声内の特徴、連絡先や位置情報などユーザーが許可した情報を収集しうると説明している。TikTokのサポートも、地域や年齢、端末設定により、位置情報サービスの許可がある場合は端末由来の位置情報、許可がない場合もIPアドレスやSIM地域などから大まかな位置を推定することがあると説明している。Consumer Reportsは、TikTokピクセルが外部サイト上の閲覧、クリック、検索、IPアドレス、固有IDなどを送信し、TikTok利用者以外にも追跡が及ぶ場合があると報告した。米FTCと司法省は2024年、TikTokとByteDanceがCOPPAと2019年同意命令に違反し、13歳未満の子どもの個人情報を親の同意なしに収集・利用したとして民事訴訟を起こした。2022年にはByteDance社員が、社内情報漏えい調査のために記者2人のTikTok利用データやIPアドレスへ不適切にアクセスしたとReutersが報じ、ByteDance側も関係者を解雇したと報じられた。一方、Citizen Labの2021年分析は、調査時点のTikTokにマルウェアのような明白な悪意ある挙動は見つからなかったとし、TikTokのデータ収集は主流SNSと同程度の範囲に収まると評価した。米最高裁は2025年、TikTokの規模、データ収集、ByteDanceとの関係を理由に米国の国家安全保障上の懸念は十分支えられていると述べたが、これは『全利用者の全データが中国政府へ渡っている』という直接証明ではない。したがって、TikTokのプライバシーリスクと規制上の懸念は現実的に扱うべきだが、スマホ全体の盗聴・全情報窃取・中国政府への全量送信を断定する表現は誤解を招く。",
+    "why_it_spreads": [
+      "TikTokが実際に大量の行動データを集めるため、過剰な監視説にも現実味が出やすい",
+      "ByteDanceが中国企業であり、中国政府の企業統制や国家安全保障への不安と結びつきやすい",
+      "2022年の記者データ不正アクセス、子どものプライバシー訴訟、米国の売却・禁止法制が疑念を強化する",
+      "アプリ権限、広告トラッカー、ピクセル、端末識別子の仕組みが見えにくく、秘密の抜き取りに見えやすい",
+      "他のSNSも似た追跡をするという比較が省かれ、TikTokだけが特殊なスパイアプリだと単純化される"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "広範な広告・推薦用データ収集を、端末内全情報の窃取と同一視する",
+          "国家安全保障上の懸念を、個々の利用者が常時盗聴されている証拠へ置き換える"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "実際の不正アクセス事例を、全利用者への恒常的な中国政府監視の証明として一般化する",
+          "アプリ権限やプライバシーポリシーの文言を、実際に全データを取得している証拠として読む"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "中国企業であることを理由に、全てのデータが中国共産党へ自動的に送られていると推定する",
+          "検証でマルウェア挙動が確認されないことを、検出できない高度なスパイ機能の証拠とみなす"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "TikTokに不利な事例だけを集め、他SNSの広告追跡やデータ収集との比較を省く",
+          "政府の規制理由だけを引用し、技術分析や反証的な調査結果を軽視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "中国政府アクセスの可能性や法的リスクを、実際の全量送信が確認されたことと混同する",
+          "非公開の企業内部システムがあることを、任意の監視機能が存在する根拠にする"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "TikTokのデータ収集や中国政府アクセスへの懸念は、TikTokが米国などで急成長した2019年から2020年頃に、政府機関の審査、軍・公務端末での利用制限、ニュース報道とともに広がった。",
+      "spread_period": "2020年の米国での禁止・売却論、2022年のByteDance社員による記者データ不正アクセス報道、2023年から2024年の各国公務端末制限、2024年の米国売却・禁止法、2025年の米最高裁判断、2024年以降の子どものプライバシー訴訟で繰り返し再燃している。",
+      "spread_scope": "米国、日本、欧州、インドなどの安全保障、子どものプライバシー、SNS規制、中国脅威論、反中・反ビッグテック系コミュニティで広く流通している。",
+      "note": "この項目は、TikTokのデータ最小化、子どもの保護、透明性、第三国アクセス、広告トラッキング規制、政府端末での制限を否定しない。対象は、確認済みのデータ収集リスクを超えて、端末内全情報の窃取や中国政府への全量送信を断定する主張である。",
+      "spreaders": [
+        "SNS上の注意喚起投稿、セキュリティ系動画、まとめサイト",
+        "反中・国家安全保障・反ビッグテック系発信の一部",
+        "政府端末禁止や売却・禁止法制を扱う政治系メディア"
+      ],
+      "beneficiaries": [
+        "TikTok危険論を扱う動画、講座、セキュリティ商品、VPN・プライバシーツール販売の一部",
+        "反中・反SNS規制・親規制の政治的メッセージを拡散したい発信者",
+        "競合SNSや広告プラットフォームの一部"
+      ],
+      "source": {
+        "title": "TikTok Privacy Policy",
+        "url": "https://t.tiktok.com/legal/page/us/privacy-policy/en?lang=en"
+      }
+    },
+    "sources": [
+      {
+        "title": "TikTok Privacy Policy",
+        "url": "https://t.tiktok.com/legal/page/us/privacy-policy/en?lang=en",
+        "type": "other"
+      },
+      {
+        "title": "TikTok Support: Location information on TikTok",
+        "url": "https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/location-services-on-tiktok",
+        "type": "other"
+      },
+      {
+        "title": "Citizen Lab: TikTok vs Douyin, A Security and Privacy Analysis",
+        "url": "https://citizenlab.ca/2021/03/tiktok-vs-douyin-security-privacy-analysis/",
+        "type": "paper"
+      },
+      {
+        "title": "FTC: Investigation Leads to Lawsuit Against TikTok and ByteDance for Violating Children’s Privacy Law",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2024/08/ftc-investigation-leads-lawsuit-against-tiktok-bytedance-flagrantly-violating-childrens-privacy-law",
+        "type": "government"
+      },
+      {
+        "title": "The Guardian / Reuters: TikTok admits using its app to spy on reporters in effort to track leaks",
+        "url": "https://www.theguardian.com/technology/2022/dec/22/tiktok-bytedance-workers-fired-data-access-journalists",
+        "type": "article"
+      },
+      {
+        "title": "TikTok Inc. v. Garland, 604 U.S. ___ (2025)",
+        "url": "https://supreme.justia.com/cases/federal/us/604/24-656/",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-05",
+    "updated_at": "2026-05-05",
+    "tags": [
+      "TikTok",
+      "ByteDance",
+      "中国共産党",
+      "個人情報",
+      "プライバシー",
+      "データ収集",
+      "位置情報",
+      "端末情報",
+      "広告トラッキング",
+      "ピクセル",
+      "COPPA",
+      "子どものプライバシー",
+      "国家安全保障",
+      "スパイウェア",
+      "SNS",
+      "ビッグテック",
+      "中国脅威論"
+    ]
   }
 ]
