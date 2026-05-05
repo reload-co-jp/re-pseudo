@@ -76,15 +76,18 @@ const DietPage: FC = () => {
         type="application/ld+json"
       />
 
-      <header style={{ display: "flex", flexDirection: "column", gap: ".875rem" }}>
+      <header
+        style={{ display: "flex", flexDirection: "column", gap: ".875rem" }}
+      >
         <Breadcrumbs
-          items={[
-            { href: "/", label: "ホーム" },
-            { label: "ダイエット関連" },
-          ]}
+          items={[{ href: "/", label: "ホーム" }, { label: "ダイエット関連" }]}
         />
-        <div style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>
-          <Badge color="#f6ad55" label={`${claims.length}件`} />
+        <div
+          style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}
+        >
+          <div>
+            <Badge color="#f6ad55" label={`${claims.length}件`} />
+          </div>
           <h1 style={{ fontSize: "1.25rem", fontWeight: 700, margin: 0 }}>
             ダイエット関連の主張一覧
           </h1>
@@ -104,11 +107,14 @@ const DietPage: FC = () => {
         }}
       >
         <p style={bodyStyle}>
-          対象: ダイエット、減量、糖質制限、低糖質、断食、ファスティング、脂肪燃焼、クレンズ、カロリー、体重管理に関わる主張。
+          対象:
+          ダイエット、減量、糖質制限、低糖質、断食、ファスティング、脂肪燃焼、クレンズ、カロリー、体重管理に関わる主張。
         </p>
       </Card>
 
-      <section style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
+      <section
+        style={{ display: "flex", flexDirection: "column", gap: "1rem" }}
+      >
         {claims.map((claim) => (
           <ClaimCard claim={claim} key={claim.id} />
         ))}

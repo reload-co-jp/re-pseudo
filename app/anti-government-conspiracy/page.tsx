@@ -76,15 +76,18 @@ const AntiGovernmentConspiracyPage: FC = () => {
         type="application/ld+json"
       />
 
-      <header style={{ display: "flex", flexDirection: "column", gap: ".875rem" }}>
+      <header
+        style={{ display: "flex", flexDirection: "column", gap: ".875rem" }}
+      >
         <Breadcrumbs
-          items={[
-            { href: "/", label: "ホーム" },
-            { label: "反政府的陰謀論" },
-          ]}
+          items={[{ href: "/", label: "ホーム" }, { label: "反政府的陰謀論" }]}
         />
-        <div style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>
-          <Badge color="#f6ad55" label={`${claims.length}件`} />
+        <div
+          style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}
+        >
+          <div>
+            <Badge color="#f6ad55" label={`${claims.length}件`} />
+          </div>
           <h1 style={{ fontSize: "1.25rem", fontWeight: 700, margin: 0 }}>
             反政府的陰謀論の主張一覧
           </h1>
@@ -104,11 +107,14 @@ const AntiGovernmentConspiracyPage: FC = () => {
         }}
       >
         <p style={bodyStyle}>
-          対象: 監視、人口削減、世界政府、ディープステート、気象・地震操作、NASA隠蔽、フリーエネルギー隠蔽などの主張。
+          対象:
+          監視、人口削減、世界政府、ディープステート、気象・地震操作、NASA隠蔽、フリーエネルギー隠蔽などの主張。
         </p>
       </Card>
 
-      <section style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
+      <section
+        style={{ display: "flex", flexDirection: "column", gap: "1rem" }}
+      >
         {claims.map((claim) => (
           <ClaimCard claim={claim} key={claim.id} />
         ))}
