@@ -3,7 +3,12 @@ import Link from "next/link"
 import { FC } from "react"
 import Breadcrumbs from "components/Breadcrumbs"
 import { Badge, Card } from "components/elements/layout"
-import { formatDate, getClaims, getClaimById, getRelatedClaims } from "lib/claims"
+import {
+  formatDate,
+  getClaims,
+  getClaimById,
+  getRelatedClaims,
+} from "lib/claims"
 import {
   CATEGORY_LABEL,
   CONFIDENCE_LABEL,
@@ -204,7 +209,8 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         </h1>
         <p style={{ color: "#718096", fontSize: ".75rem" }}>
           公開: {formatDate(claim.created_at)}
-          {claim.updated_at !== claim.created_at && `更新: ${formatDate(claim.updated_at)}`}
+          {claim.updated_at !== claim.created_at &&
+            `更新: ${formatDate(claim.updated_at)}`}
         </p>
       </header>
 
@@ -226,78 +232,6 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           {claim.claim}
         </p>
       </Card>
-
-      {claim.images?.length ? (
-        <section style={sectionStyle}>
-          <h2 style={sectionTitleStyle}>関連画像</h2>
-          <div
-            style={{
-              display: "grid",
-              gap: ".75rem",
-              gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
-            }}
-          >
-            {claim.images.map((image) => (
-              <figure
-                key={image.url}
-                style={{
-                  backgroundColor: "#261b22",
-                  border: "1px solid #372630",
-                  borderRadius: "4px",
-                  margin: 0,
-                  overflow: "hidden",
-                }}
-              >
-                <img
-                  alt={image.alt}
-                  loading="lazy"
-                  src={image.url}
-                  style={{
-                    aspectRatio: "16 / 9",
-                    backgroundColor: "#1a1118",
-                    display: "block",
-                    objectFit: "cover",
-                    width: "100%",
-                  }}
-                />
-                {(image.caption || image.credit || image.source_url) && (
-                  <figcaption
-                    style={{
-                      color: "#a0aec0",
-                      display: "flex",
-                      flexDirection: "column",
-                      fontSize: ".75rem",
-                      gap: ".35rem",
-                      lineHeight: 1.6,
-                      padding: ".75rem",
-                    }}
-                  >
-                    {image.caption && <span>{image.caption}</span>}
-                    {(image.credit || image.source_url) && (
-                      <span style={{ color: "#718096" }}>
-                        {image.credit}
-                        {image.source_url && (
-                          <>
-                            {image.credit ? " / " : ""}
-                            <a
-                              href={image.source_url}
-                              rel="noopener noreferrer"
-                              style={{ color: "#63b3ed", textDecoration: "none" }}
-                              target="_blank"
-                            >
-                              出典
-                            </a>
-                          </>
-                        )}
-                      </span>
-                    )}
-                  </figcaption>
-                )}
-              </figure>
-            ))}
-          </div>
-        </section>
-      ) : null}
 
       <Card style={sectionStyle}>
         <p style={sectionTitleStyle}>判定</p>
@@ -509,6 +443,81 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           参照: {claim.circulation.source.title}
         </a>
       </Card>
+
+      {claim.images?.length ? (
+        <section style={sectionStyle}>
+          <h2 style={sectionTitleStyle}>関連画像</h2>
+          <div
+            style={{
+              display: "grid",
+              gap: ".75rem",
+              gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
+            }}
+          >
+            {claim.images.map((image) => (
+              <figure
+                key={image.url}
+                style={{
+                  backgroundColor: "#261b22",
+                  border: "1px solid #372630",
+                  borderRadius: "4px",
+                  margin: 0,
+                  overflow: "hidden",
+                }}
+              >
+                <img
+                  alt={image.alt}
+                  loading="lazy"
+                  src={image.url}
+                  style={{
+                    aspectRatio: "16 / 9",
+                    backgroundColor: "#1a1118",
+                    display: "block",
+                    objectFit: "contain",
+                    width: "100%",
+                  }}
+                />
+                {(image.caption || image.credit || image.source_url) && (
+                  <figcaption
+                    style={{
+                      color: "#a0aec0",
+                      display: "flex",
+                      flexDirection: "column",
+                      fontSize: ".75rem",
+                      gap: ".35rem",
+                      lineHeight: 1.6,
+                      padding: ".75rem",
+                    }}
+                  >
+                    {image.caption && <span>{image.caption}</span>}
+                    {(image.credit || image.source_url) && (
+                      <span style={{ color: "#718096" }}>
+                        {image.credit}
+                        {image.source_url && (
+                          <>
+                            {image.credit ? " / " : ""}
+                            <a
+                              href={image.source_url}
+                              rel="noopener noreferrer"
+                              style={{
+                                color: "#63b3ed",
+                                textDecoration: "none",
+                              }}
+                              target="_blank"
+                            >
+                              出典
+                            </a>
+                          </>
+                        )}
+                      </span>
+                    )}
+                  </figcaption>
+                )}
+              </figure>
+            ))}
+          </div>
+        </section>
+      ) : null}
 
       <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>よく使われる論法・誤謬</h2>

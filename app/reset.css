@@ -13,3 +13,13 @@
   color: #f0f0f0;
   color-scheme: dark;
 }
+
+@media (max-width: 520px) {
+  .claim-card {
+    grid-template-columns: 1fr !important;
+  }
+
+  .claim-card__image {
+    grid-row: 2;
+  }
+}
