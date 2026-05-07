@@ -8,6 +8,7 @@ export type Claim = {
   risk_level: "high" | "medium" | "low"
   summary: string
   explanation: string
+  verification_process: string[]
   why_it_spreads: string[]
   common_fallacies: {
     group: string

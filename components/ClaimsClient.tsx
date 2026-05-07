@@ -75,6 +75,7 @@ const ClaimsClient = ({ claims }: Props) => {
       c.title.toLowerCase().includes(q) ||
       c.description.toLowerCase().includes(q) ||
       c.summary.toLowerCase().includes(q) ||
+      c.verification_process.some((step) => step.toLowerCase().includes(q)) ||
       c.common_fallacies.some(
         (group) =>
           group.group.toLowerCase().includes(q) ||

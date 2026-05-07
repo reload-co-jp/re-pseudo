@@ -281,6 +281,36 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       </section>
 
       <section style={sectionStyle}>
+        <h2 style={sectionTitleStyle}>検証方法・過程</h2>
+        <ul
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            gap: ".5rem",
+            listStyle: "none",
+            padding: 0,
+          }}
+        >
+          {claim.verification_process.map((step, i) => (
+            <li
+              key={i}
+              style={{
+                alignItems: "flex-start",
+                color: "#a0aec0",
+                display: "flex",
+                fontSize: ".9375rem",
+                gap: ".5rem",
+                lineHeight: 1.6,
+              }}
+            >
+              <span style={{ color: "#718096", flexShrink: 0 }}>•</span>
+              {step}
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>拡散する理由</h2>
         <ul
           style={{
