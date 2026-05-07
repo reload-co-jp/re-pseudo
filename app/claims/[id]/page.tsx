@@ -231,6 +231,16 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         >
           {claim.title}
         </p>
+        <p
+          style={{
+            color: "#b8b2ad",
+            fontSize: ".9375rem",
+            lineHeight: 1.75,
+            marginTop: ".75rem",
+          }}
+        >
+          {claim.description}
+        </p>
       </Card>
 
       <Card style={sectionStyle}>
