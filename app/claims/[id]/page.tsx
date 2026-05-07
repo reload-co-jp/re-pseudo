@@ -35,6 +35,7 @@ export const generateMetadata = async ({ params }: Props) => {
   const claim = getClaimById(id)
   if (!claim) return {}
   const url = `${BASE_URL}/claims/${id}/`
+  const firstImage = claim.images?.[0]
   return {
     title: `【検証】${claim.title}`,
     description: claim.summary,
@@ -54,11 +55,20 @@ export const generateMetadata = async ({ params }: Props) => {
       publishedTime: claim.created_at,
       modifiedTime: claim.updated_at,
       tags: claim.tags,
+      images: firstImage
+        ? [
+            {
+              url: firstImage.url,
+              alt: firstImage.alt,
+            },
+          ]
+        : undefined,
     },
     twitter: {
       card: "summary_large_image",
       title: `【検証】${claim.title}`,
       description: claim.summary,
+      images: firstImage ? [firstImage.url] : undefined,
     },
   }
 }
@@ -113,6 +123,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       "@type": "Claim",
       author: { "@type": "Thing", name: "不明" },
     },
+    image: claim.images?.map((image) => image.url),
     publisher: {
       "@type": "Organization",
       name: "Re pseudo",
@@ -215,6 +226,78 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           {claim.claim}
         </p>
       </Card>
+
+      {claim.images?.length ? (
+        <section style={sectionStyle}>
+          <h2 style={sectionTitleStyle}>関連画像</h2>
+          <div
+            style={{
+              display: "grid",
+              gap: ".75rem",
+              gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
+            }}
+          >
+            {claim.images.map((image) => (
+              <figure
+                key={image.url}
+                style={{
+                  backgroundColor: "#261b22",
+                  border: "1px solid #372630",
+                  borderRadius: "4px",
+                  margin: 0,
+                  overflow: "hidden",
+                }}
+              >
+                <img
+                  alt={image.alt}
+                  loading="lazy"
+                  src={image.url}
+                  style={{
+                    aspectRatio: "16 / 9",
+                    backgroundColor: "#1a1118",
+                    display: "block",
+                    objectFit: "cover",
+                    width: "100%",
+                  }}
+                />
+                {(image.caption || image.credit || image.source_url) && (
+                  <figcaption
+                    style={{
+                      color: "#a0aec0",
+                      display: "flex",
+                      flexDirection: "column",
+                      fontSize: ".75rem",
+                      gap: ".35rem",
+                      lineHeight: 1.6,
+                      padding: ".75rem",
+                    }}
+                  >
+                    {image.caption && <span>{image.caption}</span>}
+                    {(image.credit || image.source_url) && (
+                      <span style={{ color: "#718096" }}>
+                        {image.credit}
+                        {image.source_url && (
+                          <>
+                            {image.credit ? " / " : ""}
+                            <a
+                              href={image.source_url}
+                              rel="noopener noreferrer"
+                              style={{ color: "#63b3ed", textDecoration: "none" }}
+                              target="_blank"
+                            >
+                              出典
+                            </a>
+                          </>
+                        )}
+                      </span>
+                    )}
+                  </figcaption>
+                )}
+              </figure>
+            ))}
+          </div>
+        </section>
+      ) : null}
 
       <Card style={sectionStyle}>
         <p style={sectionTitleStyle}>判定</p>

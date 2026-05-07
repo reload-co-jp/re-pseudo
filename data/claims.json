@@ -81,8 +81,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["5G", "電磁波", "ウイルス", "感染症"]
+    "updated_at": "2026-05-07",
+    "tags": ["5G", "電磁波", "ウイルス", "感染症"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/5G%20mobile%20network%20diagram.jpg",
+        "alt": "5Gモバイルネットワーク構成図",
+        "caption": "5G通信網の概念図。主張が対象にする通信技術の文脈を示す。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:5G_mobile_network_diagram.jpg"
+      }
+    ]
   },
   {
     "id": "vaccine-microchip",
@@ -164,8 +173,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["ワクチン", "マイクロチップ", "COVID-19", "監視"]
+    "updated_at": "2026-05-07",
+    "tags": ["ワクチン", "マイクロチップ", "COVID-19", "監視"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vero%20Cell%20COVID-19%20vaccine%20vial%2C%20cotton%20swab%20and%20syringe.jpg",
+        "alt": "COVID-19ワクチンのバイアル、綿棒、注射器",
+        "caption": "COVID-19ワクチン接種で使われる器材。マイクロチップ混入説の対象物を示す。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Vero_Cell_COVID-19_vaccine_vial%2C_cotton_swab_and_syringe.jpg"
+      }
+    ]
   },
   {
     "id": "homeopathy-effectiveness",
@@ -248,8 +266,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["ホメオパシー", "代替医療", "プラセボ", "希釈"]
+    "updated_at": "2026-05-07",
+    "tags": ["ホメオパシー", "代替医療", "プラセボ", "希釈"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Homeopathic332.JPG",
+        "alt": "ホメオパシー製品の瓶",
+        "caption": "ホメオパシーのレメディ製品。極端な希釈をめぐる主張の対象。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Homeopathic332.JPG"
+      }
+    ]
   },
   {
     "id": "gmo-danger",
@@ -413,8 +440,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["ケムトレイル", "コントレイル", "飛行機雲", "地球工学"]
+    "updated_at": "2026-05-07",
+    "tags": ["ケムトレイル", "コントレイル", "飛行機雲", "地球工学"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Contrails.jpg",
+        "alt": "空に伸びる複数の飛行機雲",
+        "caption": "高高度の航空交通で生じる飛行機雲。ケムトレイル説で誤解されやすい現象。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Contrails.jpg"
+      }
+    ]
   },
   {
     "id": "em-hypersensitivity",
@@ -498,8 +534,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["電磁波過敏症", "Wi-Fi", "電磁波", "ノセボ"]
+    "updated_at": "2026-05-07",
+    "tags": ["電磁波過敏症", "Wi-Fi", "電磁波", "ノセボ"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wi-fi%20router.jpg",
+        "alt": "Wi-Fiルーター",
+        "caption": "電磁波過敏症の説明で言及されやすい家庭用無線機器。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wi-fi_router.jpg"
+      }
+    ]
   },
   {
     "id": "jewish-world-control-conspiracy",
@@ -1064,8 +1109,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["地球平面説", "フラットアース", "Flat Earth", "NASA陰謀論", "測地学", "宇宙開発"]
+    "updated_at": "2026-05-07",
+    "tags": ["地球平面説", "フラットアース", "Flat Earth", "NASA陰謀論", "測地学", "宇宙開発"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flat%20Earth.png",
+        "alt": "地球平面説で使われる平面地図",
+        "caption": "地球平面説でしばしば使われる方位図法型の地図。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Flat_Earth.png"
+      }
+    ]
   },
   {
     "id": "artificial-earthquake-weapon",
@@ -1165,8 +1219,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["人工地震", "地震兵器", "HAARP", "誘発地震", "災害デマ", "東日本大震災", "能登半島地震"]
+    "updated_at": "2026-05-07",
+    "tags": ["人工地震", "地震兵器", "HAARP", "誘発地震", "災害デマ", "東日本大震災", "能登半島地震"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HAARP20l.jpg",
+        "alt": "HAARPアンテナアレイ",
+        "caption": "人工地震説でしばしば名指しされるHAARP施設。",
+        "credit": "Michael Kleiman / U.S. Air Force, Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:HAARP20l.jpg"
+      }
+    ]
   },
   {
     "id": "haarp-weather-mind-control-conspiracy",
@@ -1266,8 +1329,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["HAARP", "気象操作", "マインドコントロール", "人工地震", "ケムトレイル", "電磁波", "災害デマ"]
+    "updated_at": "2026-05-07",
+    "tags": ["HAARP", "気象操作", "マインドコントロール", "人工地震", "ケムトレイル", "電磁波", "災害デマ"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HAARP%20Antenna%20Array%20Transmitter%20Buildings.jpg",
+        "alt": "HAARP施設のアンテナ列と送信機建屋",
+        "caption": "HAARP陰謀論の対象にされる電離圏研究施設。",
+        "credit": "Secoy, A / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:HAARP_Antenna_Array_Transmitter_Buildings.jpg"
+      }
+    ]
   },
   {
     "id": "apollo-moon-landing-hoax",
@@ -1367,8 +1439,17 @@
       }
     ],
     "created_at": "2026-04-22",
-    "updated_at": "2026-04-22",
-    "tags": ["月面着陸", "アポロ計画", "NASA陰謀論", "宇宙開発", "スタンリー・キューブリック", "冷戦", "フラットアース"]
+    "updated_at": "2026-05-07",
+    "tags": ["月面着陸", "アポロ計画", "NASA陰謀論", "宇宙開発", "スタンリー・キューブリック", "冷戦", "フラットアース"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aldrin%20Apollo%2011.jpg",
+        "alt": "月面を歩くアポロ11号のバズ・オルドリン",
+        "caption": "アポロ11号の月面活動写真。捏造説で検証対象にされる代表的資料。",
+        "credit": "NASA / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11.jpg"
+      }
+    ]
   },
   {
     "id": "effective-microorganisms-em-claims",
@@ -1566,8 +1647,17 @@
       }
     ],
     "created_at": "2026-04-23",
-    "updated_at": "2026-04-23",
-    "tags": ["ジャンボタニシ", "スクミリンゴガイ", "外来種", "水田除草", "自然農法", "無農薬", "農業デマ"]
+    "updated_at": "2026-05-07",
+    "tags": ["ジャンボタニシ", "スクミリンゴガイ", "外来種", "水田除草", "自然農法", "無農薬", "農業デマ"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20golden%20apple%20snail%20(Pomacea%20canaliculata)%20freshly%20collected%20from%20rice%20fields%20in%20rural%20Hunan%2C%20China.jpg",
+        "alt": "水田で採取されたスクミリンゴガイ",
+        "caption": "水田除草の文脈で問題になる外来性のスクミリンゴガイ。",
+        "credit": "Shouyong / Linda Wong, Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_golden_apple_snail_(Pomacea_canaliculata)_freshly_collected_from_rice_fields_in_rural_Hunan%2C_China.jpg"
+      }
+    ]
   },
   {
     "id": "collagen-direct-skin-beauty-claim",
@@ -2181,8 +2271,17 @@
       }
     ],
     "created_at": "2026-04-23",
-    "updated_at": "2026-04-23",
-    "tags": ["バミューダトライアングル", "魔の三角海域", "UFO", "アトランティス", "Flight 19", "都市伝説", "海難事故"]
+    "updated_at": "2026-05-07",
+    "tags": ["バミューダトライアングル", "魔の三角海域", "UFO", "アトランティス", "Flight 19", "都市伝説", "海難事故"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bermuda%20Triangle.png",
+        "alt": "バミューダトライアングルの位置図",
+        "caption": "都市伝説の対象海域として語られるバミューダトライアングル。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bermuda_Triangle.png"
+      }
+    ]
   },
   {
     "id": "water-fueled-car-perpetual-motion",
@@ -2389,8 +2488,17 @@
       }
     ],
     "created_at": "2026-04-23",
-    "updated_at": "2026-04-23",
-    "tags": ["アーユルヴェーダ", "Ayurveda", "代替医療", "伝統医療", "自然療法", "ハーブ", "デトックス", "重金属", "鉛中毒", "統合医療"]
+    "updated_at": "2026-05-07",
+    "tags": ["アーユルヴェーダ", "Ayurveda", "代替医療", "伝統医療", "自然療法", "ハーブ", "デトックス", "重金属", "鉛中毒", "統合医療"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ayurvedic.jpg",
+        "alt": "アーユルヴェーダ関連のハーブ製品",
+        "caption": "アーユルヴェーダや自然療法の説明で使われる素材例。",
+        "credit": "NousheemFardeen786 / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ayurvedic.jpg"
+      }
+    ]
   },
   {
     "id": "qigong-qi-energy-cure-claims",
@@ -2915,7 +3023,7 @@
       }
     ],
     "created_at": "2026-04-23",
-    "updated_at": "2026-04-23",
+    "updated_at": "2026-05-07",
     "tags": [
       "聖書偽典",
       "聖書外典",
@@ -2928,6 +3036,15 @@
       "禁じられた福音書",
       "隠された聖書",
       "宗教陰謀論"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dead%20Sea%20Scrolls.jpg",
+        "alt": "ヨルダン博物館に展示された死海文書",
+        "caption": "正典・外典・古文書をめぐる主張で参照されやすい古代文書。",
+        "credit": "D-Stanley / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dead_Sea_Scrolls.jpg"
+      }
     ]
   },
   {
@@ -4488,7 +4605,7 @@
       }
     ],
     "created_at": "2026-04-24",
-    "updated_at": "2026-04-24",
+    "updated_at": "2026-05-07",
     "tags": [
       "骨相学",
       "phrenology",
@@ -4501,6 +4618,15 @@
       "疑似科学",
       "優生思想",
       "差別思想"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phrenologychart.png",
+        "alt": "骨相学の頭部区分図",
+        "caption": "頭蓋の部位と性格を結びつける骨相学の典型的な図。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Phrenologychart.png"
+      }
     ]
   },
   {
@@ -4719,7 +4845,7 @@
       }
     ],
     "created_at": "2026-04-27",
-    "updated_at": "2026-04-27",
+    "updated_at": "2026-05-07",
     "tags": [
       "占星術",
       "astrology",
@@ -4731,6 +4857,15 @@
       "バーナム効果",
       "疑似科学",
       "12星座"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Astrolog.png",
+        "alt": "ホロスコープ図",
+        "caption": "占星術で使われる出生図・ホロスコープの例。",
+        "credit": "Peter Presslein / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Astrolog.png"
+      }
     ]
   },
   {
@@ -4947,7 +5082,7 @@
       }
     ],
     "created_at": "2026-04-27",
-    "updated_at": "2026-04-27",
+    "updated_at": "2026-05-07",
     "tags": [
       "テクニカル分析",
       "technical analysis",
@@ -4961,6 +5096,15 @@
       "トレード",
       "市場予測",
       "投資判断"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Candlestick%20Chart.png",
+        "alt": "ローソク足チャートの模式図",
+        "caption": "テクニカル分析で使われるローソク足チャート。",
+        "credit": "百楽兎 / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Candlestick_Chart.png"
+      }
     ]
   },
   {
@@ -5292,7 +5436,7 @@
       }
     ],
     "created_at": "2026-04-28",
-    "updated_at": "2026-04-28",
+    "updated_at": "2026-05-07",
     "tags": [
       "オルゴン",
       "orgone",
@@ -5305,6 +5449,15 @@
       "浄化グッズ",
       "疑似科学",
       "ニューエイジ"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Orgone%20Accumulators%22%20(FDA022)%20(4899254920).jpg",
+        "alt": "FDA資料に写るオルゴン蓄積器",
+        "caption": "Wilhelm Reichが病気治療用として販売したオルゴン蓄積器。",
+        "credit": "FDA / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%22Orgone_Accumulators%22_(FDA022)_(4899254920).jpg"
+      }
     ]
   },
   {
@@ -5865,7 +6018,7 @@
       }
     ],
     "created_at": "2026-04-28",
-    "updated_at": "2026-04-28",
+    "updated_at": "2026-05-07",
     "tags": [
       "O型",
       "血液型",
@@ -5877,6 +6030,15 @@
       "体臭",
       "皮膚細菌",
       "夏の雑学"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aedes%20Albopictus.jpg",
+        "alt": "ヒトから吸血するヒトスジシマカ",
+        "caption": "蚊に刺されやすさの主張で対象になる吸血行動。",
+        "credit": "James Gathany / CDC, Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Aedes_Albopictus.jpg"
+      }
     ]
   },
   {
@@ -8717,7 +8879,7 @@
       }
     ],
     "created_at": "2026-04-29",
-    "updated_at": "2026-04-29",
+    "updated_at": "2026-05-07",
     "tags": [
       "オリーブオイル",
       "olive oil",
@@ -8732,6 +8894,15 @@
       "カロリー",
       "美容",
       "健康食品"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bottle%20of%20olive%20oil.jpg",
+        "alt": "オリーブオイルの瓶",
+        "caption": "脂肪燃焼や減量効果が語られやすいオリーブオイル。",
+        "credit": "margenauer / Pixabay, Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bottle_of_olive_oil.jpg"
+      }
     ]
   },
   {
@@ -10150,7 +10321,7 @@
       }
     ],
     "created_at": "2026-05-05",
-    "updated_at": "2026-05-05",
+    "updated_at": "2026-05-07",
     "tags": [
       "クリスタル・スカル",
       "水晶髑髏",
@@ -10169,6 +10340,15 @@
       "博物館",
       "偽造品",
       "インディ・ジョーンズ"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20Skull%20at%20the%20British%20Museum.jpg",
+        "alt": "大英博物館のクリスタル・スカル",
+        "caption": "古代遺物説の対象にされてきた大英博物館所蔵の水晶髑髏。",
+        "credit": "Mike Peel / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Crystal_Skull_at_the_British_Museum.jpg"
+      }
     ]
   },
   {
@@ -10278,7 +10458,7 @@
       }
     ],
     "created_at": "2026-05-05",
-    "updated_at": "2026-05-05",
+    "updated_at": "2026-05-07",
     "tags": [
       "パナマ文書",
       "Panama Papers",
@@ -10296,6 +10476,15 @@
       "富裕層",
       "政治家",
       "金融陰謀論"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Papers%20Logo.svg",
+        "alt": "Panama Papersのロゴ",
+        "caption": "パナマ文書報道を示すロゴ。名簿解釈をめぐる主張の文脈。",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Panama_Papers_Logo.svg"
+      }
     ]
   },
   {
@@ -10405,7 +10594,7 @@
       }
     ],
     "created_at": "2026-05-05",
-    "updated_at": "2026-05-05",
+    "updated_at": "2026-05-07",
     "tags": [
       "TikTok",
       "ByteDance",
@@ -10424,6 +10613,15 @@
       "SNS",
       "ビッグテック",
       "中国脅威論"
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiktok%20logo%20text.svg",
+        "alt": "TikTokロゴ",
+        "caption": "データ収集・プライバシー主張の対象になるSNSサービス。",
+        "credit": "ByteDance / Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tiktok_logo_text.svg"
+      }
     ]
   }
 ]

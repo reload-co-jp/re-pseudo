@@ -30,6 +30,13 @@ export type Claim = {
     url: string
     type: "paper" | "government" | "article" | "other"
   }[]
+  images?: {
+    url: string
+    alt: string
+    caption?: string
+    credit?: string
+    source_url?: string
+  }[]
   created_at: string
   updated_at: string
   tags: string[]

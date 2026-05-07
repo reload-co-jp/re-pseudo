@@ -55,6 +55,13 @@ title: string
 url: string
 type: "paper" | "government" | "article" | "other"
 }[]
+images?: {
+url: string
+alt: string
+caption?: string
+credit?: string
+source_url?: string
+}[]
 created_at: string
 updated_at: string
 tags: string[]
@@ -82,9 +89,10 @@ tags: string[]
 2. 判定
 3. サマリー
 4. 解説
-5. 拡散理由
-6. 論法
-7. 出典
+5. 関連画像（存在する場合）
+6. 拡散理由
+7. 論法
+8. 出典
 
 ---
 

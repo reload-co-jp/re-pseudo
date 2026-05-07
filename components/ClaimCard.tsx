@@ -10,6 +10,32 @@ type Props = {
 
 const ClaimCard = ({ claim }: Props) => (
   <Card style={{ display: "flex", flexDirection: "column", gap: ".5rem" }}>
+    {claim.images?.[0] && (
+      <Link
+        aria-label={`${claim.title}の詳細へ`}
+        href={`/claims/${claim.id}/`}
+        style={{
+          aspectRatio: "16 / 9",
+          backgroundColor: "#1a1118",
+          borderRadius: "4px",
+          display: "block",
+          margin: "-.25rem -.25rem .25rem",
+          overflow: "hidden",
+        }}
+      >
+        <img
+          alt={claim.images[0].alt}
+          loading="lazy"
+          src={claim.images[0].url}
+          style={{
+            display: "block",
+            height: "100%",
+            objectFit: "cover",
+            width: "100%",
+          }}
+        />
+      </Link>
+    )}
     <div style={{ display: "flex", flexWrap: "wrap", gap: ".375rem" }}>
       <Badge
         color={VERDICT_COLOR[claim.verdict]}
