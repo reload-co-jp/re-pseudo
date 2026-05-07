@@ -111,7 +111,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
     mainEntityOfPage: `${BASE_URL}/claims/${id}/`,
     datePublished: claim.created_at,
     dateModified: claim.updated_at,
-    claimReviewed: claim.claim,
+    claimReviewed: claim.title,
     author: {
       "@type": "Organization",
       name: "Re pseudo",
@@ -229,7 +229,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
             lineHeight: 1.55,
           }}
         >
-          {claim.claim}
+          {claim.title}
         </p>
       </Card>
 

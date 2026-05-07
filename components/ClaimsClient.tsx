@@ -73,7 +73,6 @@ const ClaimsClient = ({ claims }: Props) => {
     const matchQuery =
       !q ||
       c.title.toLowerCase().includes(q) ||
-      c.claim.toLowerCase().includes(q) ||
       c.summary.toLowerCase().includes(q) ||
       c.common_fallacies.some(
         (group) =>

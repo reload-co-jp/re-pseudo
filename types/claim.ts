@@ -2,7 +2,6 @@ export type Claim = {
   id: string
   title: string
   category: "health" | "environment" | "conspiracy" | "technology" | "finance"
-  claim: string
   verdict: "false" | "misleading" | "insufficient_evidence" | "partially_true" | "unverified"
   confidence: "high" | "medium" | "low"
   risk_level: "high" | "medium" | "low"
