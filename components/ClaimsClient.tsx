@@ -59,6 +59,24 @@ const ClaimsClient = ({ claims }: Props) => {
   const [riskLevel, setRiskLevel] = useState<Claim["risk_level"] | "">("")
 
   useEffect(() => {
+    const metaSelector = 'meta[data-claims-tag-filter="robots"]'
+    const existingMeta = document.head.querySelector(metaSelector)
+
+    if (!tagParam) {
+      existingMeta?.remove()
+      return
+    }
+
+    const meta = existingMeta ?? document.createElement("meta")
+
+    meta.setAttribute("name", "robots")
+    meta.setAttribute("content", "noindex,follow")
+    meta.setAttribute("data-claims-tag-filter", "robots")
+
+    if (!existingMeta) document.head.appendChild(meta)
+  }, [tagParam])
+
+  useEffect(() => {
     const categoryParam = searchParams.get("category")
 
     setCategory(isCategory(categoryParam) ? categoryParam : "")
