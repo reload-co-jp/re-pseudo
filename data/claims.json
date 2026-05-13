@@ -11313,5 +11313,138 @@
       "バイオセーフティ",
       "起源調査"
     ]
+  },
+  {
+    "id": "pizzagate-comet-ping-pong",
+    "title": "ピザゲート",
+    "description": "ヒラリー・クリントン、ジョン・ポデスタ、民主党関係者らが、ワシントンD.C.のピザ店Comet Ping Pongを拠点に児童性的搾取・人身売買組織を運営していた。流出メール内の「pizza」などの語は児童虐待の暗号で、地下室や秘密通路に被害児童が隠されている。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "ピザゲートの中心主張を裏づける証拠はなく、警察・報道・ファクトチェックで虚偽と確認されている。現実には店や従業員への脅迫、武装侵入事件を引き起こした高リスクな陰謀論。",
+    "explanation": "ピザゲートは、2016年米大統領選中に公開されたジョン・ポデスタのメールを匿名掲示板やSNS利用者が読み替え、食べ物やピザへの言及を児童性的搾取の暗号とみなしたことから広がった。Comet Ping Pongの店主が民主党関係者と面識を持つこと、店の写真、ロゴ、SNS投稿、近隣店舗との関係などが断片的に結びつけられたが、被害児童、地下室、秘密通路、犯罪組織、警察捜査の存在を示す確かな証拠は示されていない。PolitiFactは、D.C.警察がピザゲートを「架空のオンライン陰謀論」と説明したこと、Comet Ping Pongに関する主張に証拠がないことを整理している。Snopesも、Podestaメールからクリントン関係者の児童虐待組織が明らかになったという主張を虚偽と判定した。米司法省の発表によると、2016年12月4日、陰謀論を信じた男が武装してComet Ping Pongへ入り、発砲したが、児童や秘密施設は見つからず、後に有罪を認め4年の禁錮刑を受けた。ピザゲートは後にQAnonの「世界的児童売買組織」物語へ接続され、否定や反証を隠蔽の証拠とみなす構造で再流通した。",
+    "verification_process": [
+      "主張を「Comet Ping Pongを拠点に民主党関係者の児童性的搾取・人身売買組織が存在した」と定義した。",
+      "D.C.警察・米司法省発表、ファクトチェック、報道、研究論文を確認し、被害者・地下室・秘密通路・犯罪組織を示す証拠の有無を確認した。",
+      "Podestaメールの語句、店主の政治的つながり、SNS写真などがどのように暗号解釈へ変換されたかを確認した。",
+      "武装侵入事件、脅迫、QAnonへの接続を整理し、判定を「虚偽」、リスクを「高」とした。"
+    ],
+    "why_it_spreads": [
+      "児童保護という強い道徳感情に訴えるため、怒りと恐怖で拡散されやすい",
+      "流出メールという実在資料に、暗号解読ゲームのような解釈を重ねるため参加感が生まれる",
+      "政治的不信、反エリート感情、クリントン家陰謀論と結びつきやすい",
+      "証拠がないことを隠蔽の証拠とみなすため、反証されても信念が維持されやすい",
+      "QAnonなど後続の陰謀論が、同じ物語構造を再利用して拡散を続けた"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "普通の食べ物への言及を秘密暗号とみなし、反証を隠蔽の証拠にする",
+          "政治的つながりや寄付歴を犯罪組織の存在証明として扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "メール、写真、ロゴ、SNS投稿など無関係な断片をつなぎ、全体像を作る",
+          "被害者、捜査記録、物理的施設が確認されないことを軽視する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "陰謀論を補強する投稿や匿名情報だけを採用し、警察発表や現地報道を退ける",
+          "虚偽と確認された具体的主張を更新せず、別の『偶然』や『符号』へ移る"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "現実の児童虐待・人身売買問題への関心を、特定政敵への根拠なき犯罪告発へ置き換える",
+          "政治家やメディアへの不信を、具体的な犯罪事実の証明と混同する"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "恐怖、怒り、道徳的パニックが証拠評価を歪める影響を見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2016年10月30日ごろ、Hillary ClintonやHuma Abedinのメールが児童性的搾取組織を示すというSNS投稿が広がり、11月初旬に4chan、Reddit、Twitter、偽ニュースサイトでComet Ping PongやPodestaメールと結びつけられた。",
+      "spread_period": "2016年11月の米大統領選前後に急拡散し、同年12月4日のComet Ping Pong武装侵入事件で広く報道された。2017年以降はQAnonの前史・構成要素として再流通し、2020年のQAnon拡大、2023年以降のSNS上での再燃でも参照された。",
+      "spread_scope": "米国の右派・反クリントン・反エリート系SNS空間を中心に、英語圏から日本語圏を含む各国の陰謀論コミュニティへ広がった。",
+      "note": "この項目は、現実に存在する児童虐待・人身売買の深刻さを否定しない。対象は、Comet Ping Pongや民主党関係者を証拠なく児童性的搾取組織に結びつけた特定の陰謀論である。",
+      "spreaders": [
+        "4chan、Reddit、Twitter上の陰謀論コミュニティ",
+        "偽ニュースサイト、代替メディア、陰謀論系動画チャンネル",
+        "反クリントン・反民主党系政治発信の一部",
+        "QAnon関連コミュニティ"
+      ],
+      "beneficiaries": [
+        "陰謀論コンテンツで広告・購読・寄付収益を得る媒体",
+        "反クリントン・反民主党・反エリートの政治的動員を強めたい発信者",
+        "恐怖や怒りを利用してコミュニティ参加、商品、講座へ誘導する発信者"
+      ],
+      "source": {
+        "title": "PolitiFact: How Pizzagate went from fake news to a real problem for a D.C. business",
+        "url": "https://www.politifact.com/article/2016/dec/05/how-pizzagate-went-fake-news-real-problem-dc-busin/"
+      }
+    },
+    "sources": [
+      {
+        "title": "U.S. Department of Justice: North Carolina Man Sentenced to Four-Year Prison Term For Armed Assault at Northwest Washington Pizza Restaurant",
+        "url": "https://www.justice.gov/usao-dc/pr/north-carolina-man-sentenced-four-year-prison-term-armed-assault-northwest-washington",
+        "type": "government"
+      },
+      {
+        "title": "PolitiFact: How Pizzagate went from fake news to a real problem for a D.C. business",
+        "url": "https://www.politifact.com/article/2016/dec/05/how-pizzagate-went-fake-news-real-problem-dc-busin/",
+        "type": "article"
+      },
+      {
+        "title": "Snopes: Is Comet Ping Pong Pizzeria Home to a Child Abuse Ring Led by Hillary Clinton?",
+        "url": "https://www.snopes.com/fact-check/pizzagate-conspiracy/",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Pizzagate",
+        "url": "https://www.britannica.com/topic/Pizzagate",
+        "type": "article"
+      },
+      {
+        "title": "Metaxas and Finn (2019) Investigating the infamous #Pizzagate conspiracy theory, Technology Science",
+        "url": "https://techscience.hmdc.harvard.edu/a/2019121802/",
+        "type": "paper"
+      },
+      {
+        "title": "Bleakley (2021) Panic, pizza and mainstreaming the alt-right, Current Sociology",
+        "url": "https://doi.org/10.1177/00113921211034896",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-05-13",
+    "updated_at": "2026-05-13",
+    "tags": [
+      "ピザゲート",
+      "Pizzagate",
+      "Comet Ping Pong",
+      "Hillary Clinton",
+      "John Podesta",
+      "Podesta emails",
+      "WikiLeaks",
+      "児童売買",
+      "人身売買",
+      "悪魔崇拝",
+      "QAnon",
+      "アメリカ政治",
+      "2016年米大統領選",
+      "偽ニュース",
+      "道徳的パニック",
+      "陰謀論"
+    ]
   }
 ]
