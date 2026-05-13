@@ -11181,5 +11181,137 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Tiktok_logo_text.svg"
       }
     ]
+  },
+  {
+    "id": "covid-china-bioweapon",
+    "title": "新型コロナは中国の生物兵器である",
+    "description": "SARS-CoV-2は中国政府、中国軍、または武漢の研究機関が生物兵器として設計・製造し、意図的に、または隠された管理失敗によって世界へ放出した。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "SARS-CoV-2の正確な起源は未確定だが、中国が生物兵器として開発・放出したという主張を支える証拠はない。米情報機関もWHO/SAGOも、生物兵器説や意図的操作説を支持していない。",
+    "explanation": "この主張では、パンデミックの起源不明、武漢にウイルス研究施設があること、中国政府の情報統制や不透明性を、生物兵器開発・意図的放出の証拠として扱う。しかし、米国家情報長官室の2021年評価は、SARS-CoV-2は中国によって生物兵器として開発されたものではないと判断し、根拠として使われる主張は科学的に無効なものや直接アクセスを持たない推測に依存するとした。同評価は、自然感染と研究関連事故の双方を可能な仮説として扱いつつ、中国当局が初期流行前にSARS-CoV-2を知っていたとは評価していない。WHOのSAGOは2025年時点で、全仮説の完全評価に必要な情報が不足しているとしながら、利用可能な証拠の重みは動物由来のスピルオーバーを示唆すると整理した。また、ゲノム解析はSARS-CoV-2が実験室構築物または意図的に操作されたウイルスであることを示しておらず、武漢華南海鮮卸売市場の初期症例・環境検体・野生動物DNAに関する研究は、少なくとも自然由来仮説と整合する証拠を示している。したがって、研究関連事故の可能性や中国政府の透明性問題を検証することと、生物兵器として設計・放出されたと断定することは別であり、後者は根拠不十分ではなく現時点の公的評価・科学的証拠と反する。",
+    "verification_process": [
+      "主張を「SARS-CoV-2は中国が生物兵器として設計・製造・放出した」として定義し、研究関連事故説や自然由来説とは分けて評価した。",
+      "米国家情報長官室、WHO/SAGO、査読論文を確認し、生物兵器開発、遺伝子操作、意図的放出を支える証拠の有無を確認した。",
+      "起源未確定、研究所事故の可能性、中国政府の不透明性が、生物兵器説の直接証拠にならないことを整理した。",
+      "初期流布の文脈、拡散主体、受益しうる主体を確認し、判定を「虚偽」とした理由に矛盾がないか確認した。"
+    ],
+    "why_it_spreads": [
+      "パンデミックの規模が大きく、偶発的な自然流行より意図的攻撃の物語が直感的に納得されやすい",
+      "武漢にウイルス研究施設があるという事実が、研究所事故説や生物兵器説と混同されやすい",
+      "中国政府の初期対応、情報統制、国際調査への非協力が疑念を強める",
+      "起源が未確定であることが、任意の陰謀仮説を差し込む余地として使われる",
+      "反中感情、反ワクチン、反グローバリズム、パンデミック対策への不満と結びつきやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "研究所が同じ都市にあることを、生物兵器開発の証拠として扱う",
+          "情報が開示されないことを、意図的放出や兵器化の証拠とみなす"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "起源が未確定であることを、最も強い陰謀仮説が成り立つ余地として使う",
+          "研究関連事故の可能性と、生物兵器としての設計・使用を同一視する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "撤回・批判されたプレプリント、特許の誤読、断片的な遺伝子配列比較を決定的証拠のように扱う",
+          "自然由来仮説と整合する疫学・ゲノム研究を無視し、疑念を補強する情報だけを採用する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "中国政府の透明性問題や初期対応の批判を、ウイルスが兵器だった証明へすり替える",
+          "研究所のバイオセーフティ上の懸念を、意図的な攻撃計画と混同する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "公的機関や研究者の否定を、証拠評価ではなく政治的隠蔽として片づける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2019年末から2020年初頭の武漢での流行発生後、武漢の研究施設の存在、未査読の遺伝子配列解析、HIV配列混入説、特許の誤読などと結びついて英語圏・中国語圏・日本語圏のSNSや代替メディアで広がった。",
+      "spread_period": "2020年2月以降に『人工ウイルス』『生物兵器』として急拡散し、2021年の米情報機関評価、2023年の米国での起源再調査、2024年から2025年の研究所流出説報道や政治公聴会のたびに再燃した。",
+      "spread_scope": "米国、日本、インド、欧州、台湾、香港などの反中、反ワクチン、パンデミック懐疑、国家安全保障、陰謀論コミュニティで流通した。中国側・親中系の言説では、逆に米国生物兵器説としても拡散された。",
+      "note": "この項目は、中国政府の初期情報統制、国際調査への非協力、研究所事故仮説、バイオセーフティ問題の検証を否定しない。対象は、中国がSARS-CoV-2を生物兵器として設計・製造・放出したと断定する主張である。",
+      "spreaders": [
+        "SNS・動画サイト上の陰謀論コミュニティ",
+        "反中・国家安全保障系の政治発信の一部",
+        "反ワクチン・パンデミック懐疑系メディアや代替メディア",
+        "米国生物兵器説を流す親中・反米系発信の一部"
+      ],
+      "beneficiaries": [
+        "パンデミック陰謀論コンテンツで広告・購読・寄付収益を得る媒体",
+        "反中・反米などの政治的動員を強めたい発信者",
+        "不安を利用する情報商材、講座、代替医療、コミュニティ運営者"
+      ],
+      "source": {
+        "title": "FactCheck.org: Baseless Conspiracy Theories Claim New Coronavirus Was Bioengineered",
+        "url": "https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/"
+      }
+    },
+    "sources": [
+      {
+        "title": "ODNI: Updated Assessment on COVID-19 Origins",
+        "url": "https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf",
+        "type": "government"
+      },
+      {
+        "title": "WHO SAGO: Independent assessment of the origins of SARS-CoV-2",
+        "url": "https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens",
+        "type": "government"
+      },
+      {
+        "title": "WHO: Scientific advisory group issues report on origins of COVID-19",
+        "url": "https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19",
+        "type": "government"
+      },
+      {
+        "title": "Andersen et al. (2020) The proximal origin of SARS-CoV-2, Nature Medicine",
+        "url": "https://www.nature.com/articles/s41591-020-0820-9",
+        "type": "paper"
+      },
+      {
+        "title": "Worobey et al. (2022) The Huanan Seafood Wholesale Market in Wuhan was the early epicenter of the COVID-19 pandemic, Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35881010/",
+        "type": "paper"
+      },
+      {
+        "title": "Crits-Christoph et al. (2024) Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic, Cell",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0092867424009012",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-05-13",
+    "updated_at": "2026-05-13",
+    "tags": [
+      "COVID-19",
+      "新型コロナウイルス",
+      "SARS-CoV-2",
+      "中国",
+      "武漢",
+      "武漢研究所",
+      "生物兵器",
+      "人工ウイルス",
+      "研究所流出説",
+      "パンデミック",
+      "陰謀論",
+      "反中",
+      "情報統制",
+      "バイオセーフティ",
+      "起源調査"
+    ]
   }
 ]
