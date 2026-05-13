@@ -11446,5 +11446,138 @@
       "道徳的パニック",
       "陰謀論"
     ]
+  },
+  {
+    "id": "george-soros-paid-protesters",
+    "title": "ジョージ・ソロスが抗議者を雇い社会混乱を起こしている",
+    "description": "ジョージ・ソロスとOpen Society Foundationsは、BLM、Antifa、移民支援、学生運動、反政府デモなどの抗議者を直接雇い、交通費や日当を払い、暴動や社会混乱を裏で指揮している。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "ソロス系財団が人権、民主主義、司法改革などの団体へ多額の助成を行うことは事実だが、抗議者へ日当を払い、暴力や暴動を指揮している証拠はない。政治的不満を一人のユダヤ系富豪へ還元する危険な陰謀論。",
+    "explanation": "Open Society Foundationsは、George Sorosが創設した大規模な民間助成ネットワークで、民主主義、人権、司法改革、移民、報道自由などの団体へ公開助成を行っている。この事実は、財団やOECD資料でも確認できる。一方で、SNSで広がる『Sorosが抗議者を雇っている』『バスで暴徒を送り込む』『AntifaやBLMを所有して暴動を起こす』という主張は、公開助成と直接の雇用・暴力扇動を混同している。PolitiFactは2020年、Minneapolisの抗議活動をSorosが『funded the chaos』したという主張について、Open Societyが暴力を支持せず、Minneapolisの街頭抗議を資金提供した証拠はないとして虚偽と判定した。2024年の大学抗議活動をめぐる『Sorosが学生急進派に金を払っている』主張でも、助成金と個別の抗議者への支払いは数段階離れており、大学側や関係団体は有給動員の証拠を否定した。ADLは、Soros陰謀論が長年の反ユダヤ主義的な『背後で操る金融家』トロープと重なる場合が多いと整理している。したがって、Sorosや財団の政治的影響力、助成先、透明性を検証することは正当だが、それを暴動の黒幕、秘密指揮、抗議者の日当支払いと断定する主張は証拠で支えられていない。",
+    "verification_process": [
+      "主張を「George Soros/Open Society Foundationsが抗議者を直接雇い、暴力的混乱を指揮している」と定義した。",
+      "Open Society Foundations公式資料、OECD資料、PolitiFact、ADL、AP報道を確認し、公開助成と直接支払い・暴力指揮の違いを整理した。",
+      "2020年BLM抗議、2024年大学抗議、反移民・反政府系投稿などで反復される主張を比較し、証拠が個別抗議者への支払いまで届いているか確認した。",
+      "反ユダヤ主義的トロープとの接続、脅迫や政治的標的化のリスクを確認し、判定を「虚偽」、リスクを「高」とした。"
+    ],
+    "why_it_spreads": [
+      "複雑な社会運動や政治的不満を、一人の富豪の資金と意図で説明できるため分かりやすい",
+      "Open Society Foundationsの実在する大規模助成が、陰謀論に現実味を与える",
+      "抗議活動への嫌悪や恐怖が、参加者を自発的市民ではなく買収された集団と見る動機になる",
+      "『グローバリスト』『金融エリート』などの語が、露骨な反ユダヤ主義を避けながら同じ構図を運ぶ",
+      "過去のSoros批判、移民、犯罪、大学抗議、BLM、QAnon系言説が同じ型を再利用する"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "公開助成を秘密指令や暴力扇動の証拠として扱う",
+          "抗議活動の広がりを、参加者自身の動機ではなく黒幕の資金だけで説明する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "財団から団体への助成を、個別抗議者への日当支払いと同一視する",
+          "助成先が同じ政策領域で活動していることを、特定のデモや暴力行為の資金証拠にする"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "社会運動の争点や警察暴力、移民政策、大学政策の議論を、Soros個人への黒幕論へ置き換える",
+          "財団助成の透明性や政治的影響力への批判を、民族・宗教的な支配陰謀へ接続する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "助成記録の一部だけを抜き出し、助成目的、時期、経路、使途制限を確認しない",
+          "デマと確認されたバス、求人チラシ、支払い証拠画像を別事件でも再利用する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "ファクトチェックや団体声明を、利害関係者による隠蔽として無効化する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "Sorosを『裏で社会運動を操る黒幕』とする言説は、2000年代の米国政治資金・移民・民主化支援批判で広がり、2010年代には反移民、Black Lives Matter、Women’s March、Charlottesville、Antifa関連の投稿で反復された。",
+      "spread_period": "2016年米大統領選以降に急拡散し、2020年George Floyd抗議、2024年米国大学抗議、2025年以降の米国政治対立や移民・反政府デモをめぐる投稿で繰り返し再燃している。",
+      "spread_scope": "米国、欧州、ハンガリー、日本語圏を含む反移民、反左派、反グローバリズム、QAnon、反ユダヤ主義、陰謀論コミュニティで流通している。",
+      "note": "この項目は、SorosやOpen Society Foundationsの政治的影響力、助成先、政策目的への批判を否定しない。対象は、抗議者への直接日当支払い、暴力・暴動の秘密指揮、社会混乱の計画的演出を断定する主張である。",
+      "spreaders": [
+        "SNS・動画サイト上の陰謀論コミュニティ",
+        "反移民・反左派・反グローバリズム系発信の一部",
+        "QAnon関連コミュニティ",
+        "Sorosを政治的敵役として扱う一部メディア・政治アカウント"
+      ],
+      "beneficiaries": [
+        "陰謀論コンテンツで広告・購読・寄付収益を得る媒体",
+        "抗議運動や移民支援団体を非正当化したい政治的発信者",
+        "反ユダヤ主義・反グローバリズムの動員を強めたい発信者"
+      ],
+      "source": {
+        "title": "ADL: The Antisemitism Lurking Behind George Soros Conspiracy Theories",
+        "url": "https://www.adl.org/resources/article/antisemitism-lurking-behind-george-soros-conspiracy-theories"
+      }
+    },
+    "sources": [
+      {
+        "title": "Open Society Foundations: Who We Are",
+        "url": "https://www.opensocietyfoundations.org/about",
+        "type": "other"
+      },
+      {
+        "title": "OECD: Development Co-operation Profiles: Open Society Foundations",
+        "url": "https://www.oecd.org/en/publications/development-co-operation-profiles_04b376d7-en/open-society-foundations_19516b58-en.html",
+        "type": "other"
+      },
+      {
+        "title": "PolitiFact: No, George Soros and his foundations do not pay people to protest",
+        "url": "https://www.politifact.com/factchecks/2020/jun/01/candace-owens/no-soros-and-foundation-do-not-pay-people-protest/",
+        "type": "article"
+      },
+      {
+        "title": "PolitiFact: Fact-checking claims that George Soros is paying student radicals involved in campus protests",
+        "url": "https://www.politifact.com/article/2024/may/02/fact-checking-claims-that-george-soros-is-paying-s/",
+        "type": "article"
+      },
+      {
+        "title": "ADL: The Antisemitism Lurking Behind George Soros Conspiracy Theories",
+        "url": "https://www.adl.org/resources/article/antisemitism-lurking-behind-george-soros-conspiracy-theories",
+        "type": "article"
+      },
+      {
+        "title": "ADL Debunk: Conspiracies connecting George Soros to protests and antifa",
+        "url": "https://www.adl.org/disinformation-conspiracies-connecting-george-soros-protests-and-antifa",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-14",
+    "updated_at": "2026-05-14",
+    "tags": [
+      "ジョージ・ソロス",
+      "George Soros",
+      "Open Society Foundations",
+      "グローバリスト",
+      "抗議活動",
+      "BLM",
+      "Antifa",
+      "大学抗議",
+      "移民",
+      "政治資金",
+      "市民社会",
+      "反ユダヤ主義",
+      "金融陰謀論",
+      "QAnon",
+      "偽ニュース",
+      "陰謀論"
+    ]
   }
 ]
