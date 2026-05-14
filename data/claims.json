@@ -11579,5 +11579,270 @@
       "偽ニュース",
       "陰謀論"
     ]
+  },
+  {
+    "id": "illuminati-secret-world-control",
+    "title": "イルミナティが世界を支配している",
+    "description": "18世紀の秘密結社イルミナティは現在も存続し、各国政府、中央銀行、国際機関、メディア、芸能界を裏で操り、新世界秩序、人口削減、戦争、パンデミック、経済危機を計画している。三角形、片目、666などの象徴は、その支配や構成員の合図である。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "歴史上のバイエルン・イルミナティは1776年に創設され、1780年代に禁止・解体された短命の秘密結社である。現代まで連続して世界を支配している証拠はなく、象徴読みや偶然の連想に依存する陰謀論。",
+    "explanation": "イルミナティという名は実在したバイエルン啓明結社に由来する。同団体はAdam Weishauptが1776年にバイエルンで創設した啓蒙主義的な秘密結社で、反教権主義、理性、教育改革などを掲げたが、内部対立とバイエルン政府の弾圧により1785年以降に活動を失ったとされる。Britannicaは、歴史記録上の活動はこの短い時期に限られる一方、1797年にはフランス革命の黒幕とする主張が現れ、その後もロシア革命、ケネディ暗殺、NWOなど幅広い出来事へ結びつけられたと整理している。現代の主張は、三角形、片目、ピラミッド、手のサイン、ミュージックビデオ、紙幣の図像、国際会議、中央銀行制度などを断片的に集め、秘密結社の暗号や支配の証拠として読む。しかし、これらの多くは宗教美術、フリーメイソン図像、商業デザイン、演出、既存の政治・経済制度で説明でき、現代組織としての会員名簿、資金経路、指令文書、意思決定記録を示さない。Michael Barkunの陰謀論研究は、イルミナティがNWO型陰謀論の中心的記号として使われ、UFO、反ユダヤ主義、反政府運動、終末論など異なる物語を吸収する枠組みになったと整理する。したがって、秘密結社史や権力集中への批判は検証可能なテーマだが、現代イルミナティが世界を一枚岩で支配しているという断定は証拠に反する。",
+    "verification_process": [
+      "主張を「歴史上のイルミナティが現在も存続し、世界政治・経済・文化を秘密裏に支配している」と定義した。",
+      "Britannica、National Geographic、HISTORYなどで歴史上のバイエルン・イルミナティの創設、禁止、解体時期を確認した。",
+      "NWO研究、Barkunの陰謀論研究、ISD資料を参照し、現代イルミナティ説がどのような陰謀論構造として流通するか確認した。",
+      "象徴、芸能人、中央銀行、国際機関を結びつける主張が、現代組織の継続性や支配命令の証拠を示しているか確認した。"
+    ],
+    "why_it_spreads": [
+      "複雑な国際政治、金融危機、戦争、感染症を一つの黒幕で説明できるため理解しやすい",
+      "実在した秘密結社の名称があるため、完全な作り話より信じやすく見える",
+      "三角形や片目など視覚的に目立つ記号が、SNS動画で『証拠』として拡散されやすい",
+      "芸能人や政治家の成功、スキャンダル、発言を、秘密結社加入の物語に結びつけやすい",
+      "NWO、反ユダヤ主義、フリーメイソン、ロスチャイルド、QAnonなど既存の陰謀論と接続しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "反証や記録の欠如を、完璧な隠蔽能力の証拠として扱う",
+          "別々の事件や組織を、同じ秘密結社の長期計画として読む"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "三角形、片目、手のサインなど曖昧な記号を会員証拠として扱う",
+          "18世紀の団体の存在を、現代の世界支配組織の存在証明に飛躍させる"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "都合のよいロゴ、紙幣、映像演出だけを集め、制作意図や歴史的文脈を確認しない",
+          "国際機関や中央銀行の公開制度・議事録・多元的利害を無視する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "権力集中や富裕層の影響力への批判を、秘密結社による万能支配へ置き換える",
+          "芸能界の商業演出や炎上マーケティングを、現実の政治支配の証拠にする"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "偶然の一致やパターン認識が、隠された意味を見つけた感覚を生む影響を見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "バイエルン・イルミナティは1776年創設、1780年代に禁止された。陰謀論としては1797年のAugustin BarruelやJohn Robisonの反革命的著作で、フリーメイソンやイルミナティがフランス革命を操ったという物語が広まった。",
+      "spread_period": "19世紀以降、反フリーメイソン、反ユダヤ主義、反共、反国連、NWO論と結びつき、20世紀後半の米国右派・民兵運動、1990年代以降のインターネット、2000年代以降の音楽・芸能人シンボル動画、2010年代以降のQAnonやSNS陰謀論で再流通した。",
+      "spread_scope": "英語圏を中心に、日本語圏、欧州、中南米、アフリカのSNS、動画サイト、陰謀論コミュニティ、宗教的終末論、反グローバリズム、反金融エリート言説へ広がっている。",
+      "note": "この項目は、歴史上の秘密結社、富裕層の政治献金、ロビー活動、国際機関、金融制度への批判を否定しない。対象は、それらを現代まで続く単一のイルミナティ支配へ統合する主張である。",
+      "spreaders": [
+        "SNS・動画サイト上の陰謀論コミュニティ",
+        "NWO、反グローバリズム、反フリーメイソン系発信の一部",
+        "芸能人や音楽PVの象徴解読系コンテンツ",
+        "QAnonや終末論系コミュニティ"
+      ],
+      "beneficiaries": [
+        "陰謀論コンテンツで広告・購読・寄付収益を得る媒体",
+        "恐怖や選民意識を利用して講座、書籍、コミュニティへ誘導する発信者",
+        "既存制度への不信を政治的動員に使う発信者"
+      ],
+      "source": {
+        "title": "Britannica: Bavarian Illuminati",
+        "url": "https://www.britannica.com/topic/Bavarian-illuminati"
+      }
+    },
+    "sources": [
+      {
+        "title": "Britannica: Bavarian Illuminati",
+        "url": "https://www.britannica.com/topic/Bavarian-illuminati",
+        "type": "article"
+      },
+      {
+        "title": "National Geographic: Meet the Man Who Started the Illuminati",
+        "url": "https://www.nationalgeographic.com/history/history-magazine/article/profile-adam-weishaupt-illuminati-secret-society",
+        "type": "article"
+      },
+      {
+        "title": "HISTORY: The Secretive Origins of the Illuminati",
+        "url": "https://www.history.com/articles/illuminati-origins-bavarian-secret-society",
+        "type": "article"
+      },
+      {
+        "title": "Michael Barkun: A Culture of Conspiracy, University of California Press",
+        "url": "https://doi.org/10.1525/california/9780520238053.001.0001",
+        "type": "paper"
+      },
+      {
+        "title": "Institute for Strategic Dialogue: The New World Order Conspiracy Theory",
+        "url": "https://www.isdglobal.org/wp-content/uploads/2022/09/New-World-Order-ISD-External-August2022-.pdf",
+        "type": "article"
+      },
+      {
+        "title": "PolitiFact: Are black eyes on newsmakers evidence they’re in the Illuminati?",
+        "url": "https://www.politifact.com/factchecks/2023/aug/10/facebook-posts/are-black-eyes-on-newsmakers-evidence-theyre-in-th/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-14",
+    "updated_at": "2026-05-14",
+    "tags": [
+      "イルミナティ",
+      "Illuminati",
+      "バイエルン啓明結社",
+      "Adam Weishaupt",
+      "秘密結社",
+      "新世界秩序",
+      "NWO",
+      "フリーメイソン",
+      "ロスチャイルド",
+      "中央銀行",
+      "芸能人陰謀論",
+      "片目",
+      "ピラミッド",
+      "グローバリスト",
+      "反ユダヤ主義",
+      "QAnon",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "qanon-follow-the-white-rabbit",
+    "title": "「白ウサギを追え」でQAnonの隠された真実に到達できる",
+    "description": "「白ウサギを追え」「Follow the White Rabbit」は、QAnonの暗号やQ dropsを追うことで、ディープステート、悪魔崇拝的児童売買カバール、トランプによる秘密作戦などの隠された真実に到達できるという合図である。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "「白ウサギを追え」はQAnon圏で使われた探索・覚醒の合図だが、Q dropsが国家機密や児童売買カバールの実在を示した証拠はない。曖昧な暗号解読を促し、現実の脅迫・暴力・選挙不信にも接続した高リスクな陰謀論。",
+    "explanation": "「Follow the White Rabbit」は『不思議の国のアリス』や映画『マトリックス』に由来する大衆文化上の表現だが、QAnonでは『隠された真実を自分で調べる』『Q dropsの手がかりを追う』という意味で使われた。QAnonの中核主張は、匿名投稿者Qが政府高官級の情報を流し、Donald Trumpがディープステートや悪魔崇拝的児童売買カバールを秘密裏に倒すというものだった。しかし、Qの予告したHillary Clinton逮捕や大量起訴などは実現せず、Q dropsは検証可能な機密情報ではなく、曖昧な質問、合図、後付け解釈に依存していた。Pizzagate系の児童売買主張も、Comet Ping Pong事件やHunter Biden関連投稿などで繰り返し検証され、具体的証拠は示されていない。FBI系資料や過激主義研究機関は、QAnonを暴力や犯罪行為を動機づけうる陰謀論として扱っている。したがって、この標語を『秘密情報への入口』とみなす主張は、証拠ではなく参加者の解釈共同体を強化する仕組みであり、事実認定としては虚偽である。",
+    "verification_process": [
+      "主張を「『白ウサギを追え』はQAnonの暗号を追って隠された真実に到達できるという合図である」と定義した。",
+      "Britannica、ADL、ISD、Soufan CenterでQAnonの起源、中核主張、標語、流布経路を確認した。",
+      "FBI Phoenix Field Officeの2019年資料で、QAnonが陰謀論由来の暴力リスクとして扱われた文脈を確認した。",
+      "FactCheck.orgなどで、QAnonが再利用したPizzagate型児童売買主張に具体的証拠がないことを確認した。",
+      "「白ウサギ」表現について、研究者のデジタル・エスノグラフィー記録と百科事典資料を照合し、QAnon内の合図としての位置づけと限界を分けて評価した。"
+    ],
+    "why_it_spreads": [
+      "有名作品の引用が、陰謀論参加を『目覚め』や冒険の物語として魅力化する",
+      "暗号解読型の投稿が、偶然の一致や曖昧な言葉を発見体験に変える",
+      "『自分で調べろ』という形式が、反証よりも都合のよい断片探索を促す",
+      "児童保護、政府不信、反エリート感情と結びつき、道徳的怒りを動員しやすい",
+      "Qや白ウサギなど短い記号が、SNS、動画、グッズ、ハッシュタグで再利用しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "証拠が見つからないことを、完璧な隠蔽や暗号化の証拠として扱う",
+          "政治家、芸能人、企業、投稿時刻を同じ秘密計画の合図として読む"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "Q dropsの曖昧な文言を、後から事件に合わせて解釈する",
+          "映画・童話・絵文字・ロゴなどの連想を、実在する犯罪組織の証拠にする"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "外れた予言や反証を無視し、当たったように見える断片だけを残す",
+          "児童売買の実在問題と、特定政治勢力による世界規模カバール主張を混同する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "警察、裁判記録、報道、ファクトチェックを、すべてディープステート側の隠蔽として退ける"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "謎解き参加の快感や共同体への帰属感が、確証バイアスを強める影響を見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "QAnonは2017年10月28日の4chan投稿を起点とする。『Follow the White Rabbit』は初期QAnonコミュニティがTwitter、Reddit、4chanで使ったキーワード・合図で、Q dropsでもAlice in WonderlandやThe Matrix系の参照と結びついた。",
+      "spread_period": "2017年末から2018年にQAnon標語として使われ、2020年のCOVID-19、米大統領選、Save the Children系投稿で一般層へ広がった。2021年1月6日以後のプラットフォーム規制後も、絵文字、婉曲語、グッズ、代替SNSで再流通している。",
+      "spread_scope": "米国の4chan・8chan/8kun・Reddit・Facebook・YouTube・Twitterを起点に、英語圏、日本語圏、欧州、中南米などの反政府、反ワクチン、反エリート、終末論、陰謀論コミュニティへ広がった。",
+      "note": "この項目は、児童売買や政治腐敗が現実に存在する問題であることを否定しない。対象は、それらをQ dropsや白ウサギの合図で読み解ける単一の秘密戦争へ統合する主張である。",
+      "spreaders": [
+        "QAnon関連のSNS・動画チャンネル・匿名掲示板コミュニティ",
+        "Q dropsの解釈を行うインフルエンサーや代替メディア",
+        "Save the Children系ハッシュタグにQAnon文脈を混ぜた発信者",
+        "QAnonグッズや標語を販売・拡散するアカウント"
+      ],
+      "beneficiaries": [
+        "陰謀論コンテンツで広告・購読・寄付収益を得る媒体",
+        "QAnonグッズ、講座、コミュニティで収益化する発信者",
+        "反政府・反エリート感情を政治的動員に使う発信者"
+      ],
+      "source": {
+        "title": "Follow the White Rabbit - Marc-André Argentino",
+        "url": "https://www.maargentino.com/follow-the-white-rabbit/"
+      }
+    },
+    "sources": [
+      {
+        "title": "Britannica: QAnon",
+        "url": "https://www.britannica.com/topic/QAnon",
+        "type": "article"
+      },
+      {
+        "title": "ADL: QAnon",
+        "url": "https://www.adl.org/resources/backgrounder/qanon",
+        "type": "article"
+      },
+      {
+        "title": "Institute for Strategic Dialogue: The Genesis of a Conspiracy Theory",
+        "url": "https://www.isdglobal.org/isd-publications/the-genesis-of-a-conspiracy-theory/",
+        "type": "article"
+      },
+      {
+        "title": "FBI Phoenix Field Office: Anti-Government, Identity Based, and Fringe Political Conspiracy Theories Very Likely Motivate Domestic Extremists",
+        "url": "https://publicintelligence.net/fbi-consiracy-theory-domestic-extremism/",
+        "type": "government"
+      },
+      {
+        "title": "The Soufan Center: Quantifying The Q Conspiracy",
+        "url": "https://thesoufancenter.org/research/quantifying-the-q-conspiracy-a-data-driven-approach-to-understanding-the-threat-posed-by-qanon/",
+        "type": "article"
+      },
+      {
+        "title": "FactCheck.org: Social Media Posts Dredge Up Baseless Child Trafficking Conspiracy Theory",
+        "url": "https://www.factcheck.org/2020/10/social-media-posts-dredge-up-baseless-child-trafficking-conspiracy-theory/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-14",
+    "updated_at": "2026-05-14",
+    "tags": [
+      "QAnon",
+      "白ウサギを追え",
+      "Follow the White Rabbit",
+      "Q drops",
+      "ディープステート",
+      "Pizzagate",
+      "児童売買陰謀論",
+      "Save the Children",
+      "The Matrix",
+      "不思議の国のアリス",
+      "暗号解読",
+      "グレート・アウェイクニング",
+      "反政府陰謀論",
+      "陰謀論"
+    ]
   }
 ]
