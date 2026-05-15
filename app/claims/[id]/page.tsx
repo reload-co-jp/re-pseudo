@@ -108,14 +108,18 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
     "@context": "https://schema.org",
     "@type": "ClaimReview",
     url: `${BASE_URL}/claims/${id}/`,
-    mainEntityOfPage: `${BASE_URL}/claims/${id}/`,
     datePublished: claim.created_at,
     dateModified: claim.updated_at,
+    inLanguage: "ja",
     claimReviewed: claim.title,
     author: {
       "@type": "Organization",
       name: "Re pseudo",
       url: BASE_URL,
+      logo: {
+        "@type": "ImageObject",
+        url: `${BASE_URL}/logo.svg`,
+      },
     },
     reviewRating: {
       "@type": "Rating",
@@ -126,19 +130,17 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
     },
     itemReviewed: {
       "@type": "Claim",
-      author: { "@type": "Thing", name: "不明" },
-    },
-    image: claim.images?.map((image) => image.url),
-    publisher: {
-      "@type": "Organization",
-      name: "Re pseudo",
-      url: BASE_URL,
-      logo: {
-        "@type": "ImageObject",
-        url: `${BASE_URL}/logo.svg`,
+      name: claim.title,
+      text: claim.description,
+      firstAppearance: {
+        "@type": "CreativeWork",
+        url: claim.circulation.source.url,
+        name: claim.circulation.source.title,
       },
     },
-    keywords: claim.tags.join(", "),
+    ...(claim.images?.length
+      ? { image: claim.images.map((image) => image.url) }
+      : {}),
   }
   const relatedClaims = getRelatedClaims(claim)
   const breadcrumbJsonLd = {
