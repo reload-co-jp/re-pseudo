@@ -157,10 +157,24 @@ const CriteriaPage: FC = () => {
     },
   }
 
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: checklist.map((item) => ({
+      "@type": "Question",
+      name: item.q,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.bad,
+      },
+    })),
+  }
+
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: "2.5rem" }}>
       <script dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} type="application/ld+json" />
       <script dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} type="application/ld+json" />
+      <script dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} type="application/ld+json" />
 
       <header style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}>
         <Breadcrumbs

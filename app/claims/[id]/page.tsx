@@ -142,6 +142,29 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       ? { image: claim.images.map((image) => image.url) }
       : {}),
   }
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: `「${claim.title}」は本当か？`,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: `判定: ${rating.label}。${claim.summary}`,
+        },
+      },
+      {
+        "@type": "Question",
+        name: `なぜ「${claim.title}」という情報が広まるのか？`,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: claim.why_it_spreads.join(" "),
+        },
+      },
+    ],
+  }
+
   const relatedClaims = getRelatedClaims(claim)
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
@@ -172,6 +195,10 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
     <article style={{ display: "flex", flexDirection: "column", gap: "2rem" }}>
       <script
         dangerouslySetInnerHTML={{ __html: JSON.stringify(claimReviewJsonLd) }}
+        type="application/ld+json"
+      />
+      <script
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
         type="application/ld+json"
       />
       <script
