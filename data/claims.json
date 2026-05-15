@@ -12378,5 +12378,542 @@
       "政治宣伝",
       "陰謀論"
     ]
+  },
+  {
+    "id": "russia-ukraine-denazification-demilitarization-justification",
+    "title": "ロシアの侵攻はウクライナの「非ナチ化」「非軍事化」のために必要だった",
+    "description": "2022年2月のロシアによるウクライナ全面侵攻は、ウクライナがナチ政権に支配され、ロシア系住民へのジェノサイドやロシアへの軍事的脅威を作っていたため、非ナチ化・非軍事化する正当な軍事行動だった。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "ロシア政府が『非ナチ化』『非軍事化』を侵攻目的として掲げたことは事実。しかし、ウクライナがナチ国家でジェノサイドを行い、侵攻が必要だったという根拠はない。国連総会はロシアの侵略を非難し、ICJはロシアに軍事行動停止を命じた。",
+    "explanation": "2022年2月24日、Vladimir Putinはウクライナへの『特別軍事作戦』を発表し、『非軍事化』『非ナチ化』を目的に掲げた。しかし、この説明は侵攻を正当化する根拠にならない。国連総会決議ES-11/1はロシアのウクライナ侵略を非難し、ロシア軍の即時・完全・無条件撤退を求めた。ICJは2022年3月16日の暫定措置命令で、ロシアが主張したドンバスでのジェノサイドを理由に軍事行動を正当化できる根拠は認められないとして、ロシアに軍事作戦停止を命じた。USHMMは、民主的なウクライナに『非ナチ化』が必要だという主張はホロコースト史の悪用であり虚偽だと明記した。ウクライナには極右勢力やAzov連隊のように問題視されてきた集団が存在するが、2019年大統領選・議会選を観察したOSCE/ODIHRは、選挙が競争的で基本的自由がおおむね尊重されたと評価しており、国家全体がナチ政権に支配されていたとはいえない。したがって、この主張は実在する極右問題を国家全体の性格に拡大し、侵略を正当化するプロパガンダである。",
+    "verification_process": [
+      "主張を「ロシアの全面侵攻は、ウクライナの非ナチ化・非軍事化に必要で正当だった」と定義した。",
+      "Putinの2022年2月24日演説報道で、『非軍事化』『非ナチ化』がロシア側の公式説明として使われたことを確認した。",
+      "国連総会決議ES-11/1で、国際社会がロシアの行動を侵略として非難し撤退を求めたことを確認した。",
+      "ICJの2022年3月16日暫定措置命令で、ジェノサイド主張を根拠とする軍事行動正当化が認められなかったことを確認した。",
+      "USHMM、OSCE/ODIHR、EUvsDisinfoで、『ナチ国家』という描写、民主的選挙、極右勢力の実態と誇張を分けて評価した。"
+    ],
+    "why_it_spreads": [
+      "第二次世界大戦の記憶と『反ナチ』の道徳的正当性を利用できる",
+      "ウクライナの一部極右勢力やAzov連隊の存在が、国家全体の説明へ拡大されやすい",
+      "ロシア語話者保護やジェノサイド防止という語が、人道的介入のように聞こえる",
+      "NATO拡大不安、反米感情、反西側感情と接続しやすい",
+      "戦時の映像・被害・歴史的記号が、文脈を切り離して拡散されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "一部極右集団の存在を、国家全体がナチ政権である証拠と扱う",
+          "ロシア語話者の被害やドンバス紛争を、全面侵攻の必要条件として扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "Azov連隊やバンデラ記念の画像だけを取り上げ、選挙結果や制度全体を無視する",
+          "ジェノサイド主張の法的検証やICJ命令を省く"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "国連総会の侵略非難、ICJの軍事行動停止命令、民間人被害の記録を省く",
+          "ロシア政府・国営メディア発表を一次事実として扱い、独立検証を行わない"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "ウクライナ国内の極右問題への批判を、主権国家への全面侵攻の正当化に置き換える",
+          "NATOや西側への不満を、ウクライナ国家消滅や領土侵攻の正当化に使う"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "ウクライナ政府、NATO、西側メディアがナチ支配を隠しているという前提で反証を退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2022年2月24日、Putinがテレビ演説で『特別軍事作戦』を発表し、目的としてウクライナの『demilitarization and denazification』を掲げた。",
+      "spread_period": "2022年2月の全面侵攻開始直後からロシア政府、国営メディア、親ロシア系SNSで急拡散し、戦争継続、占領地編入、停戦条件、NATO批判の文脈で繰り返し使われている。",
+      "spread_scope": "ロシア語圏、英語圏、日本語圏を含む国際的な親ロシア、反NATO、反米、陰謀論、極右・極左の一部コミュニティで流通する。",
+      "note": "この項目は、ウクライナ国内の極右勢力や歴史認識問題の存在を否定しない。対象は、それらをウクライナ国家全体の『ナチ化』とし、ロシアの全面侵攻を必要・正当とする主張である。",
+      "spreaders": [
+        "ロシア政府・外交当局・国営メディア",
+        "親ロシア系SNSアカウント・動画チャンネル",
+        "反NATO・反米系の一部発信者",
+        "戦争陰謀論・偽情報拡散コミュニティ"
+      ],
+      "beneficiaries": [
+        "侵攻の国内外向け正当化を必要とするロシア政府・関係媒体",
+        "反西側・反NATO動員を強めたい政治的発信者",
+        "戦争関連の偽情報コンテンツで注目・広告・寄付収益を得る媒体"
+      ],
+      "source": {
+        "title": "Interfax: Putin announces special military operation over situation in Donbas",
+        "url": "https://interfax.com/newsroom/top-stories/73954/"
+      }
+    },
+    "sources": [
+      {
+        "title": "United Nations Digital Library: A/RES/ES-11/1 Aggression against Ukraine",
+        "url": "https://digitallibrary.un.org/record/3965290?ln=en",
+        "type": "government"
+      },
+      {
+        "title": "International Court of Justice: Allegations of Genocide under the Convention on the Prevention and Punishment of the Crime of Genocide (Ukraine v. Russian Federation)",
+        "url": "https://www.icj-cij.org/case/182",
+        "type": "government"
+      },
+      {
+        "title": "United States Holocaust Memorial Museum: Museum Condemns Russia's Invasion of Ukraine",
+        "url": "https://www.ushmm.org/information/press/press-releases/museum-condemns-russias-invasion-of-ukraine",
+        "type": "government"
+      },
+      {
+        "title": "OSCE/ODIHR: Ukraine’s 2019 presidential and early parliamentary elections final reports",
+        "url": "https://www.osce.org/odihr/elections/ukraine/439574",
+        "type": "government"
+      },
+      {
+        "title": "EUvsDisinfo: Denazification of Ukraine will take two or three generations",
+        "url": "https://euvsdisinfo.eu/report/denazification-of-ukraine-will-take-two-or-three-generations/",
+        "type": "article"
+      },
+      {
+        "title": "TIME: Historians on What Putin Gets Wrong About 'Denazification' in Ukraine",
+        "url": "https://time.com/6154493/denazification-putin-ukraine-history-context/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-15",
+    "updated_at": "2026-05-15",
+    "tags": [
+      "ロシア",
+      "ウクライナ",
+      "非ナチ化",
+      "非軍事化",
+      "侵略",
+      "戦争プロパガンダ",
+      "偽情報",
+      "NATO",
+      "ドンバス",
+      "ジェノサイド主張",
+      "Azov連隊",
+      "ホロコースト史",
+      "国際法",
+      "ICJ",
+      "国連総会",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "nesara-gesara-debt-reset",
+    "title": "NESARA/GESARAで債務免除と金融リセットが起きる",
+    "description": "NESARAまたはGESARAは秘密裏に成立済みの法律・国際協定であり、発動されると住宅ローン、クレジットカード、学生ローンなどの個人債務が帳消しになり、所得税やIRSが廃止され、金本位制・量子金融システム・世界通貨リセットによって隠された資金が一般市民へ分配される。",
+    "category": "finance",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "NESARAは1990年代の私的な経済改革案に由来するが、米国議会で成立した法律ではない。GESARA、QFS、世界的債務免除、隠し資金配布の公的根拠はなく、支払い停止、投資詐欺、暗号資産詐欺に誘導される危険が高い。",
+    "explanation": "NESARAの起点は、Harvey Francis Barnardが1990年代に作成したNational Economic Stabilization and Recovery Actという私的な経済改革案である。これは所得税の置き換え、複利の廃止、金銀複本位制などを含む提案だったが、法案として成立したものではない。2000年代初頭、Shaini Goodwin（Dove of Oneness）が、NESARAは秘密会期で可決されBill Clintonが署名したが、最高裁の箝口令や9.11で発動が妨害されたという物語へ変形した。Bellingcatは、近年この物語がGESARAとして世界化し、QAnon系チャンネルで債務免除、秘密資金、通貨再評価、暗号資産投資と結びついて再拡散していると報じた。ADLも、NESARA/GESARAをQAnon周辺で語られる未成立の経済改革と繁栄福音的な陰謀論として整理している。米国連邦準備制度は中央銀行デジタル通貨についても調査段階であり、秘密の量子金融システムや全世界の金本位制移行を発表していない。したがって、NESARA/GESARA発動を理由に借金返済を止めたり、通貨・暗号資産・証明書購入へ誘導したりする主張は、法的・金融的根拠を欠く。",
+    "verification_process": [
+      "主張を「NESARA/GESARAが成立済みで、債務免除・税制廃止・量子金融・通貨リセットが近く発動する」と定義した。",
+      "Barnardの私的提案と、Goodwinによる秘密成立説・9.11妨害説を分けて整理した。",
+      "Lead Storiesの検証で、米財務省が2002年時点でNESARAは議会未提出・現行法ではないと回答した記録を確認した。",
+      "Bellingcat、ADL、Zygon論文で、NESARA/GESARAがQAnon、繁栄信仰、金融ミレナリアニズム、暗号資産・通貨再評価言説と接続した流布経路を確認した。",
+      "Federal ReserveとFBIの公的情報で、QFSや即時債務免除ではなく、CBDC検討段階・暗号資産投資詐欺注意喚起という現実の制度状況を確認した。"
+    ],
+    "why_it_spreads": [
+      "借金、住宅ローン、医療費、税負担への現実の不安に直接訴える",
+      "『秘密法』『箝口令』『発動直前』という構造が、外れた予言を先延ばししやすい",
+      "QAnon、Great Reset、反中央銀行、主権市民、スピリチュアル金融言説と接続しやすい",
+      "暗号資産、外貨、貴金属、証明書購入など、具体的な儲け話に転用されやすい",
+      "公的制度への不信と、経済的救済への強い期待が組み合わさる"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "私的な改革案の存在を、成立済み法律や国際協定の証拠とみなす",
+          "SNS投稿、動画、チャネリング情報、匿名インサイダー発言を公的文書の代わりに扱う"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "法令・議会記録・政府発表が存在しないことを、箝口令やディープステート妨害の証拠とする",
+          "発動予言が外れるたびに、秘密作戦が延期されたと解釈する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "CBDC、ISO 20022、金融制裁、暗号資産など実在する金融変化を、GESARA発動の兆候と読む",
+          "世界経済の不安定さを、債務帳消しが近い証拠として扱う"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "議会未提出・未成立という公的確認を無視し、都合のよい発動日情報だけを追う",
+          "詐欺被害や外れた過去予言を省き、成功談だけを拡散する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "債務負担や不平等への正当な批判を、秘密法発動や通貨リセット待望へ置き換える"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "NESARAの原案は1990年代にHarvey Francis Barnardが作成した私的な経済改革案。2000年代初頭にShaini Goodwin（Dove of Oneness）が、秘密成立済みの法律、9.11で発動妨害、繁栄資金配布という物語として広めた。",
+      "spread_period": "2000年代にOmega Trust系の繁栄資金・ニューエイジ文脈で広まり、2010年代半ば以降はGESARAとして世界化。2020年以降はQAnon、Great Reset、COVID-19、暗号資産、外貨再評価、金本位制、QFS言説と結びつき急拡散した。",
+      "spread_scope": "米国を起点に、英語圏、欧州、日本語圏を含むQAnon、主権市民、反中央銀行、スピリチュアル、暗号資産・外貨投資、陰謀論コミュニティで流通する。",
+      "note": "この項目は、債務問題、税制改革、金融制度改革の必要性を否定しない。対象は、NESARA/GESARAが秘密裏に成立し、全債務帳消しや世界通貨リセットが近く発動するという主張である。",
+      "spreaders": [
+        "Dove of Oneness系の初期NESARA発信者",
+        "QAnon・Great Awakening系SNSアカウント",
+        "GESARA/QFS/通貨再評価を扱う動画チャンネル・Telegramチャンネル",
+        "暗号資産、外貨、貴金属、証明書販売へ誘導する発信者",
+        "主権市民・反中央銀行・スピリチュアル金融系コミュニティ"
+      ],
+      "beneficiaries": [
+        "NESARA/GESARA関連コンテンツで広告・購読・寄付収益を得る媒体",
+        "暗号資産、外貨、貴金属、証明書、講座、コミュニティを販売する発信者",
+        "金融不安を利用して個人情報、手数料、投資資金を集める詐欺的事業者"
+      ],
+      "source": {
+        "title": "Bellingcat: As QAnon Falters, European Followers Flock to a Financial Conspiracy",
+        "url": "https://www.bellingcat.com/news/2022/12/21/as-qanon-falters-european-followers-flock-to-a-financial-conspiracy/"
+      }
+    },
+    "sources": [
+      {
+        "title": "Lead Stories: Fact Check - No Evidence Economic Reforms Known As NESARA Were Secretly Approved by Congress And Bill Clinton",
+        "url": "https://leadstories.com/hoax-alert/2021/03/fact-check-nesara-not-secretly-approved-by-congress-nor-obscured-by-presidents-and-george-bush-is-not-reptile-space-alien.html",
+        "type": "article"
+      },
+      {
+        "title": "Bellingcat: As QAnon Falters, European Followers Flock to a Financial Conspiracy",
+        "url": "https://www.bellingcat.com/news/2022/12/21/as-qanon-falters-european-followers-flock-to-a-financial-conspiracy/",
+        "type": "article"
+      },
+      {
+        "title": "ADL: QAnon Adherents Reeling in Wake of Inauguration, Trump Departure",
+        "url": "https://notoleranceforantisemitism.adl.org/glossary/nesaragesara",
+        "type": "article"
+      },
+      {
+        "title": "Zygon: The Financial Millennium",
+        "url": "https://www.zygonjournal.org/articles/10.16995/zygon.11011/",
+        "type": "paper"
+      },
+      {
+        "title": "Federal Reserve: Central Bank Digital Currency (CBDC)",
+        "url": "https://www.federalreserve.gov/central-bank-digital-currency.htm",
+        "type": "government"
+      },
+      {
+        "title": "FBI: Cryptocurrency Investment Fraud",
+        "url": "https://www.fbi.gov/how-we-can-help-you/victim-services/national-crimes-and-victim-resources/cryptocurrency-investment-fraud",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-15",
+    "updated_at": "2026-05-15",
+    "tags": [
+      "NESARA",
+      "GESARA",
+      "債務免除",
+      "金融リセット",
+      "通貨リセット",
+      "QFS",
+      "量子金融システム",
+      "金本位制",
+      "暗号資産",
+      "外貨投資",
+      "QAnon",
+      "Great Reset",
+      "主権市民",
+      "繁栄資金",
+      "投資詐欺",
+      "金融陰謀論"
+    ]
+  },
+  {
+    "id": "feminism-family-destruction-conspiracy",
+    "title": "フェミニズムは家族や社会を破壊するための陰謀である",
+    "description": "フェミニズムは男女平等を装いながら、男性を敵視し、伝統的家族を解体し、少子化を促進し、国家や宗教や男性の権利を弱体化させるために、国際機関、学者、メディア、左派勢力、グローバリストが進めている組織的な計画である。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "フェミニズムは多様な潮流を持つ女性の権利・ジェンダー平等運動であり、家族破壊や男性支配転覆の秘密計画だという証拠はない。この陰謀説は反フェミニズム、反ジェンダー運動、マノスフィアで拡散し、女性や支援者への敵意を強める。",
+    "explanation": "Britannicaはフェミニズムを、女性の社会的・経済的・政治的平等を求める考え方・運動として説明する。フェミニズム内部にはリベラル、社会主義、ラディカル、インターセクショナルなど多様な立場があり、家族、労働、性暴力、政治参加、賃金、ケア、再生産権をめぐる政策論争も存在する。しかし、それらを一つの秘密組織による家族破壊計画とみなす根拠はない。UN WomenとUNRISDの2025年報告は、『ジェンダー・イデオロギー』という語が、女性・少女・LGBTIQ+の権利運動やジェンダー研究を攻撃し、伝統的家族への脅威として描く枠組みとして使われていると整理している。Jolleyらの研究は、フェミニストが伝統的家族を密かに弱めようとしているという信念を『フェミニスト陰謀信念』として扱い、こうした信念が性暴力神話受容と関連することを示した。少子化についても、OECDやUNFPAは住宅費、雇用不安、育児費、将来不安、ケア負担の偏り、家族政策など複合要因を示しており、フェミニズム単独の秘密計画では説明できない。したがって、この主張は実在する社会変化や政策対立を、女性の権利運動への包括的な陰謀論へ置き換えるものだと評価できる。",
+    "verification_process": [
+      "主張を「フェミニズムは家族破壊・男性弱体化・少子化を目的とする組織的陰謀である」と定義した。",
+      "BritannicaとUN Womenで、フェミニズム・ジェンダー平等運動の一般的定義と目的を確認した。",
+      "UN Women/UNRISD報告とUNRISDワーキングペーパーで、反ジェンダー運動が『伝統的家族への脅威』という枠組みで権利運動を攻撃する構造を確認した。",
+      "Jolleyらの査読論文で、『フェミニストが伝統的家族を秘密裏に弱体化する』という信念が研究対象として扱われ、性差別・性暴力神話受容と関連することを確認した。",
+      "OECDとUNFPAで、少子化や家族形成の要因が経済不安、住宅・育児費、雇用、ケア負担、政策環境など複合的であることを確認した。"
+    ],
+    "why_it_spreads": [
+      "家族、結婚、出生率、男性の地位変化など身近な不安を一つの敵で説明できる",
+      "一部の過激な発言やSNS炎上を、フェミニズム全体の本質として見せやすい",
+      "経済不安や孤独、恋愛・結婚難、育児負担など複雑な問題を単純化できる",
+      "マノスフィア、反ジェンダー運動、宗教保守、反グローバリズム言説と接続しやすい",
+      "『女性優遇』『男性差別』という体験談形式で拡散され、統計や制度比較が省かれやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "多様な運動や政策論争を、単一の秘密計画として扱う",
+          "国際機関や大学がジェンダー平等を扱うことを、家族破壊計画の証拠とみなす"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "少子化、離婚、未婚化、男性の孤立をフェミニズムだけの結果とする",
+          "女性の教育・就労・権利拡大と家族変化の時系列を、意図的な破壊計画として読む"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "フェミニズム内部の多様性や家族支援・ケア政策への主張を無視する",
+          "過激な投稿や炎上事例だけを集め、代表性のある調査や政策資料を省く"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "雇用不安、住宅費、育児費、長時間労働、ケア負担の問題を、女性の権利運動への非難に置き換える",
+          "個別政策への批判を、女性全体やフェミニスト全体への敵意に拡張する"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "地位喪失感や恋愛・経済的不安が、敵対的な説明を受け入れやすくする影響を見落とす"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "反フェミニズム言説は女性参政権運動や第二波フェミニズムへの反発から長く存在する。現代的には、1990年代以降の『ジェンダー・イデオロギー』批判、2010年代以降のマノスフィア、反ポリコレ、反ジェンダー運動、QAnon周辺言説で、家族破壊や男性支配転覆の陰謀として再構成された。",
+      "spread_period": "2010年代半ば以降、SNS、YouTube、Reddit、匿名掲示板、ブログで急拡散し、#MeToo、少子化論争、トランスジェンダー権利、教育・性教育、男女共同参画政策、2020年代の反woke言説で繰り返し再燃している。",
+      "spread_scope": "英語圏、日本語圏、欧州、ラテンアメリカなどの反フェミニズム、マノスフィア、反ジェンダー、宗教保守、反グローバリズム、陰謀論コミュニティで流通する。",
+      "note": "この項目は、個別のフェミニズム思想、政策、運動、発言への批判を否定しない。対象は、それらを『家族破壊を狙う秘密計画』や『男性・国家を弱体化する陰謀』と断定する主張である。",
+      "spreaders": [
+        "マノスフィア、レッドピル、インセル系の一部コミュニティ",
+        "反ジェンダー・反woke系SNSアカウント",
+        "宗教保守・伝統的家族価値を掲げる一部の政治発信",
+        "反グローバリズム・文化マルクス主義系陰謀論コミュニティ",
+        "男女対立を煽る動画チャンネル・まとめサイト"
+      ],
+      "beneficiaries": [
+        "反フェミニズム・男女対立コンテンツで広告・購読・寄付収益を得る媒体",
+        "女性・LGBTIQ+の権利政策への反発を政治的動員に使う発信者",
+        "孤立や不安を利用して有料コミュニティ、講座、自己啓発商材へ誘導する発信者"
+      ],
+      "source": {
+        "title": "UN Women / UNRISD: Understanding Backlash Against Gender Equality",
+        "url": "https://knowledge.unwomen.org/en/digital-library/publications/2025/09/understanding-backlash-against-gender-equality-evidence-trends-and-policy-responses"
+      }
+    },
+    "sources": [
+      {
+        "title": "Britannica: Feminism",
+        "url": "https://www.britannica.com/topic/feminism",
+        "type": "article"
+      },
+      {
+        "title": "UN Women / UNRISD: Understanding Backlash Against Gender Equality",
+        "url": "https://knowledge.unwomen.org/en/digital-library/publications/2025/09/understanding-backlash-against-gender-equality-evidence-trends-and-policy-responses",
+        "type": "government"
+      },
+      {
+        "title": "Jolley et al.: Sexism and Feminist Conspiracy Beliefs",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/10778012241234892",
+        "type": "paper"
+      },
+      {
+        "title": "University of Bristol: Taking the Red Pill",
+        "url": "https://research-information.bris.ac.uk/en/publications/taking-the-red-pill-conspiracy-theories-gender-and-the-elusive-ep/",
+        "type": "paper"
+      },
+      {
+        "title": "OECD: Fertility trends across the OECD",
+        "url": "https://www.oecd.org/en/publications/society-at-a-glance-2024_918d8db3-en/full-report/fertility-trends-across-the-oecd-underlying-drivers-and-the-role-for-policy_770679b8.html",
+        "type": "government"
+      },
+      {
+        "title": "UN News: Why lower fertility does not have to mean economic decline",
+        "url": "https://www.ungeneva.org/en/news-media/news/2026/04/117772/why-lower-fertility-does-not-have-mean-economic-decline",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-15",
+    "updated_at": "2026-05-15",
+    "tags": [
+      "フェミニズム",
+      "反フェミニズム",
+      "ジェンダー平等",
+      "反ジェンダー運動",
+      "ジェンダー・イデオロギー",
+      "家族破壊陰謀論",
+      "少子化",
+      "マノスフィア",
+      "レッドピル",
+      "インセル",
+      "ミソジニー",
+      "男女共同参画",
+      "文化マルクス主義",
+      "反woke",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "ghq-introduced-wheat-to-japan",
+    "title": "小麦はGHQが日本に持ち込んだ",
+    "description": "日本にはもともと小麦食はなく、戦後GHQやアメリカが日本人の米食文化を破壊し、健康を悪化させ、アメリカ産小麦の市場にするために、小麦、パン、学校給食を意図的に持ち込んだ。",
+    "category": "conspiracy",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "小麦はGHQが初めて持ち込んだものではなく、弥生時代には日本で栽培され、奈良時代にも記録がある。一方、戦後の食糧不足、米国援助、学校給食、PL480などが小麦・パン食の普及を後押しした事実はある。古代からの小麦史と戦後の消費拡大を混同した主張。",
+    "explanation": "農林水産省は、麦は弥生時代に大麦・大豆・小豆とともに朝鮮半島から伝わり、奈良時代には『万葉集』や平城宮跡木簡から小麦・大麦栽培が確認できると説明している。製粉振興会も、弥生時代中末期には小麦や大麦が畑で作られていたと整理する。したがって『小麦そのものをGHQが持ち込んだ』という主張は史実に反する。ただし、戦後の学校給食と小麦輸入が日本の食生活に影響したことは事実である。文部科学省は、1947年からLARA寄贈食糧などで学校給食が再開され、1950年から米国政府寄贈の小麦によるパン・ミルク・おかずの完全給食が大都市で始まったと記す。農林水産省も、戦後給食はアメリカなどからの援助物資で再開され、当時のアメリカ小麦にはビタミンB1・B2が強化されていたと説明する。さらにPL480下の市場開発を扱う伊藤淳史の研究は、米国が日本を小麦などの市場と見た一方、米国農務省が日本の米を米国小麦に置き換える意図を持っていたとは判断できないとする。つまり、戦後の小麦援助・輸入・消費拡大は検証可能な歴史だが、それを『GHQが小麦を初めて持ち込み、米食文化を破壊する陰謀だった』と断定するのは誤解を招く。",
+    "verification_process": [
+      "主張を「小麦は戦後GHQが日本に初めて持ち込み、米食破壊のために普及させた」と定義した。",
+      "農林水産省と製粉振興会の小麦史資料で、弥生時代から日本で小麦・大麦が栽培されていたことを確認した。",
+      "文部科学省、農林水産省、JACAR資料で、戦後のLARA援助、米国政府寄贈小麦、パン・ミルク給食の開始時期を確認した。",
+      "PL480と米国余剰農産物を扱う農業史研究で、米国市場開発・日本側政策・多国間関係の文脈を確認した。",
+      "古代からの小麦栽培と、戦後の輸入小麦・パン給食普及を分けて評価した。"
+    ],
+    "why_it_spreads": [
+      "戦後のパン給食や脱脂粉乳の記憶が、GHQによる食文化改造の物語と結びつきやすい",
+      "米食への愛着、食料自給率への不安、アメリカ依存への不信を一つの説明にまとめられる",
+      "小麦アレルギー、グルテン不調、生活習慣病への不安が、歴史陰謀論に接続しやすい",
+      "『昔の日本人は米だけ食べて健康だった』という単純な郷愁が受け入れられやすい",
+      "戦後食生活変化に実在する米国援助・市場開発要素があるため、陰謀説に見かけの説得力を与える"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "戦後に小麦消費が増えたことを、小麦が戦後初めて持ち込まれた証拠と扱う",
+          "食生活の欧米化、経済成長、都市化、流通変化、学校給食をすべてGHQの単一計画の結果とみなす"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "弥生時代・奈良時代からの小麦栽培記録を無視する",
+          "戦後食糧不足や栄養改善、学校給食法、日本政府側の政策判断を省く"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "米国援助や余剰農産物政策を、健康破壊や民族弱体化を狙う秘密計画と断定する",
+          "公的資料や農業史研究を、GHQ・米国に都合の悪い真実を隠すものとして退ける"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "米は自然で日本人に合い、小麦は外来で有害という二分法で判断する",
+          "伝統食なら常に健康、戦後に普及した食品なら不自然という印象で評価する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "輸入依存や食料安全保障への正当な議論を、小麦そのものの出自やGHQ陰謀論へ置き換える"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "戦後のパン給食、脱脂粉乳、米国余剰農産物、食生活改善運動をめぐる批判は長く存在する。2000年代以降、『アメリカ小麦戦略』論、食育・自然食・反グローバリズム・反GHQ言説、グルテン忌避言説が結びつき、『小麦はGHQが持ち込んだ』という簡略化された形で流布した。",
+      "spread_period": "2010年代以降、ブログ、健康本、動画、SNSで再拡散し、米粉・和食回帰、グルテンフリー、反ワクチン・反食品添加物、戦後レジーム批判、反米陰謀論の文脈で繰り返し使われている。",
+      "spread_scope": "日本語圏の自然食、食育、反GHQ、反米、グルテンフリー、米食推進、陰謀論コミュニティで流通する。",
+      "note": "この項目は、戦後の米国小麦援助、学校給食、PL480、市場開発、米食減少への批判を否定しない。対象は、小麦そのものがGHQによる戦後導入であり、米食破壊・健康破壊の陰謀だったとする主張である。",
+      "spreaders": [
+        "自然食・食育・反小麦系の一部発信者",
+        "反GHQ・反米・戦後レジーム批判系アカウント",
+        "グルテンフリーや米粉商品を宣伝する一部の健康系コンテンツ",
+        "食品添加物・ワクチン・医療不信と結びつける陰謀論コミュニティ"
+      ],
+      "beneficiaries": [
+        "小麦不安を使って書籍、講座、食品、サプリ、米粉商品を販売する発信者・事業者",
+        "反米・反GHQ感情を政治的動員に使う発信者",
+        "食の不安を集客に使う広告収益型メディア"
+      ],
+      "source": {
+        "title": "農林水産省: 特集1 麦(1)",
+        "url": "https://www.maff.go.jp/j/pr/aff/1602/spe1_01.html"
+      }
+    },
+    "sources": [
+      {
+        "title": "農林水産省: 特集1 麦(1)",
+        "url": "https://www.maff.go.jp/j/pr/aff/1602/spe1_01.html",
+        "type": "government"
+      },
+      {
+        "title": "製粉振興会: 小麦・小麦粉の歴史",
+        "url": "https://www.seifun.or.jp/pages/92/",
+        "type": "other"
+      },
+      {
+        "title": "文部科学省: 四 学校給食の普及・奨励",
+        "url": "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1317788.htm",
+        "type": "government"
+      },
+      {
+        "title": "農林水産省: 学校給食と米飯給食",
+        "url": "https://www.maff.go.jp/j/syouan/keikaku/soukatu/okome_summary/03/health02.html",
+        "type": "government"
+      },
+      {
+        "title": "アジア歴史資料センター: 学校給食っていつからあるの？",
+        "url": "https://www.jacar.go.jp/exhibition/glossary/tochikiko-henten/qa/qa14.html",
+        "type": "government"
+      },
+      {
+        "title": "Ito Atsushi: Japanese Market Development Programs under PL 480 in the late 1950s",
+        "url": "https://cir.nii.ac.jp/crid/1050290537378074496",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-05-15",
+    "updated_at": "2026-05-15",
+    "tags": [
+      "小麦",
+      "GHQ",
+      "学校給食",
+      "パン食",
+      "米食",
+      "食生活改善",
+      "戦後日本",
+      "LARA",
+      "ガリオア",
+      "PL480",
+      "アメリカ小麦",
+      "食料援助",
+      "グルテンフリー",
+      "自然食",
+      "食文化",
+      "反米陰謀論"
+    ]
   }
 ]
