@@ -12915,5 +12915,141 @@
       "食文化",
       "反米陰謀論"
     ]
+  },
+  {
+    "id": "ajinomoto-msg-additives-conspiracy",
+    "title": "味の素や食品添加物は隠された毒である",
+    "description": "味の素（グルタミン酸ナトリウム、MSG）や食品添加物は、企業や政府が危険性を隠して流通させている毒であり、頭痛、発がん、脳障害、依存、生活習慣病などの原因になる。『安全』という評価は食品企業や行政による隠蔽である。",
+    "category": "health",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "MSGはFDA、FSANZ、JECFAなどで通常使用範囲では安全と評価され、日本の食品添加物も安全性評価・規格基準・表示制度の対象である。個別添加物の摂取量や体質への注意は必要だが、『味の素や添加物は隠された毒』という包括的陰謀説は根拠がない。",
+    "explanation": "グルタミン酸ナトリウム（MSG）は、昆布やトマト、チーズなどにも含まれるグルタミン酸のナトリウム塩で、うま味を強める調味料として使われる。FDAはMSGをGRAS（一般に安全と認められる）に分類し、添加MSGは原材料表示に『monosodium glutamate』と記載する必要があるとしている。FSANZも、JECFA、FASEB、FSANZによる評価を踏まえ、MSGは安全な認可添加物だと説明する。EFSAは2017年にグルタミン酸・グルタミン酸塩を再評価し、無制限に安全としたのではなく、グループADIを設定し、摂取量が高くなりうる条件を検討した。日本でも厚生労働省は、食品添加物について食品安全委員会の食品健康影響評価を受け、人の健康を損なうおそれがない場合に限り、成分規格や使用基準を定めて使用を認めると説明している。いわゆる『中華料理店症候群』については、1968年の投書をきっかけに広まったが、FASEB評価やその後のレビューでは、通常の食事中MSGと一貫した症状群との因果関係は確認されていない。したがって、食品添加物は個別に評価・管理されるべき対象であり、表示や摂取量への関心は妥当だが、MSGや添加物全体を『政府と企業が隠す毒』とする主張は科学的評価と制度実態に反する。",
+    "verification_process": [
+      "主張を「味の素/MSGや食品添加物は、危険性を隠されている毒である」と定義した。",
+      "FDA、FSANZ、EFSAでMSGとグルタミン酸塩の安全性評価、表示、ADI設定を確認した。",
+      "厚生労働省と食品安全委員会資料で、日本の食品添加物が安全性評価、規格基準、使用基準、表示制度の対象であることを確認した。",
+      "MSGと頭痛・中華料理店症候群を扱うシステマティックレビュー、Cochrane資料、FASEB関連資料で、通常摂取との一貫した因果関係が確認されていないことを確認した。",
+      "個別添加物や高摂取量への注意と、添加物全体を毒・隠蔽とする陰謀説を分けて評価した。"
+    ],
+    "why_it_spreads": [
+      "『化学調味料』『添加物』という語が人工的・不自然な印象を与える",
+      "体調不良の原因を一つの食品成分に結びつけると説明が簡単になる",
+      "過去の食品公害や企業不祥事への不信が、添加物全体への不信に拡張されやすい",
+      "自然食、無添加、オーガニック、反ワクチン、医療不信の言説と接続しやすい",
+      "『企業が隠している』『政府が認可しているから怪しい』という構図がSNSで拡散しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "天然なら安全、人工なら危険という二分法で判断する",
+          "難しい化学名やE番号を、それだけで毒性の証拠とみなす"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "食後の頭痛やだるさを、摂取量や他の食材・体調を確認せずMSGのせいにする",
+          "生活習慣病や発がんを、食生活全体ではなく特定添加物だけで説明する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "動物実験の高用量投与だけを取り上げ、通常摂取量やヒト研究を無視する",
+          "ADIや使用基準、再評価制度、表示制度を省く"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "公的機関の安全性評価を、企業に買収された隠蔽として退ける",
+          "反証があるほど食品企業が真実を隠している証拠だと扱う"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "超加工食品の過剰摂取や塩分・糖分・脂質の問題を、添加物そのものの毒性へ置き換える",
+          "食品表示の改善要求を、添加物全廃や企業陰謀論へ拡張する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "MSG不安は1968年にNew England Journal of Medicineへ掲載された『中華料理店症候群』に関する投書をきっかけに英語圏で広まり、1970年代以降、食品添加物不安や自然食運動と結びついた。",
+      "spread_period": "1990年代以降はインターネットと健康本で再流通し、2010年代以降はSNS、動画、無添加商品宣伝、反ワクチン・反医療・反大企業言説と結びついて拡散している。日本語圏では『化学調味料』『味の素』『添加物まみれ』という表現で再燃しやすい。",
+      "spread_scope": "日本語圏、英語圏、自然食・無添加・オーガニック、反大企業、反医療、反ワクチン、子育て・食育、陰謀論コミュニティで流通する。",
+      "note": "この項目は、個別添加物の安全性評価、アレルギー表示、摂取量管理、超加工食品の栄養問題、企業広告への批判を否定しない。対象は、MSGや食品添加物全体を隠された毒とし、公的安全性評価を陰謀とする主張である。",
+      "spreaders": [
+        "自然食・無添加・オーガニック系の一部発信者",
+        "反ワクチン・反医療・食品不安系SNSアカウント",
+        "健康本・動画・まとめサイトの一部",
+        "無添加食品、デトックス、サプリ、食事療法を販売する一部事業者",
+        "反大企業・反政府系陰謀論コミュニティ"
+      ],
+      "beneficiaries": [
+        "添加物不安を利用して無添加食品、サプリ、講座、デトックス商品を販売する事業者",
+        "食品不安コンテンツで広告・購読・寄付収益を得る媒体",
+        "反政府・反大企業感情を政治的動員に使う発信者"
+      ],
+      "source": {
+        "title": "FDA: Questions and Answers on Monosodium glutamate (MSG)",
+        "url": "https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg"
+      }
+    },
+    "sources": [
+      {
+        "title": "FDA: Questions and Answers on Monosodium glutamate (MSG)",
+        "url": "https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg",
+        "type": "government"
+      },
+      {
+        "title": "Food Standards Australia New Zealand: MSG in food",
+        "url": "https://www.foodstandards.gov.au/consumer/additives/msg",
+        "type": "government"
+      },
+      {
+        "title": "EFSA: Re-evaluation of glutamic acid and glutamates as food additives",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/4910",
+        "type": "paper"
+      },
+      {
+        "title": "厚生労働省: 食品添加物",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuten/index.html",
+        "type": "government"
+      },
+      {
+        "title": "The Journal of Headache and Pain: Does monosodium glutamate really cause headache?",
+        "url": "https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/s10194-016-0639-4",
+        "type": "paper"
+      },
+      {
+        "title": "Social History of Medicine: 'That Won-Ton Soup Headache'",
+        "url": "https://academic.oup.com/shm/article/22/1/133/1627040",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-05-15",
+    "updated_at": "2026-05-15",
+    "tags": [
+      "味の素",
+      "MSG",
+      "グルタミン酸ナトリウム",
+      "食品添加物",
+      "化学調味料",
+      "うま味調味料",
+      "中華料理店症候群",
+      "無添加",
+      "自然食",
+      "オーガニック",
+      "デトックス",
+      "食品安全",
+      "超加工食品",
+      "健康不安",
+      "反企業陰謀論",
+      "陰謀論"
+    ]
   }
 ]
