@@ -230,7 +230,7 @@ const ConspiracyPage: FC = () => {
             ))}
           </ul>
           <p style={{ ...bodyStyle, color: "#718096", fontSize: ".8125rem" }}>
-            出典: Brotherton (2015) "Suspicious Minds: Why We Believe Conspiracy Theories" / Sunstein & Vermeule (2009) "Conspiracy Theories"
+            {'出典: Brotherton (2015) "Suspicious Minds: Why We Believe Conspiracy Theories" / Sunstein & Vermeule (2009) "Conspiracy Theories"'}
           </p>
         </Card>
       </section>

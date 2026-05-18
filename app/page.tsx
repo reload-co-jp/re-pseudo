@@ -1,7 +1,12 @@
 import Link from "next/link"
 import { FC } from "react"
 import { Badge, Card } from "components/elements/layout"
-import { formatDate, getCategoryCount, getFeaturedClaims, getLatestClaims } from "lib/claims"
+import {
+  formatDate,
+  getCategoryCount,
+  getFeaturedClaims,
+  getLatestClaims,
+} from "lib/claims"
 import {
   CATEGORY_DESCRIPTION,
   CATEGORY_LABEL,
@@ -36,11 +41,17 @@ const Page: FC = () => {
   const featured = getFeaturedClaims()
   const latest = getLatestClaims()
   const categoryCount = getCategoryCount()
-  const totalClaims = Object.values(categoryCount).reduce((sum, count) => sum + count, 0)
+  const totalClaims = Object.values(categoryCount).reduce(
+    (sum, count) => sum + count,
+    0
+  )
   const heroStats = [
     { label: "掲載主張", value: `${totalClaims}件` },
     { label: "カテゴリ", value: `${Object.keys(categoryCount).length}分類` },
-    { label: "新着更新", value: latest[0] ? formatDate(latest[0].created_at) : "—" },
+    {
+      label: "新着更新",
+      value: latest[0] ? formatDate(latest[0].created_at) : "—",
+    },
   ]
   const websiteJsonLd = {
     "@context": "https://schema.org",
@@ -79,9 +90,17 @@ const Page: FC = () => {
             padding: "1.5rem",
           }}
         >
-          <div style={{ display: "flex", flexDirection: "column", gap: "1.25rem" }}>
-            <Badge color="#f6ad55" label="根拠・出典・流布状況を整理" style={{ backgroundColor: "transparent", border: "none" }} />
-            <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
+          <div
+            style={{ display: "flex", flexDirection: "column", gap: "1.25rem" }}
+          >
+            <Badge
+              color="#f6ad55"
+              label="根拠・出典・流布状況を整理"
+              style={{ backgroundColor: "transparent", border: "none" }}
+            />
+            <div
+              style={{ display: "flex", flexDirection: "column", gap: "1rem" }}
+            >
               <h1
                 style={{
                   fontSize: "clamp(1.75rem, 4vw, 2.75rem)",
@@ -91,7 +110,7 @@ const Page: FC = () => {
                 }}
               >
                 <span style={{ color: "#f6ad55" }}>Re</span>
-                {" "}
+                &nbsp;
                 <span style={{ color: "#f7fafc" }}>pseudo</span>
               </h1>
               <p
@@ -207,7 +226,13 @@ const Page: FC = () => {
                 >
                   {item.value}
                 </strong>
-                <span style={{ color: "#9a7a88", fontSize: ".6875rem", letterSpacing: ".04em" }}>
+                <span
+                  style={{
+                    color: "#9a7a88",
+                    fontSize: ".6875rem",
+                    letterSpacing: ".04em",
+                  }}
+                >
                   {item.label}
                 </span>
               </div>
@@ -239,7 +264,9 @@ const Page: FC = () => {
                 gap: ".5rem",
               }}
             >
-              <div style={{ display: "flex", flexWrap: "wrap", gap: ".375rem" }}>
+              <div
+                style={{ display: "flex", flexWrap: "wrap", gap: ".375rem" }}
+              >
                 <Badge
                   color={VERDICT_COLOR[c.verdict]}
                   label={VERDICT_LABEL[c.verdict]}
@@ -259,7 +286,13 @@ const Page: FC = () => {
               >
                 {c.title}
               </Link>
-              <p style={{ color: "#a0aec0", fontSize: ".875rem", lineHeight: 1.6 }}>
+              <p
+                style={{
+                  color: "#a0aec0",
+                  fontSize: ".875rem",
+                  lineHeight: 1.6,
+                }}
+              >
                 {c.summary}
               </p>
             </Card>
@@ -290,7 +323,13 @@ const Page: FC = () => {
                 padding: ".5rem 0",
               }}
             >
-              <span style={{ color: "#718096", fontSize: ".75rem", whiteSpace: "nowrap" }}>
+              <span
+                style={{
+                  color: "#718096",
+                  fontSize: ".75rem",
+                  whiteSpace: "nowrap",
+                }}
+              >
                 {formatDate(c.created_at)}
               </span>
               <Badge
@@ -327,38 +366,69 @@ const Page: FC = () => {
         >
           カテゴリ
         </h2>
-        <div style={{ display: "grid", gap: ".75rem", gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))" }}>
-          {(Object.entries(categoryCount) as [keyof typeof CATEGORY_LABEL, number][]).map(
-            ([cat, count]) => (
-              <Link
-                href={`/claims/?category=${cat}`}
-                key={cat}
+        <div
+          style={{
+            display: "grid",
+            gap: ".75rem",
+            gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))",
+          }}
+        >
+          {(
+            Object.entries(categoryCount) as [
+              keyof typeof CATEGORY_LABEL,
+              number,
+            ][]
+          ).map(([cat, count]) => (
+            <Link
+              href={`/claims/?category=${cat}`}
+              key={cat}
+              style={{
+                backgroundColor: "#2d1f28",
+                border: "1px solid #5a3d48",
+                borderRadius: "6px",
+                color: "#e2e8f0",
+                display: "flex",
+                flexDirection: "column",
+                gap: ".5rem",
+                padding: "1rem 1.25rem",
+                textDecoration: "none",
+              }}
+            >
+              <div
                 style={{
-                  backgroundColor: "#2d1f28",
-                  border: "1px solid #5a3d48",
-                  borderRadius: "6px",
-                  color: "#e2e8f0",
+                  alignItems: "center",
                   display: "flex",
-                  flexDirection: "column",
-                  gap: ".5rem",
-                  padding: "1rem 1.25rem",
-                  textDecoration: "none",
+                  justifyContent: "space-between",
                 }}
               >
-                <div style={{ alignItems: "center", display: "flex", justifyContent: "space-between" }}>
-                  <span style={{ fontSize: ".9375rem", fontWeight: 700 }}>
-                    {CATEGORY_LABEL[cat]}
-                  </span>
-                  <span style={{ backgroundColor: "#3d2535", borderRadius: "3px", color: "#f6ad55", fontSize: ".75rem", fontWeight: 700, padding: "1px 7px" }}>
-                    {count}
-                  </span>
-                </div>
-                <p style={{ color: "#9a8090", fontSize: ".8125rem", lineHeight: 1.65, margin: 0 }}>
-                  {CATEGORY_DESCRIPTION[cat]}
-                </p>
-              </Link>
-            ),
-          )}
+                <span style={{ fontSize: ".9375rem", fontWeight: 700 }}>
+                  {CATEGORY_LABEL[cat]}
+                </span>
+                <span
+                  style={{
+                    backgroundColor: "#3d2535",
+                    borderRadius: "3px",
+                    color: "#f6ad55",
+                    fontSize: ".75rem",
+                    fontWeight: 700,
+                    padding: "1px 7px",
+                  }}
+                >
+                  {count}
+                </span>
+              </div>
+              <p
+                style={{
+                  color: "#9a8090",
+                  fontSize: ".8125rem",
+                  lineHeight: 1.65,
+                  margin: 0,
+                }}
+              >
+                {CATEGORY_DESCRIPTION[cat]}
+              </p>
+            </Link>
+          ))}
         </div>
       </section>
     </div>

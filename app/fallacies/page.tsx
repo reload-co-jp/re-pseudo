@@ -27,13 +27,6 @@ export const metadata = {
   },
 }
 
-const sectionTitleStyle: React.CSSProperties = {
-  color: "#a0aec0",
-  fontSize: ".75rem",
-  fontWeight: 600,
-  letterSpacing: ".05em",
-  textTransform: "uppercase",
-}
 
 const FallaciesPage: FC = () => {
   const groups = getFallacyGroups()

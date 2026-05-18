@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react"
 import Link from "next/link"
-import { useSearchParams } from "next/navigation"
+import { useRouter, useSearchParams } from "next/navigation"
 import ClaimCard from "components/ClaimCard"
 import { CATEGORY_LABEL, RISK_LABEL, VERDICT_LABEL } from "lib/labels"
 import type { Claim } from "types/claim"
@@ -29,6 +29,7 @@ const isCategory = (value: string | null): value is Claim["category"] =>
   Boolean(value && value in CATEGORY_LABEL)
 
 const ClaimsClient = ({ claims }: Props) => {
+  const router = useRouter()
   const searchParams = useSearchParams()
   const categoryParam = searchParams.get("category")
   const tagParam = searchParams.get("tag")
@@ -39,24 +40,28 @@ const ClaimsClient = ({ claims }: Props) => {
       Array.from(
         new Set(
           claims.flatMap((claim) =>
-            claim.common_fallacies.map((group) => group.group),
-          ),
-        ),
+            claim.common_fallacies.map((group) => group.group)
+          )
+        )
       ).sort((a, b) => a.localeCompare(b, "ja")),
-    [claims],
+    [claims]
   )
   const isFallacyGroup = (value: string | null) =>
     Boolean(value && fallacyGroups.includes(value))
   const [query, setQuery] = useState(queryParam ?? "")
-  const [category, setCategory] = useState<Claim["category"] | "">(
-    isCategory(categoryParam) ? categoryParam : "",
-  )
-  const [tag, setTag] = useState(tagParam ?? "")
-  const [fallacyGroup, setFallacyGroup] = useState(
-    isFallacyGroup(fallacyParam) ? fallacyParam ?? "" : "",
-  )
   const [verdict, setVerdict] = useState<Claim["verdict"] | "">("")
   const [riskLevel, setRiskLevel] = useState<Claim["risk_level"] | "">("")
+
+  const category = isCategory(categoryParam) ? categoryParam : ""
+  const tag = tagParam ?? ""
+  const fallacyGroup = isFallacyGroup(fallacyParam) ? (fallacyParam ?? "") : ""
+
+  const updateParam = (key: string, value: string) => {
+    const params = new URLSearchParams(searchParams.toString())
+    if (value) params.set(key, value)
+    else params.delete(key)
+    router.replace(`/claims/?${params.toString()}`)
+  }
 
   useEffect(() => {
     const metaSelector = 'meta[data-claims-tag-filter="robots"]'
@@ -76,16 +81,6 @@ const ClaimsClient = ({ claims }: Props) => {
     if (!existingMeta) document.head.appendChild(meta)
   }, [tagParam])
 
-  useEffect(() => {
-    const categoryParam = searchParams.get("category")
-
-    setCategory(isCategory(categoryParam) ? categoryParam : "")
-    setTag(searchParams.get("tag") ?? "")
-    setQuery(searchParams.get("q") ?? "")
-    const fallacyParam = searchParams.get("fallacy")
-    setFallacyGroup(isFallacyGroup(fallacyParam) ? fallacyParam : "")
-  }, [searchParams, fallacyGroups])
-
   const filtered = claims.filter((c) => {
     const q = query.toLowerCase()
     const matchQuery =
@@ -97,14 +92,14 @@ const ClaimsClient = ({ claims }: Props) => {
       c.common_fallacies.some(
         (group) =>
           group.group.toLowerCase().includes(q) ||
-          group.items.some((item) => item.toLowerCase().includes(q)),
+          group.items.some((item) => item.toLowerCase().includes(q))
       ) ||
       (c.circulation.spreaders?.some((spreader) =>
-        spreader.toLowerCase().includes(q),
+        spreader.toLowerCase().includes(q)
       ) ??
         false) ||
       (c.circulation.beneficiaries?.some((beneficiary) =>
-        beneficiary.toLowerCase().includes(q),
+        beneficiary.toLowerCase().includes(q)
       ) ??
         false) ||
       c.tags.some((t) => t.toLowerCase().includes(q))
@@ -143,18 +138,18 @@ const ClaimsClient = ({ claims }: Props) => {
           value={query}
         />
         <select
-          onChange={(e) => setCategory(e.target.value as Claim["category"] | "")}
+          onChange={(e) => updateParam("category", e.target.value)}
           style={selectStyle}
           value={category}
         >
           <option value="">カテゴリ：すべて</option>
-          {(Object.entries(CATEGORY_LABEL) as [Claim["category"], string][]).map(
-            ([k, v]) => (
-              <option key={k} value={k}>
-                {v}
-              </option>
-            ),
-          )}
+          {(
+            Object.entries(CATEGORY_LABEL) as [Claim["category"], string][]
+          ).map(([k, v]) => (
+            <option key={k} value={k}>
+              {v}
+            </option>
+          ))}
         </select>
         <select
           onChange={(e) => setVerdict(e.target.value as Claim["verdict"] | "")}
@@ -167,7 +162,7 @@ const ClaimsClient = ({ claims }: Props) => {
               <option key={k} value={k}>
                 {v}
               </option>
-            ),
+            )
           )}
         </select>
         <select
@@ -183,11 +178,11 @@ const ClaimsClient = ({ claims }: Props) => {
               <option key={k} value={k}>
                 {v}
               </option>
-            ),
+            )
           )}
         </select>
         <select
-          onChange={(e) => setFallacyGroup(e.target.value)}
+          onChange={(e) => updateParam("fallacy", e.target.value)}
           style={selectStyle}
           value={fallacyGroup}
         >
@@ -200,10 +195,12 @@ const ClaimsClient = ({ claims }: Props) => {
         </select>
       </div>
 
-      <p style={{ color: "#718096", fontSize: ".875rem", marginBottom: "1rem" }}>
+      <p
+        style={{ color: "#718096", fontSize: ".875rem", marginBottom: "1rem" }}
+      >
         {tag && (
           <>
-            タグ: #{tag}　
+            タグ: #{tag}&nbsp;
             <Link
               href="/claims/"
               style={{ color: "#63b3ed", textDecoration: "none" }}
@@ -215,7 +212,7 @@ const ClaimsClient = ({ claims }: Props) => {
         )}
         {fallacyGroup && (
           <>
-            論法・誤謬: {fallacyGroup}　
+            論法・誤謬: {fallacyGroup}&nbsp;
             <Link
               href="/claims/"
               style={{ color: "#63b3ed", textDecoration: "none" }}

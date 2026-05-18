@@ -300,7 +300,7 @@ const CriteriaPage: FC = () => {
           <strong style={{ color: "#e2e8f0" }}>「どこを確認すれば信頼できるか」を問うための出発点</strong>として使われることを意図している。
         </p>
         <p style={{ ...bodyStyle, color: "#718096", fontSize: ".875rem" }}>
-          参考文献: Karl Popper, "The Logic of Scientific Discovery" (1934/1959) / Thomas Kuhn, "The Structure of Scientific Revolutions" (1962) / Imre Lakatos, "The Methodology of Scientific Research Programmes" (1978) / Robert Park, "Voodoo Science" (2000)
+          {'参考文献: Karl Popper, "The Logic of Scientific Discovery" (1934/1959) / Thomas Kuhn, "The Structure of Scientific Revolutions" (1962) / Imre Lakatos, "The Methodology of Scientific Research Programmes" (1978) / Robert Park, "Voodoo Science" (2000)'}
         </p>
       </section>
     </div>
