@@ -12840,5 +12840,814 @@
       "化学調味料",
       "うま味調味料"
     ]
+  },
+  {
+    "id": "ai-deepfake-liars-dividend-conspiracy",
+    "title": "都合の悪い映像や音声はAIディープフェイクである",
+    "description": "政治家、著名人、企業、犯罪者に不利な映像・音声・写真・報道は、AIディープフェイクや生成AIで作られた偽物であり、政府、メディア、司法、敵対勢力が世論操作や失脚工作のために捏造している。したがって、録音・録画・報道証拠は信用できない。",
+    "category": "conspiracy",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "AIディープフェイクや音声クローンは実在し、詐欺・選挙妨害・嫌がらせに使われる。一方で、都合の悪い本物の証拠まで『AIだから偽物』と断定するのは根拠がなく、責任逃れや事実認定の破壊につながる。",
+    "explanation": "生成AIにより、本人そっくりの音声、画像、動画を作る技術は実在し、NISTは合成コンテンツの来歴管理、透かし、検出、非同意性的画像や児童性的虐待素材生成などのリスク低減策を整理している。FBIやFTCも、音声クローンやディープフェイクを使った詐欺、なりすまし、選挙・安全保障上のリスクを警告している。したがって、疑わしい映像や音声を検証する姿勢は必要である。しかし、ChesneyとCitronは2019年、ディープフェイクの普及が本物の証拠を『偽物』として否認する余地を増やすことを liar's dividend と呼んだ。CSETとBrennan Centerも、AI生成コンテンツへの不安が高まるほど、本物の音声・映像をAIだと偽って否定する戦術が説得力を持ちうると説明する。APSR掲載研究も、フェイクニュースやディープフェイクの存在を利用して、政治家が信頼できる報道や証拠を否認する可能性を実験的に検討している。結論として、個別の素材は来歴、メタデータ、複数ソース、現場記録、専門的フォレンジックで検証すべきであり、『AIで作れるから本物ではない』という一般否認は論理的に成り立たない。",
+    "verification_process": [
+      "主張を「不利な映像・音声・報道証拠はAIディープフェイクであり信用できない」と定義した。",
+      "NIST、FBI、FTCで、合成コンテンツ、音声クローン、ディープフェイク詐欺の実在リスクを確認した。",
+      "Chesney & Citron、CSET/Brennan Center、APSR論文で、liar's dividend と呼ばれる本物証拠の偽否認リスクを確認した。",
+      "AI検出の限界と、来歴情報・複数証拠・フォレンジック検証の必要性を確認した。",
+      "『AI偽造が存在する』という事実と、『都合の悪い証拠はAI偽造だ』という包括的否認を分けて評価した。"
+    ],
+    "why_it_spreads": [
+      "AI生成物が本当に精巧になり、映像・音声への直感的信頼が揺らいでいる",
+      "支持する人物や集団に不利な証拠を見たくない心理と相性がよい",
+      "『メディアが捏造した』『敵がAIで作った』という説明が、認知的不協和を減らす",
+      "AI検出ツールにも誤判定があり、曖昧さが陰謀論の余地を作る",
+      "選挙、戦争、スキャンダル、裁判など高感情の場面で急速に拡散しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "AIで偽造可能であることを、目の前の証拠が偽造である証拠とみなす",
+          "検出が難しい場合があることを、すべての映像・音声が信用不能である証拠にする"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "来歴、メタデータ、複数カメラ、現場証言、報道機関の検証を確認せず偽物と断定する",
+          "粗い圧縮ノイズ、表情の違和感、翻訳字幕だけをAI生成の決定的証拠にする"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "政府、メディア、司法、敵対勢力が一体でAI証拠を捏造していると前提する",
+          "反証やフォレンジック結果を、捏造陣営の隠蔽工作として退ける"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "自陣営に不利な素材だけをAIと疑い、有利な素材には同じ検証基準を適用しない",
+          "偽ディープフェイク事例だけを集め、本物と確認された素材や訂正事例を無視する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "映像・音声の内容への説明責任を、AI技術一般への不安へ置き換える"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2017年ごろからディープフェイクという語が一般化し、2019年にChesneyとCitronが本物の音声・映像を偽物と否認する liar's dividend を論じた。2020年代に生成AIと音声クローンが普及し、政治・戦争・芸能・裁判の場面で『AIだから偽物』という反応が広がった。",
+      "spread_period": "2023年以降、生成AIの急速な普及、選挙関連のAI音声、戦争映像、著名人のスキャンダル、非同意性的ディープフェイク、詐欺被害の報道を背景に急拡大した。2024〜2026年の各国選挙、紛争、裁判、SNS炎上で繰り返し再燃している。",
+      "spread_scope": "英語圏、日本語圏を含む国際的な政治SNS、陰謀論コミュニティ、反メディア言説、戦争情報戦、芸能スキャンダル、裁判・犯罪報道の文脈で流通する。",
+      "note": "この項目は、実在するディープフェイク、音声クローン、合成メディア詐欺の危険を否定しない。対象は、検証なしに本物の証拠までAI偽造と断定し、責任や事実認定を回避する主張である。",
+      "spreaders": [
+        "政治家・著名人の支持者コミュニティ",
+        "反メディア・反政府系SNSアカウント",
+        "選挙・戦争・裁判関連の陰謀論チャンネル",
+        "AI検出ツールの結果を過信または誤用する投稿者",
+        "スキャンダル否認や責任逃れを狙う発信者"
+      ],
+      "beneficiaries": [
+        "不利な証拠への説明責任を避けたい公人・組織・支持者",
+        "AI不安を煽って広告・購読・寄付収益を得る媒体",
+        "検証困難性を利用して詐欺、情報戦、嫌がらせを行う主体"
+      ],
+      "source": {
+        "title": "CSET/Brennan Center: Deepfakes, Elections, and Shrinking the Liar's Dividend",
+        "url": "https://cset.georgetown.edu/article/deepfakes-elections-and-shrinking-the-liars-dividend/"
+      }
+    },
+    "sources": [
+      {
+        "title": "Chesney & Citron: Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security",
+        "url": "https://scholarship.law.bu.edu/faculty_scholarship/640/",
+        "type": "paper"
+      },
+      {
+        "title": "American Political Science Review: The Liar's Dividend",
+        "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/liars-dividend-can-politicians-claim-misinformation-to-evade-accountability/687FEE54DBD7ED0C96D72B26606AA073",
+        "type": "paper"
+      },
+      {
+        "title": "NIST: Reducing Risks Posed by Synthetic Content",
+        "url": "https://www.nist.gov/publications/reducing-risks-posed-synthetic-content-overview-technical-approaches-digital-content",
+        "type": "government"
+      },
+      {
+        "title": "FBI: Artificial Intelligence",
+        "url": "https://www.fbi.gov/investigate/counterintelligence/emerging-and-advanced-technology/artificial-intelligence",
+        "type": "government"
+      },
+      {
+        "title": "FTC: Preventing the Harms of AI-enabled Voice Cloning",
+        "url": "https://www.ftc.gov/node/82006",
+        "type": "government"
+      },
+      {
+        "title": "Brennan Center/CSET: Deepfakes, Elections, and Shrinking the Liar's Dividend",
+        "url": "https://www.brennancenter.org/our-work/research-reports/deepfakes-elections-and-shrinking-liars-dividend",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "tags": [
+      "AI",
+      "生成AI",
+      "ディープフェイク",
+      "音声クローン",
+      "合成メディア",
+      "liar's dividend",
+      "偽情報",
+      "選挙",
+      "情報戦",
+      "フォレンジック",
+      "メディア不信",
+      "裁判証拠",
+      "詐欺",
+      "SNS",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "georgia-qr-code-voting-tampering-conspiracy",
+    "title": "ジョージア州のQRコード投票・電子投票は改ざん用である",
+    "description": "米ジョージア州のDominion電子投票機やQRコード付き投票用紙は、投票内容を有権者に読めないコードへ変換し、選挙結果を改ざんするために導入された。2020年以降の選挙ではQRコードや電子投票システムが票を密かに書き換えた。",
+    "category": "conspiracy",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "ジョージア州のBMD投票用紙がQRコードを機械集計に使い、有権者がQR内容を直接読めないこと、CISAがDominion ImageCast Xの脆弱性を公表したことは事実。しかし、QRコードや電子投票機が『改ざん用』に導入され、実際に票を変えたという証拠はない。",
+    "explanation": "ジョージア州の対面投票では、BMD（ballot marking device）が有権者の選択を印字した紙を出し、その紙には人間が読める候補者名などと、スキャナーが読むQRコードが含まれる。この仕組みには、有権者がQRコードを直接読めない、BMDが印字した人間可読部分を十分確認しない有権者がいる、ソフトウェア脆弱性が残る、という正当な監査性・信頼性の論点がある。CISAは2022年、Dominion Democracy Suite ImageCast Xの複数の脆弱性を公表し、対策を勧告した一方、これらの脆弱性が選挙で悪用された証拠はないとした。Curling v. Raffenspergerでも、裁判所はジョージア州の電子投票システムの管理・保守・セキュリティに重大な懸念が示されたとしつつ、原告は法的請求で最終的に勝訴せず、票が変更されたとは認定されていない。2020年大統領選後、ジョージア州は大統領選を全州手作業で監査し、結果を再確認した。Carter Centerも、その手作業監査を透明に実施された大規模な監査として評価した。したがって、QRコード集計方式への批判や紙投票・人間可読マーク集計への制度変更提案は合理的な政策論点だが、『QRコード投票は改ざん用』『Dominionが票を変えた』という断定は、確認された脆弱性と実際の改ざん証拠を混同している。",
+    "verification_process": [
+      "主張を「ジョージア州のQRコード投票・電子投票は改ざん用で、実際に票を変えた」と定義した。",
+      "ジョージア州のBMDが人間可読部分とQRコードを印字し、QRコードで機械集計する仕組みを確認した。",
+      "CISAのDominion ImageCast X脆弱性アドバイザリで、実在する脆弱性と『悪用証拠なし』の区別を確認した。",
+      "2020年ジョージア州大統領選の全州手作業監査、機械再集計、Carter Center評価で、結果が再確認されたことを確認した。",
+      "Curling v. Raffenspergerの2025年判断と報道で、重大なシステム懸念は認められたが、票改ざん認定や使用差止めには至らなかったことを確認した。"
+    ],
+    "why_it_spreads": [
+      "QRコードを有権者が読めないため、『見えないところで変えられる』という不安が生まれやすい",
+      "電子投票機の脆弱性やソフトウェア更新遅れという実在問題が、改ざん断定へ飛躍しやすい",
+      "2020年米大統領選後の不信、Dominion陰謀論、Stop the Steal運動と結びついた",
+      "裁判所や専門家が示した『重大な懸念』が、『不正の証明』として切り取られやすい",
+      "複雑な監査・再集計・選挙管理手続きより、機械が票を盗んだという説明のほうが単純で拡散しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "QRコードを直接読めないことを、票が改ざんされた証拠とみなす",
+          "脆弱性が存在することを、実際に悪用された証拠と混同する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "CISAの脆弱性勧告から『悪用証拠なし』の部分を省く",
+          "手作業監査・機械再集計・紙記録・裁判所判断を確認せず、動画やスクリーンショットだけで断定する"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "選挙管理当局、投票機会社、裁判所、メディアが一体で改ざんを隠していると前提する",
+          "反証や監査結果を、隠蔽システムの一部として退ける"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "候補者の得票変動、集計遅延、入力ミスを、電子投票機による票移動と扱う",
+          "QRコード廃止法や制度改善案を、過去の改ざんが証明された証拠とみなす"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "監査性を高める制度設計の議論を、特定選挙が盗まれたという主張へ置き換える"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "ジョージア州の電子投票システムへの法的・技術的批判は2017年のCurling v. Raffenspergerから続く。2020年大統領選後、Dominion投票機陰謀論と結びつき、QRコードが票を変更した、電子投票機が結果を盗んだという主張が急拡散した。",
+      "spread_period": "2020年11月以降の大統領選不正主張、2021年1月6日前後のStop the Steal運動、2022年CISA脆弱性勧告、2024年Curling裁判、2025年の訴訟判断、ジョージア州のQRコード廃止方針をめぐって再燃している。",
+      "spread_scope": "米国、とくにジョージア州の選挙不信コミュニティ、保守系SNS、Stop the Steal系発信、Dominion陰謀論、日本語圏の米大統領選陰謀論コミュニティで流通する。",
+      "note": "この項目は、BMD・QRコード集計方式への批判、手書き紙投票への移行要求、脆弱性修正、監査性向上の必要性を否定しない。対象は、それらを『改ざん用に設計された』『実際に票を書き換えた』と断定する主張である。",
+      "spreaders": [
+        "Stop the Steal系アカウント・動画チャンネル",
+        "Dominion投票機陰謀論を拡散する政治発信者",
+        "ジョージア州の選挙不信・反電子投票コミュニティの一部",
+        "QRコード廃止論を不正証明として扱うSNS投稿",
+        "日本語圏の米国選挙陰謀論アカウント"
+      ],
+      "beneficiaries": [
+        "選挙不正コンテンツで広告・購読・寄付収益を得る媒体",
+        "敗北した選挙結果への責任や政治的損失を回避したい発信者・陣営",
+        "電子投票不信を政治的動員や資金集めに使う団体・発信者"
+      ],
+      "source": {
+        "title": "AP: Judge in long-running lawsuit declines to block the use of Georgia's voting system",
+        "url": "https://apnews.com/article/c3c39534dd2a3e885b981b46a0f11ac4"
+      }
+    },
+    "sources": [
+      {
+        "title": "CISA: Vulnerabilities Affecting Dominion Voting Systems ImageCast X",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-22-154-01",
+        "type": "government"
+      },
+      {
+        "title": "CISA: Joint Statement from Elections Infrastructure Government Coordinating Council & Election Infrastructure Sector Coordinating Executive Committees",
+        "url": "https://www.cisa.gov/news-events/news/joint-statement-elections-infrastructure-government-coordinating-council-election",
+        "type": "government"
+      },
+      {
+        "title": "Georgia Secretary of State: 2020 General Election Risk-Limiting Audit",
+        "url": "https://sos.ga.gov/page/2020-general-election-risk-limiting-audit",
+        "type": "government"
+      },
+      {
+        "title": "The Carter Center: Georgia Risk-Limiting Audit/Hand Tally Final Report",
+        "url": "https://www.cartercenter.org/resources/pdfs/news/peace_publications/democracy/georgia-audit-final-report-033121.pdf",
+        "type": "article"
+      },
+      {
+        "title": "AP: Judge in long-running lawsuit declines to block the use of Georgia's voting system",
+        "url": "https://apnews.com/article/c3c39534dd2a3e885b981b46a0f11ac4",
+        "type": "article"
+      },
+      {
+        "title": "Georgia Public Broadcasting: Georgia bill to strip QR codes from ballots would cost tens of millions of dollars",
+        "url": "https://www.gpb.org/news/2024/05/02/georgia-bill-strip-qr-codes-ballots-would-cost-tens-of-millions-of-dollars",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "tags": [
+      "ジョージア州",
+      "Georgia",
+      "QRコード投票",
+      "電子投票",
+      "Dominion",
+      "BMD",
+      "投票機",
+      "選挙不正",
+      "2020年米大統領選",
+      "Stop the Steal",
+      "CISA",
+      "Curling v. Raffensperger",
+      "リスク制限監査",
+      "紙投票",
+      "選挙陰謀論",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "paul-mccartney-replacement-clone",
+    "title": "Paul McCartneyは死亡し替え玉・クローンに入れ替わった",
+    "description": "The BeatlesのPaul McCartneyは1966年に交通事故などで死亡し、バンドや英国当局、音楽業界が混乱を避けるためにWilliam Campbell、Billy Shears、またはクローンの替え玉へ入れ替えた。アルバムジャケット、歌詞、逆再生音声、顔や声の変化はその証拠である。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "Paul死亡・替え玉説は1969年に米国ラジオと学生新聞から広がった都市伝説で、本人は当時Life誌で否定し、その後も公的活動を継続している。ジャケットや逆再生の『手がかり』は後付け解釈で、クローン説は1960年代の技術史とも合わない。",
+    "explanation": "『Paul is dead』説は、Paul McCartneyが1966年に死亡し、The Beatlesがそっくりな人物に置き換えたという物語である。1969年10月、ミシガン州DearbornのWKNR-FMでDJ Russ Gibbがリスナーからの電話を受け、Beatles楽曲の逆再生やアルバムジャケットの記号を『証拠』として紹介したことで広く知られるようになった。Michigan TodayやDetroit Historical Societyは、この放送が噂を国際的現象へ押し上げたと整理している。噂は『Abbey Road』の横断歩道写真、Sgt. PepperのBilly Shears、『I buried Paul』や『turn me on, dead man』と聞こえるとされる音、裸足、左利き、身長差などを証拠として読む。しかし、これらは曖昧な音や画像を死亡説に合わせて解釈するもので、死亡診断書、事故記録、同時代証言、入れ替え作業を示す一次資料を伴わない。Paul本人は1969年11月7日号のLife誌取材で生存を示し、以後もWings、ソロ活動、ライブ、インタビューを継続している。クローン説についても、NHGRIは成人体細胞から哺乳類をクローン化できた最初の成功例を1996年のDollyと説明しており、1966年に成人Paulを即時に複製し成人替え玉として使うという設定は技術史上成り立たない。",
+    "verification_process": [
+      "主張を「Paul McCartneyは1966年に死亡し、替え玉またはクローンに入れ替わった」と定義した。",
+      "Michigan Today、Detroit Historical Society、The Beatles Bibleで、1969年のRuss Gibb放送、学生新聞、アルバム『Abbey Road』期の流布経路を確認した。",
+      "Life誌1969年11月7日号の本人取材と、その後のPaulの継続的な音楽活動を確認した。",
+      "主要な『証拠』が、アルバム写真、歌詞、逆再生音声、外見差などの解釈に依存し、死亡・入れ替えを示す一次資料を欠くことを確認した。",
+      "NHGRIのクローン技術史で、成人体細胞から哺乳類クローンが成功したのは1996年のDolly以後であり、1966年の成人クローン入れ替え説と整合しないことを確認した。"
+    ],
+    "why_it_spreads": [
+      "Beatles作品に謎解き可能な歌詞・写真・音響実験が多く、手がかり探しに向いている",
+      "有名人の急な外見・髪型・声・作風の変化を、成長や演出ではなく入れ替わりで説明できる",
+      "逆再生や空耳は、先に答えを示されるとそう聞こえやすい",
+      "バンド解散期の不透明さ、メディア熱狂、カウンターカルチャー期の不信感と結びついた",
+      "後年のAvril Lavigneや政治家クローン説など、有名人入れ替わり陰謀論の雛形として再利用される"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "アルバムジャケットや歌詞の曖昧な記号を、死亡・替え玉の直接証拠として扱う",
+          "空耳や逆再生音声を、制作者の意図や文脈を確認せず秘密メッセージとみなす"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "本人・関係者・報道の否定を、隠蔽の一部として無効化する",
+          "The Beatles、レコード会社、英国当局、メディアが長期に完全隠蔽したと前提する"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "顔つき、声、身長、歯並び、演奏癖の変化を、年齢・撮影条件・録音技術ではなく別人化の証拠にする",
+          "Paul不在時期やバンドの活動休止を、死亡隠蔽の準備期間と読む"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "死亡説に合う『手がかり』だけを集め、反証となる同時代映像・取材・公的活動を省く",
+          "外れた手がかりや創作されたWilliam Campbell説の由来を確認しない"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "写真鑑定や声紋比較の不確実性を、別人説が成立する余地として過大評価する",
+          "クローン技術への漠然とした不安を、1960年代の入れ替え証拠に転用する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "1967年にPaulの車の事故をめぐる噂が一部で出た後、1969年9月の大学紙記事、同年10月12日前後のWKNR-FMでのRuss Gibb放送、Michigan DailyのFred LaBour記事を通じて『Paul is dead』説として急拡大した。",
+      "spread_period": "1969年秋に米国ラジオ、大学紙、一般紙、テレビ、ファンコミュニティで急拡散した。1970年代以降はBeatles研究本、都市伝説本、ラジオ特集、インターネット掲示板、YouTube考察、SNSで再流通し、2000年代以降はクローン説や有名人入れ替わり説と結びついた。",
+      "spread_scope": "英語圏を中心に世界的に流布し、日本語圏でもBeatlesファン、都市伝説、音楽ミステリー、芸能人クローン陰謀論コミュニティで知られている。",
+      "note": "この項目は、Beatlesが作品内に遊びや暗号的演出を入れた可能性、Paulの容姿・声・作風の変化を否定しない。対象は、それらを死亡・替え玉・クローン入れ替えの証拠とする主張である。",
+      "spreaders": [
+        "1969年の米国大学紙・ラジオ番組",
+        "Beatles都市伝説本・音楽ミステリー系メディア",
+        "YouTubeやSNSの『Paul is dead』考察チャンネル",
+        "有名人クローン・入れ替わり陰謀論コミュニティ"
+      ],
+      "beneficiaries": [
+        "都市伝説・音楽ミステリーコンテンツで広告・出版・配信収益を得る媒体",
+        "有名人入れ替わり説を使って視聴者やコミュニティを集める発信者",
+        "Beatles関連の謎解き商品・書籍・動画を販売する事業者"
+      ],
+      "source": {
+        "title": "Michigan Today: 'Paul is Dead!' (said Fred)",
+        "url": "https://michigantoday.umich.edu/2009/11/11/a7565/"
+      }
+    },
+    "sources": [
+      {
+        "title": "Michigan Today: 'Paul is Dead!' (said Fred)",
+        "url": "https://michigantoday.umich.edu/2009/11/11/a7565/",
+        "type": "article"
+      },
+      {
+        "title": "Detroit Historical Society: Gibb, \"Uncle\" Russ",
+        "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/gibb-uncle-russ",
+        "type": "article"
+      },
+      {
+        "title": "The Beatles Bible: The 'Paul is dead' myth",
+        "url": "https://www.beatlesbible.com/features/paul-is-dead/",
+        "type": "article"
+      },
+      {
+        "title": "The Paul McCartney Project: Life Magazine interview, November 7 1969",
+        "url": "https://www.the-paulmccartney-project.com/interview/the-case-of-the-mising-beatles-paul-is-still-with-us/",
+        "type": "article"
+      },
+      {
+        "title": "TIME: Paul McCartney Talks to James Corden About That 'Paul Is Dead' Conspiracy Theory",
+        "url": "https://time.com/5373174/paul-mccartney-paul-is-dead-james-corden/",
+        "type": "article"
+      },
+      {
+        "title": "National Human Genome Research Institute: Cloning Fact Sheet",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "tags": [
+      "Paul McCartney",
+      "ポール・マッカートニー",
+      "The Beatles",
+      "ビートルズ",
+      "Paul is dead",
+      "替え玉説",
+      "クローン説",
+      "有名人入れ替わり説",
+      "都市伝説",
+      "逆再生",
+      "Abbey Road",
+      "Sgt. Pepper",
+      "William Campbell",
+      "Billy Shears",
+      "音楽陰謀論",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "avril-lavigne-replacement-clone",
+    "title": "Avril Lavigneは死亡しMelissaという替え玉・クローンに入れ替わった",
+    "description": "Avril Lavigneは2003年ごろに死亡または自殺し、レコード会社が利益を守るためにMelissa Vandellaという替え玉、あるいはクローンをAvrilとして活動させている。顔、声、服装、歌詞、筆跡、『Melissa』と書かれた写真は入れ替わりの証拠である。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "Avril Lavigne死亡・Melissa替え玉説は、2011年ごろのブラジル系ブログやファンフォーラムから広がったネット都市伝説で、本人は複数回否定している。外見・作風・写真の変化は入れ替わりやクローンの証拠ではない。",
+    "explanation": "Avril Lavigne入れ替わり説は、デビュー作『Let Go』後の2003年ごろに本人が死亡し、Melissa Vandellaという替え玉が以後の活動を担ったという物語である。Know Your Memeや複数の報道は、この説が2011年ごろのブラジルのブログ『Avril Está Morta』やファンフォーラムを起点に広がり、2015〜2017年ごろに英語圏SNSで再拡散したと整理している。根拠として挙げられるのは、顔や鼻の形、服装やメイク、声や歌い方、筆跡、歌詞の暗示、『Melissa』と手に書かれた写真などである。しかし、これらは年齢、撮影条件、メイク、照明、整形疑惑、ファッション変化、制作チームや音楽性の変化で説明可能な断片であり、死亡記録、入れ替え契約、同時代証言、レコード会社の内部資料を伴わない。Lavigne本人は2018年のKIIS 106.5で噂を奇妙だと述べ、2024年のCall Her Daddy出演時にも、自分は本人であり噂はばかげている趣旨で否定している。クローン説についても、NHGRIは成人体細胞由来の哺乳類クローン成功を1996年のDolly以後と説明しており、2003年に成人アーティストを即時に複製し、同じ記憶・歌唱・人格を持つ成人として置き換えるという主張は、クローン技術の実態と合わない。",
+    "verification_process": [
+      "主張を「Avril Lavigneは2003年ごろ死亡し、Melissaという替え玉またはクローンに入れ替わった」と定義した。",
+      "Know Your Meme、Guardian、NME、Teen Vogueなどで、ブラジル系ブログ・ファンフォーラムからの起源と2010年代SNS再拡散を確認した。",
+      "Independent、NME、E! Onlineなどで、Lavigne本人が2018年・2024年に噂を否定した経緯を確認した。",
+      "顔、服装、声、筆跡、歌詞、『Melissa』写真などの根拠が、死亡・入れ替えを示す一次資料ではなく解釈に依存することを確認した。",
+      "NHGRIのクローン技術史で、クローンは成人の即時複製や記憶・人格コピーを意味しないことを確認した。"
+    ],
+    "why_it_spreads": [
+      "2000年代ポップスターの急なイメージ変化が、別人説として解釈されやすい",
+      "比較画像、筆跡、歌詞、写真の『Melissa』など、SNSで切り抜きやすい素材が多い",
+      "Paul is dead型の有名人入れ替わり説のテンプレートをそのまま使える",
+      "本人が否定しても『Melissaだから否定する』と解釈でき、反証が効きにくい",
+      "冗談やミームとして広がった話が、陰謀論コミュニティで本気の主張に変わりやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "顔写真や服装の差を、年齢・撮影条件・メイク・ファッション変化を考慮せず別人証拠にする",
+          "歌詞や手書き文字の曖昧な一致を、死亡・替え玉の直接証拠として扱う"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "本人の否定、家族・関係者・報道の沈黙を、レコード会社による隠蔽の証拠として読む",
+          "反証が出るほど、替え玉側がよく訓練されている証拠だと解釈する"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "音楽性や服装の変化を、成長・市場戦略・制作環境ではなく別人化の結果とみなす",
+          "病気、公的活動休止、メディア露出減少を、死亡隠蔽の兆候として扱う"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "説に合う写真だけを選び、連続した映像・取材・ライブ活動・本人発言を省く",
+          "噂の起点がブログやミーム文脈だったことを無視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "クローン技術への漠然とした不安を、成人芸能人の即時置換が可能という主張へ飛躍させる"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2011年ごろ、ブラジルのブログ『Avril Está Morta』がAvril死亡・Melissa替え玉説を投稿し、ファンフォーラムで検証ごっことして広がった。前後して英語圏でも類似の噂が断片的に流通した。",
+      "spread_period": "2015〜2017年にTumblr、Twitter、掲示板、音楽メディアで再拡散し、2018年の本人インタビュー、2024年のCall Her Daddy出演後にも再燃した。以後もTikTok、YouTube、Redditで有名人クローン説の代表例として流通している。",
+      "spread_scope": "英語圏、ポルトガル語圏、日本語圏を含むポップカルチャー、音楽ファン、都市伝説、芸能人クローン・入れ替わり陰謀論コミュニティで流通する。",
+      "note": "この項目は、Avril Lavigneの音楽性・外見・公的イメージが時期により変化したことを否定しない。対象は、それらを死亡・替え玉・クローン入れ替えの証拠とする主張である。",
+      "spreaders": [
+        "ブラジル系ファンブログ・フォーラム",
+        "Tumblr、Twitter、TikTok、Reddit上の都市伝説投稿者",
+        "芸能人クローン・入れ替わり陰謀論コミュニティ",
+        "ポップカルチャー系ミーム・考察チャンネル"
+      ],
+      "beneficiaries": [
+        "都市伝説・芸能ミステリーコンテンツで広告・出版・配信収益を得る媒体",
+        "有名人入れ替わり説で視聴者やフォロワーを集める発信者",
+        "陰謀論系コミュニティへ誘導するまとめサイト・動画チャンネル"
+      ],
+      "source": {
+        "title": "Know Your Meme: Avril Lavigne Is Dead Conspiracy",
+        "url": "https://knowyourmeme.com/memes/avril-lavigne-is-dead-conspiracy"
+      }
+    },
+    "sources": [
+      {
+        "title": "Know Your Meme: Avril Lavigne Is Dead Conspiracy",
+        "url": "https://knowyourmeme.com/memes/avril-lavigne-is-dead-conspiracy",
+        "type": "article"
+      },
+      {
+        "title": "The Guardian: Why fans think Avril Lavigne died and was replaced by a clone named Melissa",
+        "url": "https://www.theguardian.com/lifeandstyle/shortcuts/2017/may/15/avril-lavigne-melissa-cloning-conspiracy-theories",
+        "type": "article"
+      },
+      {
+        "title": "NME: Is Avril Lavigne actually dead?",
+        "url": "https://www.nme.com/blogs/nme-blogs/is-avril-lavigne-really-dead-759563",
+        "type": "article"
+      },
+      {
+        "title": "The Independent: Avril Lavigne responds to rumours she died and was replaced by body double named Melissa",
+        "url": "https://www.independent.co.uk/arts-entertainment/music/news/avril-lavigne-death-conspiracy-melissa-hoax-rumour-body-double-theory-a8774886.html",
+        "type": "article"
+      },
+      {
+        "title": "E! Online: Avril Lavigne Addresses Conspiracy Theory That She's Been Replaced With Body Double Melissa Vandella",
+        "url": "https://www.eonline.com/news/1401713/avril-lavigne-addresses-conspiracy-theory-that-shes-been-replaced-with-body-double-melissa-vandella",
+        "type": "article"
+      },
+      {
+        "title": "National Human Genome Research Institute: Cloning Fact Sheet",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "tags": [
+      "Avril Lavigne",
+      "アヴリル・ラヴィーン",
+      "Melissa Vandella",
+      "替え玉説",
+      "クローン説",
+      "有名人入れ替わり説",
+      "都市伝説",
+      "ポップカルチャー",
+      "Let Go",
+      "Under My Skin",
+      "ミーム",
+      "音楽陰謀論",
+      "芸能陰謀論",
+      "SNS",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "joe-biden-replacement-clone",
+    "title": "Joe Bidenは死亡・処刑され替え玉・クローンに入れ替わった",
+    "description": "Joe Bidenは2019年または2020年に死亡・処刑され、以後の公的活動は俳優、マスクをかぶった替え玉、クローン、ロボット、CGIなどが演じている。耳たぶ、しわ、歩き方、声、発言の滑らかさ、マスクや動画の違和感は入れ替わりの証拠である。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "Joe Biden替え玉・クローン説は、QAnon系の処刑済み政治家物語、2020年選挙期の外見比較、2025年のTruth Social再拡散が重なった根拠のない陰謀論である。公開記録、取材映像、公的発言、政権アーカイブ、クローン技術史のどれも入れ替わりを支持しない。",
+    "explanation": "Joe Biden入れ替わり説は、Bidenが2019年または2020年に死亡・処刑され、以後は替え玉、俳優、マスク着用者、クローン、ロボット、CGIで代替されたという複数の変種を持つ。2020年大統領選期には耳たぶや顔のしわ、過去写真との比較から『body double』説が拡散し、PolitiFactやSnopesは加齢、撮影角度、照明、過去写真との時期差を根拠に否定した。2023年にはアイルランド訪問時の首のしわを『マスク』とする動画が拡散したが、PolitiFactはC-SPAN映像と国際的な取材記録に基づき、映っているのはBiden本人であり、しわは加齢で説明できると判断した。2025年5月31日には、Donald TrumpがTruth Socialで『Bidenは2020年に処刑され、クローンやロボットに置き換えられた』趣旨の投稿を再共有し、Lead StoriesやSnopesが、投稿自体の存在は確認しつつ主張を支える証拠は示されていないと整理した。国立公文書館はBiden政権の公式サイトを2021〜2025年の写真、演説、報道発表などの公的記録として保存しており、Daily Compilation of Presidential Documentsにも2024年まで継続的な発言・会見・署名文書が残る。これらは秘密の入れ替えを直接『不可能』と証明するものではないが、死亡・処刑・代替運用という巨大な主張に必要な死亡記録、司法記録、医療記録、内部文書、関係者証言が欠けていることを示す。さらにNHGRIのクローン技術解説は、クローンは成人の即時コピーや記憶・人格の複製ではないと説明しており、現役政治家を同一記憶の成人クローンに置き換える設定は技術的にも成り立たない。",
+    "verification_process": [
+      "主張を「Joe Bidenは2019年または2020年に死亡・処刑され、替え玉、クローン、ロボット、CGI、マスク俳優に置き換えられた」と定義した。",
+      "PolitiFactとSnopesで、2020〜2023年に耳たぶ、しわ、過去写真、動画切り抜きを根拠にしたbody double説が複数回検証され、根拠なしと判定されたことを確認した。",
+      "C-SPAN由来とされる2023年アイルランド訪問動画について、PolitiFactが公開映像・国際報道・加齢によるしわで説明していることを確認した。",
+      "Lead StoriesとSnopesで、2025年5月31日にTrumpがBiden処刑・クローン置換説の投稿を再共有した事実と、その投稿に証拠が示されていないことを確認した。",
+      "国立公文書館のBiden White HouseアーカイブとDaily Compilation of Presidential Documentsで、2021〜2025年の演説、写真、発表、会見記録が公的記録として残ることを確認した。",
+      "NHGRIのクローン技術史で、成人政治家を同じ記憶・人格の成人クローンとして即時置換するという主張が現実のクローン技術と合わないことを確認した。"
+    ],
+    "why_it_spreads": [
+      "高齢政治家の表情、声、歩き方、発言の変化を、加齢や疲労ではなく別人化として解釈しやすい",
+      "短い動画切り抜き、比較画像、耳たぶやしわの拡大画像がSNSで拡散しやすい",
+      "QAnon系の『敵対政治家は秘密裁判で処刑済み』という物語に接続しやすい",
+      "本物の公開記録を『ディープフェイク』『CGI』『マスク』と否認でき、反証が効きにくい",
+      "有名人入れ替わり説のテンプレートを政治不信や選挙不信に転用できる"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "時期の違う写真、照明、角度、表情、加齢変化を統制せず別人証拠にする",
+          "短い動画のしわ、影、圧縮ノイズ、音声差を、マスクやCGIの直接証拠として扱う"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "公的記録、報道、本人登場をすべて隠蔽や演技の一部として再解釈する",
+          "証拠がないことを、計画が完璧に隠されている証拠として扱う"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "入れ替わり説に合う比較画像だけを選び、長時間映像、複数角度、現地報道を省く",
+          "発信元がミーム、QAnon系投稿、風刺記事転載だった文脈を無視する"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "AIやディープフェイクが存在することを、個別映像が偽物だという証拠にすり替える",
+          "クローン技術への漠然とした不安を、成人の記憶・人格コピーが可能という主張へ飛躍させる"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "公的記録、報道機関、映像アーカイブ、医学・遺伝学の説明を、政治的隠蔽として一括で退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2020年大統領選期に、耳たぶや顔の違いを使ったBiden body double説がSNS、Reddit、Facebookで拡散した。QAnon系コミュニティでは、敵対政治家が秘密裏に処刑され替え玉で置き換えられたという物語の一部として流通した。",
+      "spread_period": "2020年選挙期、2022〜2023年の写真・動画比較、2024年大統領選討論会前後、2025年5月31日のTruth Social再共有後に再拡散した。以後もX、TikTok、Reddit、陰謀論系動画、まとめサイトで反復されている。",
+      "spread_scope": "米国の右派・QAnon系コミュニティを中心に、英語圏SNS、動画プラットフォーム、日本語圏の政治陰謀論・有名人クローン説コミュニティにも広がる。",
+      "note": "この項目は、Bidenの加齢、健康状態、発言の変化、映像加工リスク、政治家が映像演出を使う可能性を否定しない。対象は、それらを死亡・処刑・替え玉・クローン置換の証拠とする主張である。",
+      "spreaders": [
+        "QAnon系・選挙陰謀論系のSNSアカウント",
+        "Facebook、X、TikTok、Reddit上の比較画像・切り抜き動画投稿者",
+        "陰謀論系動画チャンネル・まとめサイト",
+        "2025年5月31日に当該投稿を再共有したDonald TrumpのTruth Socialアカウント"
+      ],
+      "beneficiaries": [
+        "政治不信・選挙不信コンテンツで広告・配信収益を得る媒体",
+        "陰謀論コミュニティへ視聴者や支援者を集める発信者",
+        "対立候補や政党への不信を高めたい政治的アクター"
+      ],
+      "source": {
+        "title": "Lead Stories: President Trump DID Share Post Saying Joe Biden Was Executed In 2020 And Replaced With Robotic Clones",
+        "url": "https://leadstories.com/hoax-alert/2025/06/fact-check-trump-did-share-post-saying-boden-was-executed-in-2020-replaced-with-robotic-clones.html"
+      }
+    },
+    "sources": [
+      {
+        "title": "PolitiFact: That’s no masked impersonator. It’s really President Joe Biden",
+        "url": "https://www.politifact.com/factchecks/2023/apr/27/instagram-posts/no-biden-is-not-a-masked-clone/",
+        "type": "article"
+      },
+      {
+        "title": "PolitiFact: No, this video doesn’t prove Biden has a body double",
+        "url": "https://www.politifact.com/factchecks/2022/sep/07/viral-image/no-video-doesnt-prove-biden-has-body-double/",
+        "type": "article"
+      },
+      {
+        "title": "Snopes: Does Joe Biden Have a Body Double?",
+        "url": "https://www.snopes.com/fact-check/earlobes-biden-body-double/",
+        "type": "article"
+      },
+      {
+        "title": "Lead Stories: President Trump DID Share Post Saying Joe Biden Was Executed In 2020 And Replaced With Robotic Clones",
+        "url": "https://leadstories.com/hoax-alert/2025/06/fact-check-trump-did-share-post-saying-boden-was-executed-in-2020-replaced-with-robotic-clones.html",
+        "type": "article"
+      },
+      {
+        "title": "National Archives: Archived Presidential White House Websites",
+        "url": "https://www.archives.gov/presidential-records/research/archived-white-house-websites",
+        "type": "government"
+      },
+      {
+        "title": "National Human Genome Research Institute: Cloning Fact Sheet",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "tags": [
+      "Joe Biden",
+      "ジョー・バイデン",
+      "替え玉説",
+      "クローン説",
+      "body double",
+      "マスク説",
+      "ロボット説",
+      "CGI",
+      "QAnon",
+      "政治陰謀論",
+      "選挙陰謀論",
+      "有名人入れ替わり説",
+      "ディープフェイク",
+      "Truth Social",
+      "Donald Trump",
+      "SNS",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "donald-trump-replacement-clone",
+    "title": "Donald Trumpは死亡・重病で替え玉・クローンに入れ替わった",
+    "description": "Donald Trumpは死亡、重病、脳卒中、暗殺後の隠蔽などにより本人として公の場に出られず、以後の写真・演説・移動映像は替え玉、クローン、AI、CGI、マスク俳優が演じている。手のあざ、足首のむくみ、外見や体格の差、数日間の公開イベント空白、ゴルフ写真の違和感は入れ替わりの証拠である。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "Donald Trump替え玉・クローン説は、2025年夏の健康不安・死亡噂とSNSの比較画像から広がった根拠のない陰謀論である。公開登場、報道写真、公式日程、記者対応、医学・クローン技術の基礎知識は、死亡・置換説を支持しない。",
+    "explanation": "Donald Trump入れ替わり説は、Trumpが死亡または重病で公的活動を続けられず、代わりに替え玉、クローン、AI映像、CGI、マスク俳優が使われているという主張である。2025年8月末から9月初め、Trumpに数日間公開イベントが少なかったこと、右手のあざ、足首のむくみ、慢性静脈不全の診断、JD Vanceの発言の切り抜きなどを材料に、XやTikTokで『Trump is dead』『Where is Trump』が拡散した。PolitiFactは、Trumpが2025年9月2日にホワイトハウスで生中継の公的発言を行い、その前後にもゴルフ場への移動写真、Truth Social投稿、公式日程、報道写真が確認できるとして、死亡説を否定した。APも、Trumpが9月2日のOval Officeイベントで死亡噂について質問され、自身の週末活動を説明したことを報じた。Hindustan Timesは、8月30日のゴルフ写真公開後も一部SNSユーザーが『写真の人物はbody double』と主張したと報じているが、投稿は手のあざ、耳、体格、画質への印象に基づくもので、入れ替えを示す一次資料ではない。PolitiFactは別件の政治家クローン説について、時期・角度・照明・画質の違う写真比較は置換の証拠にならないと整理している。NHGRIのクローン技術解説でも、クローンは成人を即時複製し記憶や人格ごと置き換える技術ではない。したがって、健康状態への正当な関心と、死亡・替え玉・クローン置換という主張は分けて扱う必要がある。",
+    "verification_process": [
+      "主張を「Donald Trumpは死亡または重病で、替え玉、クローン、AI、CGI、マスク俳優に置き換えられた」と定義した。",
+      "PolitiFactで、2025年8月末〜9月初めのTrump死亡噂、#trumpisdead、#whereistrumpの流布、9月2日の生中継発言と写真報道を確認した。",
+      "APとGuardianで、Trumpが9月2日にOval Officeで死亡噂へ答え、健康不安が手のあざ・足首のむくみ・公開イベント空白と結びついて拡散した経緯を確認した。",
+      "Hindustan Timesで、ゴルフ写真公開後も一部SNSが『body double』と主張した流布例を確認した。",
+      "PolitiFactの政治家クローン説検証で、年齢、角度、照明、画質の違う写真比較が置換証拠にならないという一般的評価を確認した。",
+      "NHGRIのクローン技術史で、成人政治家の即時複製や記憶・人格コピーは現実のクローン技術と合わないことを確認した。"
+    ],
+    "why_it_spreads": [
+      "Trumpが常に露出する政治家であるため、数日間の沈黙や公開イベント空白が異常に見えやすい",
+      "高齢、あざ、むくみ、医師メモ、過去のCOVID-19入院など、健康不安と結びつく素材がある",
+      "短い移動映像、遠距離写真、画質の低い比較画像が、別人説の材料としてSNSで切り抜かれやすい",
+      "BidenやPutinなど他の政治家の替え玉説と同じテンプレートで再利用できる",
+      "政治的嫌悪や願望が、死亡説・重病説・置換説を面白いミームとして拡散させる"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "遠距離写真、低画質動画、照明、角度、メイク、姿勢の違いを別人証拠にする",
+          "手のあざや足首のむくみを、健康問題の可能性ではなく即座に死亡隠蔽や替え玉の証拠へ飛躍させる"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "公開予定が少ないことを、死亡・脳卒中・置換作業の結果と決めつける",
+          "医療情報の不透明さと入れ替わり作戦を同一視する"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "本人登場、公式日程、報道写真、記者質問への回答をすべて演出やCGIとして再解釈する",
+          "反証が出るほど、隠蔽チームが精巧に動いている証拠とみなす"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "説に合う写真や投稿だけを選び、同日の複数角度写真、長時間映像、現地報道を省く",
+          "冗談、風刺、願望混じりの投稿を、実在する内部情報のように扱う"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "AI映像やディープフェイクが存在することを、個別のTrump映像が偽物だという証拠にすり替える",
+          "クローン技術への漠然とした不安を、成人の記憶・人格コピーが可能という主張へ飛躍させる"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "Trumpの替え玉・クローン説は2010年代からSNSや掲示板で断片的に見られたが、確認できる大きな再拡散は2025年8月末〜9月初めの健康不安・死亡噂である。公開イベント空白、右手のあざ、足首のむくみ、慢性静脈不全の診断、JD Vance発言の切り抜きが材料になった。",
+      "spread_period": "2025年8月30日〜9月2日にX、TikTok、Reddit、Blueskyで『Trump is dead』『Where is Trump』が広がり、ゴルフ写真や9月2日の公的登場後も一部でbody double説が継続した。以後もTrumpの健康報道やAI映像投稿と結びついて再燃している。",
+      "spread_scope": "米国の反Trump系SNS、政治ミーム圏、陰謀論掲示板、英語圏ニュースコメント欄を中心に、日本語圏の米国政治ウォッチャーや有名人クローン説コミュニティにも流通する。",
+      "note": "この項目は、Trumpの健康状態への関心、医療情報公開の不十分さ、映像加工リスク、政治家が演出された映像を使う可能性を否定しない。対象は、それらを死亡・替え玉・クローン置換の証拠とする主張である。",
+      "spreaders": [
+        "X、TikTok、Reddit、Bluesky上の健康不安・死亡噂投稿者",
+        "反Trump系政治ミームアカウント",
+        "政治家クローン・body double陰謀論コミュニティ",
+        "健康不安や死亡噂を扱うまとめサイト・動画チャンネル"
+      ],
+      "beneficiaries": [
+        "政治ミームや陰謀論コンテンツで広告・配信収益を得る媒体",
+        "反Trump感情や政治不信を利用して視聴者を集める発信者",
+        "健康不安・死亡噂を fundraising や支持者動員に転用する政治的アクター"
+      ],
+      "source": {
+        "title": "PolitiFact: How Donald Trump’s untimely and untrue ‘death’ unfolded on social media",
+        "url": "https://www.politifact.com/article/2025/sep/02/Donald-Trump-Died-Rumor-False-misinformation/"
+      }
+    },
+    "sources": [
+      {
+        "title": "PolitiFact: How Donald Trump’s untimely and untrue ‘death’ unfolded on social media",
+        "url": "https://www.politifact.com/article/2025/sep/02/Donald-Trump-Died-Rumor-False-misinformation/",
+        "type": "article"
+      },
+      {
+        "title": "PolitiFact: President Donald Trump’s Labor Day weekend was quiet, but his schedule was not ‘suspended’",
+        "url": "https://www.politifact.com/factchecks/2025/sep/02/tweets/Donald-Trump-schedule-health-rumor-dead/",
+        "type": "article"
+      },
+      {
+        "title": "AP News: Trump addresses health rumors after days without public events",
+        "url": "https://apnews.com/article/donald-trump-health-rumors-5c889005eb7436fb3c07fe6b1e730a78",
+        "type": "article"
+      },
+      {
+        "title": "Hindustan Times: After health rumors, netizens push bizarre ‘Trump body double’ theory",
+        "url": "https://www.hindustantimes.com/world-news/us-news/trump-body-double-theory-spreads-after-golf-outing-photos-emerge-101756584178818.html",
+        "type": "article"
+      },
+      {
+        "title": "PolitiFact: Baseless clone claims replicate on social media",
+        "url": "https://www.politifact.com/factchecks/2023/jul/12/viral-image/baseless-clone-claims-replicate-on-social-media/",
+        "type": "article"
+      },
+      {
+        "title": "National Human Genome Research Institute: Cloning Fact Sheet",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-05-18",
+    "updated_at": "2026-05-18",
+    "tags": [
+      "Donald Trump",
+      "ドナルド・トランプ",
+      "替え玉説",
+      "クローン説",
+      "body double",
+      "死亡説",
+      "健康不安",
+      "AI映像",
+      "CGI",
+      "マスク説",
+      "政治陰謀論",
+      "有名人入れ替わり説",
+      "ディープフェイク",
+      "Truth Social",
+      "SNS",
+      "陰謀論"
+    ]
   }
 ]
