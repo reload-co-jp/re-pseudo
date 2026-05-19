@@ -14053,5 +14053,138 @@
       "健康商法",
       "疑似科学"
     ]
+  },
+  {
+    "id": "weather-weapons-conspiracy",
+    "title": "気象兵器で台風や豪雨が意図的に起こされている",
+    "description": "政府、軍、国際機関、富裕層などが、HAARP、ケムトレイル、クラウドシーディング、レーザー、電磁波、地球工学を使い、台風、豪雨、洪水、干ばつ、猛暑、山火事などを兵器として発生・誘導している。",
+    "category": "conspiracy",
+    "verdict": "misleading",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "クラウドシーディングなど限定的な気象改変技術は実在するが、台風・豪雨・洪水など大規模災害を狙って作る、進路誘導する、特定地域へ攻撃する技術が実用化されている証拠はない。災害時の避難判断、気象情報、防災機関への信頼を損なう点が高リスクである。",
+    "explanation": "気象改変は、雲に粒子を入れて雨や雪を増やすクラウドシーディング、霧消散、ひょう被害軽減など、局地的・条件依存の技術として研究・運用されている。一方、WMOは気象システムのエネルギーは非常に大きく、雲系を作る、風を変えて水蒸気を運ぶ、激しい気象現象を消すといった大規模効果をうたう技術には健全な科学的根拠がないと説明している。さらに、熱帯低気圧を改変できる一般に受け入れられた証拠はなく、竜巻、落雷危険、洪水などをクラウドシーディングで改変する実証済み手法もない。NOAAのハリケーンFAQも、米国のProject STORMFURYがハリケーン弱体化を試みたが、自然変動と介入効果を識別できず、ハリケーン内の氷と過冷却水の条件から有望性が低いと判断された経緯を示す。米国では気象改変活動の報告制度があり、GAOも監督と透明性の改善を求めているが、報告制度や過去の軍事利用禁止条約の存在は、現在の災害が秘密兵器で操作されている証拠ではない。災害発生時は、気象庁・NOAA・各国気象機関の観測、予報、警報、防災情報を優先して確認すべきである。",
+    "verification_process": [
+      "主張を「限定的な気象改変技術の存在」ではなく、「台風・豪雨・洪水などを兵器として発生・誘導する秘密操作」と定義した。",
+      "WMOの2025年声明で、クラウドシーディングの範囲、条件依存性、大規模・劇的効果への否定的評価を確認した。",
+      "NOAA/AOMLのハリケーンFAQで、Project STORMFURYの失敗理由とハリケーン改変が実用化されていない経緯を確認した。",
+      "NOAA LibraryとGAO報告で、米国の気象改変報告制度、クラウドシーディングの実在、透明性課題を確認し、陰謀論の証拠とは分けた。",
+      "FactCheck.orgで、2024年のハリケーンHelene/Milton後にクラウドシーディング、HAARP、レーザーが災害操作説として拡散した経緯を確認した。",
+      "UNODAのENMOD条約で、環境改変技術の軍事的・敵対的利用を禁じる国際枠組みを確認した。"
+    ],
+    "why_it_spreads": [
+      "異常気象や災害の規模が大きいほど、人為的な単一原因を求めやすい",
+      "クラウドシーディング、地球工学、HAARP、軍事研究、ENMOD条約など実在要素と結びつきやすい",
+      "過去に軍事目的の気象改変研究があった事実が、現在の全災害操作説へ拡張されやすい",
+      "気候変動、政府、国際機関、メディアへの不信と接続しやすい",
+      "SNSでは雲画像、レーダー画像、航空機の航跡、特許番号が文脈抜きで証拠として共有されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "公的機関の説明や観測データを、秘密計画を隠すための情報操作として扱う",
+          "情報が不完全な点を、気象兵器の隠蔽証拠とみなす"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "災害の発生時期と気象改変報告、航空機の航跡、雲形、レーダー画像の偶然の一致を因果関係として扱う",
+          "気候変動、海面水温、大気循環、地形、前線など複数要因を無視し、単一の人工操作へ還元する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "クラウドシーディングの成功例だけを取り上げ、条件依存性や効果量の不確実性を省く",
+          "Project STORMFURYやENMOD条約を引用し、失敗経緯や禁止対象の限定を省く"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "気象改変研究に未解明部分があることを、大規模災害操作が可能という根拠にする",
+          "報告制度の不備や透明性課題を、秘密兵器の存在証明として扱う"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "気象機関、研究者、防災機関の説明を利害関係による隠蔽として退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "気象を軍事利用する発想は20世紀中盤のクラウドシーディング研究やベトナム戦争期のOperation Popeye、1977年発効のENMOD条約で知られる。1990年代以降はHAARP陰謀論、2000年代以降はケムトレイル論、2010年代以降は地球工学・気候変動否認の文脈と結びつき、災害発生ごとに『気象兵器』として再流通した。",
+      "spread_period": "大型台風、ハリケーン、豪雨、洪水、山火事、猛暑の直後に拡散しやすい。特に2024年の米国ハリケーンHelene/Milton後には、クラウドシーディング、HAARP、レーザーで嵐を操作したという投稿が英語圏で広く流れた。",
+      "spread_scope": "英語圏、日本語圏、欧州語圏の陰謀論、反政府、反国際機関、気候変動否認、ケムトレイル、HAARP、災害不信コミュニティで流通する。",
+      "note": "この項目は、局地的なクラウドシーディング、霧消散、ひょう対策、地球工学研究、過去の軍事的気象改変研究の存在を否定しない。対象は、大規模災害が秘密の気象兵器で発生・誘導されているという主張である。",
+      "spreaders": [
+        "災害時に気象操作説を投稿する陰謀論系SNSアカウント",
+        "ケムトレイル、HAARP、反地球工学、反政府系の動画チャンネル・ブログ",
+        "気候変動対策や気象機関への不信をあおる政治・思想系メディア"
+      ],
+      "beneficiaries": [
+        "災害不安を集客に使う広告収益型メディア・動画チャンネル",
+        "気象兵器対策、解毒、シェルター、備蓄品、会員制情報を販売する事業者",
+        "気候変動対策や防災機関への不信を政治的動員に使う主体"
+      ],
+      "source": {
+        "title": "FactCheck.org: Baseless Claims Proliferate on Hurricanes and Weather Modification",
+        "url": "https://www.factcheck.org/2024/10/baseless-claims-proliferate-on-hurricanes-and-weather-modification/"
+      }
+    },
+    "sources": [
+      {
+        "title": "WMO Statement on Weather Modification",
+        "url": "https://wmo.int/content/wmo-statement-weather-modification",
+        "type": "government"
+      },
+      {
+        "title": "NOAA/AOML: Hurricane FAQ",
+        "url": "https://www.aoml.noaa.gov/hrd-faq/",
+        "type": "government"
+      },
+      {
+        "title": "NOAA Library: Weather Modification Project Reports",
+        "url": "https://library.noaa.gov/weather-climate/weather-modification-project-reports",
+        "type": "government"
+      },
+      {
+        "title": "GAO: Weather Modification: NOAA Should Strengthen Oversight to Ensure Reliable Information",
+        "url": "https://files.gao.gov/reports/GAO-26-108013/index.html",
+        "type": "government"
+      },
+      {
+        "title": "UNODA: Convention on the Prohibition of Military or Any Other Hostile Use of Environmental Modification Techniques (ENMOD)",
+        "url": "https://disarmament.unoda.org/enmod/",
+        "type": "government"
+      },
+      {
+        "title": "FactCheck.org: Baseless Claims Proliferate on Hurricanes and Weather Modification",
+        "url": "https://www.factcheck.org/2024/10/baseless-claims-proliferate-on-hurricanes-and-weather-modification/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-19",
+    "updated_at": "2026-05-19",
+    "tags": [
+      "気象兵器",
+      "気象操作",
+      "クラウドシーディング",
+      "地球工学",
+      "HAARP",
+      "ケムトレイル",
+      "台風",
+      "ハリケーン",
+      "豪雨",
+      "洪水",
+      "干ばつ",
+      "レーザー",
+      "電磁波",
+      "ENMOD",
+      "災害陰謀論"
+    ]
   }
 ]
