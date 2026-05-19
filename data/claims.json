@@ -13649,5 +13649,409 @@
       "SNS",
       "陰謀論"
     ]
+  },
+  {
+    "id": "tartarian-empire-mud-flood",
+    "title": "タルタリア帝国は消された高度文明だった",
+    "description": "古地図に見えるTartary/Tartariaは、中央・北アジアの地理名ではなく、近代まで世界規模で存在した高度なタルタリア帝国である。19世紀ごろの泥の洪水や文明リセットで帝国は滅び、支配層が歴史を改ざんし、万博建築、星形要塞、官庁建築、地下階、フリーエネルギー技術を後世の建造物として偽装した。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "タルタリア帝国説は、古地図のTartaryという広域地名、19世紀建築、地下階、万博施設を、失われた世界帝国と文明リセットの証拠に読み替える疑似歴史である。史料・地図史・建築史・考古学は、単一の高度世界帝国や泥の洪水による隠蔽を支持しない。",
+    "explanation": "Tartary/Tartariaは、13〜19世紀の欧州地図や文献で中央アジア・北アジアの広い地域を指す可変的な外称として使われた。Library of Congressの地図解説は、Tartaryが地図ごとに場所や範囲を変え、16〜18世紀にはMuscovite Tartary、Chinese Tartary、Independent Tartaryなど複数の修飾語で分割され、19世紀末にはTurkestan、Mongolia、Manchuria、Siberiaなどより具体的な名称へ置き換わったと説明する。David Rumsey Historical Map Collectionも、17世紀の『A Newe Mape of Tartary』を、欧州が当時把握していたアジア像と推測を混ぜた地図として位置づける。BritannicaのTatar解説は、Tatar/Tartarがモンゴル帝国以後、複数のテュルク系・モンゴル系集団に対して欧州側が広く用いた名称だったことを示す。したがって、古地図にTartaryと書かれている事実は、単一の近代的主権国家や世界帝国の存在を意味しない。Lead Storiesは、Tartarian Empireとmud floodが代替歴史・陰謀論圏で広まった主張であり、歴史的・科学的証拠はないと検証している。地下階の窓や低い入口は、地下室採光、道路面のかさ上げ、都市改修、地盤沈下、個別災害で説明できる場合が多く、世界規模の泥の洪水を示す連続した地層・年代測定・被災記録は確認されていない。万博建築や19世紀の公共建築にも設計者、建設会社、資材、写真、新聞、会計、解体記録が残る例が多く、失われた帝国からの流用を示す一次資料はない。",
+    "verification_process": [
+      "主張を「古地図のTartaryは消された世界規模の高度タルタリア帝国であり、泥の洪水と歴史改ざんで隠された」と定義した。",
+      "Library of Congressで、Tartaryが13〜19世紀の西洋地図に現れる可変的な地理名で、単一政治体ではないことを確認した。",
+      "David Rumsey Historical Map Collectionで、17世紀Tartary地図が欧州のアジア認識、推測、装飾を含む歴史地図として整理されていることを確認した。",
+      "Britannicaで、Tatar/Tartarが複数のテュルク系・モンゴル系集団を指す歴史的名称であり、単一の世界帝国名ではないことを確認した。",
+      "Lead Storiesで、Tartarian Empireとmud floodに歴史的・科学的証拠がないと検証されていることを確認した。",
+      "Bloombergなどで、万博施設や19世紀建築をTartariaの遺構とみなすオンライン建築陰謀論の流布を確認した。"
+    ],
+    "why_it_spreads": [
+      "古地図にTartaryと大きく書かれている見た目が、巨大国家や帝国の存在に見えやすい",
+      "豪華な19世紀建築や万博施設が、現代の建築速度感覚から見ると不自然に見える",
+      "地下階、半地下窓、道路面の上昇などを、泥の洪水で埋まった証拠として直感的に読める",
+      "歴史教育への不信、エリート不信、文明リセット願望と結びつきやすい",
+      "TikTok、YouTube、Redditで比較画像と不穏な音楽だけで物語化しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "古地図の広域ラベルを、近代国家や単一帝国の国境として扱う",
+          "地下窓、半地下入口、装飾建築を、設計図・施工記録・都市改修史を確認せず失われた文明の証拠にする"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "史料や建築記録が存在するほど、支配層が後付けで偽造した証拠だと解釈する",
+          "反証が出るたびに、歴史改ざんの範囲を世界規模へ拡大する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "説に合う写真や地図だけを選び、同じ建物の設計図、新聞記事、工事写真、会計資料を省く",
+          "Tartaryという語が地域名として変動していた文脈を無視する"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "道路面上昇、地下室、地盤沈下、個別洪水を、世界同時の泥の洪水とみなす",
+          "建築様式の類似を、同一帝国の建造物だった証拠にする"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "地図史、建築史、考古学、文献学の蓄積を、すべて隠蔽機構の一部として退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "思想的にはAnatoly Fomenkoの新年代学やロシア語圏の疑似歴史に近い土壌があり、英語圏では2010年代後半からStolenHistory系フォーラム、YouTube、Reddit、FacebookでTartaria、mud flood、old world、resetの語が結びついて拡散した。",
+      "spread_period": "2016年ごろ以降に英語圏インターネットで拡大し、2020年代にはTikTok、YouTube、Reddit、Instagramで古地図、万博建築、星形要塞、地下階、孤児列車、フリーエネルギーを結びつける短尺動画として再流通している。",
+      "spread_scope": "英語圏の代替歴史、建築陰謀論、QAnon隣接、フラットアース隣接、反学術系コミュニティを中心に、日本語圏でも都市伝説・隠された歴史系コンテンツとして流通する。",
+      "note": "この項目は、Tatar/Tartar諸集団の歴史、Tartaryという古地図上の地名、ロシア帝国・清・モンゴル・中央アジア諸政権の実在を否定しない。対象は、それらを単一の消された高度世界帝国や泥の洪水リセットへ読み替える主張である。",
+      "spreaders": [
+        "Tartaria・mud flood系のYouTube、TikTok、Reddit、Facebook投稿者",
+        "代替歴史・建築陰謀論コミュニティ",
+        "QAnon隣接・フラットアース隣接の陰謀論アカウント",
+        "古地図や廃墟写真を使う都市伝説系まとめサイト"
+      ],
+      "beneficiaries": [
+        "代替歴史・陰謀論コンテンツで広告・配信収益を得る媒体",
+        "有料コミュニティ、書籍、講座、動画で『隠された歴史』を販売する発信者",
+        "学術不信や反体制感情を利用して支持者を集める政治・思想系アクター"
+      ],
+      "source": {
+        "title": "Lead Stories: Fact Check: NO Evidence Of Old 'Tartarian Empire' Or Of 'Mud Flood' Resetting Society",
+        "url": "https://leadstories.com/hoax-alert/2023/05/fact-check-no-evidence-of-old-tartarian-empire-or-of-mud-flood-resetting-society.html"
+      }
+    },
+    "sources": [
+      {
+        "title": "Lead Stories: Fact Check: NO Evidence Of Old 'Tartarian Empire' Or Of 'Mud Flood' Resetting Society",
+        "url": "https://leadstories.com/hoax-alert/2023/05/fact-check-no-evidence-of-old-tartarian-empire-or-of-mud-flood-resetting-society.html",
+        "type": "article"
+      },
+      {
+        "title": "Library of Congress: Tracking 'Tartary' on Western Maps",
+        "url": "https://blogs.loc.gov/maps/2025/06/tracking-tartary-on-western-maps/",
+        "type": "government"
+      },
+      {
+        "title": "David Rumsey Historical Map Collection: A Newe Mape of Tartary",
+        "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~285388~90058061",
+        "type": "other"
+      },
+      {
+        "title": "Britannica: Tatar",
+        "url": "https://www.britannica.com/topic/Tatar",
+        "type": "article"
+      },
+      {
+        "title": "Bloomberg CityLab: Inside Architecture's Wildest Conspiracy Theory",
+        "url": "https://www.bloomberg.com/news/features/2021-04-27/inside-architecture-s-wildest-conspiracy-theory",
+        "type": "article"
+      },
+      {
+        "title": "Chronologia.org: New Chronology by Fomenko and Nosovskiy",
+        "url": "https://chronologia.org/en/",
+        "type": "other"
+      }
+    ],
+    "created_at": "2026-05-19",
+    "updated_at": "2026-05-19",
+    "tags": [
+      "タルタリア帝国",
+      "Tartaria",
+      "Tartary",
+      "Tatar",
+      "泥の洪水",
+      "mud flood",
+      "文明リセット",
+      "古地図",
+      "万博建築",
+      "星形要塞",
+      "フリーエネルギー",
+      "疑似歴史",
+      "代替歴史",
+      "建築陰謀論",
+      "新年代学",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "pyramid-power-plant-theory",
+    "title": "ギザの大ピラミッドは古代の発電所だった",
+    "description": "ギザの大ピラミッドはファラオの墓ではなく、花崗岩、石灰岩、地下水、音響共鳴、水素反応、圧電効果、電磁波集中などを使って電力やマイクロ波を発生・送信する古代の発電所だった。主流考古学はこの高度技術を隠しており、配線や機械部品が見つからないのは後世に撤去されたためである。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "ピラミッド発電所説は、Christopher Dunnの1998年著作や古代宇宙飛行士系番組、2018年の電磁波シミュレーション論文の誤読から広がる疑似考古学である。大ピラミッドが発電・送電設備だったことを示す配線、導体、負荷、燃料供給、発電記録はなく、考古資料はKhufuの王墓複合体としての理解を支持する。",
+    "explanation": "ギザの大ピラミッド発電所説の代表的な形は、Christopher Dunnの1998年著作『The Giza Power Plant』で、ピラミッド内部が地球振動、音響共鳴、水素反応、花崗岩の性質を使ってマイクロ波エネルギーを発生させたという主張である。後年、古代宇宙飛行士系番組やYouTube、TikTok、Redditでは、石灰岩は絶縁体、花崗岩は圧電体、地下水は電解質、王の間や女王の間は反応室、シャフトは導波管だったという説明に変形した。しかし発電所であれば必要な導体、絶縁設計、発電機、化学反応容器、燃料供給、放熱、送電先、使用機器、保守記録、事故痕跡などが期待されるが、確認されていない。SmithsonianやBritannicaは、大ピラミッドを第4王朝のKhufuの王墓複合体として説明し、周辺の墓地、葬祭施設、労働者集落、採石・運搬記録、王名との対応を含む考古学的文脈がある。Wadi al-JarfのMerer日誌は、Khufu治世下で石材輸送に関わった作業隊の同時代記録として、大ピラミッド建設の実務を示す。2018年のJournal of Applied Physics論文は、ピラミッド形状が特定波長の外部電磁波を散乱・集中しうるかを数値シミュレーションした物理研究であり、古代エジプト人が発電所として設計・運用した証拠ではない。ScanPyramidsのミューオン研究も未知空間の検出を報告するが、用途不明の空洞を発電装置と結論していない。したがって、ピラミッドが持つ幾何学的・物理的性質と、古代の実用発電設備だったという歴史主張は分ける必要がある。",
+    "verification_process": [
+      "主張を「ギザの大ピラミッドは墓ではなく、古代の発電・送電設備だった」と定義した。",
+      "Open Libraryなどで、Christopher Dunnの『The Giza Power Plant』が1998年刊行の代表的発電所説であることを確認した。",
+      "SmithsonianとBritannicaで、大ピラミッドがKhufuの王墓複合体として説明され、周辺墓地・葬祭施設・建設文脈と結びつくことを確認した。",
+      "SmithsonianのMerer日誌解説で、Khufu治世下の石材輸送記録が建設実務を示すことを確認した。",
+      "Journal of Applied Physicsの2018年論文で、電磁波集中は外部から照射された特定波長の数値シミュレーションであり、古代発電所の実証ではないことを確認した。",
+      "Nature掲載のScanPyramids研究で、未知空間検出は構造調査であり、発電装置やエネルギー送信機の証拠ではないことを確認した。"
+    ],
+    "why_it_spreads": [
+      "大ピラミッドの精密さ、巨大さ、内部構造が、単なる墓以上の機械に見えやすい",
+      "花崗岩、石英、圧電効果、共鳴、電磁波など実在する科学用語を組み合わせるため説得力が出る",
+      "2018年の電磁波シミュレーション論文が、発電所説の証明のように切り抜かれやすい",
+      "『主流考古学は技術を隠している』という物語が、学術不信や古代高度文明願望と結びつく",
+      "古代エジプトの宗教的・葬祭的文脈より、現代技術風の説明のほうが短尺動画で伝えやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "物理的に共鳴や電磁波散乱が起きうることを、発電所として設計された証拠にする",
+          "配線、導体、負荷、燃料供給、保守記録がないことを、撤去・隠蔽の証拠として扱う"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "花崗岩に石英が含まれることから、実用発電が行われたと飛躍する",
+          "内部空間やシャフトの存在を、葬祭・構造・換気・建設上の説明を検討せず導波管や反応室とみなす"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "考古学者が発電所説を採用しないことを、証拠不足ではなく隠蔽と解釈する",
+          "反証や欠落が出るたびに、部品が盗まれた、資料が破壊されたという補助仮説を足す"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "Dunn説や古代宇宙飛行士系番組の断片を採用し、王名、周辺墓地、労働者集落、石材輸送記録を省く",
+          "2018年論文の『電磁エネルギー集中』だけを引用し、外部波照射の理論モデルという条件を省く"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "エジプト学、考古学、建築史、物理学の通常の説明を、すべて既得権益の防衛として退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "近代の『ピラミッド・パワー』思想は20世紀後半から流布したが、発電所説としての代表的定式化はChristopher Dunnの1998年著作『The Giza Power Plant』である。以後、古代宇宙飛行士、代替歴史、フリーエネルギー系の文脈で広がった。",
+      "spread_period": "1998年以降に書籍、講演、ウェブサイト、古代宇宙飛行士系番組で流通し、2018年の電磁波集中論文後にYouTube、Reddit、TikTok、まとめサイトで再拡散した。2020年代にはタルタリア、フリーエネルギー、古代高度文明説とも接続している。",
+      "spread_scope": "英語圏の代替歴史、古代宇宙飛行士、フリーエネルギー、疑似考古学コミュニティを中心に、日本語圏でも都市伝説、古代文明、ピラミッド・パワー、隠された技術系コンテンツとして流通する。",
+      "note": "この項目は、ピラミッド形状の電磁波散乱、音響特性、建設技術の高度さ、未解明の構造調査を否定しない。対象は、それらを古代の実用発電所・送電設備だった証拠とする主張である。",
+      "spreaders": [
+        "Christopher Dunnの著作・講演・関連サイト",
+        "古代宇宙飛行士・代替歴史系番組",
+        "YouTube、TikTok、Reddit上のピラミッド発電所説投稿者",
+        "フリーエネルギー・古代高度文明・タルタリア系コミュニティ"
+      ],
+      "beneficiaries": [
+        "疑似考古学・古代文明コンテンツで広告・出版・配信収益を得る媒体",
+        "講座、書籍、動画、会員制コミュニティで『隠された古代技術』を販売する発信者",
+        "フリーエネルギー装置や投資話に関心を誘導する事業者"
+      ],
+      "source": {
+        "title": "Open Library: Giza Power Plant by Christopher Dunn",
+        "url": "https://openlibrary.org/books/OL29610849M/Giza_Power_Plant"
+      }
+    },
+    "sources": [
+      {
+        "title": "Open Library: Giza Power Plant by Christopher Dunn",
+        "url": "https://openlibrary.org/books/OL29610849M/Giza_Power_Plant",
+        "type": "other"
+      },
+      {
+        "title": "Smithsonian Magazine: The World's Oldest Papyrus and What It Can Tell Us About the Great Pyramids",
+        "url": "https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/",
+        "type": "article"
+      },
+      {
+        "title": "Britannica: Pyramids of Giza",
+        "url": "https://www.britannica.com/EBchecked/topic/234470/Pyramids-of-Giza",
+        "type": "article"
+      },
+      {
+        "title": "Journal of Applied Physics: Electromagnetic properties of the Great Pyramid: First multipole resonances and energy concentration",
+        "url": "https://ui.adsabs.harvard.edu/abs/2018JAP...124c4903B/abstract",
+        "type": "paper"
+      },
+      {
+        "title": "Nature: Discovery of a big void in Khufu's Pyramid by observation of cosmic-ray muons",
+        "url": "https://www.nature.com/articles/nature24647",
+        "type": "paper"
+      },
+      {
+        "title": "Smithsonian Magazine: Inside the Great Pyramid",
+        "url": "https://www.smithsonianmag.com/travel/inside-the-great-pyramid-75164298/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-05-19",
+    "updated_at": "2026-05-19",
+    "tags": [
+      "ピラミッド発電所説",
+      "ギザの大ピラミッド",
+      "Great Pyramid",
+      "Giza Power Plant",
+      "Christopher Dunn",
+      "ピラミッド・パワー",
+      "古代高度文明",
+      "古代宇宙飛行士",
+      "フリーエネルギー",
+      "圧電効果",
+      "電磁波",
+      "共鳴",
+      "疑似考古学",
+      "代替歴史",
+      "陰謀論"
+    ]
+  },
+  {
+    "id": "quantum-hado-water",
+    "title": "量子波動水は病気や体調を改善する",
+    "description": "水に量子エネルギー、波動、周波数、情報、祈り、言葉、鉱石、装置などを転写すると、水の分子構造や記憶が変わり、飲むだけで免疫力向上、デトックス、がん・糖尿病・アレルギー・疲労・精神不調の改善、空間浄化、運気向上などが得られる。",
+    "category": "health",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "量子波動水は、実在する量子・水素結合・電磁気の語を健康商材へ転用した主張で、病気改善や治療効果を示す信頼できる臨床根拠はない。治療代替、過大広告、高額商品の購入につながる点が問題である。",
+    "explanation": "量子波動水は、波動測定、量子エネルギー、構造化水、水の記憶、言葉や祈りによる水結晶変化、情報転写などの語を組み合わせ、水が健康・運気・精神状態へ特別な作用を持つとする主張である。水の水素結合や分子集合は実在する物理化学の対象だが、常温の液体水では分子の水素結合ネットワークは極めて短時間で組み替わる。日常的な容器や装置で『病気を治す情報』や『量子波動』を安定保存し、摂取後に臓器や免疫へ選択的作用を起こす機序は示されていない。水の記憶に近い主張は、1988年のBenvenisteらの高希釈実験をめぐる論争で広く知られたが、Natureの追試監視では再現に失敗し、後続のホメオパシー評価でも有効性は確立していない。NCCIHは、オーストラリア政府の包括評価がホメオパシーについて『どの健康状態にも有効とする信頼できる証拠はない』と結論したことを紹介し、FDAもホメオパシー製品は安全性・有効性をFDAが審査したものではないと注意する。消費者庁は健康食品広告について、実際より著しく優良に見せる表示や健康保持増進効果の誇大表示に注意を促している。したがって、単なる水分補給やプラセボ、生活習慣改善、医療併用の影響と、量子波動水固有の治療効果は区別すべきである。",
+    "verification_process": [
+      "主張を「量子・波動・情報を転写した水が病気や体調を改善する」と定義し、水素水や通常のミネラルウォーターの栄養表示とは分けた。",
+      "NCCIHとFDAで、水の記憶・高希釈と近いホメオパシー的主張について、有効性・安全性が公的に確立していないことを確認した。",
+      "FTCの健康製品広告ガイダンスで、健康効果表示には信頼できる科学的根拠が必要とされることを確認した。",
+      "NatureのBenveniste関連資料で、水の記憶を示すとされた高希釈実験が追試監視で再現できなかった経緯を確認した。",
+      "消費者庁の健康食品広告資料で、健康保持増進効果を示す広告には景品表示法・健康増進法上の規制があることを確認した。",
+      "江本勝の水結晶・HADO系資料で、日本語圏の『波動水』『水が言葉や祈りに反応する』文脈が1990年代以降に広がったことを確認した。"
+    ],
+    "why_it_spreads": [
+      "水は毎日飲むため、少し変えるだけで健康が改善するという話が受け入れられやすい",
+      "量子、波動、周波数、エネルギー、情報転写などの語が科学的に聞こえる",
+      "体感、味の違い、好転反応、眠気、排尿などの主観的変化を効果として語りやすい",
+      "慢性症状や原因不明の不調を抱える人に、低負担で試せる希望として訴求する",
+      "高額な浄水器、ボトル、カード、鉱石、セミナー、オンラインサロンと結びつきやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "体験談や使用前後の印象を、量子波動水固有の治療効果として扱う",
+          "独自測定器や非公開の波動値だけを根拠にし、第三者が再現できる臨床試験を示さない"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "水分補給、休養、食事改善、服薬、自然経過、プラセボ効果による変化を波動水の作用とみなす",
+          "飲み始めた時期と体調変化の時系列を、そのまま因果関係として扱う"
+        ]
+      },
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "量子論や水の未解明性を、任意の健康効果がありうる余地として使う",
+          "物理化学で水素結合やクラスターが研究されていることを、情報転写水の証拠にすり替える"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "自然、清浄、良い波動、祈り、感謝などの好ましいイメージを効果の根拠にする",
+          "薬より水のほうが安全という直感から、医療の代替にしてしまう"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "医療機関、規制当局、化学・物理学の説明を、既得権益による抑圧として退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "日本語圏では1990年代の波動測定器・波動グッズ、江本勝の『水からの伝言』『Messages from Water』系の水結晶写真、ホメオパシーの水の記憶論が重なり、『波動水』『情報水』の語が広がった。2010年代以降は量子、周波数、構造化水、ゼロポイント、テラヘルツなどの語と結びついた。",
+      "spread_period": "1990年代後半〜2000年代に書籍、講演、スピリチュアル店、浄水器・ボトル販売で流通し、2010年代以降はSNS、通販、YouTube、LINE、オンラインサロンで再拡散した。2020年代は量子技術ブームや健康不安と結びつき、量子水・波動水・情報転写水として販売されている。",
+      "spread_scope": "日本語圏のスピリチュアル、代替医療、健康食品、浄水器、自己啓発、エネルギー療法コミュニティで流通する。英語圏ではstructured water、water memory、quantum water、frequency waterなどの語と重なる。",
+      "note": "この項目は、飲水、ミネラル摂取、水質管理、浄水器による不純物除去、量子化学としての水研究を否定しない。対象は、量子・波動・情報転写を理由に治療や健康増進をうたう主張である。",
+      "spreaders": [
+        "波動水・量子水・情報水を販売する事業者",
+        "スピリチュアル、代替医療、エネルギー療法系の講師・サロン",
+        "浄水器、ボトル、鉱石、カード、波動測定器の販売サイト",
+        "SNS、YouTube、LINE上の健康・自己啓発系発信者"
+      ],
+      "beneficiaries": [
+        "高額な水、浄水器、波動転写装置、関連グッズを販売する事業者",
+        "セミナー、講座、鑑定、オンラインサロンで受益しうる発信者",
+        "医療不信や健康不安を集客に使う代替医療・スピリチュアル系媒体"
+      ],
+      "source": {
+        "title": "Office Masaru Emoto: Message from Water",
+        "url": "https://masaru-emoto.net/en/mfw/"
+      }
+    },
+    "sources": [
+      {
+        "title": "NCCIH: Homeopathy",
+        "url": "https://www.nccih.nih.gov/health/homeopathy",
+        "type": "government"
+      },
+      {
+        "title": "FDA: Homeopathic Products",
+        "url": "https://www.fda.gov/drugs/information-drug-class/homeopathic-products",
+        "type": "government"
+      },
+      {
+        "title": "FTC: Health Products Compliance Guidance",
+        "url": "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance",
+        "type": "government"
+      },
+      {
+        "title": "消費者庁: 健康増進法(誇大表示の禁止)",
+        "url": "https://www.caa.go.jp/policies/policy/representation/extravagant_advertisement/",
+        "type": "government"
+      },
+      {
+        "title": "Nature: The memory of water",
+        "url": "https://www.nature.com/news/2004/041004/full/news041004-19.html",
+        "type": "article"
+      },
+      {
+        "title": "Office Masaru Emoto: Message from Water",
+        "url": "https://masaru-emoto.net/en/mfw/",
+        "type": "other"
+      }
+    ],
+    "created_at": "2026-05-19",
+    "updated_at": "2026-05-19",
+    "tags": [
+      "量子波動水",
+      "波動水",
+      "量子水",
+      "情報水",
+      "水の記憶",
+      "構造化水",
+      "structured water",
+      "water memory",
+      "ホメオパシー",
+      "江本勝",
+      "水からの伝言",
+      "波動測定",
+      "量子",
+      "代替医療",
+      "健康商法",
+      "疑似科学"
+    ]
   }
 ]
