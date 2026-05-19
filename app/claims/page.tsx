@@ -8,7 +8,7 @@ const DESCRIPTION =
   "似非科学・陰謀論・誤情報の主張一覧。カテゴリ・判定・危険度でフィルタリングできます。"
 
 export const metadata = {
-  title: "一覧 — Re pseudo",
+  title: "主張一覧 — Re pseudo",
   description: DESCRIPTION,
   alternates: {
     canonical: `${BASE_URL}/claims/`,

@@ -46,8 +46,8 @@ export const generateMetadata = async ({ params }: Props) => {
     description: claim.summary,
     keywords: [
       claim.title,
-      claim.category,
-      claim.verdict,
+      CATEGORY_LABEL[claim.category],
+      VERDICT_LABEL[claim.verdict],
       ...claim.tags,
       ...claim.common_fallacies.map((group) => group.group),
     ],
