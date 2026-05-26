@@ -42,7 +42,7 @@ export const generateMetadata = async ({ params }: Props) => {
   const url = `${BASE_URL}/claims/${id}/`
   const firstImage = claim.images?.[0]
   return {
-    title: `【検証】${claim.title}`,
+    title: `【検証】${claim.title} | ${claim.spreader_hook}`,
     description: claim.summary,
     keywords: [
       claim.title,
@@ -55,7 +55,7 @@ export const generateMetadata = async ({ params }: Props) => {
     openGraph: {
       type: "article",
       url,
-      title: `【検証】${claim.title}`,
+      title: `【検証】${claim.title} | ${claim.spreader_hook}`,
       description: claim.summary,
       publishedTime: claim.created_at,
       modifiedTime: claim.updated_at,
@@ -71,7 +71,7 @@ export const generateMetadata = async ({ params }: Props) => {
     },
     twitter: {
       card: "summary_large_image",
-      title: `【検証】${claim.title}`,
+      title: `【検証】${claim.title} | ${claim.spreader_hook}`,
       description: claim.summary,
       images: firstImage ? [firstImage.url] : undefined,
     },
@@ -234,7 +234,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
             lineHeight: 1.4,
           }}
         >
-          {claim.title}
+          {claim.spreader_hook}
         </h1>
         <p style={{ color: "#718096", fontSize: ".75rem" }}>
           公開: {formatDate(claim.created_at)}

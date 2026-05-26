@@ -36,6 +36,11 @@ const ClaimCard = ({ claim }: Props) => (
       >
         {claim.title}
       </Link>
+      {claim.site_catchphrase && (
+        <p style={{ color: "#f6ad55", fontSize: ".8125rem", fontWeight: 600, lineHeight: 1.5 }}>
+          {claim.site_catchphrase}
+        </p>
+      )}
       <p style={{ color: "#a0aec0", fontSize: ".875rem", lineHeight: 1.6 }}>
         {claim.summary}
       </p>

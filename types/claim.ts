@@ -6,6 +6,8 @@ export type Claim = {
   verdict: "false" | "misleading" | "insufficient_evidence" | "partially_true" | "unverified"
   confidence: "high" | "medium" | "low"
   risk_level: "high" | "medium" | "low"
+  spreader_hook: string
+  site_catchphrase: string
   summary: string
   explanation: string
   verification_process: string[]
