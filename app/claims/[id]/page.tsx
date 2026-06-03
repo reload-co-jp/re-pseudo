@@ -86,7 +86,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
   const sectionStyle: React.CSSProperties = {
     display: "flex",
     flexDirection: "column",
-    gap: ".75rem",
+    gap: "1rem",
   }
 
   const sectionTitleStyle: React.CSSProperties = {
@@ -263,8 +263,8 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
         <p
           style={{
             color: "#b8b2ad",
-            fontSize: ".9375rem",
-            lineHeight: 1.75,
+            fontSize: "1rem",
+            lineHeight: 1.85,
             marginTop: ".75rem",
           }}
         >
@@ -292,16 +292,16 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
 
       <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>サマリー</h2>
-        <p style={{ fontSize: ".9375rem", lineHeight: 1.7 }}>{claim.summary}</p>
+        <p style={{ color: "#c5bfba", fontSize: "1rem", lineHeight: 1.8 }}>{claim.summary}</p>
       </section>
 
       <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>解説</h2>
         <p
           style={{
-            color: "#a0aec0",
-            fontSize: ".9375rem",
-            lineHeight: 1.8,
+            color: "#b8b2ad",
+            fontSize: "1rem",
+            lineHeight: 1.9,
             whiteSpace: "pre-wrap",
           }}
         >
@@ -325,11 +325,11 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
               key={i}
               style={{
                 alignItems: "flex-start",
-                color: "#a0aec0",
+                color: "#b8b2ad",
                 display: "flex",
-                fontSize: ".9375rem",
+                fontSize: "1rem",
                 gap: ".5rem",
-                lineHeight: 1.6,
+                lineHeight: 1.75,
               }}
             >
               <span style={{ color: "#718096", flexShrink: 0 }}>•</span>
@@ -355,11 +355,11 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
               key={i}
               style={{
                 alignItems: "flex-start",
-                color: "#a0aec0",
+                color: "#b8b2ad",
                 display: "flex",
-                fontSize: ".9375rem",
+                fontSize: "1rem",
                 gap: ".5rem",
-                lineHeight: 1.6,
+                lineHeight: 1.75,
               }}
             >
               <span style={{ color: "#718096", flexShrink: 0 }}>•</span>
@@ -634,11 +634,11 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
                     key={fallacy}
                     style={{
                       alignItems: "flex-start",
-                      color: "#a0aec0",
+                      color: "#b8b2ad",
                       display: "flex",
-                      fontSize: ".9375rem",
+                      fontSize: "1rem",
                       gap: ".5rem",
-                      lineHeight: 1.6,
+                      lineHeight: 1.75,
                     }}
                   >
                     <span style={{ color: "#d69e2e", flexShrink: 0 }}>!</span>
