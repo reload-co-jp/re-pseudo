@@ -520,7 +520,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
             style={{
               display: "grid",
               gap: ".75rem",
-              gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
+              gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))",
             }}
           >
             {claim.images.map((image) => (
