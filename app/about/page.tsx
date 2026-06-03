@@ -3,7 +3,7 @@ import Breadcrumbs from "components/Breadcrumbs"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
 const DESCRIPTION =
-  "Re pseudoは、陰謀論や疑似科学的な情報を科学的な再現性・検証可能性の観点から見直し、事実に基づいた理解を広めることを目的としたサイトです。"
+  "Re pseudoは、疑似科学・似非科学・陰謀論など科学的根拠の乏しい情報を、再現性・検証可能性の観点から見直し、事実に基づいた理解を広めることを目的としたサイトです。"
 
 export const metadata = {
   title: "このサイトについて",

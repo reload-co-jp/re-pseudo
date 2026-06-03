@@ -4,10 +4,10 @@ import { Card } from "components/elements/layout"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
 const DESCRIPTION =
-  "似非科学を見分けるための基準を、反証可能性・査読・再現性・科学的コンセンサスの観点から解説。ポパーの基準からチェックリストまで。"
+  "疑似科学・似非科学を見分けるための基準を、反証可能性・査読・再現性・科学的コンセンサスの観点から解説。ポパーの基準からチェックリストまで。"
 
 export const metadata = {
-  title: "似非科学の判断基準",
+  title: "疑似科学・似非科学の判断基準",
   description: DESCRIPTION,
   alternates: {
     canonical: `${BASE_URL}/criteria/`,
@@ -15,12 +15,12 @@ export const metadata = {
   openGraph: {
     type: "article",
     url: `${BASE_URL}/criteria/`,
-    title: "似非科学の判断基準 — Re pseudo",
+    title: "疑似科学・似非科学の判断基準 — Re pseudo",
     description: DESCRIPTION,
   },
   twitter: {
     card: "summary_large_image",
-    title: "似非科学の判断基準 — Re pseudo",
+    title: "疑似科学・似非科学の判断基準 — Re pseudo",
     description: DESCRIPTION,
   },
 }
@@ -139,14 +139,14 @@ const CriteriaPage: FC = () => {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "ホーム", item: BASE_URL },
-      { "@type": "ListItem", position: 2, name: "似非科学の判断基準", item: `${BASE_URL}/criteria/` },
+      { "@type": "ListItem", position: 2, name: "疑似科学・似非科学の判断基準", item: `${BASE_URL}/criteria/` },
     ],
   }
 
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: "似非科学の判断基準",
+    headline: "疑似科学・似非科学の判断基準",
     description: DESCRIPTION,
     url: `${BASE_URL}/criteria/`,
     inLanguage: "ja",
@@ -183,7 +183,7 @@ const CriteriaPage: FC = () => {
             { label: "似非科学の判断基準" },
           ]}
         />
-        <h1 style={{ fontSize: "1.25rem", fontWeight: 700 }}>似非科学の判断基準</h1>
+        <h1 style={{ fontSize: "1.25rem", fontWeight: 700 }}>疑似科学・似非科学の判断基準</h1>
         <p style={bodyStyle}>
           「科学」と「似非科学」を分ける境界は、単純な正誤ではなく<strong style={{ color: "#e2e8f0" }}>検証可能性・透明性・反証への態度</strong>にある。
           以下の基準は、ある主張が科学的方法論に沿っているかを評価するための参照点であり、一つの基準だけで決定するものではない。

@@ -18,7 +18,7 @@ import {
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
 const DESCRIPTION =
-  "似非科学・陰謀論・誤情報の主張を、根拠・出典・流布状況・よく使われる論法とともに整理する検証カタログ。"
+  "疑似科学・似非科学・陰謀論・誤情報の主張を、根拠・出典・流布状況・よく使われる論法とともに整理する検証カタログ。"
 
 export const metadata = {
   alternates: {
@@ -27,12 +27,12 @@ export const metadata = {
   openGraph: {
     type: "website",
     url: BASE_URL,
-    title: "Re pseudo — 似非科学・陰謀論の主張検証",
+    title: "Re pseudo — 疑似科学・似非科学・陰謀論の主張検証",
     description: DESCRIPTION,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Re pseudo — 似非科学・陰謀論の主張検証",
+    title: "Re pseudo — 疑似科学・似非科学・陰謀論の主張検証",
     description: DESCRIPTION,
   },
 }
@@ -121,7 +121,7 @@ const Page: FC = () => {
                   maxWidth: "38rem",
                 }}
               >
-                似非科学・陰謀論・誤情報の主張を、判定だけで終わらせず、
+                疑似科学・似非科学・陰謀論・誤情報の主張を、判定だけで終わらせず、
                 どんな根拠が使われ、どう広まり、どの論法で信じられやすいのかまでたどる検証カタログ。
               </p>
               <p

@@ -5,9 +5,9 @@ import "./reset.css"
 const BASE_URL = "https://re-pseudo.reload.co.jp"
 const GA_MEASUREMENT_ID = "G-XTHQD4EWNJ"
 const IS_PRODUCTION = process.env.NODE_ENV === "production"
-const SITE_TITLE = "Re pseudo — 似非科学・陰謀論の主張検証"
+const SITE_TITLE = "Re pseudo — 疑似科学・似非科学・陰謀論の主張検証"
 const SITE_DESCRIPTION =
-  "似非科学・陰謀論・誤情報の主張を、根拠・出典・流布状況・よく使われる論法とともに整理する検証カタログ。"
+  "疑似科学・似非科学・陰謀論・誤情報の主張を、根拠・出典・流布状況・よく使われる論法とともに整理する検証カタログ。"
 
 export const metadata = {
   metadataBase: new URL(BASE_URL),
