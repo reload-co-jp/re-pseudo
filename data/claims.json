@@ -14555,5 +14555,120 @@
     ],
     "spreader_hook": "青森の山奥に刻まれたヘブライ文字と十字架の謎。キリストが日本で天寿を全うした証拠がこの村に眠っている",
     "site_catchphrase": "青森にキリストの墓がある？新郷村の伝説の起源と証拠を検証した"
+  },
+  {
+    "id": "michael-jackson-abuse-proven-in-court",
+    "title": "マイケル・ジャクソンは児童性的虐待をした",
+    "description": "マイケル・ジャクソンは児童性的虐待で有罪判決を受けており、1994年の和解やFBIファイル、近年の民事訴訟も虐待が司法的に証明済みであることを示している。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "マイケル・ジャクソンに児童性的虐待の有罪判決はない。複数の告発・民事和解・係争中の民事訴訟は存在するが、それらを『裁判で証明済み』『有罪確定』と読むのは事実と異なる。",
+    "explanation": "マイケル・ジャクソンは1993年に児童性的虐待疑惑で捜査対象となり、1994年に民事訴訟を和解したが、当時の報道では弁護側が和解は有罪の承認ではないと説明し、刑事捜査は別に継続した。FBIの公開資料も、1993〜1994年と2004〜2005年の疑惑でFBIが主にカリフォルニア州・地元当局へ技術的・捜査的支援をしたと説明しており、FBI自身も『これらの疑惑はいずれも法廷で証明されていない』と記している。2005年のカリフォルニア州刑事裁判では、陪審が児童性的虐待関連を含む全ての訴因で無罪評決を出した。2013年以降のWade RobsonとJames Safechuckによる民事訴訟は、2023年にカリフォルニア控訴裁が訴えを続行可能と判断したが、これは会社側の保護義務などの法律問題に関する判断であり、虐待の事実認定やジャクソン本人の有罪判決ではない。したがって、『疑惑がある』『民事訴訟がある』『和解があった』ことと、『刑事有罪・司法的に虐待が確定した』ことは分ける必要がある。",
+    "verification_process": [
+      "主張を『マイケル・ジャクソンの児童性的虐待が裁判で証明され、有罪確定している』として定義した。",
+      "1993〜1994年の民事和解と刑事捜査、2005年刑事裁判、FBI公開ファイル、2013年以降の民事訴訟を分けて確認した。",
+      "刑事有罪判決、民事上の事実認定、訴訟手続の再開、報道・ドキュメンタリー上の告発を同一視していないか確認した。",
+      "公開資料と報道を照合し、虐待の有無そのものではなく『有罪確定・司法認定済み』という限定主張を判定対象にした。"
+    ],
+    "why_it_spreads": [
+      "有名人、児童性虐待、巨額和解という強い感情反応を起こす要素が重なる",
+      "民事和解を有罪の自白、無罪評決を完全な無実証明として単純化しやすい",
+      "ドキュメンタリー、ファンコミュニティ、反ファンコミュニティで対立的な断定が拡散しやすい",
+      "FBIファイルや控訴審判決など専門的文書が、文脈を外して引用されやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "告発や民事訴訟の存在を、刑事有罪判決や司法的な事実確定と置き換える",
+          "和解金の支払いを、法的な有罪認定と同じ意味に扱う"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "FBIが支援した記録を、FBIが虐待を立証した記録として読む",
+          "控訴審の手続判断を、虐待の事実認定として読む"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "自分の立場に合う証言・報道だけを集め、無罪評決や未確定の訴訟状態を省く",
+          "疑惑を否定する材料だけ、または疑惑を支持する材料だけで全体像を作る"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "有罪判決がない理由を、証拠評価や刑事手続ではなく金銭・権力による全面的隠蔽だけで説明する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "1993年の最初の児童性的虐待疑惑と1994年の民事和解以降、和解を有罪の証拠とみなす言説がタブロイド報道、テレビ討論、ファン外コミュニティで広がった。",
+      "spread_period": "2005年刑事裁判、2009年の死去後のFBIファイル公開、2019年のドキュメンタリー『Leaving Neverland』公開、2023年のRobson/Safechuck民事訴訟復活報道のたびに再流通した。",
+      "spread_scope": "英語圏を中心に、芸能ニュース、SNS、動画サイト、ファン・反ファンコミュニティ、日本語圏のまとめ記事やSNS投稿にも波及した。",
+      "note": "この項目は、告発者の証言内容や虐待の有無を最終判断するものではない。検証対象は『裁判で有罪確定している』『司法的に証明済み』という法的状態の断定である。",
+      "spreaders": [
+        "芸能ゴシップ系メディア・動画チャンネル",
+        "SNS上のファン・反ファンコミュニティ",
+        "ドキュメンタリーや訴訟報道を短く断定化する投稿者"
+      ],
+      "source": {
+        "title": "FBI: Michael Jackson Investigative Files",
+        "url": "https://archives.fbi.gov/archives/news/stories/2009/december/jackson_122209"
+      }
+    },
+    "sources": [
+      {
+        "title": "FBI: Michael Jackson Investigative Files",
+        "url": "https://archives.fbi.gov/archives/news/stories/2009/december/jackson_122209",
+        "type": "government"
+      },
+      {
+        "title": "FBI Vault: Michael Jackson",
+        "url": "https://vault.fbi.gov/Michael%20Jackson/",
+        "type": "government"
+      },
+      {
+        "title": "The Guardian: Jackson cleared of child molestation",
+        "url": "https://www.theguardian.com/music/2005/jun/13/michaeljackson.michaeljacksontrial",
+        "type": "article"
+      },
+      {
+        "title": "Los Angeles Times: Jackson Settles Abuse Suit but Insists He Is Innocent",
+        "url": "https://www.latimes.com/archives/la-xpm-1994-01-26-mn-15478-story.html",
+        "type": "article"
+      },
+      {
+        "title": "AP: Michael Jackson sexual abuse lawsuits revived by appeals court",
+        "url": "https://apnews.com/article/fb488e1343b71629a6305d4bf8adea8c",
+        "type": "article"
+      },
+      {
+        "title": "Safechuck v. MJJ Productions, Inc., 94 Cal.App.5th 675 (2023)",
+        "url": "https://www.leagle.com/decision/incaco20230818030",
+        "type": "other"
+      }
+    ],
+    "created_at": "2026-06-05",
+    "updated_at": "2026-06-05",
+    "tags": [
+      "マイケル・ジャクソン",
+      "児童性的虐待疑惑",
+      "有罪判決",
+      "民事和解",
+      "FBI",
+      "Leaving Neverland",
+      "Wade Robson",
+      "James Safechuck",
+      "芸能人",
+      "法的誤解"
+    ],
+    "spreader_hook": "巨額和解、FBIファイル、復活した訴訟。マイケル・ジャクソンの児童虐待は裁判で証明済みなのに、今も隠されている",
+    "site_catchphrase": "マイケル・ジャクソンは有罪確定？疑惑、和解、無罪評決、民事訴訟を分けて検証した"
   }
 ]
