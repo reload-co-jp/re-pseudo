@@ -12,12 +12,12 @@ type Props = {
 }
 
 const inputStyle: React.CSSProperties = {
-  backgroundColor: "#372630",
-  border: "1px solid #5a3d48",
-  borderRadius: "3px",
-  color: "#f0f0f0",
+  backgroundColor: "rgba(26, 23, 25, .9)",
+  border: "1px solid var(--border)",
+  borderRadius: "7px",
+  color: "var(--ink)",
   fontSize: ".875rem",
-  padding: ".5rem .75rem",
+  padding: ".65rem .85rem",
 }
 
 const selectStyle: React.CSSProperties = {
@@ -196,14 +196,18 @@ const ClaimsClient = ({ claims }: Props) => {
       </div>
 
       <p
-        style={{ color: "#718096", fontSize: ".875rem", marginBottom: "1rem" }}
+        style={{
+          color: "var(--muted)",
+          fontSize: ".875rem",
+          marginBottom: "1rem",
+        }}
       >
         {tag && (
           <>
             タグ: #{tag}&nbsp;
             <Link
               href="/claims/"
-              style={{ color: "#63b3ed", textDecoration: "none" }}
+              style={{ color: "var(--accent-soft)", textDecoration: "none" }}
             >
               解除
             </Link>
@@ -215,7 +219,7 @@ const ClaimsClient = ({ claims }: Props) => {
             論法・誤謬: {fallacyGroup}&nbsp;
             <Link
               href="/claims/"
-              style={{ color: "#63b3ed", textDecoration: "none" }}
+              style={{ color: "var(--accent-soft)", textDecoration: "none" }}
             >
               解除
             </Link>
@@ -229,7 +233,9 @@ const ClaimsClient = ({ claims }: Props) => {
         {filtered.length > 0 ? (
           filtered.map((c) => <ClaimCard claim={c} key={c.id} />)
         ) : (
-          <p style={{ color: "#718096" }}>該当する主張が見つかりません。</p>
+          <p style={{ color: "var(--muted)" }}>
+            該当する主張が見つかりません。
+          </p>
         )}
       </div>
     </div>

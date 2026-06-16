@@ -73,7 +73,7 @@ export const metadata = {
 }
 
 export const viewport = {
-  themeColor: "#3d2b34",
+  themeColor: "#141012",
   colorScheme: "dark",
 }
 
@@ -114,9 +114,14 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         />
         <header
           style={{
-            backgroundColor: "#261b22",
-            boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
-            padding: ".75rem 1.5rem",
+            backdropFilter: "blur(18px)",
+            backgroundColor: "rgba(16, 13, 17, .82)",
+            borderBottom: "1px solid var(--border)",
+            boxShadow: "0 10px 30px rgba(0, 0, 0, .22)",
+            padding: ".8rem 1.5rem",
+            position: "sticky",
+            top: 0,
+            zIndex: 10,
           }}
         >
           <div
@@ -124,9 +129,9 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               alignItems: "center",
               display: "flex",
               flexWrap: "wrap",
-              gap: "2rem",
+              gap: "1.5rem",
               margin: "0 auto",
-              maxWidth: "900px",
+              maxWidth: "1040px",
             }}
           >
             <Link
@@ -146,11 +151,13 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 width={204}
               />
             </Link>
-            <nav style={{ display: "flex", flexWrap: "wrap", gap: "1rem" }}>
+            <nav
+              style={{ display: "flex", flexWrap: "wrap", gap: "1rem 1.15rem" }}
+            >
               <Link
                 href="/claims/"
                 style={{
-                  color: "#a0aec0",
+                  color: "var(--muted)",
                   fontSize: ".875rem",
                   textDecoration: "none",
                 }}
@@ -160,7 +167,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               <Link
                 href="/fallacies/"
                 style={{
-                  color: "#a0aec0",
+                  color: "var(--muted)",
                   fontSize: ".875rem",
                   textDecoration: "none",
                 }}
@@ -170,7 +177,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               <Link
                 href="/criteria/"
                 style={{
-                  color: "#a0aec0",
+                  color: "var(--muted)",
                   fontSize: ".875rem",
                   textDecoration: "none",
                 }}
@@ -180,7 +187,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               <Link
                 href="/conspiracy/"
                 style={{
-                  color: "#a0aec0",
+                  color: "var(--muted)",
                   fontSize: ".875rem",
                   textDecoration: "none",
                 }}
@@ -190,7 +197,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               <Link
                 href="/about/"
                 style={{
-                  color: "#a0aec0",
+                  color: "var(--muted)",
                   fontSize: ".875rem",
                   textDecoration: "none",
                 }}
@@ -203,24 +210,25 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         <main
           style={{
             minHeight: "calc(100dvh - 6rem)",
-            padding: "2rem 1.5rem",
+            padding: "2.5rem 1.5rem 3.25rem",
           }}
         >
-          <div style={{ margin: "0 auto", maxWidth: "900px" }}>{children}</div>
+          <div style={{ margin: "0 auto", maxWidth: "1040px" }}>{children}</div>
         </main>
         <footer
           style={{
-            backgroundColor: "#261b22",
-            boxShadow: "0 -4px 6px rgba(0, 0, 0, 0.1)",
+            backgroundColor: "rgba(16, 13, 17, .9)",
+            borderTop: "1px solid var(--border)",
+            boxShadow: "0 -10px 30px rgba(0, 0, 0, .18)",
             fontSize: ".75rem",
             padding: "1rem 1.5rem",
           }}
         >
           <div
             style={{
-              color: "#718096",
+              color: "#7d736a",
               margin: "0 auto",
-              maxWidth: "900px",
+              maxWidth: "1040px",
               display: "flex",
               flexDirection: "column",
               gap: ".25rem",
@@ -234,7 +242,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               <Link
                 href="/diet/"
                 style={{
-                  color: "#718096",
+                  color: "#7d736a",
                   textDecoration: "none",
                 }}
               >
@@ -243,7 +251,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               <Link
                 href="/anti-government-conspiracy/"
                 style={{
-                  color: "#718096",
+                  color: "#7d736a",
                   textDecoration: "none",
                 }}
               >
@@ -255,7 +263,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               <a
                 href="https://reload.co.jp"
                 rel="noopener noreferrer"
-                style={{ color: "#718096" }}
+                style={{ color: "#7d736a" }}
                 target="_blank"
               >
                 株式会社リロード

@@ -76,9 +76,10 @@ const Page: FC = () => {
       <section
         style={{
           background:
-            "linear-gradient(160deg, rgba(80,48,64,1) 0%, rgba(55,32,46,1) 40%, rgba(30,18,24,1) 100%)",
-          border: "1px solid #7a4d62",
+            "radial-gradient(circle at 82% 18%, rgba(216,181,109,.18), transparent 20rem), linear-gradient(145deg, rgba(16,13,17,.88), rgba(16,13,17,.68)), url('/images/bg.png') center / cover",
+          border: "1px solid var(--border-strong)",
           borderRadius: "8px",
+          boxShadow: "var(--shadow)",
           overflow: "hidden",
           position: "relative",
         }}
@@ -88,13 +89,15 @@ const Page: FC = () => {
             display: "grid",
             gap: "1.25rem",
             padding: "1.5rem",
+            position: "relative",
+            zIndex: 1,
           }}
         >
           <div
             style={{ display: "flex", flexDirection: "column", gap: "1.25rem" }}
           >
             <Badge
-              color="#f6ad55"
+              color="var(--accent-soft)"
               label="根拠・出典・流布状況を整理"
               style={{ backgroundColor: "transparent", border: "none" }}
             />
@@ -103,19 +106,18 @@ const Page: FC = () => {
             >
               <h1
                 style={{
-                  fontSize: "clamp(1.75rem, 4vw, 2.75rem)",
+                  fontSize: "clamp(1.9rem, 4vw, 3rem)",
                   fontWeight: 800,
-                  letterSpacing: "-.02em",
                   lineHeight: 1.1,
                 }}
               >
-                <span style={{ color: "#f6ad55" }}>Re</span>
+                <span style={{ color: "var(--accent-soft)" }}>Re</span>
                 &nbsp;
-                <span style={{ color: "#f7fafc" }}>pseudo</span>
+                <span style={{ color: "var(--ink)" }}>pseudo</span>
               </h1>
               <p
                 style={{
-                  color: "#f0e6ec",
+                  color: "#e8ded3",
                   fontSize: "clamp(.9rem, 2vw, 1rem)",
                   lineHeight: 1.85,
                   maxWidth: "38rem",
@@ -126,8 +128,8 @@ const Page: FC = () => {
               </p>
               <p
                 style={{
-                  borderLeft: "2px solid #7a4d62",
-                  color: "#b8a0ae",
+                  borderLeft: "2px solid var(--accent)",
+                  color: "var(--muted)",
                   fontSize: ".9375rem",
                   lineHeight: 1.8,
                   maxWidth: "38rem",
@@ -150,11 +152,11 @@ const Page: FC = () => {
             <Link
               href="/claims/"
               style={{
-                backgroundColor: "#f6ad55",
+                backgroundColor: "var(--accent)",
                 border: "none",
                 borderRadius: "5px",
-                boxShadow: "0 2px 12px rgba(246,173,85,.35)",
-                color: "#1a0f14",
+                boxShadow: "0 10px 26px rgba(216,181,109,.24)",
+                color: "#15100c",
                 fontSize: ".9rem",
                 fontWeight: 800,
                 padding: ".8rem 1.4rem",
@@ -166,10 +168,10 @@ const Page: FC = () => {
             <Link
               href="/criteria/"
               style={{
-                backgroundColor: "rgba(255,255,255,.06)",
-                border: "1px solid #7a4d62",
+                backgroundColor: "rgba(255,255,255,.045)",
+                border: "1px solid var(--border-strong)",
                 borderRadius: "5px",
-                color: "#e2d4da",
+                color: "#e8ded3",
                 fontSize: ".9rem",
                 fontWeight: 600,
                 padding: ".8rem 1.4rem",
@@ -181,10 +183,10 @@ const Page: FC = () => {
             <Link
               href="/fallacies/"
               style={{
-                backgroundColor: "rgba(255,255,255,.06)",
-                border: "1px solid #7a4d62",
+                backgroundColor: "rgba(255,255,255,.045)",
+                border: "1px solid var(--border-strong)",
                 borderRadius: "5px",
-                color: "#e2d4da",
+                color: "#e8ded3",
                 fontSize: ".9rem",
                 fontWeight: 600,
                 padding: ".8rem 1.4rem",
@@ -197,7 +199,7 @@ const Page: FC = () => {
 
           <div
             style={{
-              borderTop: "1px solid #5a3048",
+              borderTop: "1px solid var(--border)",
               display: "grid",
               gap: "0",
               gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))",
@@ -208,7 +210,7 @@ const Page: FC = () => {
               <div
                 key={item.label}
                 style={{
-                  borderLeft: i > 0 ? "1px solid #5a3048" : "none",
+                  borderLeft: i > 0 ? "1px solid var(--border)" : "none",
                   display: "flex",
                   flexDirection: "column",
                   gap: ".25rem",
@@ -217,18 +219,17 @@ const Page: FC = () => {
               >
                 <strong
                   style={{
-                    color: "#f6ad55",
+                    color: "var(--accent-soft)",
                     fontSize: "clamp(1rem, 2vw, 1.25rem)",
                     fontWeight: 700,
                     lineHeight: 1,
-                    letterSpacing: "-.01em",
                   }}
                 >
                   {item.value}
                 </strong>
                 <span
                   style={{
-                    color: "#9a7a88",
+                    color: "var(--muted)",
                     fontSize: ".6875rem",
                     letterSpacing: ".04em",
                   }}
@@ -244,7 +245,8 @@ const Page: FC = () => {
       <section>
         <h2
           style={{
-            borderBottom: "1px solid #5a3d48",
+            borderBottom: "1px solid var(--border)",
+            color: "var(--ink)",
             fontSize: "1rem",
             fontWeight: 600,
             marginBottom: "1rem",
@@ -279,7 +281,7 @@ const Page: FC = () => {
               <Link
                 href={`/claims/${c.id}/`}
                 style={{
-                  color: "#e2e8f0",
+                  color: "var(--ink)",
                   fontWeight: 600,
                   textDecoration: "none",
                 }}
@@ -288,7 +290,7 @@ const Page: FC = () => {
               </Link>
               <p
                 style={{
-                  color: "#a0aec0",
+                  color: "var(--muted)",
                   fontSize: ".875rem",
                   lineHeight: 1.6,
                 }}
@@ -303,7 +305,8 @@ const Page: FC = () => {
       <section>
         <h2
           style={{
-            borderBottom: "1px solid #5a3d48",
+            borderBottom: "1px solid var(--border)",
+            color: "var(--ink)",
             fontSize: "1rem",
             fontWeight: 600,
             marginBottom: "1rem",
@@ -325,7 +328,7 @@ const Page: FC = () => {
             >
               <span
                 style={{
-                  color: "#718096",
+                  color: "#7d736a",
                   fontSize: ".75rem",
                   whiteSpace: "nowrap",
                 }}
@@ -339,7 +342,7 @@ const Page: FC = () => {
               <Link
                 href={`/claims/${c.id}/`}
                 style={{
-                  color: "#e2e8f0",
+                  color: "var(--ink)",
                   fontSize: ".875rem",
                   overflow: "hidden",
                   textDecoration: "none",
@@ -357,7 +360,8 @@ const Page: FC = () => {
       <section>
         <h2
           style={{
-            borderBottom: "1px solid #5a3d48",
+            borderBottom: "1px solid var(--border)",
+            color: "var(--ink)",
             fontSize: "1rem",
             fontWeight: 600,
             marginBottom: "1rem",
@@ -383,10 +387,12 @@ const Page: FC = () => {
               href={`/claims/?category=${cat}`}
               key={cat}
               style={{
-                backgroundColor: "#2d1f28",
-                border: "1px solid #5a3d48",
-                borderRadius: "6px",
-                color: "#e2e8f0",
+                background:
+                  "linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.012)), var(--panel)",
+                border: "1px solid var(--border)",
+                borderRadius: "8px",
+                boxShadow: "0 10px 26px rgba(0,0,0,.16)",
+                color: "var(--ink)",
                 display: "flex",
                 flexDirection: "column",
                 gap: ".5rem",
@@ -406,9 +412,10 @@ const Page: FC = () => {
                 </span>
                 <span
                   style={{
-                    backgroundColor: "#3d2535",
-                    borderRadius: "3px",
-                    color: "#f6ad55",
+                    backgroundColor: "rgba(216,181,109,.1)",
+                    border: "1px solid var(--border)",
+                    borderRadius: "999px",
+                    color: "var(--accent-soft)",
                     fontSize: ".75rem",
                     fontWeight: 700,
                     padding: "1px 7px",
@@ -419,7 +426,7 @@ const Page: FC = () => {
               </div>
               <p
                 style={{
-                  color: "#9a8090",
+                  color: "var(--muted)",
                   fontSize: ".8125rem",
                   lineHeight: 1.65,
                   margin: 0,

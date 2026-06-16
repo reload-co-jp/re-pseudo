@@ -1,17 +1,59 @@
 * {
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family:
+    "Hiragino Sans", "Yu Gothic", "Yu Gothic UI", system-ui, sans-serif;
   margin: 0;
 }
 
 :root {
+  --accent: #d8b56d;
+  --accent-soft: #f0d79a;
+  --bg: #100d11;
+  --border: rgba(216, 181, 109, 0.18);
+  --border-strong: rgba(216, 181, 109, 0.36);
+  --ink: #f7f1e8;
+  --muted: #a99f93;
+  --panel: rgba(28, 24, 27, 0.82);
+  --panel-strong: rgba(39, 33, 36, 0.92);
+  --shadow: 0 18px 48px rgba(0, 0, 0, 0.34);
+  background:
+    radial-gradient(
+      circle at 18% 0%,
+      rgba(216, 181, 109, 0.13),
+      transparent 30rem
+    ),
+    linear-gradient(140deg, rgba(16, 13, 17, 0.82), rgba(21, 18, 21, 0.62)),
+    url("/images/bg.png");
   background-attachment: fixed;
-  background-color: #1c1118;
-  background-image: url("/images/bg.png");
+  background-color: var(--bg);
   background-position: center;
   background-size: cover;
-  color: #f0f0f0;
+  color: var(--ink);
   color-scheme: dark;
+}
+
+body {
+  min-height: 100dvh;
+}
+
+a {
+  text-underline-offset: 3px;
+}
+
+::selection {
+  background: rgba(216, 181, 109, 0.32);
+  color: #fffaf0;
+}
+
+input,
+select {
+  outline: none;
+}
+
+input:focus,
+select:focus,
+a:focus-visible {
+  box-shadow: 0 0 0 3px rgba(216, 181, 109, 0.2);
 }
 
 @media (max-width: 520px) {
