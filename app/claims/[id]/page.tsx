@@ -42,7 +42,7 @@ export const generateMetadata = async ({ params }: Props) => {
   const url = `${BASE_URL}/claims/${id}/`
   const firstImage = claim.images?.[0]
   return {
-    title: `【検証】${claim.title} | ${claim.spreader_hook}`,
+    title: `【検証】${claim.seo_title}`,
     description: claim.summary,
     keywords: [
       claim.title,

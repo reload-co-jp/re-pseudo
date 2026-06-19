@@ -8,6 +8,7 @@ export type Claim = {
   risk_level: "high" | "medium" | "low"
   spreader_hook: string
   site_catchphrase: string
+  seo_title: string
   summary: string
   explanation: string
   verification_process: string[]

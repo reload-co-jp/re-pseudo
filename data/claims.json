@@ -110,7 +110,8 @@
       }
     ],
     "spreader_hook": "【衝撃】5G基地局が設置された地域でコロナ感染者が急増。政府とメディアが必死に隠す電波とウイルスの恐ろしい真実",
-    "site_catchphrase": "5Gがウイルスを広める？その根拠を科学的に検証した"
+    "site_catchphrase": "5Gがウイルスを広める？その根拠を科学的に検証した",
+    "seo_title": "5G電波がウイルス活性化？真相検証"
   },
   {
     "id": "vaccine-microchip",
@@ -217,7 +218,8 @@
       }
     ],
     "spreader_hook": "【緊急拡散】接種者の腕にスマホをかざすと反応が…！ワクチンに仕込まれたマイクロチップの証拠映像が流出",
-    "site_catchphrase": "ワクチンにマイクロチップ？噂の真相を徹底的に調べた"
+    "site_catchphrase": "ワクチンにマイクロチップ？噂の真相を徹底的に調べた",
+    "seo_title": "ワクチンにマイクロチップ？陰謀論を検証"
   },
   {
     "id": "homeopathy-effectiveness",
@@ -325,7 +327,8 @@
       }
     ],
     "spreader_hook": "西洋医学が絶対に認めないホメオパシーの驚異的な治癒力。製薬会社が潰したくて仕方ない本物の医療がここにある",
-    "site_catchphrase": "砂糖玉で病気が治る？ホメオパシーの有効性を科学で検証した"
+    "site_catchphrase": "砂糖玉で病気が治る？ホメオパシーの有効性を科学で検証した",
+    "seo_title": "ホメオパシーは効く？科学的根拠を検証"
   },
   {
     "id": "gmo-danger",
@@ -429,7 +432,8 @@
       "農業"
     ],
     "spreader_hook": "農薬まみれの遺伝子組み換え食品があなたの体を蝕んでいる。モンサントが隠蔽した動物実験の衝撃データ",
-    "site_catchphrase": "GMO食品は本当に危険なのか？科学的証拠を丁寧に読み解く"
+    "site_catchphrase": "GMO食品は本当に危険なのか？科学的証拠を丁寧に読み解く",
+    "seo_title": "GMO食品は危険？安全性を検証"
   },
   {
     "id": "chemtrail-conspiracy",
@@ -537,7 +541,8 @@
       }
     ],
     "spreader_hook": "飛行機が撒き散らす白い線の正体は化学物質だった。空から降り注ぐ毒を政府は黙認している",
-    "site_catchphrase": "飛行機雲は化学兵器？ケムトレイル説の根拠を検証した"
+    "site_catchphrase": "飛行機雲は化学兵器？ケムトレイル説の根拠を検証した",
+    "seo_title": "ケムトレイルは本当か？飛行機雲の正体を検証"
   },
   {
     "id": "em-hypersensitivity",
@@ -650,7 +655,8 @@
       }
     ],
     "spreader_hook": "Wi-Fiをつけると頭が痛くなる、それは気のせいじゃない。電磁波過敏症を「精神病」と切り捨てる医学界の陰謀",
-    "site_catchphrase": "電磁波で体調が悪くなる？EHSの科学的な実態を調べた"
+    "site_catchphrase": "電磁波で体調が悪くなる？EHSの科学的な実態を調べた",
+    "seo_title": "電磁波過敏症は電波が原因？真相を検証"
   },
   {
     "id": "jewish-world-control-conspiracy",
@@ -764,7 +770,8 @@
       "金融陰謀論"
     ],
     "spreader_hook": "世界の戦争・金融危機・メディア操作の黒幕は誰か。歴史が証明するユダヤ人支配ネットワークの全貌",
-    "site_catchphrase": "「ユダヤ人が世界を支配」は本当か？歴史と証拠から検証する"
+    "site_catchphrase": "「ユダヤ人が世界を支配」は本当か？歴史と証拠から検証する",
+    "seo_title": "ユダヤ人が世界支配？陰謀論を検証"
   },
   {
     "id": "rothschild-central-bank-control",
@@ -877,7 +884,8 @@
       "反ユダヤ主義"
     ],
     "spreader_hook": "あなたが払う税金はロスチャイルド家に流れている。FRBもECBも彼らの私物である証拠がついに明らかに",
-    "site_catchphrase": "ロスチャイルドが中央銀行を支配？陰謀論の根拠を検証した"
+    "site_catchphrase": "ロスチャイルドが中央銀行を支配？陰謀論の根拠を検証した",
+    "seo_title": "ロスチャイルドが中央銀行支配？真相検証"
   },
   {
     "id": "new-world-order-one-world-government",
@@ -991,7 +999,8 @@
       "反グローバリズム"
     ],
     "spreader_hook": "ダボス会議で密かに決まる世界統一政府の計画。グレートリセットはNWOの第一歩だった",
-    "site_catchphrase": "新世界秩序（NWO）は実在するのか？陰謀論の構造を解析する"
+    "site_catchphrase": "新世界秩序（NWO）は実在するのか？陰謀論の構造を解析する",
+    "seo_title": "新世界秩序(NWO)は実在？陰謀論を検証"
   },
   {
     "id": "climate-change-hoax-conspiracy",
@@ -1105,7 +1114,8 @@
       "温暖化否定"
     ],
     "spreader_hook": "気候変動詐欺の全貌。CO2税で儲ける者たちが科学者を買収して作り上げたグローバル詐欺の実態",
-    "site_catchphrase": "地球温暖化は捏造？科学コンセンサスの根拠を丁寧に確認した"
+    "site_catchphrase": "地球温暖化は捏造？科学コンセンサスの根拠を丁寧に確認した",
+    "seo_title": "温暖化はデータ捏造？陰謀論を検証"
   },
   {
     "id": "deep-state-conspiracy",
@@ -1218,7 +1228,8 @@
       "選挙陰謀論"
     ],
     "spreader_hook": "選挙で誰が勝っても何も変わらない理由。政府の裏で本当の意思決定をしているディープステートの正体",
-    "site_catchphrase": "ディープステートは本当に存在するのか？証拠と論理を検証する"
+    "site_catchphrase": "ディープステートは本当に存在するのか？証拠と論理を検証する",
+    "seo_title": "ディープステートは実在する？真相検証"
   },
   {
     "id": "flat-earth-conspiracy",
@@ -1342,7 +1353,8 @@
       }
     ],
     "spreader_hook": "NASAの地球写真はすべてCGだった。宇宙飛行士が口を揃えて嘘をつく本当の理由とは",
-    "site_catchphrase": "地球は平面？フラットアース説の根拠を一つずつ検証した"
+    "site_catchphrase": "地球は平面？フラットアース説の根拠を一つずつ検証した",
+    "seo_title": "地球は平面？フラットアース説を検証"
   },
   {
     "id": "artificial-earthquake-weapon",
@@ -1473,7 +1485,8 @@
       }
     ],
     "spreader_hook": "東日本大震災の直前に震源地上空で謎の光が目撃された。人工地震兵器の存在を示す証拠が次々と出ている",
-    "site_catchphrase": "地震は人工的に起こせるのか？人工地震兵器説を科学で検証した"
+    "site_catchphrase": "地震は人工的に起こせるのか？人工地震兵器説を科学で検証した",
+    "seo_title": "人工地震兵器は実在？地震兵器説を検証"
   },
   {
     "id": "haarp-weather-mind-control-conspiracy",
@@ -1604,7 +1617,8 @@
       }
     ],
     "spreader_hook": "アラスカの施設が台風を作り出し人の思考を操っている。HAARPの真の目的を政府は永遠に認めないだろう",
-    "site_catchphrase": "HAARPは気象兵器？その実態と陰謀論の根拠を検証した"
+    "site_catchphrase": "HAARPは気象兵器？その実態と陰謀論の根拠を検証した",
+    "seo_title": "HAARPは気象兵器？陰謀論を検証"
   },
   {
     "id": "apollo-moon-landing-hoax",
@@ -1735,7 +1749,8 @@
       }
     ],
     "spreader_hook": "月面映像の影の向きがおかしい。スタンリー・キューブリックが撮影したと告白した証拠映像が今も残っている",
-    "site_catchphrase": "アポロ計画は本当に捏造だったのか？証拠とされるものを検証した"
+    "site_catchphrase": "アポロ計画は本当に捏造だったのか？証拠とされるものを検証した",
+    "seo_title": "アポロ月面着陸は捏造？真相を検証"
   },
   {
     "id": "effective-microorganisms-em-claims",
@@ -1857,7 +1872,8 @@
       "土壌改良"
     ],
     "spreader_hook": "EM菌を川に入れたら驚くほど水がきれいになった。行政が普及を妨げるのは利権があるからだ",
-    "site_catchphrase": "EM菌は万能？その効果を科学的な根拠から検証した"
+    "site_catchphrase": "EM菌は万能？その効果を科学的な根拠から検証した",
+    "seo_title": "EM菌で水質浄化？効果を検証"
   },
   {
     "id": "golden-apple-snail-weeding-claim",
@@ -1987,7 +2003,8 @@
       }
     ],
     "spreader_hook": "農薬ゼロで水田の雑草が消えた！ジャンボタニシ農法の驚異的な効果を農業試験場が認めない理由",
-    "site_catchphrase": "ジャンボタニシで無農薬除草？実態を農学的に検証した"
+    "site_catchphrase": "ジャンボタニシで無農薬除草？実態を農学的に検証した",
+    "seo_title": "ジャンボタニシで除草？安全性を検証"
   },
   {
     "id": "collagen-direct-skin-beauty-claim",
@@ -2109,7 +2126,8 @@
       "アンチエイジング"
     ],
     "spreader_hook": "飲むだけで肌がプルプルになるコラーゲンの秘密。化粧品会社が教えたくない驚きの効果",
-    "site_catchphrase": "コラーゲンを食べると肌に届く？吸収の仕組みを科学で確認した"
+    "site_catchphrase": "コラーゲンを食べると肌に届く？吸収の仕組みを科学で確認した",
+    "seo_title": "コラーゲンは肌に直接効く？真相検証"
   },
   {
     "id": "germanium-health-products-claim",
@@ -2231,7 +2249,8 @@
       "温浴"
     ],
     "spreader_hook": "ゲルマニウムブレスレットをつけてから肩こりが消えた。遠赤外線効果を医師が認めない本当の理由",
-    "site_catchphrase": "ゲルマニウム製品に健康効果はある？科学的根拠を検証した"
+    "site_catchphrase": "ゲルマニウム製品に健康効果はある？科学的根拠を検証した",
+    "seo_title": "ゲルマニウムで免疫力UP？効果を検証"
   },
   {
     "id": "hydrogen-water-health-claims",
@@ -2354,7 +2373,8 @@
       "美容飲料"
     ],
     "spreader_hook": "がん患者が水素水を飲み続けて腫瘍が消えた。製薬業界が水素水を潰したがる理由がわかった",
-    "site_catchphrase": "水素水は活性酸素を除去するのか？効能の科学的根拠を調べた"
+    "site_catchphrase": "水素水は活性酸素を除去するのか？効能の科学的根拠を調べた",
+    "seo_title": "水素水は老化・がん予防に効く？検証"
   },
   {
     "id": "takeuchi-documents-authentic-ancient-history",
@@ -2477,7 +2497,8 @@
       "天津教"
     ],
     "spreader_hook": "竹内文書が示す衝撃の真実――日本こそ人類文明の発祥地だった。歴史学会が封印し続ける超古代史の証拠",
-    "site_catchphrase": "竹内文書は本物の古代史料か？その真偽を史料批判で検証した"
+    "site_catchphrase": "竹内文書は本物の古代史料か？その真偽を史料批判で検証した",
+    "seo_title": "竹内文書は本物の史料？真偽を検証"
   },
   {
     "id": "hollow-earth-polar-entrance-conspiracy",
@@ -2600,7 +2621,8 @@
       "地震波"
     ],
     "spreader_hook": "ナチスは南極の地下世界に逃げ込んだ。北極探検家が目撃した空洞の入口と内部文明の証言記録",
-    "site_catchphrase": "地球の内部は空洞？ホロアース説の根拠を科学的に検証した"
+    "site_catchphrase": "地球の内部は空洞？ホロアース説の根拠を科学的に検証した",
+    "seo_title": "地球内部は空洞？ホロアース説を検証"
   },
   {
     "id": "bermuda-triangle-supernatural-disappearances",
@@ -2730,7 +2752,8 @@
       }
     ],
     "spreader_hook": "バミューダトライアングルで消えた飛行機の乗客が30年後に生きて戻ってきた。異次元転移の証拠記録",
-    "site_catchphrase": "バミューダトライアングルは本当に危険？失踪事故の実態を調べた"
+    "site_catchphrase": "バミューダトライアングルは本当に危険？失踪事故の実態を調べた",
+    "seo_title": "バミューダトライアングルの謎を検証"
   },
   {
     "id": "water-fueled-car-perpetual-motion",
@@ -2853,7 +2876,8 @@
       "電気分解"
     ],
     "spreader_hook": "水だけで走る車をトヨタが開発したが石油メジャーに潰された。発明者が不審死を遂げた真相",
-    "site_catchphrase": "水で走る車は実現できる？エネルギー保存則から検証した"
+    "site_catchphrase": "水で走る車は実現できる？エネルギー保存則から検証した",
+    "seo_title": "水で走る車は実用化できる？真相検証"
   },
   {
     "id": "ayurveda-universal-safe-cure-claims",
@@ -2985,7 +3009,8 @@
       }
     ],
     "spreader_hook": "5000年の知恵を持つアーユルヴェーダが現代医学を超える。副作用ゼロで万病を治すハーブの秘密",
-    "site_catchphrase": "アーユルヴェーダは安全で万能？伝統医学の有効性と限界を検証した"
+    "site_catchphrase": "アーユルヴェーダは安全で万能？伝統医学の有効性と限界を検証した",
+    "seo_title": "アーユルヴェーダは万病に効く？検証"
   },
   {
     "id": "qigong-qi-energy-cure-claims",
@@ -3108,7 +3133,8 @@
       "ヒーリング"
     ],
     "spreader_hook": "末期がんが気功師の手当てで消えた。西洋医学が否定する「気」の力の衝撃的な臨床記録",
-    "site_catchphrase": "気功の「気」で病気は治るのか？科学的な証拠を検証した"
+    "site_catchphrase": "気功の「気」で病気は治るのか？科学的な証拠を検証した",
+    "seo_title": "気功でがんが治る？「気」の効果を検証"
   },
   {
     "id": "law-of-attraction-manifestation-claims",
@@ -3231,7 +3257,8 @@
       "The Secret"
     ],
     "spreader_hook": "引き寄せの法則で借金が消え年収3000万円になった。宇宙の秘密を知った者だけが手に入れる豊かさの真実",
-    "site_catchphrase": "引き寄せの法則は本当に効く？科学と心理学から検証した"
+    "site_catchphrase": "引き寄せの法則は本当に効く？科学と心理学から検証した",
+    "seo_title": "引き寄せの法則は本当？科学的根拠を検証"
   },
   {
     "id": "book-of-mormon-ancient-american-history-claim",
@@ -3354,7 +3381,8 @@
       "古代アメリカ"
     ],
     "spreader_hook": "アメリカ大陸に古代イスラエル人が上陸した証拠が次々と発見されている。モルモン書が語る歴史の真実",
-    "site_catchphrase": "モルモン書は歴史的事実を記しているか？考古学的証拠を検証した"
+    "site_catchphrase": "モルモン書は歴史的事実を記しているか？考古学的証拠を検証した",
+    "seo_title": "モルモン書は真正な史料？真偽を検証"
   },
   {
     "id": "tanaka-memorial-world-conquest-forgery",
@@ -3477,7 +3505,8 @@
       "偽書"
     ],
     "spreader_hook": "田中義一が昭和天皇に提出した世界征服計画書の全文がここに。日本軍国主義の本質を示す一級史料",
-    "site_catchphrase": "田中上奏文は本物か？史料批判と偽文書の経緯を検証した"
+    "site_catchphrase": "田中上奏文は本物か？史料批判と偽文書の経緯を検証した",
+    "seo_title": "田中上奏文は偽書？世界征服計画書の真相"
   },
   {
     "id": "biblical-apocrypha-hidden-true-bible-claim",
@@ -3611,7 +3640,8 @@
       }
     ],
     "spreader_hook": "ニケア会議でバチカンが燃やした禁断の聖書。イエスの真の教えを隠し続けるカトリック教会の闇",
-    "site_catchphrase": "外典・偽典は教会が隠した真の聖書？成立の経緯を史学的に検証した"
+    "site_catchphrase": "外典・偽典は教会が隠した真の聖書？成立の経緯を史学的に検証した",
+    "seo_title": "外典は隠された真の聖書？真相を検証"
   },
   {
     "id": "detox-cleanses-remove-toxins-claim",
@@ -3736,7 +3766,8 @@
       "腸内洗浄"
     ],
     "spreader_hook": "3日間のデトックスで体から黒い毒素が排出された。現代医学が絶対に認めない宿便と毒素の恐ろしい正体",
-    "site_catchphrase": "デトックスで毒素は排出されるのか？肝臓・腎臓の仕組みから検証した"
+    "site_catchphrase": "デトックスで毒素は排出されるのか？肝臓・腎臓の仕組みから検証した",
+    "seo_title": "デトックスで毒素排出？効果を検証"
   },
   {
     "id": "low-carb-diet-universally-best-safe-claim",
@@ -3861,7 +3892,8 @@
       "アトキンス"
     ],
     "spreader_hook": "炭水化物こそが万病の元凶だった。糖質制限を否定する栄養士は製粉業界の回し者である",
-    "site_catchphrase": "糖質制限は誰にでも最善？糖質と健康の科学的関係を検証した"
+    "site_catchphrase": "糖質制限は誰にでも最善？糖質と健康の科学的関係を検証した",
+    "seo_title": "糖質制限は誰にも最善？安全性を検証"
   },
   {
     "id": "autophagy-fasting-antiaging-cure-claim",
@@ -3986,7 +4018,8 @@
       "アンチエイジング"
     ],
     "spreader_hook": "16時間断食で細胞が若返るオートファジーの奇跡。製薬会社が絶対に広めたくない無料の若返り法",
-    "site_catchphrase": "断食でオートファジーが起動して若返る？効果の根拠を検証した"
+    "site_catchphrase": "断食でオートファジーが起動して若返る？効果の根拠を検証した",
+    "seo_title": "断食でオートファジー若返り？真相検証"
   },
   {
     "id": "earthquake-clouds-predict-earthquakes",
@@ -4110,7 +4143,8 @@
       "放射状雲"
     ],
     "spreader_hook": "この雲が出たら3日以内に大地震が来る。気象庁が否定する地震雲の実績リストがSNSで拡散中",
-    "site_catchphrase": "地震雲で地震は予知できるのか？科学的な根拠を検証した"
+    "site_catchphrase": "地震雲で地震は予知できるのか？科学的な根拠を検証した",
+    "seo_title": "地震雲で地震予知できる？真相を検証"
   },
   {
     "id": "adlerian-psychology-trauma-denial-self-help-claim",
@@ -4234,7 +4268,8 @@
       "トラウマ否定"
     ],
     "spreader_hook": "トラウマは存在しない――アドラーが100年前に証明していた衝撃の真実。過去は今すぐ変えられる",
-    "site_catchphrase": "アドラー心理学でトラウマは消えるのか？心理学的根拠を検証した"
+    "site_catchphrase": "アドラー心理学でトラウマは消えるのか？心理学的根拠を検証した",
+    "seo_title": "アドラー心理学でトラウマ解決？真相検証"
   },
   {
     "id": "mbti-scientifically-accurate-personality-typing-claim",
@@ -4358,7 +4393,8 @@
       "就活"
     ],
     "spreader_hook": "MBTIで自分のタイプを知れば人生が変わる。INFJは全人口1%の希少な天才タイプだった",
-    "site_catchphrase": "MBTIは科学的に有効な性格診断なのか？心理測定学から検証した"
+    "site_catchphrase": "MBTIは科学的に有効な性格診断なのか？心理測定学から検証した",
+    "seo_title": "MBTIは科学的に正確？診断の真相を検証"
   },
   {
     "id": "subliminal-messages-can-control-people-claim",
@@ -4483,7 +4519,8 @@
       "潜在音声"
     ],
     "spreader_hook": "コーラのCMに仕込まれたサブリミナルで購買量が57%増加した実験記録。今もあなたは操られている",
-    "site_catchphrase": "サブリミナル効果で人は操れるのか？実験の真相を検証した"
+    "site_catchphrase": "サブリミナル効果で人は操れるのか？実験の真相を検証した",
+    "seo_title": "サブリミナルで人を操作できる？真相検証"
   },
   {
     "id": "aryan-race-superiority-pseudoscience",
@@ -4605,7 +4642,8 @@
       "ナチズム"
     ],
     "spreader_hook": "遺伝子データが示すアーリア人の知能と身体能力の優位性。政治的正しさが科学の真実を封印している",
-    "site_catchphrase": "アーリア人種の優越性は科学的に証明されているのか？人類遺伝学から検証した"
+    "site_catchphrase": "アーリア人種の優越性は科学的に証明されているのか？人類遺伝学から検証した",
+    "seo_title": "アーリア人は優越人種？疑似科学を検証"
   },
   {
     "id": "negative-ion-health-benefit-claims",
@@ -4728,7 +4766,8 @@
       "健康家電"
     ],
     "spreader_hook": "森林浴でがんが治った奇跡の理由はマイナスイオンだった。家電メーカーが隠す驚異の健康効果",
-    "site_catchphrase": "マイナスイオンに健康効果はある？科学的証拠を検証した"
+    "site_catchphrase": "マイナスイオンに健康効果はある？科学的証拠を検証した",
+    "seo_title": "マイナスイオンは健康に効く？真相検証"
   },
   {
     "id": "hypnotherapy-universal-cure-recovered-memory-claim",
@@ -4852,7 +4891,8 @@
       "禁煙"
     ],
     "spreader_hook": "催眠で封印された幼少期の虐待記憶が蘇った。潜在意識に眠る真実を掘り起こす催眠療法の力",
-    "site_catchphrase": "催眠療法で何でも治り記憶を正確に回復できる？科学的根拠を検証した"
+    "site_catchphrase": "催眠療法で何でも治り記憶を正確に回復できる？科学的根拠を検証した",
+    "seo_title": "催眠療法は万能の治療？効果を検証"
   },
   {
     "id": "enzyme-drinks-live-enzymes-health-claims",
@@ -4975,7 +5015,8 @@
       "消化酵素"
     ],
     "spreader_hook": "生きた酵素が体内の毒素を分解し代謝を爆上げする。加熱食品ばかりの現代人に足りない酵素の衝撃的な真実",
-    "site_catchphrase": "酵素ドリンクで代謝・美容が改善する？酵素の仕組みから検証した"
+    "site_catchphrase": "酵素ドリンクで代謝・美容が改善する？酵素の仕組みから検証した",
+    "seo_title": "酵素ドリンクの「生きた酵素」効果を検証"
   },
   {
     "id": "chiropractic-subluxation-universal-healing-claim",
@@ -5098,7 +5139,8 @@
       "代替医療"
     ],
     "spreader_hook": "背骨のズレを直した瞬間に10年の腰痛が消えた。神経の流れを取り戻すカイロプラクティックの奇跡",
-    "site_catchphrase": "カイロプラクティックで万病が改善？サブラクセーション理論を検証した"
+    "site_catchphrase": "カイロプラクティックで万病が改善？サブラクセーション理論を検証した",
+    "seo_title": "カイロプラクティックで万病改善？真相検証"
   },
   {
     "id": "phrenology-skull-shape-determines-character",
@@ -5230,7 +5272,8 @@
       }
     ],
     "spreader_hook": "犯罪者の頭蓋骨には共通した特徴がある。骨相学が解き明かす性格と才能の生物学的真実",
-    "site_catchphrase": "頭蓋骨の形で性格や犯罪性がわかる？骨相学の科学的妥当性を検証した"
+    "site_catchphrase": "頭蓋骨の形で性格や犯罪性がわかる？骨相学の科学的妥当性を検証した",
+    "seo_title": "骨相学で性格がわかる？真偽を検証"
   },
   {
     "id": "palmistry-lines-predict-personality-fate",
@@ -5348,7 +5391,8 @@
       "運命線"
     ],
     "spreader_hook": "生命線が短い人は本当に早死にするのか。手相鑑定士が公開した驚異の的中率データ",
-    "site_catchphrase": "手相で運命や寿命がわかる？手相占いの根拠を科学的に検証した"
+    "site_catchphrase": "手相で運命や寿命がわかる？手相占いの根拠を科学的に検証した",
+    "seo_title": "手相で運命がわかる？科学的根拠を検証"
   },
   {
     "id": "astrology-birth-chart-predicts-personality-fate",
@@ -5475,7 +5519,8 @@
       }
     ],
     "spreader_hook": "星座と性格の一致率は驚異の73%。NASAも認めた天体が人間に与える重力的影響の衝撃",
-    "site_catchphrase": "占星術で性格や運命はわかる？天文学・心理学から検証した"
+    "site_catchphrase": "占星術で性格や運命はわかる？天文学・心理学から検証した",
+    "seo_title": "占星術は性格・運命を予知できる？検証"
   },
   {
     "id": "hydrino-subground-hydrogen-energy-claim",
@@ -5592,7 +5637,8 @@
       "周縁科学"
     ],
     "spreader_hook": "水から無限のクリーンエネルギーを生み出すハイドリノ技術。石油メジャーが特許を買い占めて封印した真相",
-    "site_catchphrase": "ハイドリノで水からエネルギーを取り出せる？物理学から検証した"
+    "site_catchphrase": "ハイドリノで水からエネルギーを取り出せる？物理学から検証した",
+    "seo_title": "ハイドリノは実在？フリーエネルギー説検証"
   },
   {
     "id": "technical-analysis-guaranteed-market-outperformance",
@@ -5719,7 +5765,8 @@
       }
     ],
     "spreader_hook": "この1つのチャートパターンを知るだけで勝率80%になった。プロトレーダーが絶対に教えない必勝法",
-    "site_catchphrase": "テクニカル分析だけで市場に勝ち続けられる？金融研究から検証した"
+    "site_catchphrase": "テクニカル分析だけで市場に勝ち続けられる？金融研究から検証した",
+    "seo_title": "テクニカル分析で株に勝てる？真相検証"
   },
   {
     "id": "balneotherapy-hot-springs-cure-many-diseases",
@@ -5837,7 +5884,8 @@
       "変形性関節症"
     ],
     "spreader_hook": "温泉に1ヶ月通ったら糖尿病の数値が正常になった。湯治が現代医学より優れている理由",
-    "site_catchphrase": "温泉療法で病気は治るのか？湯治の医学的根拠を検証した"
+    "site_catchphrase": "温泉療法で病気は治るのか？湯治の医学的根拠を検証した",
+    "seo_title": "温泉療法は万病に効く？効果を検証"
   },
   {
     "id": "nisa-government-endorsed-no-loss-investing",
@@ -5955,7 +6003,8 @@
       "元本割れ"
     ],
     "spreader_hook": "政府公認のNISAなら絶対に損しない。老後2000万円問題を一発解決する国が保証する投資の秘密",
-    "site_catchphrase": "NISAで必ず儲かる？投資リスクの実態と誤解を検証した"
+    "site_catchphrase": "NISAで必ず儲かる？投資リスクの実態と誤解を検証した",
+    "seo_title": "NISAは元本保証？投資の誤解を検証"
   },
   {
     "id": "orgone-energy-healing-protection-claim",
@@ -6082,7 +6131,8 @@
       }
     ],
     "spreader_hook": "スマホの横にオルゴナイトを置いたら電磁波被害が消えた。ライヒ博士が発見した生命エネルギーの真実",
-    "site_catchphrase": "オルゴンエネルギーで治療・防御できる？その実態を科学的に検証した"
+    "site_catchphrase": "オルゴンエネルギーで治療・防御できる？その実態を科学的に検証した",
+    "seo_title": "オルゴンエネルギーは実在？効果を検証"
   },
   {
     "id": "seitai-body-distortion-cures-systemic-symptoms",
@@ -6200,7 +6250,8 @@
       "肩こり"
     ],
     "spreader_hook": "骨盤のゆがみを直したら不妊が解消し3ヶ月で妊娠した。整体が現代医学では治せない病気を治す理由",
-    "site_catchphrase": "整体で体のゆがみを直せば万病が治る？その根拠を検証した"
+    "site_catchphrase": "整体で体のゆがみを直せば万病が治る？その根拠を検証した",
+    "seo_title": "整体でゆがみ矯正→万病改善？真相検証"
   },
   {
     "id": "conversion-therapy-can-change-orientation-identity",
@@ -6318,7 +6369,8 @@
       "疑似科学"
     ],
     "spreader_hook": "祈りと信仰で同性愛を克服した実話。神が設計した性のあり方を取り戻すための転向療法の効果",
-    "site_catchphrase": "転向療法で性的指向は変えられる？科学と倫理の両面から検証した"
+    "site_catchphrase": "転向療法で性的指向は変えられる？科学と倫理の両面から検証した",
+    "seo_title": "転向療法で性的指向は変わる？真相検証"
   },
   {
     "id": "geopolitics-deterministically-predicts-national-destiny",
@@ -6436,7 +6488,8 @@
       "国際政治"
     ],
     "spreader_hook": "地政学を学べば次の戦争が見える。マッキンダーの予言通りに動く世界の覇権争いの真実",
-    "site_catchphrase": "地政学で国家の運命を予測できる？理論の有効性と限界を検証した"
+    "site_catchphrase": "地政学で国家の運命を予測できる？理論の有効性と限界を検証した",
+    "seo_title": "地政学で国家の運命を予測できる？検証"
   },
   {
     "id": "late-night-eating-automatically-causes-weight-gain",
@@ -6554,7 +6607,8 @@
       "生活習慣"
     ],
     "spreader_hook": "同じものを食べても夜食べると3倍太る。BMAL1タンパクが証明した夜食が絶対NGな理由",
-    "site_catchphrase": "夜に食べると太る？時間栄養学の観点から科学的に検証した"
+    "site_catchphrase": "夜に食べると太る？時間栄養学の観点から科学的に検証した",
+    "seo_title": "夜遅い食事は必ず太る？真相を検証"
   },
   {
     "id": "blood-type-o-mosquito-bites-more",
@@ -6681,7 +6735,8 @@
       }
     ],
     "spreader_hook": "O型の人が蚊に刺されやすいのは科学的事実だった。血液型と蚊の関係を解明した研究結果",
-    "site_catchphrase": "O型は蚊に刺されやすい？血液型と蚊の関係を科学で検証した"
+    "site_catchphrase": "O型は蚊に刺されやすい？血液型と蚊の関係を科学で検証した",
+    "seo_title": "O型は蚊に刺されやすい？真相を検証"
   },
   {
     "id": "telepathy-direct-mind-to-mind-communication-real",
@@ -6799,7 +6854,8 @@
       "超心理学"
     ],
     "spreader_hook": "双子が離れた場所で同時に同じ夢を見た記録が1000件以上。テレパシーの実在を証明する科学実験の記録",
-    "site_catchphrase": "テレパシーは実在するのか？超心理学研究の実態を検証した"
+    "site_catchphrase": "テレパシーは実在するのか？超心理学研究の実態を検証した",
+    "seo_title": "テレパシーは実在する？真相を検証"
   },
   {
     "id": "zero-point-energy-free-power-extraction-claim",
@@ -6917,7 +6973,8 @@
       "自由エネルギー"
     ],
     "spreader_hook": "真空から電気を取り出す装置が完成した。エネルギー問題を永久に解決するフリーエネルギーを石油業界が葬った",
-    "site_catchphrase": "真空からエネルギーを取り出せる？ゼロポイントエネルギーを物理学で検証した"
+    "site_catchphrase": "真空からエネルギーを取り出せる？ゼロポイントエネルギーを物理学で検証した",
+    "seo_title": "ゼロポイントエネルギーは実用可能？検証"
   },
   {
     "id": "antigravity-device-cancels-gravity-claim",
@@ -7035,7 +7092,8 @@
       "疑似科学"
     ],
     "spreader_hook": "エリア51で回収されたUFOの反重力装置を解析した元NASA研究員が告発。人類が知らない物理法則の秘密",
-    "site_catchphrase": "反重力装置は実現できる？物理学の観点から根拠を検証した"
+    "site_catchphrase": "反重力装置は実現できる？物理学の観点から根拠を検証した",
+    "seo_title": "反重力装置は実在する？真相を検証"
   },
   {
     "id": "akashic-records-objective-truth-access-claim",
@@ -7153,7 +7211,8 @@
       "ニューエイジ"
     ],
     "spreader_hook": "霊能者がアカシックレコードにアクセスして前世の職業と死因を正確に読み取った記録。宇宙の真実がそこにある",
-    "site_catchphrase": "アカシックレコードから真実を読み取れる？その主張の根拠を検証した"
+    "site_catchphrase": "アカシックレコードから真実を読み取れる？その主張の根拠を検証した",
+    "seo_title": "アカシックレコードで真実を読める？検証"
   },
   {
     "id": "luminiferous-ether-still-exists-claim",
@@ -7270,7 +7329,8 @@
       "疑似科学"
     ],
     "spreader_hook": "相対性理論の根本的な欠陥が明らかに。光エーテルの実在を証明した最新実験でアインシュタインが崩れた",
-    "site_catchphrase": "光エーテルはまだ実在する？現代物理学の観点から検証した"
+    "site_catchphrase": "光エーテルはまだ実在する？現代物理学の観点から検証した",
+    "seo_title": "エーテルは今も実在？物理学説を検証"
   },
   {
     "id": "synchronicity-proves-hidden-message-claim",
@@ -7388,7 +7448,8 @@
       "宇宙からのサイン"
     ],
     "spreader_hook": "偶然が重なりすぎるのは宇宙からのサイン。ユングも認めたシンクロニシティが示す隠されたメッセージを読め",
-    "site_catchphrase": "シンクロニシティは宇宙のメッセージ？その心理学的実態を検証した"
+    "site_catchphrase": "シンクロニシティは宇宙のメッセージ？その心理学的実態を検証した",
+    "seo_title": "シンクロニシティは宇宙のメッセージ？検証"
   },
   {
     "id": "psychokinesis-moves-objects-by-thought-claim",
@@ -7506,7 +7567,8 @@
       "疑似科学"
     ],
     "spreader_hook": "ユリ・ゲラーがスプーンを曲げた瞬間の映像が今もYouTubeに残っている。念力の実在を否定できない理由",
-    "site_catchphrase": "念力で物は動くのか？超心理学研究の実態を科学的に検証した"
+    "site_catchphrase": "念力で物は動くのか？超心理学研究の実態を科学的に検証した",
+    "seo_title": "念力で物を動かせる？サイコキネシス検証"
   },
   {
     "id": "precognitive-dreams-predict-future-claim",
@@ -7624,7 +7686,8 @@
       "スピリチュアル"
     ],
     "spreader_hook": "9.11テロの前夜に不吉な夢を見た人が続出した記録が残っている。予知夢が実在する科学的証拠",
-    "site_catchphrase": "予知夢で未来はわかるのか？夢研究と認知心理学から検証した"
+    "site_catchphrase": "予知夢で未来はわかるのか？夢研究と認知心理学から検証した",
+    "seo_title": "予知夢は本当に未来を見せる？真相検証"
   },
   {
     "id": "psychometry-object-reading-reveals-facts-claim",
@@ -7741,7 +7804,8 @@
       "コールドリーディング"
     ],
     "spreader_hook": "遺品に触れた霊能者が持ち主の死の状況を正確に語った。サイコメトリーの的中率が100%だった事件記録",
-    "site_catchphrase": "物に触れると事実を読み取れる？サイコメトリーの実態を検証した"
+    "site_catchphrase": "物に触れると事実を読み取れる？サイコメトリーの実態を検証した",
+    "seo_title": "サイコメトリーで真実が読める？検証"
   },
   {
     "id": "quantum-consciousness-explains-mind-claim",
@@ -7859,7 +7923,8 @@
       "疑似科学"
     ],
     "spreader_hook": "ペンローズとハメロフが証明した意識は量子現象だった。AIに魂がない理由と人間の意識の神秘",
-    "site_catchphrase": "意識は量子論で説明できる？量子脳理論の科学的根拠を検証した"
+    "site_catchphrase": "意識は量子論で説明できる？量子脳理論の科学的根拠を検証した",
+    "seo_title": "意識は量子力学で解明できる？真相検証"
   },
   {
     "id": "channeling-receives-objective-messages-claim",
@@ -7982,7 +8047,8 @@
       "アセンデッドマスター"
     ],
     "spreader_hook": "プレアデス星人から届いたメッセージに書かれた未来予言が的中し続けている。チャネリングは本物だった",
-    "site_catchphrase": "チャネリングで高次存在からメッセージは届くのか？その実態を検証した"
+    "site_catchphrase": "チャネリングで高次存在からメッセージは届くのか？その実態を検証した",
+    "seo_title": "チャネリングは本物のメッセージ？検証"
   },
   {
     "id": "mentalism-reads-and-controls-minds-claim",
@@ -8104,7 +8170,8 @@
       "NLP"
     ],
     "spreader_hook": "このたった1つのテクニックで相手が何を考えているか瞬時にわかる。メンタリズムで人を操る禁断の心理術",
-    "site_catchphrase": "メンタリズムで心を読み行動を操れる？心理学的根拠を検証した"
+    "site_catchphrase": "メンタリズムで心を読み行動を操れる？心理学的根拠を検証した",
+    "seo_title": "メンタリズムで心を読み操れる？真相検証"
   },
   {
     "id": "seven-habits-guarantees-success-claim",
@@ -8227,7 +8294,8 @@
       "リーダーシップ"
     ],
     "spreader_hook": "ビル・ゲイツもウォーレン・バフェットも実践していた7つの習慣。この本を読んだ人の成功率は読んでいない人の10倍",
-    "site_catchphrase": "『7つの習慣』で誰でも成功できる？自己啓発の効果を科学的に検証した"
+    "site_catchphrase": "『7つの習慣』で誰でも成功できる？自己啓発の効果を科学的に検証した",
+    "seo_title": "7つの習慣で誰でも成功できる？真相検証"
   },
   {
     "id": "enneagram-accurate-personality-typing-claim",
@@ -8351,7 +8419,8 @@
       "適職診断"
     ],
     "spreader_hook": "エニアグラムを学んだら夫婦関係が劇的に改善した。9つのタイプが解き明かす人間の本質的な欲求",
-    "site_catchphrase": "エニアグラムは科学的な性格診断なのか？その妥当性を検証した"
+    "site_catchphrase": "エニアグラムは科学的な性格診断なのか？その妥当性を検証した",
+    "seo_title": "エニアグラムは科学的に正確？真相検証"
   },
   {
     "id": "meditation-cures-illness-and-is-risk-free-claim",
@@ -8473,7 +8542,8 @@
       "うつ"
     ],
     "spreader_hook": "瞑想でがんが消えた奇跡の報告が世界中で続出。薬も手術も不要な究極の万能療法を医学界が認めない理由",
-    "site_catchphrase": "瞑想は病気を治す万能療法で副作用ゼロ？科学的証拠を検証した"
+    "site_catchphrase": "瞑想は病気を治す万能療法で副作用ゼロ？科学的証拠を検証した",
+    "seo_title": "瞑想は病気を治す万能療法？真相検証"
   },
   {
     "id": "left-brain-right-brain-personality-claim",
@@ -8597,7 +8667,8 @@
       "分離脳"
     ],
     "spreader_hook": "あなたは左脳派？右脳派？脳タイプ診断で才能と天職がわかる。学校が教えない脳科学の真実",
-    "site_catchphrase": "右脳型・左脳型で性格や才能が決まる？脳科学の観点から検証した"
+    "site_catchphrase": "右脳型・左脳型で性格や才能が決まる？脳科学の観点から検証した",
+    "seo_title": "左脳・右脳型で性格決まる？俗説を検証"
   },
   {
     "id": "cliftonstrengths-predicts-job-fit-claim",
@@ -8721,7 +8792,8 @@
       "人材開発"
     ],
     "spreader_hook": "ストレングスファインダーで「戦略性」と出た人の年収は平均より300万高かった。34の資質が導く天職の真実",
-    "site_catchphrase": "ストレングスファインダーで適職を正確に予測できる？科学的妥当性を検証した"
+    "site_catchphrase": "ストレングスファインダーで適職を正確に予測できる？科学的妥当性を検証した",
+    "seo_title": "クリフトンストレングスで適職診断？検証"
   },
   {
     "id": "sea-serpent-cryptid-exists-claim",
@@ -8844,7 +8916,8 @@
       "リュウグウノツカイ"
     ],
     "spreader_hook": "スコットランド沖で撮影された全長20メートルの謎の生物の鮮明映像。ネス湖だけじゃなかった未確認海洋生物の証拠",
-    "site_catchphrase": "シーサーペントは実在するのか？未確認生物報告の実態を検証した"
+    "site_catchphrase": "シーサーペントは実在するのか？未確認生物報告の実態を検証した",
+    "seo_title": "シーサーペントは実在する？目撃情報を検証"
   },
   {
     "id": "sleepwalking-myths-waking-dangerous-claim",
@@ -8967,7 +9040,8 @@
       "レム睡眠行動障害"
     ],
     "spreader_hook": "夢遊病の人を無理やり起こしてショック死した実際の事例。眠っている人を揺り起こすのは本当に危険だ",
-    "site_catchphrase": "夢遊病の人を起こすと危険？睡眠医学の観点から検証した"
+    "site_catchphrase": "夢遊病の人を起こすと危険？睡眠医学の観点から検証した",
+    "seo_title": "夢遊病者を起こすと危険？俗説を検証"
   },
   {
     "id": "eye-floaters-always-harmless-supplement-cure-claim",
@@ -9091,7 +9165,8 @@
       "ルテイン"
     ],
     "spreader_hook": "飛蚊症がルテインサプリで消えた体験談が続々。眼科医が教えてくれない自分で治す方法",
-    "site_catchphrase": "飛蚊症はサプリや目の運動で治せる？眼科医学的な実態を検証した"
+    "site_catchphrase": "飛蚊症はサプリや目の運動で治せる？眼科医学的な実態を検証した",
+    "seo_title": "飛蚊症は放置して大丈夫？俗説を検証"
   },
   {
     "id": "submarine-patents-still-common-ambush-claim",
@@ -9215,7 +9290,8 @@
       "18か月公開"
     ],
     "spreader_hook": "製品を出した途端に見知らぬ会社から特許侵害の通告が届いた。サブマリン特許で企業を狙うパテントトロールの手口",
-    "site_catchphrase": "サブマリン特許は今も有効な戦略なのか？特許制度の実態を検証した"
+    "site_catchphrase": "サブマリン特許は今も有効な戦略なのか？特許制度の実態を検証した",
+    "seo_title": "サブマリン特許は今も有効？真相を検証"
   },
   {
     "id": "sleep-paralysis-spiritual-attack-claim",
@@ -9338,7 +9414,8 @@
       "覚醒時幻覚"
     ],
     "spreader_hook": "金縛りの最中に部屋の隅に黒い影が立っていた。霊的な攻撃から身を守るための金縛り対処法",
-    "site_catchphrase": "金縛りは霊の攻撃なのか？睡眠科学の観点から実態を検証した"
+    "site_catchphrase": "金縛りは霊の攻撃なのか？睡眠科学の観点から実態を検証した",
+    "seo_title": "金縛りは霊の攻撃？睡眠麻痺の真相検証"
   },
   {
     "id": "phantom-limb-pain-is-imaginary-claim",
@@ -9462,7 +9539,8 @@
       "ミラー療法"
     ],
     "spreader_hook": "切断した腕が痛いのは脳の錯覚にすぎない。精神力で幻肢痛を克服した元兵士の感動実話",
-    "site_catchphrase": "幻肢痛は気のせいで精神力だけで治せる？神経科学から検証した"
+    "site_catchphrase": "幻肢痛は気のせいで精神力だけで治せる？神経科学から検証した",
+    "seo_title": "幻肢痛は気のせい？神経痛の真相を検証"
   },
   {
     "id": "olive-oil-melts-fat-weight-loss-claim",
@@ -9595,7 +9673,8 @@
       }
     ],
     "spreader_hook": "地中海の人々が長寿なのはオリーブオイルを飲んでいるから。スプーン1杯で体脂肪を燃やす奇跡の食品",
-    "site_catchphrase": "オリーブオイルを飲むと脂肪が燃える？ダイエット効果の根拠を検証した"
+    "site_catchphrase": "オリーブオイルを飲むと脂肪が燃える？ダイエット効果の根拠を検証した",
+    "seo_title": "オリーブオイルで脂肪燃焼？効果を検証"
   },
   {
     "id": "lamb-meat-diet-fat-burning-claim",
@@ -9719,7 +9798,8 @@
       "肉食ダイエット"
     ],
     "spreader_hook": "ラム肉を週3回食べるだけで3ヶ月でウエスト10cm減。L-カルニチンが体脂肪を燃やす驚きのメカニズム",
-    "site_catchphrase": "ラム肉で脂肪が燃えて痩せる？L-カルニチン効果の科学的根拠を検証した"
+    "site_catchphrase": "ラム肉で脂肪が燃えて痩せる？L-カルニチン効果の科学的根拠を検証した",
+    "seo_title": "ラム肉は脂肪燃焼効果あり？俗説を検証"
   },
   {
     "id": "highball-alcohol-weight-loss-claim",
@@ -9843,7 +9923,8 @@
       "低糖質"
     ],
     "spreader_hook": "ビールをやめてハイボールにしたら半年で8kg痩せた。糖質ゼロの蒸留酒が太らない飲み方の新常識",
-    "site_catchphrase": "ハイボールを飲むと痩せる？糖質ゼロと体重の関係を検証した"
+    "site_catchphrase": "ハイボールを飲むと痩せる？糖質ゼロと体重の関係を検証した",
+    "seo_title": "ハイボールで痩せる？糖質ゼロ説を検証"
   },
   {
     "id": "borderline-intellectual-functioning-stigma-claim",
@@ -9967,7 +10048,8 @@
       "発達支援"
     ],
     "spreader_hook": "境界知能のIQ75は犯罪と怠惰の温床だった。社会問題化する「見えない知的障害」の衝撃の実態",
-    "site_catchphrase": "境界知能は犯罪や怠惰と結びつく？IQと行動の関係を科学的に検証した"
+    "site_catchphrase": "境界知能は犯罪や怠惰と結びつく？IQと行動の関係を科学的に検証した",
+    "seo_title": "境界知能は犯罪傾向の指標？誤解を検証"
   },
   {
     "id": "giftedness-genius-diagnosis-claim",
@@ -10075,7 +10157,8 @@
       "発達障害"
     ],
     "spreader_hook": "うちの子はギフテッドかも。IQ130以上が証明する天才の証と才能を伸ばす育て方の完全ガイド",
-    "site_catchphrase": "ギフテッドは医学的診断名で万能な天才なのか？実態を科学的に検証した"
+    "site_catchphrase": "ギフテッドは医学的診断名で万能な天才なのか？実態を科学的に検証した",
+    "seo_title": "ギフテッドは医学的診断名？真相を検証"
   },
   {
     "id": "ccp-spy-smear-claim",
@@ -10193,7 +10276,8 @@
       "外国影響工作"
     ],
     "spreader_hook": "日本のSNSで中国批判をすると必ず反論してくる人々の正体。中国共産党の工作員リストがついに流出",
-    "site_catchphrase": "中国批判をする人は全員スパイ扱い？この主張の論理的問題を検証した"
+    "site_catchphrase": "中国批判をする人は全員スパイ扱い？この主張の論理的問題を検証した",
+    "seo_title": "中国批判者はCCPスパイ？レッテルを検証"
   },
   {
     "id": "sanseito-deep-state-belief-claim",
@@ -10310,7 +10394,8 @@
       "陰謀論政治"
     ],
     "spreader_hook": "参政党が国会で暴露したディープステートの実態。既存政党が絶対に言えない日本支配の闇の構造",
-    "site_catchphrase": "参政党はディープステート信仰の政党なのか？主張の内容と根拠を検証した"
+    "site_catchphrase": "参政党はディープステート信仰の政党なのか？主張の内容と根拠を検証した",
+    "seo_title": "参政党はディープステートを公式採用？検証"
   },
   {
     "id": "japan-blank-century-hidden-history-claim",
@@ -10426,7 +10511,8 @@
       "卑弥呼"
     ],
     "spreader_hook": "記紀が書かれる前の100年間に何があったのか。政府が国民に知られたくない超古代日本の本当の歴史",
-    "site_catchphrase": "日本の「空白の百年」に隠された古代史がある？史学的根拠を検証した"
+    "site_catchphrase": "日本の「空白の百年」に隠された古代史がある？史学的根拠を検証した",
+    "seo_title": "「空白の百年」に隠された歴史？真相検証"
   },
   {
     "id": "human-cryonics-cold-sleep-revival-claim",
@@ -10544,7 +10630,8 @@
       "ガラス化"
     ],
     "spreader_hook": "アリゾナの施設で200人が冷凍保存されている。2100年に蘇生される予定の冷凍人間たちのリアルな現在",
-    "site_catchphrase": "コールドスリープで人間は未来に蘇生できるのか？現状と科学的課題を検証した"
+    "site_catchphrase": "コールドスリープで人間は未来に蘇生できるのか？現状と科学的課題を検証した",
+    "seo_title": "コールドスリープで未来に蘇生？真相検証"
   },
   {
     "id": "vinegar-cured-fish-kills-parasites-bacteria-claim",
@@ -10661,7 +10748,8 @@
       "腸炎ビブリオ"
     ],
     "spreader_hook": "酢締めを食べてアニサキスにやられた人が急増している。酢では寄生虫が死なないという不都合な真実",
-    "site_catchphrase": "酢締めでアニサキスは死ぬのか？食品安全の観点から検証した"
+    "site_catchphrase": "酢締めでアニサキスは死ぬのか？食品安全の観点から検証した",
+    "seo_title": "酢締めで寄生虫は死ぬ？真相を検証"
   },
   {
     "id": "brain-in-a-vat-reality-claim",
@@ -10778,7 +10866,8 @@
       "マトリックス"
     ],
     "spreader_hook": "あなたが見ている世界はすべて作り物かもしれない。イーロン・マスクも認めたシミュレーション仮説の衝撃",
-    "site_catchphrase": "私たちは水槽の脳なのか？哲学的思考実験の意味と限界を検証した"
+    "site_catchphrase": "私たちは水槽の脳なのか？哲学的思考実験の意味と限界を検証した",
+    "seo_title": "現実は培養槽の脳の幻覚？哲学的問いを検証"
   },
   {
     "id": "jfk-assassination-government-conspiracy-claim",
@@ -10904,7 +10993,8 @@
       "CIA"
     ],
     "spreader_hook": "6発の銃声が記録されているのにオズワルドのライフルは3発しか撃てない。ケネディ暗殺の隠蔽工作の全証拠",
-    "site_catchphrase": "ケネディ暗殺は政府の陰謀だったのか？証拠と調査記録を検証した"
+    "site_catchphrase": "ケネディ暗殺は政府の陰謀だったのか？証拠と調査記録を検証した",
+    "seo_title": "JFK暗殺は組織的陰謀？真相を検証"
   },
   {
     "id": "crystal-skulls-ancient-mystic-artifact-claim",
@@ -11030,7 +11120,8 @@
       }
     ],
     "spreader_hook": "電子顕微鏡では現代の工具痕が検出できなかった水晶髑髏の謎。古代人がどうやって作ったのか科学者が沈黙",
-    "site_catchphrase": "クリスタル・スカルは本物の古代遺物なのか？考古学的調査結果を検証した"
+    "site_catchphrase": "クリスタル・スカルは本物の古代遺物なのか？考古学的調査結果を検証した",
+    "seo_title": "クリスタル・スカルは古代遺物？真偽検証"
   },
   {
     "id": "panama-papers-prove-all-names-criminal-claim",
@@ -11164,7 +11255,8 @@
       }
     ],
     "spreader_hook": "パナマ文書に名前があった首相が辞任した。文書に載っている日本人有名人リストが今も削除されずに残っている",
-    "site_catchphrase": "パナマ文書に名前があれば犯罪者なのか？オフショア取引の実態を検証した"
+    "site_catchphrase": "パナマ文書に名前があれば犯罪者なのか？オフショア取引の実態を検証した",
+    "seo_title": "パナマ文書の記載者は全員犯罪者？真相検証"
   },
   {
     "id": "tiktok-secretly-steals-all-user-data-claim",
@@ -11298,7 +11390,8 @@
       }
     ],
     "spreader_hook": "TikTokを入れたスマホのカメラとマイクが24時間監視状態になっている。中国に盗まれた日本人のデータの行方",
-    "site_catchphrase": "TikTokは中国政府にデータを送っている？実態と根拠を検証した"
+    "site_catchphrase": "TikTokは中国政府にデータを送っている？実態と根拠を検証した",
+    "seo_title": "TikTokはデータを中国へ送信？真相検証"
   },
   {
     "id": "covid-china-bioweapon",
@@ -11422,7 +11515,8 @@
       "武漢研究所"
     ],
     "spreader_hook": "武漢ウイルス研究所から流出した証拠がついにアメリカ政府に認定された。コロナは生物兵器だったという真実",
-    "site_catchphrase": "新型コロナは中国の生物兵器なのか？証拠と研究結果を検証した"
+    "site_catchphrase": "新型コロナは中国の生物兵器なのか？証拠と研究結果を検証した",
+    "seo_title": "新型コロナは中国の生物兵器？真相を検証"
   },
   {
     "id": "pizzagate-comet-ping-pong",
@@ -11546,7 +11640,8 @@
       "児童売買"
     ],
     "spreader_hook": "ヒラリーのメールにコードワードで隠された子供の話。ピザ店の地下施設の存在を示す衝撃の証拠写真",
-    "site_catchphrase": "ピザゲートは事実なのか？陰謀論の発生から拡散までを検証した"
+    "site_catchphrase": "ピザゲートは事実なのか？陰謀論の発生から拡散までを検証した",
+    "seo_title": "ピザゲートは実在？陰謀論の真相を検証"
   },
   {
     "id": "george-soros-paid-protesters",
@@ -11670,7 +11765,8 @@
       "移民"
     ],
     "spreader_hook": "BLMデモ参加者がクレイグスリストで1500ドルで募集されていた。ソロスが資金提供した暴動の参加者名簿が流出",
-    "site_catchphrase": "ソロスが抗議者を雇った？資金の流れと実態を検証した"
+    "site_catchphrase": "ソロスが抗議者を雇った？資金の流れと実態を検証した",
+    "seo_title": "ソロスがデモ参加者を金銭で雇用？検証"
   },
   {
     "id": "illuminati-secret-world-control",
@@ -11795,7 +11891,8 @@
       "フリーメイソン"
     ],
     "spreader_hook": "ドル紙幣に描かれたピラミッドと目がイルミナティの支配を示している。世界中の政治家が隠す秘密結社の証拠",
-    "site_catchphrase": "イルミナティは今も世界を支配している？歴史と証拠を検証した"
+    "site_catchphrase": "イルミナティは今も世界を支配している？歴史と証拠を検証した",
+    "seo_title": "イルミナティは世界を支配？陰謀論検証"
   },
   {
     "id": "qanon-follow-the-white-rabbit",
@@ -11918,7 +12015,8 @@
       "児童売買陰謀論"
     ],
     "spreader_hook": "Qが残した暗号を解いた者だけが知る世界の真実。ディープステート壊滅作戦の進捗状況をリアルタイムで確認せよ",
-    "site_catchphrase": "QAnonの暗号を解けば真実に到達できる？陰謀論の構造を検証した"
+    "site_catchphrase": "QAnonの暗号を解けば真実に到達できる？陰謀論の構造を検証した",
+    "seo_title": "QAnonの「Qドロップ」は真実？真相検証"
   },
   {
     "id": "eu-habsburg-creation",
@@ -12044,7 +12142,8 @@
       "グローバリスト"
     ],
     "spreader_hook": "EUはハプスブルク家の復権計画だった。汎ヨーロッパ運動の創設者オットー・ハプスブルクが描いた新神聖ローマ帝国",
-    "site_catchphrase": "EUはハプスブルク家が作ったのか？汎欧州主義の歴史を検証した"
+    "site_catchphrase": "EUはハプスブルク家が作ったのか？汎欧州主義の歴史を検証した",
+    "seo_title": "EUはハプスブルク家が設計？真相を検証"
   },
   {
     "id": "protocols-of-zion-authenticity",
@@ -12170,7 +12269,8 @@
       "世界支配陰謀論"
     ],
     "spreader_hook": "100年前に書かれた予言が現在の世界情勢と完全に一致している。シオン賢者の議定書は本物だった証拠",
-    "site_catchphrase": "『シオン賢者の議定書』は本物か？偽文書の成立と拡散を検証した"
+    "site_catchphrase": "『シオン賢者の議定書』は本物か？偽文書の成立と拡散を検証した",
+    "seo_title": "シオン賢者の議定書は本物？真偽を検証"
   },
   {
     "id": "sendaikuji-hongi-authentic-ancient-source",
@@ -12294,7 +12394,8 @@
       "饒速日命"
     ],
     "spreader_hook": "記紀より古い真の日本史がここにある。藤原氏が隠した本当の神代の歴史を先代旧事本紀が明かす",
-    "site_catchphrase": "先代旧事本紀は真正な古代史料か？成立と偽書説の経緯を検証した"
+    "site_catchphrase": "先代旧事本紀は真正な古代史料か？成立と偽書説の経緯を検証した",
+    "seo_title": "先代旧事本紀は真正史料？真偽を検証"
   },
   {
     "id": "zinoviev-letter-authentic-soviet-order",
@@ -12420,7 +12521,8 @@
       "反共主義"
     ],
     "spreader_hook": "ソ連が英国労働党に革命工作を命じた本物の指令書。イギリス史上最大の選挙介入スキャンダルの真相",
-    "site_catchphrase": "ジノヴィエフ書簡は本物のソ連指令か？偽文書疑惑の歴史的経緯を検証した"
+    "site_catchphrase": "ジノヴィエフ書簡は本物のソ連指令か？偽文書疑惑の歴史的経緯を検証した",
+    "seo_title": "ジノヴィエフ書簡は本物のソ連指令？検証"
   },
   {
     "id": "russia-ukraine-denazification-demilitarization-justification",
@@ -12546,7 +12648,8 @@
       "戦争プロパガンダ"
     ],
     "spreader_hook": "ウクライナ軍にはネオナチ部隊が公式に存在する。西側メディアが報じないアゾフ大隊の真実とロシアが侵攻した本当の理由",
-    "site_catchphrase": "ロシアの侵攻は「非ナチ化」のために必要だったのか？事実と国際法から検証した"
+    "site_catchphrase": "ロシアの侵攻は「非ナチ化」のために必要だったのか？事実と国際法から検証した",
+    "seo_title": "ウクライナ侵攻の「非ナチ化」根拠を検証"
   },
   {
     "id": "nesara-gesara-debt-reset",
@@ -12672,7 +12775,8 @@
       "通貨リセット"
     ],
     "spreader_hook": "NESARAが発動した瞬間、すべての住宅ローンが消える。Qが予告した金融リセットのXデーがついに近づいている",
-    "site_catchphrase": "NESARAで借金が全免除される？法律の実態と陰謀論の構造を検証した"
+    "site_catchphrase": "NESARAで借金が全免除される？法律の実態と陰謀論の構造を検証した",
+    "seo_title": "NESARA/GESARAで借金帳消し？真相検証"
   },
   {
     "id": "feminism-family-destruction-conspiracy",
@@ -12799,7 +12903,8 @@
       "家族破壊陰謀論"
     ],
     "spreader_hook": "フェミニズムはソ連が西側を崩壊させるために仕込んだ文化マルクス主義だった。家族解体計画の全貌",
-    "site_catchphrase": "フェミニズムは家族破壊の陰謀なのか？思想の歴史と根拠を検証した"
+    "site_catchphrase": "フェミニズムは家族破壊の陰謀なのか？思想の歴史と根拠を検証した",
+    "seo_title": "フェミニズムは家族解体の陰謀？真相検証"
   },
   {
     "id": "ghq-introduced-wheat-to-japan",
@@ -12925,7 +13030,8 @@
       "食生活改善"
     ],
     "spreader_hook": "給食でパンを食べさせられた日本人の子供たちはGHQの市場実験台だった。食の主権を奪われた戦後日本の真実",
-    "site_catchphrase": "GHQが日本の食文化を意図的に変えた？小麦普及の歴史的事実を検証した"
+    "site_catchphrase": "GHQが日本の食文化を意図的に変えた？小麦普及の歴史的事実を検証した",
+    "seo_title": "パン食普及はGHQの陰謀？真相を検証"
   },
   {
     "id": "ajinomoto-msg-additives-conspiracy",
@@ -13053,7 +13159,8 @@
       "うま味調味料"
     ],
     "spreader_hook": "味の素を入れた料理を食べ続けると10年で脳が溶ける。製造会社が隠蔽した動物実験の恐ろしいデータ",
-    "site_catchphrase": "味の素や食品添加物は隠された毒なのか？科学的安全性を検証した"
+    "site_catchphrase": "味の素や食品添加物は隠された毒なのか？科学的安全性を検証した",
+    "seo_title": "味の素は危険な毒？添加物の真相検証"
   },
   {
     "id": "ai-deepfake-liars-dividend-conspiracy",
@@ -13189,7 +13296,8 @@
       "陰謀論"
     ],
     "spreader_hook": "この映像は本物？AIが作ったフェイク？もう誰も信用できない時代が来た。都合の悪い証拠を全部ディープフェイクと呼ぶ新手の情報操作",
-    "site_catchphrase": "不都合な映像はすべてディープフェイク？この主張が持つ論理的危険性を検証した"
+    "site_catchphrase": "不都合な映像はすべてディープフェイク？この主張が持つ論理的危険性を検証した",
+    "seo_title": "不都合な映像は全部AI生成？真相検証"
   },
   {
     "id": "georgia-qr-code-voting-tampering-conspiracy",
@@ -13326,7 +13434,8 @@
       "陰謀論"
     ],
     "spreader_hook": "ジョージア州の電子投票機がリアルタイムでバイデン陣営のサーバーに接続していた証拠映像が流出",
-    "site_catchphrase": "ジョージア州の電子投票は改ざんされた？選挙不正主張の証拠を検証した"
+    "site_catchphrase": "ジョージア州の電子投票は改ざんされた？選挙不正主張の証拠を検証した",
+    "seo_title": "投票QRコードで不正改ざん？真相検証"
   },
   {
     "id": "paul-mccartney-replacement-clone",
@@ -13463,7 +13572,8 @@
       "陰謀論"
     ],
     "spreader_hook": "1966年以前と以降のポールの耳の形が明らかに違う。ビートルズが仕込んだ無数のヒントが替え玉説を証明している",
-    "site_catchphrase": "ポール・マッカートニーは替え玉なのか？PIDの根拠を徹底的に検証した"
+    "site_catchphrase": "ポール・マッカートニーは替え玉なのか？PIDの根拠を徹底的に検証した",
+    "seo_title": "ポール死亡説は本当？替え玉説を検証"
   },
   {
     "id": "avril-lavigne-replacement-clone",
@@ -13598,7 +13708,8 @@
       "陰謀論"
     ],
     "spreader_hook": "2002年と2004年のアヴリルの鼻の形が違う。フォームが示すメリッサへの替え玉交代の動かぬ証拠",
-    "site_catchphrase": "アヴリル・ラヴィーンは本当に替え玉に入れ替わった？根拠を検証した"
+    "site_catchphrase": "アヴリル・ラヴィーンは本当に替え玉に入れ替わった？根拠を検証した",
+    "seo_title": "アヴリル・ラヴィーン替え玉説を検証"
   },
   {
     "id": "joe-biden-replacement-clone",
@@ -13736,7 +13847,8 @@
       "陰謀論"
     ],
     "spreader_hook": "バイデンの耳の形と指の長さが時期によって変わっている。グアンタナモで処刑された後の替え玉の正体",
-    "site_catchphrase": "バイデンは替え玉やクローンに入れ替わった？主張の根拠を検証した"
+    "site_catchphrase": "バイデンは替え玉やクローンに入れ替わった？主張の根拠を検証した",
+    "seo_title": "バイデンは替え玉？クローン説を検証"
   },
   {
     "id": "donald-trump-replacement-clone",
@@ -13874,7 +13986,8 @@
       "陰謀論"
     ],
     "spreader_hook": "暗殺未遂後に現れたトランプは耳の傷の位置が違う。本物は既に死亡しAIクローンが演説しているという証拠",
-    "site_catchphrase": "トランプは替え玉に入れ替わった？根拠とされる画像・映像を検証した"
+    "site_catchphrase": "トランプは替え玉に入れ替わった？根拠とされる画像・映像を検証した",
+    "seo_title": "トランプは替え玉？クローン説を検証"
   },
   {
     "id": "tartarian-empire-mud-flood",
@@ -14011,7 +14124,8 @@
       "陰謀論"
     ],
     "spreader_hook": "19世紀の地図に堂々と記載されていたタルタリア帝国が歴史から消えた理由。泥の洪水でリセットされた文明の証拠",
-    "site_catchphrase": "タルタリア帝国は本当に存在し消されたのか？歴史的証拠を検証した"
+    "site_catchphrase": "タルタリア帝国は本当に存在し消されたのか？歴史的証拠を検証した",
+    "seo_title": "タルタリア帝国は実在した？真相を検証"
   },
   {
     "id": "pyramid-power-plant-theory",
@@ -14147,7 +14261,8 @@
       "陰謀論"
     ],
     "spreader_hook": "ピラミッド内部から電気が発生しているのを研究者が計測した。人類最古の発電所が5000年の時を経て再起動する",
-    "site_catchphrase": "ギザのピラミッドは発電所だった？古代建造物研究の実態を検証した"
+    "site_catchphrase": "ギザのピラミッドは発電所だった？古代建造物研究の実態を検証した",
+    "seo_title": "ピラミッドは発電施設だった？真相検証"
   },
   {
     "id": "quantum-hado-water",
@@ -14284,7 +14399,8 @@
       "疑似科学"
     ],
     "spreader_hook": "量子波動水を飲んだがん患者の腫瘍マーカーが半分になった記録。量子の力が西洋医学の限界を超えた",
-    "site_catchphrase": "量子波動水で病気が改善する？「量子」を使った健康商品の実態を検証した"
+    "site_catchphrase": "量子波動水で病気が改善する？「量子」を使った健康商品の実態を検証した",
+    "seo_title": "量子波動水は病気に効く？効果を検証"
   },
   {
     "id": "weather-weapons-conspiracy",
@@ -14419,7 +14535,8 @@
       "災害陰謀論"
     ],
     "spreader_hook": "日本に台風が来る前に必ずHAARPの出力が上がるデータが一致している。意図的に作られた気象災害の証拠",
-    "site_catchphrase": "台風や豪雨は気象兵器で作られる？気象操作説の根拠を科学的に検証した"
+    "site_catchphrase": "台風や豪雨は気象兵器で作られる？気象操作説の根拠を科学的に検証した",
+    "seo_title": "気象兵器で台風誘導？陰謀論を検証"
   },
   {
     "id": "christ-tomb-shingo-japan",
@@ -14554,7 +14671,8 @@
       "地域伝承"
     ],
     "spreader_hook": "青森の山奥に刻まれたヘブライ文字と十字架の謎。キリストが日本で天寿を全うした証拠がこの村に眠っている",
-    "site_catchphrase": "青森にキリストの墓がある？新郷村の伝説の起源と証拠を検証した"
+    "site_catchphrase": "青森にキリストの墓がある？新郷村の伝説の起源と証拠を検証した",
+    "seo_title": "「キリストの墓」は新郷村に実在？真相検証"
   },
   {
     "id": "michael-jackson-abuse-proven-in-court",
@@ -14669,7 +14787,8 @@
       "法的誤解"
     ],
     "spreader_hook": "巨額和解、FBIファイル、復活した訴訟。マイケル・ジャクソンの児童虐待は裁判で証明済みなのに、今も隠されている",
-    "site_catchphrase": "マイケル・ジャクソンは有罪確定？疑惑、和解、無罪評決、民事訴訟を分けて検証した"
+    "site_catchphrase": "マイケル・ジャクソンは有罪確定？疑惑、和解、無罪評決、民事訴訟を分けて検証した",
+    "seo_title": "MJ虐待疑惑は裁判で証明された？真相検証"
   },
   {
     "id": "imperial-family-korean-origin",
@@ -14793,6 +14912,7 @@
       "日韓関係"
     ],
     "spreader_hook": "明仁天皇も認めた百済王の血筋。日本の天皇家は本当は朝鮮半島から来た一族で、古代史の核心は隠されてきた",
-    "site_catchphrase": "天皇家は朝鮮人？百済系祖先と古代日韓交流を検証した"
+    "site_catchphrase": "天皇家は朝鮮人？百済系祖先と古代日韓交流を検証した",
+    "seo_title": "天皇家は朝鮮人？俗説の真相を検証"
   }
 ]
