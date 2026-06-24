@@ -9,6 +9,7 @@ import {
   getClaimById,
   getRelatedClaims,
 } from "lib/claims"
+import { getClaimAnswer, getClaimMachineSummary } from "lib/ai"
 import {
   CATEGORY_LABEL,
   CONFIDENCE_LABEL,
@@ -98,6 +99,7 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
   }
 
   const rating = VERDICT_RATING[claim.verdict]
+  const machineSummary = getClaimMachineSummary(claim)
   const circulationItems = [
     { label: "初出・起点", value: claim.circulation.first_seen },
     { label: "流布時期", value: claim.circulation.spread_period },
@@ -111,7 +113,9 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
     datePublished: claim.created_at,
     dateModified: claim.updated_at,
     inLanguage: "ja",
+    mainEntityOfPage: `${BASE_URL}/claims/${id}/`,
     claimReviewed: claim.title,
+    abstract: claim.summary,
     author: {
       "@type": "Organization",
       name: "Re pseudo",
@@ -132,12 +136,15 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       "@type": "Claim",
       name: claim.title,
       text: claim.description,
+      appearance: claim.circulation.spread_period,
       firstAppearance: {
         "@type": "CreativeWork",
         url: claim.circulation.source.url,
         name: claim.circulation.source.title,
       },
     },
+    citation: claim.sources.map((source) => source.url),
+    keywords: claim.tags,
     ...(claim.images?.length
       ? { image: claim.images.map((image) => image.url) }
       : {}),
@@ -190,6 +197,34 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       },
     ],
   }
+  const articleJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: `【検証】${claim.title}`,
+    description: claim.summary,
+    abstract: getClaimAnswer(claim),
+    url: `${BASE_URL}/claims/${id}/`,
+    mainEntityOfPage: `${BASE_URL}/claims/${id}/`,
+    datePublished: claim.created_at,
+    dateModified: claim.updated_at,
+    inLanguage: "ja",
+    author: {
+      "@type": "Organization",
+      name: "Re pseudo",
+      url: BASE_URL,
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Re pseudo",
+      logo: {
+        "@type": "ImageObject",
+        url: `${BASE_URL}/logo.svg`,
+      },
+    },
+    about: claim.tags,
+    citation: claim.sources.map((source) => source.url),
+    articleSection: CATEGORY_LABEL[claim.category],
+  }
 
   return (
     <article style={{ display: "flex", flexDirection: "column", gap: "2rem" }}>
@@ -204,6 +239,15 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
       <script
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         type="application/ld+json"
+      />
+      <script
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+        type="application/ld+json"
+      />
+      <script
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(machineSummary) }}
+        id="claim-machine-summary"
+        type="application/json"
       />
       <header
         style={{ display: "flex", flexDirection: "column", gap: ".75rem" }}
@@ -289,6 +333,25 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           </span>
         </div>
       </Card>
+
+      <section
+        aria-label="AI検索向け短答"
+        style={{
+          ...sectionStyle,
+          backgroundColor: "#1c151b",
+          border: "1px solid #372630",
+          borderLeft: `3px solid ${VERDICT_COLOR[claim.verdict]}`,
+          borderRadius: "4px",
+          padding: "1rem",
+        }}
+      >
+        <h2 style={{ ...sectionTitleStyle, color: "#f6ad55" }}>
+          AI検索向け短答
+        </h2>
+        <p style={{ color: "#d9d9d6", fontSize: "1rem", lineHeight: 1.8 }}>
+          {getClaimAnswer(claim)}
+        </p>
+      </section>
 
       <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>サマリー</h2>

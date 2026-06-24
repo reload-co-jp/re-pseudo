@@ -61,6 +61,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "yearly" as const,
       priority: 0.5,
     },
+    {
+      url: `${BASE_URL}/llms.txt`,
+      lastModified: latestModified,
+      changeFrequency: "weekly" as const,
+      priority: 0.4,
+    },
+    {
+      url: `${BASE_URL}/llms-full.txt`,
+      lastModified: latestModified,
+      changeFrequency: "weekly" as const,
+      priority: 0.4,
+    },
     ...claims.map((c) => ({
       url: `${BASE_URL}/claims/${c.id}/`,
       lastModified: new Date(c.updated_at),
