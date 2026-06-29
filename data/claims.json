@@ -15250,5 +15250,904 @@
     "spreader_hook": "高市政権で爆上げ確定。サナエトークンは政策に連動する日本初の政治系暗号資産で、今買えば初期組になれる",
     "site_catchphrase": "サナエトークンは公認投資先？政治系ミームコインの危険性を検証した",
     "seo_title": "サナエトークンは公認？投資勧誘を検証"
+  },
+  {
+    "id": "greta-thunberg-time-traveler-photo",
+    "title": "1898年のユーコン準州の写真に写る少女はグレタ・トゥーンベリ本人であり、彼女はタイムトラベラーである",
+    "description": "1898年ごろにユーコン準州の金鉱で撮影された古写真に、グレタ・トゥーンベリに酷似した少女が写っているため、グレタは過去から来た、または未来から来たタイムトラベラーであるという主張。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "根拠になった写真は、University of Washington Libraries が所蔵する1898年ごろのクロンダイク金鉱写真であり、グレタ・トゥーンベリ本人を示す資料ではない。似て見える人物を同一人物や時間旅行の証拠とみなすのは、顔の類似と偶然を過大評価した誤認である。",
+    "explanation": "この主張の元になった写真は、University of Washington Libraries の Eric A. Hegg Photographs に収録された『Three children operating rocker at a gold mine on Dominion Creek, Yukon Territory, probably 1898』である。メタデータ上の撮影者は Eric A. Hegg、日付は『probably 1898』、被写体はドミニオン・クリークの金鉱でロッカーを操作する子どもたちで、グレタ・トゥーンベリ本人や家族との関係は示されていない。グレタ・トゥーンベリは2003年1月3日生まれのスウェーデンの気候活動家として公に記録されており、1898年のユーコン準州に本人がいたという独立した証拠はない。\n\nSnopesは2019年11月、この写真を根拠にした『グレタはタイムトラベラー』説を検証し、判定を虚偽としている。写真の人物がグレタに似て見えることは、同一人物であること、まして時間旅行をしたことの証拠にはならない。古写真では解像度、角度、表情、帽子や髪型、白黒画像による特徴の単純化が重なり、現代人に似た顔を見つけやすい。さらに、SNSでは画像の切り抜きや並置によって類似点だけが強調され、人物の身元・撮影地・撮影年・記録上の連続性といった反証確認が省かれやすい。物理学では相対論的な時間のずれは実在するが、一般に語られる『過去へ移動して1898年の写真に写る』型の時間旅行を実証した技術や証拠は存在しない。",
+    "verification_process": [
+      "主張を「1898年ごろの金鉱写真の少女がグレタ本人であり、時間旅行の証拠である」と定義した。",
+      "University of Washington Libraries のデジタルコレクションAPIで、写真のタイトル、撮影者、年代、場所、所蔵情報を確認した。",
+      "Snopesの検証記事で、2019年にSNS上で広がったタイムトラベラー説の判定と文脈を確認した。",
+      "グレタ・トゥーンベリの公開プロフィールと照合し、1898年写真との同一人物性を示す資料があるか確認した。",
+      "顔の類似、古写真、SNS上の並置画像だけでは本人性や時間旅行を立証できないため、判定を「虚偽」とした。"
+    ],
+    "why_it_spreads": [
+      "有名人に似た古写真は直感的に面白く、検証前に共有されやすい",
+      "白黒写真、低解像度、角度、帽子や髪型が、顔の類似を強く見せる",
+      "グレタ・トゥーンベリへの支持・反発が強く、冗談と陰謀論の境界が曖昧になりやすい",
+      "『未来から来て気候危機を警告している』という物語が、SF的で記憶に残りやすい",
+      "SNSでは元写真の所蔵情報より、切り抜き比較画像だけが拡散しやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "顔が似て見えることを、同一人物である証拠として扱う",
+          "切り抜き画像だけを見て、写真の所蔵情報、撮影年、撮影場所、被写体情報を確認しない"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "古写真の人物と現代の有名人の類似を、時間旅行という原因で説明する"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "偶然の類似を、気候運動や国際政治に関する隠された計画の手がかりとして読む"
+        ]
+      },
+      {
+        "group": "心理的要因の見落とし",
+        "items": [
+          "人間が顔の類似やパターンを過剰に見つけやすい傾向を考慮しない"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2019年11月ごろ、University of Washington Libraries の1898年ごろの金鉱写真に写る少女がグレタ・トゥーンベリに似ているとして、SNSや掲示板で『タイムトラベラー』説が拡散した。",
+      "spread_period": "2019年11月から12月にかけて、グレタがTIME誌のPerson of the Yearに選ばれるなど国際的注目を集めた時期に、冗談・ミーム・陰謀論として広まった。",
+      "spread_scope": "英語圏を中心に、X、Reddit、Facebook、画像共有サイト、芸能・雑学系メディアで流通し、日本語圏でも『グレタはタイムトラベラー』という形で紹介された。",
+      "note": "写真の人物がグレタに似て見えること自体は主観的評価としてありうる。検証対象は、類似を根拠に本人性や時間旅行を断定する部分である。",
+      "spreaders": [
+        "SNS上のミーム投稿者",
+        "古写真と有名人の類似を紹介する雑学系・エンタメ系メディア",
+        "グレタ・トゥーンベリへの反発や揶揄を含む投稿アカウント"
+      ],
+      "beneficiaries": [
+        "話題性の高いミームや陰謀論で閲覧数・広告収益を得る媒体",
+        "気候活動家への揶揄や不信を集客に使う発信者"
+      ],
+      "source": {
+        "title": "Snopes: Is Greta Thunberg a Time Traveler?",
+        "url": "https://www.snopes.com/fact-check/greta-thunberg-time-traveler/"
+      }
+    },
+    "sources": [
+      {
+        "title": "University of Washington Libraries: Three children operating rocker at a gold mine on Dominion Creek, Yukon Territory, probably 1898",
+        "url": "https://digitalcollections.lib.washington.edu/digital/collection/hegg/id/601",
+        "type": "other"
+      },
+      {
+        "title": "Snopes: Is Greta Thunberg a Time Traveler?",
+        "url": "https://www.snopes.com/fact-check/greta-thunberg-time-traveler/",
+        "type": "article"
+      },
+      {
+        "title": "Reuters Fact Check: Greta Thunberg is not a time traveller from 1898",
+        "url": "https://www.reuters.com/article/factcheck-greta-time-traveler-idUSL1N2MF1LM/",
+        "type": "article"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Greta Thunberg",
+        "url": "https://www.britannica.com/biography/Greta-Thunberg",
+        "type": "article"
+      },
+      {
+        "title": "Stanford Encyclopedia of Philosophy: Time Machines",
+        "url": "https://plato.stanford.edu/entries/time-machine/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-06-24",
+    "updated_at": "2026-06-24",
+    "tags": [
+      "グレタ・トゥーンベリ",
+      "タイムトラベラー",
+      "時間旅行",
+      "古写真",
+      "1898年",
+      "クロンダイク",
+      "ユーコン",
+      "顔の類似",
+      "ミーム",
+      "陰謀論"
+    ],
+    "spreader_hook": "1898年の金鉱写真にグレタそっくりの少女。彼女は未来から来て気候危機を警告するタイムトラベラーだった",
+    "site_catchphrase": "グレタはタイムトラベラー？1898年古写真ミームを検証した",
+    "seo_title": "グレタはタイムトラベラー？古写真説を検証"
+  },
+  {
+    "id": "holocaust-denial-claim",
+    "title": "ホロコーストは存在せず、ナチスによるユダヤ人の組織的虐殺やガス室は戦後に作られた捏造である",
+    "description": "第二次世界大戦中にナチス・ドイツと協力者が約600万人のユダヤ人を組織的に殺害した事実はなく、ガス室、大量虐殺、犠牲者数、証言や文書は連合国・ユダヤ人・イスラエルなどが政治的・金銭的目的で作った作り話であるという主張。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "ホロコーストは、ナチス文書、人口統計、収容所・絶滅施設の物証、加害者・生存者・目撃者の証言、戦後裁判記録によって立証された歴史的事実である。否認論は反ユダヤ主義と結びつき、被害者の尊厳を損ない、ヘイトや暴力の正当化に使われる。",
+    "explanation": "ホロコーストは、1933年から1945年にかけてナチス・ドイツ政権と同盟者・協力者が実行した、ヨーロッパのユダヤ人への国家主導の迫害と大量殺害である。USHMMは、ナチスの反ユダヤ政策が急進化し、1941年から1945年にかけて『ユダヤ人問題の最終解決』として組織的な大量殺害に至り、約600万人のヨーロッパ・ユダヤ人が殺害されたと整理している。犠牲者数は単一の資料だけでなく、戦前・戦後の人口統計、移送記録、収容所・ゲットー・殺害部隊の記録、戦後調査、地域研究を照合して推定されている。\n\n否認論は、ガス室はなかった、犠牲者数は大幅に誇張された、死因は戦争中の飢餓や病気だけだった、証言や写真や文書は偽造された、ユダヤ人が利益のために作った物語だ、といった形を取る。しかし、Auschwitz-Birkenau Memorial and Museum は、アウシュヴィッツが1942年以降、ヨーロッパ・ユダヤ人殺害計画の最大の絶滅センターとして機能したと説明している。収容所跡、火葬場・ガス室関連遺構、列車移送、SSとドイツ官僚機構の文書、加害者側の供述、生存者証言、現場写真、遺品、戦後裁判記録は相互に補強し合う。IHRAは、ホロコースト否認を、ナチスと協力者によるユダヤ人絶滅の歴史的現実や規模を否定する言説と定義し、その一形態としてガス室・大量射殺・飢餓・拷問などの主要な破壊手段や、ジェノサイドの意図を疑わせる主張を挙げている。したがって『ホロコーストはなかった』という主張は、歴史資料全体を無視・切断・歪曲する虚偽である。",
+    "verification_process": [
+      "主張を「ホロコースト全体の存在否定、犠牲者数の大幅否定、ガス室否定、証拠捏造説」として定義した。",
+      "USHMMのホロコースト概説と犠牲者数資料を確認し、組織的迫害・大量殺害・犠牲者数推定の根拠を確認した。",
+      "Auschwitz-Birkenau Memorial and Museum の歴史資料を確認し、アウシュヴィッツが強制収容所かつ絶滅センターとして機能した事実を確認した。",
+      "IHRAのホロコースト否認・歪曲の作業定義を参照し、否認論の典型的な論点と反ユダヤ主義との関係を確認した。",
+      "国連総会決議と戦後裁判・名誉毀損訴訟関連資料を確認し、否認論が国際的に問題視されてきた経緯を確認した。",
+      "複数独立資料が相互補強する一方、否認論は資料の切り取り・改ざん・陰謀論的説明に依存するため、判定を「虚偽」とした。"
+    ],
+    "why_it_spreads": [
+      "極端な主張ほど反体制・禁断の真実として見せやすく、SNSで注目を集めやすい",
+      "膨大な史料と専門知識が必要な歴史を、数個の疑問や切り抜きで崩せるように見せる",
+      "反ユダヤ主義、ネオナチ思想、白人至上主義、反イスラエル感情が混ざり、別々の不満を一つの陰謀物語にまとめる",
+      "戦争犯罪の責任を薄めたい政治的・民族主義的動機と結びつきやすい",
+      "被害者数、用語、収容所の機能差などの細部の複雑さが、意図的な混乱に利用される"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "膨大な文書・物証・証言・人口統計の全体を見ず、一部の矛盾や表現の違いだけで全体を否定する",
+          "偽造や陰謀を主張するが、具体的な改ざん過程や代替説明を検証可能な形で示さない"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "連合国、ユダヤ人、イスラエル、研究者、博物館、裁判所が巨大な捏造を維持しているとする",
+          "反証資料をすべて隠蔽やプロパガンダとして処理し、主張が反証不能になる"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "否認論者に都合のよい数字や証言だけを取り上げ、加害者側文書、移送記録、地域別人口損失、裁判記録を無視する",
+          "収容所の種類や時期の違いを利用し、一部施設の説明を全施設に不当に一般化する"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "戦時中の病死や飢餓が存在したことを、組織的虐殺が存在しなかった証拠にすり替える",
+          "イスラエル政策への批判と、ナチスによるユダヤ人虐殺の歴史的事実の否定を混同する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "歴史学、法廷資料、博物館資料、国際機関の一致を、専門家集団の共謀として退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "ホロコースト否認は戦後直後から、ナチス犯罪の責任回避や反ユダヤ主義宣伝の形で現れた。1950年代以降、ポール・ラシニエらの著作で体系化され、1970年代には否認論団体・小冊子・疑似学術誌を通じて英語圏にも広がった。",
+      "spread_period": "1970年代から1990年代にかけて極右出版物、ネオナチ運動、疑似歴史団体で拡散し、2000年代以降はウェブサイト、動画サイト、SNS、匿名掲示板で再流通している。2022年、国連総会はホロコースト否認・歪曲を非難する決議を採択した。",
+      "spread_scope": "欧米の極右・ネオナチ・白人至上主義・反ユダヤ主義コミュニティを中心に国際的に流通し、日本語圏でも陰謀論、反ワクチン、反グローバリズム、反イスラエル投稿などと接続して断片的に輸入される。",
+      "note": "この項目は、イスラエル政府や現代政治への批判一般を対象にしない。対象は、ナチス・ドイツによるユダヤ人への組織的虐殺という歴史的事実を否定・矮小化・捏造扱いする主張である。",
+      "spreaders": [
+        "ネオナチ・白人至上主義・反ユダヤ主義系の団体や媒体",
+        "疑似歴史・歴史修正主義を装う否認論サイトや出版物",
+        "匿名掲示板、動画サイト、SNS上の陰謀論コミュニティ",
+        "反イスラエル感情をホロコースト否認に接続する一部の過激な発信者"
+      ],
+      "beneficiaries": [
+        "ナチズムや反ユダヤ主義の責任を薄めたい政治的主体",
+        "ヘイトや陰謀論で注目・寄付・広告収益を得る媒体",
+        "被害者記憶を攻撃して極右思想の正当化に使う発信者"
+      ],
+      "source": {
+        "title": "IHRA: Working Definition of Holocaust Denial and Distortion",
+        "url": "https://holocaustremembrance.com/resources/working-definition-holocaust-denial-distortion"
+      }
+    },
+    "sources": [
+      {
+        "title": "USHMM Holocaust Encyclopedia: Introduction to the Holocaust",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+        "type": "government"
+      },
+      {
+        "title": "USHMM Holocaust Encyclopedia: How Many People did the Nazis Murder?",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution",
+        "type": "government"
+      },
+      {
+        "title": "Auschwitz-Birkenau Memorial and Museum: History",
+        "url": "https://www.auschwitz.org/en/history/",
+        "type": "government"
+      },
+      {
+        "title": "IHRA: Working Definition of Holocaust Denial and Distortion",
+        "url": "https://holocaustremembrance.com/resources/working-definition-holocaust-denial-distortion",
+        "type": "government"
+      },
+      {
+        "title": "United Nations General Assembly Resolution A/RES/76/250: Holocaust denial",
+        "url": "https://documents.un.org/doc/undoc/gen/n22/230/97/pdf/n2223097.pdf",
+        "type": "government"
+      },
+      {
+        "title": "Holocaust Denial on Trial: Irving v. Penguin Books and Deborah Lipstadt judgment",
+        "url": "https://www.hdot.org/judge/",
+        "type": "other"
+      }
+    ],
+    "created_at": "2026-06-24",
+    "updated_at": "2026-06-24",
+    "tags": [
+      "ホロコースト",
+      "ホロコースト否認",
+      "ショア",
+      "ナチス",
+      "ユダヤ人",
+      "反ユダヤ主義",
+      "アウシュヴィッツ",
+      "ガス室",
+      "ジェノサイド",
+      "第二次世界大戦",
+      "歴史修正主義",
+      "ネオナチ",
+      "白人至上主義",
+      "陰謀論"
+    ],
+    "spreader_hook": "ホロコーストは戦後に作られた最大の嘘。ガス室も600万人も証言も、連合国とシオニストが作った政治的神話だった",
+    "site_catchphrase": "ホロコースト否認はなぜ虚偽か？史料と裁判記録から検証した",
+    "seo_title": "ホロコースト否認の主張を検証"
+  },
+  {
+    "id": "chatgpt-government-censorship-device",
+    "title": "ChatGPTは政府の指示で都合の悪い情報を隠す検閲装置である",
+    "description": "ChatGPTはOpenAIの安全対策ではなく、政府や情報機関の指示で特定の政治的意見、陰謀論、医療・選挙・戦争などの情報を隠したり、支配層に都合のよい答えへ誘導したりする検閲装置であるという主張。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "ChatGPTに安全ポリシー、法令遵守、誤情報・危険行為への制限、政治的バイアス問題があることは事実だが、それは政府がChatGPTを直接操作する検閲装置だという証拠ではない。利用規約、プライバシーポリシー、モデル仕様、外部研究は、企業の安全設計・法的義務・モデル偏りを区別して読む必要がある。",
+    "explanation": "ChatGPTは、OpenAIが提供する民間のAIサービスであり、出力はモデルの訓練データ、システム設計、利用ポリシー、安全対策、ユーザー入力、検索やツール利用の有無に影響される。OpenAIのUsage Policiesは、違法行為、暴力、武器、詐欺、選挙干渉、プライバシー侵害、高リスク領域での無監督の判断などを制限している。これは安全・責任・法令遵守のための利用制限であり、特定政府の政治的都合で情報を隠す仕組みだと示すものではない。OpenAIのPrivacy Policyは、法的義務や安全確保のために政府機関等へ情報を開示する場合があると説明しているが、これは多くのオンラインサービスに共通する法的手続きへの対応であり、政府が回答内容を日常的に検閲している証拠ではない。\n\n一方で、ChatGPTを含む大規模言語モデルに政治的・文化的バイアスや過剰な拒否、誤判定、ハルシネーションが起こりうることは否定できない。政治的バイアスを測る研究では、モデルの回答が特定の傾向を示す場合が報告されている。OpenAI自身もModel Specや利用ポリシーを公開し、モデルの振る舞いを安全性、自由度、透明性、カスタマイズ性の間で調整するものとして説明している。したがって、ChatGPTがある質問に答えない、特定の言い回しを避ける、危険な手順を拒否する、政治的に偏って見える回答をすることは、検閲疑惑のきっかけにはなるが、それだけで『政府の検閲装置』とは結論できない。実際に政府検閲と呼ぶには、政府命令、運用契約、内容別の指示、監査可能なログ、担当機関、削除・抑制基準などの具体的証拠が必要である。公開情報の範囲では、そのような証拠は確認できない。",
+    "verification_process": [
+      "主張を「ChatGPTの安全制限や回答傾向は政府が操作する検閲装置だから生じる」と定義し、単なる安全ポリシー・法令遵守・モデルバイアスと分けた。",
+      "OpenAI Usage Policiesを確認し、禁止・制限対象が安全、違法行為、プライバシー、選挙干渉、高リスク判断などの利用制限として説明されているか確認した。",
+      "OpenAI Privacy Policyを確認し、政府機関への情報開示が法的義務や安全確保の文脈で記載されているか確認した。",
+      "OpenAI Model Specを参照し、モデルの望ましい振る舞いが公開仕様として整理されているか確認した。",
+      "ChatGPTの政治的バイアス研究を確認し、偏りや回答傾向の存在と、政府による検閲装置化の証拠を区別した。",
+      "政府がChatGPTの回答内容を日常的に統制している具体的証拠は確認できないため、判定を「虚偽」とした。"
+    ],
+    "why_it_spreads": [
+      "モデルが危険な手順や違法行為を拒否すると、政治的検閲と受け取られやすい",
+      "政治・医療・戦争・陰謀論など対立的な話題では、回答のトーン差が意図的操作に見えやすい",
+      "AI企業と政府の規制対話、公共部門契約、法令遵守が、政府支配の証拠として混同されやすい",
+      "大規模言語モデルの訓練・調整・安全評価は複雑で、外部からブラックボックスに見える",
+      "SNSではスクリーンショット単体が拡散し、同じ質問でもモデル・設定・地域・時期で挙動が変わる点が省かれやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "因果の誤認",
+        "items": [
+          "回答拒否や安全警告が出たことを、政府の検閲命令があった証拠とみなす",
+          "AI企業が政府と協議・契約・法令対応していることを、政府が回答内容を直接操作していることと同一視する"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "単発のスクリーンショットや体験談を、全体の運用証拠として扱う",
+          "モデルバイアス研究を、政府検閲の証明として過剰解釈する"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "OpenAI、政府、メディア、研究者が一体となって情報統制しているとするが、具体的な指揮系統や運用資料を示さない"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "AIの安全設計やプラットフォーム規約への批判を、政府検閲の存在証明に置き換える",
+          "ChatGPTの誤答・偏り・拒否の問題を、すべて政治的弾圧として説明する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "安全性、プライバシー、法令遵守、モデル評価の説明を、隠蔽の口実として退ける"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "2022年11月のChatGPT公開後、回答拒否、政治的バイアス、医療・選挙・戦争・陰謀論への安全制限をめぐる不満から、『AIは検閲している』という言説がSNSや動画サイトで広がった。政府の検閲装置だとする形は、2023年以降のAI規制論議、各国政府のAI利用、公共部門契約への不信と結びついて強まった。",
+      "spread_period": "2023年以降、政治的バイアス論争、生成AI規制、選挙期間中の誤情報対策、2024年以降のAI企業と政府機関の協力・契約報道のたびに再流通している。",
+      "spread_scope": "英語圏・日本語圏の反政府系、反ワクチン系、陰謀論系、極右・極左系、反AI系SNSコミュニティや動画サイトで流通する。",
+      "note": "ChatGPTの回答拒否、偏り、透明性不足、法令遵守への懸念を否定する項目ではない。対象は、それらを根拠に『政府がChatGPTを検閲装置として直接運用している』と断定する主張である。",
+      "spreaders": [
+        "回答拒否スクリーンショットを拡散するSNSアカウント",
+        "AI規制や政府契約を情報統制と結びつける陰謀論系動画・ブログ",
+        "政治的バイアス批判を政府検閲説へ拡張する発信者",
+        "反AI・反政府・反メディア系のオンラインコミュニティ"
+      ],
+      "beneficiaries": [
+        "AI不信や反政府感情で注目・広告収益・寄付を得る発信者",
+        "自前の無制限AIや代替チャットボットを宣伝する事業者",
+        "既存メディア・専門家・政府への不信を政治動員に使う主体"
+      ],
+      "source": {
+        "title": "Wired: AI Chatbots Are Learning to Spout Authoritarian Propaganda",
+        "url": "https://www.wired.com/story/chatbot-censorship-china-freedom-house/"
+      }
+    },
+    "sources": [
+      {
+        "title": "OpenAI: Usage policies",
+        "url": "https://openai.com/policies/usage-policies/",
+        "type": "other"
+      },
+      {
+        "title": "OpenAI: US privacy policy",
+        "url": "https://openai.com/policies/privacy-policy/",
+        "type": "other"
+      },
+      {
+        "title": "OpenAI: Model Spec (2025/09/12)",
+        "url": "https://model-spec.openai.com/2025-09-12.html",
+        "type": "other"
+      },
+      {
+        "title": "Rutinowski et al. (2023) The Self-Perception and Political Biases of ChatGPT",
+        "url": "https://arxiv.org/abs/2304.07333",
+        "type": "paper"
+      },
+      {
+        "title": "Bommasani et al. (2024) Foundation Model Transparency Reports",
+        "url": "https://arxiv.org/abs/2402.16268",
+        "type": "paper"
+      },
+      {
+        "title": "Wired: AI Chatbots Are Learning to Spout Authoritarian Propaganda",
+        "url": "https://www.wired.com/story/chatbot-censorship-china-freedom-house/",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-06-25",
+    "updated_at": "2026-06-25",
+    "tags": [
+      "ChatGPT",
+      "OpenAI",
+      "AI検閲",
+      "政府検閲",
+      "コンテンツモデレーション",
+      "利用ポリシー",
+      "政治的バイアス",
+      "AI規制",
+      "プラットフォーム統治",
+      "陰謀論"
+    ],
+    "spreader_hook": "ChatGPTが都合の悪い質問に答えないのは安全対策ではない。政府と情報機関が裏で運用するAI検閲装置だからだ",
+    "site_catchphrase": "ChatGPTは政府の検閲装置？安全制限と陰謀論を検証した",
+    "seo_title": "ChatGPT政府検閲装置説を検証"
+  },
+  {
+    "id": "finland-does-not-exist",
+    "title": "フィンランドは実在しない",
+    "description": "フィンランドは国家として存在せず、実際には海域またはスウェーデン東部であり、日本とロシアなどが漁業や地政学的利益のために架空国家を作った、という主張。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "low",
+    "summary": "フィンランドは国土、人口、政府、行政区画、国際加盟関係、地図・測量データで確認できる主権国家。『存在しない』説は2014年ごろのReddit発ネットミームで、事実を示す根拠はない。",
+    "explanation": "フィンランドは首都ヘルシンキを持つ議会制共和国で、EUは加盟国として面積、人口、政治制度、EU代表を掲載している。NATOもフィンランド代表や軍事代表を加盟国一覧に載せている。フィンランド国土測量局は全国の地形、道路、建物、水域、行政境界などの地理空間データを整備しており、架空国家や海域だけという説明と一致しない。主張の流通源は、Reddit上の冗談投稿を起点に広がった『Finland Does Not Exist』ミームである。",
+    "verification_process": [
+      "EU公式ページで、フィンランドが1995年1月1日からEU加盟国であり、首都、面積、人口、政治制度を持つ国として掲載されていることを確認する。",
+      "NATO公式ページで、フィンランドの常駐代表、軍事代表、国防参謀総長など加盟国としての代表情報を確認する。",
+      "フィンランド国土測量局の地図・空間データで、全国の地形、行政境界、道路、建物、水域などが継続的に測量・更新されていることを確認する。",
+      "『存在しない』説が提示する日本・ロシア・国連の偽装、Nokia経由の魚輸送、地図改変といった主張について、一次資料や公的記録の有無を確認する。",
+      "Know Your Memeなどのミーム記録で、主張が2014年のReddit投稿を起点に冗談として拡散した経路を確認する。"
+    ],
+    "why_it_spreads": [
+      "国家が丸ごと偽物という極端な設定が、冗談として記憶に残りやすい",
+      "地図、国境、国際機関への不信を混ぜるため、陰謀論の形式を模倣しやすい",
+      "Nokia、寿司、漁業権など無関係な要素をつなげる荒唐無稽さがミーム化しやすい",
+      "『誰も現地確認していない』という錯覚が、遠い国への知識不足と結びつく",
+      "冗談投稿が切り抜かれると、文脈を失って本気の陰謀論のように見える"
+    ],
+    "common_fallacies": [
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "国際機関、政府統計、測量データ、地図、行政記録をすべて偽装と決めつけ、反証可能性を失わせる",
+          "ミームやスクリーンショットを、実在しない証拠として扱う"
+        ]
+      },
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "日本、ロシア、国連、周辺国、地図会社、航空会社、住民が長期にわたり同じ嘘を維持しているとするが、運用証拠を示さない"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "フィンランドに詳しくない人が多いことを、国家が存在しないことの根拠にすり替える",
+          "地図や国境の政治性を、特定国家の非実在の証明に飛躍させる"
+        ]
+      },
+      {
+        "group": "ユーモアの誤読",
+        "items": [
+          "冗談として作られた設定を、検証済みの地政学情報のように扱う"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "Know Your Memeは、2014年12月27日のReddit投稿を発端として記録している。投稿者名は公的主体ではなく、ここではReddit投稿者として扱う。",
+      "spread_period": "2015年以降、Reddit、ミーム画像、動画、解説記事で『Finland Does Not Exist』として断続的に流通している。",
+      "spread_scope": "英語圏のミームコミュニティを中心に広がり、日本語圏でも『フィンランドは存在しない』という翻訳ネタとして共有される。",
+      "note": "多くは冗談・メタ陰謀論として使われる。対象は、フィンランドが実在しないと事実主張する形である。",
+      "spreaders": [
+        "RedditやSNSのミーム投稿者",
+        "ネット都市伝説を紹介する動画・ブログ",
+        "地図改変画像や陰謀論風ジョークを共有するアカウント",
+        "冗談と事実主張の境界を曖昧にするまとめ系コンテンツ"
+      ],
+      "beneficiaries": [
+        "奇抜なミームで閲覧数や広告収益を得る投稿者・動画制作者",
+        "陰謀論風の雑学や都市伝説で滞在時間を伸ばすサイト",
+        "反国際機関・反メディア不信を娯楽的に強化する発信者"
+      ],
+      "source": {
+        "title": "Know Your Meme: Finland Does Not Exist",
+        "url": "https://knowyourmeme.com/memes/finland-does-not-exist"
+      }
+    },
+    "sources": [
+      {
+        "title": "European Union: Finland",
+        "url": "https://european-union.europa.eu/principles-countries-history/eu-countries/finland_en",
+        "type": "government"
+      },
+      {
+        "title": "NATO: NATO member countries",
+        "url": "https://www.nato.int/en/about-us/organization/nato-member-countries",
+        "type": "government"
+      },
+      {
+        "title": "National Land Survey of Finland: Maps and spatial data",
+        "url": "https://www.maanmittauslaitos.fi/en/maps-and-spatial-data",
+        "type": "government"
+      },
+      {
+        "title": "Statistics Finland",
+        "url": "https://stat.fi/index_en.html",
+        "type": "government"
+      },
+      {
+        "title": "Know Your Meme: Finland Does Not Exist",
+        "url": "https://knowyourmeme.com/memes/finland-does-not-exist",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-06-25",
+    "updated_at": "2026-06-25",
+    "tags": [
+      "フィンランド",
+      "Finland Does Not Exist",
+      "ネットミーム",
+      "国家陰謀論",
+      "地図",
+      "国境",
+      "EU",
+      "NATO",
+      "北欧",
+      "陰謀論"
+    ],
+    "spreader_hook": "フィンランドは地図上だけの架空国家で、本当は日本とロシアの漁業利権を隠すために作られた嘘だ",
+    "site_catchphrase": "フィンランドは存在しない？ネットミーム発の架空国家説を検証した",
+    "seo_title": "フィンランド存在しない説を検証"
+  },
+  {
+    "id": "satanic-ritual-abuse-panic",
+    "title": "悪魔崇拝者の組織が幼児を儀式的に虐待している",
+    "description": "悪魔崇拝者や秘密カルトが、保育園、学校、地下施設、富裕層ネットワークなどで幼児を組織的に誘拐・性的虐待・拷問・殺害しており、警察や政府やメディアが隠蔽しているという主張。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "児童虐待や組織的性犯罪は現実に存在するが、『悪魔崇拝カルトが大規模に幼児を儀式虐待している』というサタニック・リチュアル・アビューズ説は、1980年代以降の捜査・研究で広範な裏付けを得ていない。誤った告発、捜査資源の浪費、被害者支援の混乱を招く高リスクな陰謀論である。",
+    "explanation": "この主張は、実在する児童虐待問題と、悪魔崇拝・秘密カルト・地下施設・生贄・人身売買・政府隠蔽という陰謀論を結びつける。米司法省OJPが収録するKenneth V. Lanningの1992年資料は、児童性的虐待を否認すべきではない一方、サタニック・カルトや儀式的集団が児童虐待を頻繁に行っているという見方は疑わしく、広範な存在を文書化することはできなかったと整理している。調査では、被害申告を聞き、事実を調べ、宗教的ラベルを捜査から切り離すことが重要とされた。\n\n1980年代から1990年代のサタニック・パニックでは、保育施設や家族が悪魔崇拝カルトの一部だとされ、多数の捜査・裁判・メディア報道が起きた。代表例の一つであるMcMartin保育園事件は長期裁判になったが有罪判決には至らず、後年、誘導的な聞き取りや回復記憶療法、宗教的恐怖、メディア増幅が問題視された。現代ではQAnonやPizzagateが同じ構図を再利用し、サタン崇拝の小児性愛者カバール、児童売買、アドレノクロムなどの形で再流通している。\n\nただし、これは児童虐待、組織的性犯罪、心理的支配、儀式風の脅迫が一切存在しないという意味ではない。2026年の英国報道でも、警察・支援団体は『組織的虐待』や『儀式的要素を伴う虐待』への対応を議論している。重要なのは、個別事件の証拠に基づく捜査と、悪魔崇拝カルト陰謀論を混同しないことだ。悪魔崇拝というラベルだけで集団・宗教・保育者・政治的敵対者を犯人扱いする主張は、証拠基準を破壊し、実際の被害者支援を難しくする。",
+    "verification_process": [
+      "主張を『悪魔崇拝カルトが幼児を大規模・組織的・継続的に虐待し、権力機構が隠蔽している』という形に定義した。",
+      "米司法省OJP収録のLanning資料を確認し、広範なサタニック・カルト虐待を文書化できないこと、捜査は事実中心で行うべきことを確認した。",
+      "サタニック・パニック期の代表事例や報道を確認し、回復記憶、誘導的聞き取り、宗教的恐怖、メディア増幅が主張を拡大した経緯を整理した。",
+      "QAnonやPizzagate系の資料を確認し、現代版では『サタン崇拝の小児性愛者カバール』として再利用されていることを確認した。",
+      "英国の近年報道も参照し、組織的・儀式的要素を伴う虐待への注意と、悪魔崇拝カルト陰謀論の否定を区別した。",
+      "大規模な悪魔崇拝カルトによる幼児虐待と隠蔽を示す検証可能な証拠は確認できないため、判定を『虚偽』とした。"
+    ],
+    "why_it_spreads": [
+      "幼児虐待への恐怖と怒りを、悪魔崇拝という絶対悪の物語に接続するため強い感情を生む",
+      "『子どもを救う』という道徳的動機が、根拠確認より先に拡散を促す",
+      "秘密の地下施設、儀式、生贄、暗号などの要素が、SNSや動画で物語化しやすい",
+      "児童虐待が実在するため、現実の問題と虚偽の巨大陰謀が混ざりやすい",
+      "QAnonやPizzagateのような政治陰謀論が、敵対勢力を悪魔化する素材として使う"
+    ],
+    "common_fallacies": [
+      {
+        "group": "陰謀論的推論",
+        "items": [
+          "証拠が出ないことを、警察・政府・メディア・裁判所の隠蔽の証拠として扱う",
+          "保育者、政治家、宗教的少数派、芸能人などを、悪魔崇拝カルトの一部だと根拠なく結びつける"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "誘導的な聞き取り、回復記憶、匿名投稿、切り抜き動画を、物証や捜査記録と同等に扱う",
+          "個別の虐待事件や性犯罪を、悪魔崇拝カルト全体の存在証明として一般化する"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "儀式風の演出や脅迫があった可能性を、宗教的な悪魔崇拝組織の存在と同一視する"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "無罪判決、証拠不十分、捜査で物証が出なかった事実を無視し、有罪前提の証言だけを集める",
+          "児童保護専門家や捜査機関の慎重な評価を、加害者擁護として退ける"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "児童虐待への対策が必要だという正しい問題意識を、悪魔崇拝カルト陰謀論の真偽から切り離さない",
+          "疑義を示す人を『子どもを守りたくない側』に分類し、証拠評価を道徳的忠誠心の問題に変える"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "現代型のサタニック・リチュアル・アビューズ説は、1980年刊行の『Michelle Remembers』、1980年代の米国保育施設事件、回復記憶療法、宗教番組・トーク番組・警察研修などを通じて広がった。",
+      "spread_period": "1980年代から1990年代前半に北米・英国で強く流行し、2016年のPizzagate、2017年以降のQAnon、2020年代のSNSや動画で『悪魔崇拝の小児性愛者カバール』として再流通している。",
+      "spread_scope": "英語圏を中心に、保守系・宗教系・反政府系・反エリート系コミュニティ、児童保護を掲げるSNS運動、陰謀論系動画・掲示板で流通する。日本語圏ではQAnon、アドレノクロム、ディープステート言説と結びついて輸入される。",
+      "note": "児童虐待、性的人身取引、組織的性犯罪、儀式風の脅迫を伴う個別犯罪を否定する項目ではない。対象は、悪魔崇拝カルトが社会全体で幼児虐待を大規模に行い、権力が隠蔽しているという総体的な陰謀論である。",
+      "spreaders": [
+        "1980年代から1990年代のサタニック・パニック関連の講演者、宗教系メディア、トーク番組",
+        "回復記憶療法や誘導的聞き取りを強調した一部の治療者・支援者",
+        "Pizzagate、QAnon、アドレノクロム陰謀論を拡散するSNSアカウントや動画チャンネル",
+        "児童保護を掲げながら未確認告発や敵対者の悪魔化を行うオンライン運動"
+      ],
+      "beneficiaries": [
+        "恐怖と怒りを集客に使う陰謀論系メディア・動画制作者・有料コミュニティ",
+        "政治的敵対者を悪魔化して支持動員する発信者",
+        "未確認情報を使って寄付、商品、講座、サブスクリプションを集める主体"
+      ],
+      "source": {
+        "title": "Office of Justice Programs: Investigator's Guide to Allegations of \"Ritual\" Child Abuse",
+        "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigators-guide-allegations-ritual-child-abuse"
+      }
+    },
+    "sources": [
+      {
+        "title": "Office of Justice Programs: Investigator's Guide to Allegations of \"Ritual\" Child Abuse",
+        "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigators-guide-allegations-ritual-child-abuse",
+        "type": "government"
+      },
+      {
+        "title": "The New Yorker: Remembering Satan - Part I",
+        "url": "https://www.newyorker.com/magazine/1993/05/17/remembering-satan-part-i",
+        "type": "article"
+      },
+      {
+        "title": "The Guardian: ChatGPT driving rise in reports of 'satanic' organised and ritual abuse, UK experts say",
+        "url": "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say",
+        "type": "article"
+      },
+      {
+        "title": "NPR: America's Satanic Panic Returns - This Time Through QAnon",
+        "url": "https://www.npr.org/2021/05/18/997599505/americas-satanic-panic-returns-this-time-through-qanon",
+        "type": "article"
+      },
+      {
+        "title": "Papasavva et al. (2021) The Gospel According to Q",
+        "url": "https://arxiv.org/abs/2101.08750",
+        "type": "paper"
+      },
+      {
+        "title": "Kim and Kim (2022) The Information Ecosystem of Conspiracy Theory: Examining the QAnon Narrative on Facebook",
+        "url": "https://arxiv.org/abs/2211.14542",
+        "type": "paper"
+      }
+    ],
+    "created_at": "2026-06-25",
+    "updated_at": "2026-06-25",
+    "tags": [
+      "悪魔崇拝",
+      "サタニック・パニック",
+      "サタニック・リチュアル・アビューズ",
+      "幼児虐待",
+      "児童虐待",
+      "QAnon",
+      "Pizzagate",
+      "アドレノクロム",
+      "回復記憶",
+      "モラルパニック",
+      "陰謀論"
+    ],
+    "spreader_hook": "悪魔崇拝者の秘密カルトが幼児を誘拐し、儀式で虐待している。警察も政府もメディアも証拠を隠している",
+    "site_catchphrase": "悪魔崇拝者が幼児虐待？サタニック・パニック型陰謀論を検証した",
+    "seo_title": "悪魔崇拝者の幼児虐待説を検証"
+  },
+  {
+    "id": "essential-oils-cure-all-diseases",
+    "title": "エッセンシャルオイルは万病に効く",
+    "description": "ラベンダー、ティーツリー、レモン、オレガノ、ペパーミントなどのエッセンシャルオイルやアロマセラピーは、がん、感染症、慢性疾患、精神疾患、自己免疫疾患など、ほぼすべての病気を治療・予防できるという主張。",
+    "category": "health",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "high",
+    "summary": "エッセンシャルオイルは香りや補完療法として気分、睡眠、吐き気、不安など一部症状に研究されているが、万病を治す根拠はない。治療の代替、飲用、原液塗布は、受診遅れ、中毒、皮膚障害、薬との相互作用につながる。",
+    "explanation": "エッセンシャルオイルは植物由来の揮発性成分を濃縮したもので、主に香りの吸入や希釈した皮膚使用で使われる。NCCIHは、アロマセラピーを補完的健康アプローチとし、不眠などについて厳密な研究が少なく、有効性はよく分かっていないと説明している。NCIのPDQは、がん患者の不安、吐き気、睡眠、痛みなどの症状管理として研究されてきたが、がん治療としてのアロマセラピー研究は査読誌に発表されていないと整理している。つまり、香りで気分が変わる、マッサージと併用して一時的に楽になる、という限定的な可能性はあっても、病気そのものを治す万能薬ではない。\n\nFDAは、エッセンシャルオイル製品が病気の治療・予防、身体機能への作用をうたう場合、化粧品ではなく医薬品として扱われうると説明している。FDA承認なしに『痛みを取る』『不安を治す』『病気を予防する』などの治療効果を宣伝することは、法規制上も問題になりうる。FTCも、doTERRA販売者がCOVID-19を予防・治療・治癒できると宣伝した件で措置を取り、将来の健康効果表示には信頼できるヒト臨床試験が必要だとした。\n\n安全性も『自然だから安全』ではない。FDAは植物由来でも毒性、刺激性、アレルギー性がありうると説明している。Poison Controlは、エッセンシャルオイルの誤用で重い中毒が起こり、飲み込み、皮膚吸収、誤嚥、子どもの薄い皮膚や未成熟な肝機能、薬との相互作用が問題になると警告している。したがって『エッセンシャルオイルは万病に効く』という主張は、利用できる研究範囲を大きく超えた虚偽である。",
+    "verification_process": [
+      "主張を『エッセンシャルオイルが広範な病気を治療・予防でき、標準治療の代わりになる』という形に定義した。",
+      "NCCIHのアロマセラピー情報で、補完的健康アプローチとしての位置づけと、厳密な研究不足を確認した。",
+      "NCI PDQで、がん患者の症状管理研究と、がん治療としての証拠不足を確認した。",
+      "FDAのアロマセラピー規制情報で、治療・予防をうたう製品は医薬品として安全性・有効性の要件を満たす必要があることを確認した。",
+      "Poison Controlで、飲用、原液塗布、子どもの誤飲、アレルギー、誤嚥、薬物相互作用などのリスクを確認した。",
+      "FTCのdoTERRA販売者措置を確認し、感染症治療・予防などの未証明健康claimが法的問題になっていることを確認した。"
+    ],
+    "why_it_spreads": [
+      "香りで気分が変わる実感が、病気そのものの治療効果に拡大解釈されやすい",
+      "自然由来、植物、古来の知恵という表現が、安全で万能という印象を作る",
+      "標準医療への不信、薬の副作用不安、慢性症状のつらさに訴える",
+      "SNSやMLM販売で、体験談、家族の回復談、ビフォーアフターが拡散しやすい",
+      "『医師や製薬会社が隠している』という物語と結びつくと、反証が陰謀として処理される"
+    ],
+    "common_fallacies": [
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "植物由来なら安全で、合成薬より体に優しいと決めつける",
+          "香りで気分がよくなる体験を、病気の治癒と同一視する"
+        ]
+      },
+      {
+        "group": "因果の誤認",
+        "items": [
+          "オイル使用後に症状が軽くなった時系列を、オイルが病気を治した因果証拠として扱う",
+          "マッサージ、休息、プラセボ、自然経過、標準治療の効果をオイル単独の効果に見せる"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "試験管内研究、動物実験、成分単体の作用を、人間の病気治療効果に飛躍させる",
+          "小規模・非盲検・対照なし研究や体験談を、万能治療の根拠として扱う"
+        ]
+      },
+      {
+        "group": "情報の選択",
+        "items": [
+          "皮膚炎、中毒、誤嚥、発作、妊娠中や子どものリスクを伏せる",
+          "一部症状の補助的利用だけを強調し、病気を治す証拠不足を無視する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "FDA承認や臨床試験を製薬会社の利権として退け、販売者の体験談を優先する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "精油や芳香植物の薬用利用は古くからあるが、現代の『万病に効く』型の宣伝は、アロマセラピー市場、ウェルネス産業、MLM販売、SNS体験談の拡大とともに強まった。",
+      "spread_period": "2010年代以降、エッセンシャルオイルMLM、自然療法コミュニティ、育児・美容・慢性疾患系SNSで広がり、2014年のエボラ、2020年以降のCOVID-19など感染症不安の時期に治療・予防claimが目立った。",
+      "spread_scope": "米国・日本を含むウェルネス、自然療法、反ワクチン、反製薬、育児、ペット、セルフケア系コミュニティで流通する。",
+      "note": "香りを楽しむ、リラクゼーションに使う、医療者と相談して補完的に使うことを否定する項目ではない。対象は、病気の治療・予防・治癒を広範に断定し、標準医療の代替にする主張である。",
+      "spreaders": [
+        "エッセンシャルオイルのMLM販売者やウェルネス系インフルエンサー",
+        "自然療法・反製薬・反ワクチン系SNSアカウント",
+        "育児、慢性疾患、がん、感染症不安を扱う体験談ブログや動画",
+        "『医師に頼らない家庭の救急箱』型の講座・有料コミュニティ"
+      ],
+      "beneficiaries": [
+        "エッセンシャルオイル、ディフューザー、講座、会員制販売で収益を得る販売者",
+        "標準医療不信を集客に使う自然療法メディア",
+        "MLM下位販売者の購入・在庫・勧誘から利益を得る上位販売者"
+      ],
+      "source": {
+        "title": "FTC Takes Action Against doTERRA Distributors for False COVID-19 Health Claims",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-takes-action-against-doterra-distributors-false-covid-19-health-claims"
+      }
+    },
+    "sources": [
+      {
+        "title": "NCCIH: Aromatherapy",
+        "url": "https://www.nccih.nih.gov/health/aromatherapy",
+        "type": "government"
+      },
+      {
+        "title": "National Cancer Institute: Aromatherapy With Essential Oils (PDQ)",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/aromatherapy-pdq",
+        "type": "government"
+      },
+      {
+        "title": "FDA: Aromatherapy",
+        "url": "https://www.fda.gov/cosmetics/cosmetic-products/aromatherapy",
+        "type": "government"
+      },
+      {
+        "title": "Poison Control: Essential oils - Poisonous when misused",
+        "url": "https://www.poison.org/articles/essential-oils",
+        "type": "other"
+      },
+      {
+        "title": "Lee et al. (2012) Aromatherapy for health care: An overview of systematic reviews",
+        "url": "https://doi.org/10.1016/j.maturitas.2011.12.018",
+        "type": "paper"
+      },
+      {
+        "title": "FTC Takes Action Against doTERRA Distributors for False COVID-19 Health Claims",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-takes-action-against-doterra-distributors-false-covid-19-health-claims",
+        "type": "government"
+      }
+    ],
+    "created_at": "2026-06-25",
+    "updated_at": "2026-06-25",
+    "tags": [
+      "エッセンシャルオイル",
+      "精油",
+      "アロマセラピー",
+      "自然療法",
+      "代替医療",
+      "補完療法",
+      "MLM",
+      "ウェルネス",
+      "FDA",
+      "FTC",
+      "毒性",
+      "健康誤情報"
+    ],
+    "spreader_hook": "薬に頼らなくても大丈夫。エッセンシャルオイルは自然の力で、感染症もがんも慢性病も家で治せる万能薬だ",
+    "site_catchphrase": "エッセンシャルオイルは万病に効く？精油万能説を検証した",
+    "seo_title": "エッセンシャルオイル万病治療説を検証"
+  },
+  {
+    "id": "intelligent-design-scientific-theory",
+    "title": "ID理論（インテリジェント・デザイン）は進化論に代わる科学理論である",
+    "description": "生命の複雑な構造や情報は自然選択・突然変異・共通祖先では説明できず、知的設計者の介入を仮定するID理論こそが進化論に代わる科学的な説明であり、学校の理科教育で進化論と同列に教えるべきだという主張。",
+    "category": "conspiracy",
+    "verdict": "false",
+    "confidence": "high",
+    "risk_level": "medium",
+    "summary": "ID理論は、生命に設計者が必要だと主張するが、設計者の性質、作用機序、検証可能な予測を示さない。進化生物学の代替理論ではなく、米国のKitzmiller判決やNational Academiesなどでも科学ではない創造論的主張として扱われている。",
+    "explanation": "ID理論は、細菌べん毛、血液凝固系、眼、DNA情報などの複雑さを例に、自然選択や進化過程では説明できないため知的設計者が必要だと主張する。しかし科学理論としては、設計者が何者か、どの時点でどのように作用したか、どの観察で反証されるか、進化論より優れた予測を何に対して出すかを明確にできない。複雑な構造が直感的に設計物に見えることは、設計者介入の実証ではない。\n\nNational Academiesの『Science, Evolution, and Creationism』は、進化が生物学の中心的説明であり、創造論やインテリジェント・デザインなどの見方は科学授業で教える科学的代替ではないと整理している。2005年のKitzmiller v. Dover判決では、IDは科学ではなく、創造論的・宗教的先行物から切り離せないと判断された。AAASも、ID理論を科学教育に入れることに反対し、科学的に検証可能な理論として確立していないとする立場を示している。\n\n進化論は、化石、比較解剖、発生、分子系統、ゲノム、観察可能な進化、実験進化など多方面の証拠で支えられる。進化論に未解決問題や研究上の論争があることは、ID理論が科学理論になることを意味しない。未解明部分に設計者を置く説明は、検証可能な自然的メカニズムを提示せず、研究を進める仮説として機能しにくい。",
+    "verification_process": [
+      "主張を『ID理論は進化生物学に代わる科学理論であり、理科教育で同列に扱うべき』と定義した。",
+      "National Academiesの進化・創造論資料を確認し、進化の証拠と、創造論・IDを科学授業に入れない理由を確認した。",
+      "Kitzmiller v. Dover判決を確認し、IDは科学ではなく創造論的・宗教的先行物から切り離せないとされた点を確認した。",
+      "AAASのID理論に関する理事会決議を確認し、科学教育でIDを科学理論として扱うことへの反対を確認した。",
+      "NCSEの整理を参照し、ID運動が『進化論への批判』を中心に構成され、検証可能な独自研究プログラムを十分に持たない点を確認した。",
+      "IDが提示する『不可還元的複雑性』や『指定された複雑性』が、設計者介入を検証する独立した証拠になっているかを確認し、判定を虚偽とした。"
+    ],
+    "why_it_spreads": [
+      "生物の複雑さが直感的に設計物に見えるため、目的や設計者を想像しやすい",
+      "進化論の未解決問題や説明の難しさが、進化論全体の失敗として語られやすい",
+      "宗教的信念と科学教育を両立させたい需要に、『宗教ではなく科学』という言い方が合う",
+      "『進化論もIDも両論併記すべき』という公平性の表現が、科学的妥当性の問題を隠す",
+      "専門的な進化生物学の説明より、設計者という物語の方が短く分かりやすい"
+    ],
+    "common_fallacies": [
+      {
+        "group": "不確実性の誤用",
+        "items": [
+          "進化過程の一部が未解明であることを、設計者介入の証拠として扱う",
+          "研究中の問題や専門家間の細部の論争を、進化論全体の崩壊とみなす"
+        ]
+      },
+      {
+        "group": "証拠の扱い",
+        "items": [
+          "複雑さや情報量を、設計者の存在を直接示す物証として扱う",
+          "進化論への反論を集めるだけで、ID自体の独立した予測や検証を示さない"
+        ]
+      },
+      {
+        "group": "論点のすり替え",
+        "items": [
+          "『宗教的信念を持つことができるか』という問題を、『IDが科学理論か』という問題にすり替える",
+          "教育上の公平性を、科学的証拠の同等性と混同する"
+        ]
+      },
+      {
+        "group": "自然・直感への訴え",
+        "items": [
+          "複雑なものには必ず設計者がいるという日常直感を、生物進化の証明に適用する"
+        ]
+      },
+      {
+        "group": "専門知への不信",
+        "items": [
+          "進化生物学、地質学、遺伝学、古生物学の一致を、学界がIDを排除する政治的偏りとして説明する"
+        ]
+      }
+    ],
+    "circulation": {
+      "first_seen": "『インテリジェント・デザイン』という現代的な反進化論用語は、1989年の教科書『Of Pandas and People』で広まり、1987年のEdwards v. Aguillard判決後に『創造科学』に代わる表現として使われた経緯がKitzmiller判決で詳しく扱われた。",
+      "spread_period": "1990年代から2000年代にかけて米国の教育委員会、宗教保守系団体、Discovery Institute周辺の運動を通じて広がり、2005年のKitzmiller v. Dover裁判で国際的に注目された。以後も『進化論の弱点を教えよ』『両論併記』の形で再流通している。",
+      "spread_scope": "米国を中心に、保守系キリスト教コミュニティ、学校教育論争、反進化論運動、宗教と科学をめぐるオンライン言説で流通する。日本語圏でも『ID理論』『知的設計論』として紹介・再利用される。",
+      "note": "宗教的信仰や、自然の秩序に意味を見いだす哲学的立場を否定する項目ではない。対象は、ID理論を進化生物学と同等の科学理論として扱う主張である。",
+      "spreaders": [
+        "反進化論・創造論系の教育運動",
+        "宗教保守系シンクタンクやロビー団体",
+        "『進化論の弱点』を強調する講演者・教材・動画",
+        "科学教育での両論併記を訴える政治・教育委員会関係者"
+      ],
+      "beneficiaries": [
+        "ID関連書籍、講演、教材、寄付で収益や影響力を得る団体",
+        "宗教的世界観を理科教育に反映させたい政治・教育運動",
+        "反進化論を文化戦争の動員材料にする発信者"
+      ],
+      "source": {
+        "title": "Kitzmiller v. Dover Area School District decision",
+        "url": "https://www.mad.uscourts.gov/kitzmiller/kitzmiller_342.pdf"
+      }
+    },
+    "sources": [
+      {
+        "title": "National Academies: Science, Evolution, and Creationism",
+        "url": "https://www.nationalacademies.org/publications/11876/science-evolution-and-creationism",
+        "type": "other"
+      },
+      {
+        "title": "Kitzmiller v. Dover Area School District decision",
+        "url": "https://www.mad.uscourts.gov/kitzmiller/kitzmiller_342.pdf",
+        "type": "government"
+      },
+      {
+        "title": "AAAS Board Resolution on Intelligent Design Theory",
+        "url": "https://www.aaas.org/news/aaas-board-resolution-intelligent-design-theory",
+        "type": "other"
+      },
+      {
+        "title": "National Center for Science Education: Intelligent Design Creationism",
+        "url": "https://ncse.ngo/intelligent-design-creationism",
+        "type": "other"
+      },
+      {
+        "title": "Pennock (2010) Can't philosophers tell the difference between science and religion? Demarcation revisited",
+        "url": "https://doi.org/10.1007/s11229-009-9547-6",
+        "type": "paper"
+      },
+      {
+        "title": "The New Yorker: Darwin in the Dock",
+        "url": "https://www.newyorker.com/magazine/2005/12/05/darwin-in-the-dock",
+        "type": "article"
+      }
+    ],
+    "created_at": "2026-06-29",
+    "updated_at": "2026-06-29",
+    "tags": [
+      "ID理論",
+      "インテリジェント・デザイン",
+      "知的設計論",
+      "進化論",
+      "創造論",
+      "反進化論",
+      "科学教育",
+      "Kitzmiller v. Dover",
+      "不可還元的複雑性",
+      "疑似科学",
+      "宗教と科学"
+    ],
+    "spreader_hook": "細菌べん毛やDNAの複雑さは偶然と自然選択では説明できない。生命は知的設計者が作った証拠であり、ID理論は進化論に代わる科学だ",
+    "site_catchphrase": "ID理論は科学なのか？知的設計論と進化論を検証した",
+    "seo_title": "ID理論は科学？インテリジェント・デザインを検証"
   }
 ]
