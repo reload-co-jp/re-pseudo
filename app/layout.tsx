@@ -4,6 +4,7 @@ import "./reset.css"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
 const GA_MEASUREMENT_ID = "G-XTHQD4EWNJ"
+const ADSENSE_CLIENT_ID = "ca-pub-6542845006087970"
 const IS_PRODUCTION = process.env.NODE_ENV === "production"
 const SITE_TITLE = "Re pseudo — 疑似科学・似非科学・陰謀論の主張検証"
 const SITE_DESCRIPTION =
@@ -104,6 +105,12 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 gtag('config', '${GA_MEASUREMENT_ID}');
               `}
             </Script>
+            <Script
+              async
+              crossOrigin="anonymous"
+              src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
+              strategy="afterInteractive"
+            />
           </>
         )}
         <script
