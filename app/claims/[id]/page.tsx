@@ -2,6 +2,7 @@ import { notFound } from "next/navigation"
 import Link from "next/link"
 import { FC } from "react"
 import Breadcrumbs from "components/Breadcrumbs"
+import DisplayAd from "components/DisplayAd"
 import { Badge, Card } from "components/elements/layout"
 import {
   formatDate,
@@ -371,6 +372,8 @@ const ClaimDetailPage: FC<Props> = async ({ params }) => {
           {claim.explanation}
         </p>
       </section>
+
+      <DisplayAd />
 
       <section style={sectionStyle}>
         <h2 style={sectionTitleStyle}>検証方法・過程</h2>

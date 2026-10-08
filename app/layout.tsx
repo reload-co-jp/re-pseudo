@@ -223,7 +223,9 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         >
           <div style={{ margin: "0 auto", maxWidth: "1040px" }}>
             {children}
-            {IS_PRODUCTION && <DisplayAd />}
+            <div style={{ marginTop: "2.5rem" }}>
+              <DisplayAd />
+            </div>
           </div>
         </main>
         <footer

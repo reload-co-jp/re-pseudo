@@ -23,12 +23,16 @@ const AdSlot: FC = () => {
       data-ad-format="auto"
       data-ad-slot="4829146611"
       data-full-width-responsive="true"
-      style={{ display: "block", marginTop: "2.5rem" }}
+      style={{ display: "block" }}
     />
   )
 }
 
 // 共通ディスプレイ: ページ遷移ごとに再マウントして広告を再読み込み
-const DisplayAd: FC = () => <AdSlot key={usePathname()} />
+const DisplayAd: FC = () => {
+  const pathname = usePathname()
+  if (process.env.NODE_ENV !== "production") return null
+  return <AdSlot key={pathname} />
+}
 
 export default DisplayAd

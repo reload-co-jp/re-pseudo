@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { FC } from "react"
+import DisplayAd from "components/DisplayAd"
 import { Badge, Card } from "components/elements/layout"
 import {
   formatDate,
@@ -301,6 +302,8 @@ const Page: FC = () => {
           ))}
         </div>
       </section>
+
+      <DisplayAd />
 
       <section>
         <h2
