@@ -243,6 +243,8 @@ const Page: FC = () => {
         </div>
       </section>
 
+      <DisplayAd />
+
       <section>
         <h2
           style={{
@@ -302,8 +304,6 @@ const Page: FC = () => {
           ))}
         </div>
       </section>
-
-      <DisplayAd />
 
       <section>
         <h2
