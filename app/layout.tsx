@@ -1,5 +1,6 @@
 import Link from "next/link"
 import Script from "next/script"
+import DisplayAd from "../components/DisplayAd"
 import "./reset.css"
 
 const BASE_URL = "https://re-pseudo.reload.co.jp"
@@ -220,7 +221,10 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             padding: "2.5rem 1.5rem 3.25rem",
           }}
         >
-          <div style={{ margin: "0 auto", maxWidth: "1040px" }}>{children}</div>
+          <div style={{ margin: "0 auto", maxWidth: "1040px" }}>
+            {children}
+            {IS_PRODUCTION && <DisplayAd />}
+          </div>
         </main>
         <footer
           style={{
